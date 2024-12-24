@@ -732,18 +732,31 @@ http://sv.tvmienphi.xyz/sctv/s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoi
 
 #EXTINF:0 group-title="TEST" tvg-logo="http://cdn.hqth.me/logo/thumbs/185.png", HBO
 http://125hvt.ddns.net:21585/hbo/index.m3u8
-#EXTINF:0 group-title="TEST"tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/01/04/1680297664931/fb287ae7a7ad_640_360.png", K+ Cine
+#EXTINF:0 group-title="TEST" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/01/04/1680297664931/fb287ae7a7ad_640_360.png", K+CINE
 http://125hvt.ddns.net:21585/kcine/index.m3u8
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png", K+SPORT1 HD
+
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/01/04/1680297664931/fb287ae7a7ad_640_360.png", K+CINE HD MyTV
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/651475300?profile=pass
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/01/04/1680297664931/fb287ae7a7ad_640_360.png", K+CINE HD SCTV
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/KPlusCine/index.m3u8
+#EXTINF:-1 tvg-id="kactionhd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/01/03/16/1704275031605/a72d5eab8255_640_360.png", K+ACTION HD MyTV
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1984950986?profile=pass
+#EXTINF:-1 tvg-id="kactionhd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/01/03/16/1704275031605/a72d5eab8255_640_360.png", K+ACTION HD SCTV
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/KPlusAction/index.m3u8
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png", K+SPORT1 HD MyTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/556914677?profile=pass
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/01/14/1677655028546/6226fc34a55f_640_360.png", K+SPORT2 HD
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/110317627?profile=pass
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/01/14/1677655028546/6226fc34a55f_640_360.png", K+SPORT2 HD MyTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/541337809?profile=pass
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1882525202?profile=pass
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2022/10/22/18/1666437081424/cbd3f3af84ba_640_360.png", K+KIDS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://akaviettel.sgchill.io.vn/live/mytv/kkids.smil/index.m3u8
+http://14.244.121.167:9899/rtp/232.84.3.42:11800
 
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5f/784px-Tvb_logo.svg.png", TVB Việt Nam
 #EXTVLCOPT:http-user-agent=VThanhTivi
@@ -752,7 +765,7 @@ https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/63144
 #EXTINF:-1 group-title="ASEAN CUP 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/7/73/Logo_AFF_Cup_2024.svg/1200px-Logo_AFF_Cup_2024.svg.png",ASEAN Cup Live 1
 http://p1.cvtv.xyz/fpt?token=live
 #EXTINF:-1 group-title="ASEAN CUP 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/7/73/Logo_AFF_Cup_2024.svg/1200px-Logo_AFF_Cup_2024.svg.png",ASEAN Cup Live 2
-http://p1.cvtv.xyz/fpt2?token=live#EXTINF:0 group-title="[ĐANG DIỄN RA]"tvg-logo="https://ch.rkcdn.xyz/img/caheo.png",24/12 13:00 [Giải Cỏ: IND DSD] Hindustan Aeronautics Limited VS Vatika FC [Nhà đài][caheo]
+http://p1.cvtv.xyz/fpt2?token=live#EXTINF:0 group-title="[ĐANG DIỄN RA]"tvg-logo="https://ch.rkcdn.xyz/img/caheo.png",24/12 13:05 [Giải Cỏ: IND DSD] Hindustan Aeronautics Limited VS Vatika FC [Nhà đài][caheo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8 
@@ -1092,6 +1105,26 @@ https://apisportvb90xltcbk-secure.nsnd.live/live/sd-6MtMPPcZBnTBDQ6crF/playlist.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
 https://apisportvb90xltcbk-secure.nsnd.live/live/sd-6MtMPLGPYQjUtUMtpB/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/NBL_%28Australia%29_logo.svg/1200px-NBL_%28Australia%29_logo.svg.png",24/12 13:30 Adelaide 36ers vs Brisbane Bullets [HD Nhanh][thapcam]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://fdcdn.livestreameuro.live/live/luaHD.flv?wsSecret=b3a405ee1ed37e58e727901e8a2df690&wsTime=1735019113&keeptime=21600
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/NBL_%28Australia%29_logo.svg/1200px-NBL_%28Australia%29_logo.svg.png",24/12 13:30 Adelaide 36ers vs Brisbane Bullets [HD1][thapcam]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://oisoxu179569584.akainu.xyz/5gcV_xnR9LLoCrODU5RRGg/Fv2lucGIbhPi2caWYvF5Lg/1735040713805/live/luaHD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/NBL_%28Australia%29_logo.svg/1200px-NBL_%28Australia%29_logo.svg.png",24/12 13:30 Adelaide 36ers vs Brisbane Bullets [HD2][thapcam]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-kh-1123898219.fbcdn.live/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzUwNDA3MTMsInVyaSI6Ii9sdWFIRCIsImlhdCI6MTczNTAxOTExM30.Uj9FP7U-Sx-jOwAlIRVAwZu3smSf_mxsrMj4L680FhI-/luaHD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/NBL_%28Australia%29_logo.svg/1200px-NBL_%28Australia%29_logo.svg.png",24/12 13:30 Adelaide 36ers vs Brisbane Bullets [SD][thapcam]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-eu-pzybaks9eeliv.fbcdn.fyi/7c0a88d6c39c36498988ba869097a30e/1735040713805/live/luaSD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/NBL_%28Australia%29_logo.svg/1200px-NBL_%28Australia%29_logo.svg.png",24/12 13:30 Adelaide 36ers vs Brisbane Bullets [FullHD][thapcam]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://xlcbck90.nsnd.live/ab62K5NswO4mGi1pgHaY3w/74b8773ecaa9df430432c2bf2b6bd9e0/1735040713/live/_definst_/stream_1_1bda7@luaFHD/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/NBL_%28Australia%29_logo.svg/1200px-NBL_%28Australia%29_logo.svg.png",24/12 13:30 Adelaide 36ers vs Brisbane Bullets [HD Nhanh][thapcam]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
