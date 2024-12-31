@@ -784,7 +784,21 @@ http://pk79.x10.mx/yt/yt.php?id=VozEUWLJ0K4
 #http://pk79.io.vn/yt/yt.php?id=OxFHaXNLz18
 #EXTINF:-1 group-title="YOUTUBE LIVE" tvg-logo="http://img.youtube.com/vi/-PKnVWzuEes/default.jpg", 🔴 [Trực tiếp] Việt Nam vs Singapore - Bán kết ASEAN Cup 2024: Mở hội tại Việt Trì | BLV Quang Huy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#http://pk79.io.vn/yt/yt.php?id=-PKnVWzuEes#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" NBA Nhà Nghề Mỹ",31/12 09h00 Utah Jazz VS Denver Nuggets (CH) SD 1
+#http://pk79.io.vn/yt/yt.php?id=-PKnVWzuEes
+
+#EXTM3U
+#EXTINF:-1 group-title="New",VTVcab 16 | On Football
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=70fb8c3c934834d1a2e81987c944a92a:23a13f2e342e297e75141cce1d497cae
+https://odcc62j2arliv.vcdn.cloud/livedrm/V16_test/manifest.mpd
+#EXTINF:-1 group-title="New",VTVcab3 | On Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d5fee0ae0a71330d9c7853a47fc397b7:253ec7bd4860f0967953e6d79aefd096
+https://odcc62j2arliv.vcdn.cloud/livedrm/V3_test/manifest.mpd
+#EXTINF:-1 group-title="New",VTVcab6 | On Sports+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=63cff512e9db32568bb571c2310a7ac1:21104fc5c92598ea81f04f64f97a3844
+https://odcc62j2arliv.vcdn.cloud/livedrm/V6_test/manifest.mpd#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" NBA Nhà Nghề Mỹ",31/12 09h00 Utah Jazz VS Denver Nuggets (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://live-caheo.cdnlive.pro/live/_definst_/stream_1_a86e6@bipsd1/playlist.m3u8
@@ -2268,6 +2282,18 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=yWBUHIL&t=1735626600
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=GZpNnXp&t=1735633800
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/c9fb45931aa7e6c7f04f5c8a2f6b8d43.png" group-title="[LỊCH THI ĐẤU]",31/12 18h35 Zhejiang Chouzhou Golden vs Shenzhen Aviators (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=dXm6lDA&t=1735644900
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/c9fb45931aa7e6c7f04f5c8a2f6b8d43.png" group-title="[LỊCH THI ĐẤU]",31/12 18h35 Fujian Sturgeons vs Suzhou Kendiya (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=tNBrrMr&t=1735644900
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/f841aa3bd3c2aeffca04f78bfaeecaf7.png" group-title="[LỊCH THI ĐẤU]",31/12 20h00 Ulsan Mobis Phoebus vs Daegu KOGAS Pegasus (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=ZcHBd4l&t=1735650000
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="[LỊCH THI ĐẤU]",01/01 03h00 Pacers vs Bucks (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -3464,26 +3490,6 @@ https://newobjectxpzybaks9eeliv.fbcdn.fyi/d6ce651a8c6e11cee79f14d23554089c/17356
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
 https://brothersaylie.nsnd.live/TVCrl-ZvGrvbGuC-g_VqbA/bb30dc1883f5f92057cd67eec640c4d0/1735628406/live/_definst_/stream_1_1bda7@phepFHD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",31/12 09h 00 JAZZ VS NUGGETS (TC) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/thuongHD.flv?wsSecret=d34667e90c26299c7d8e550c99cf00ac&wsTime=1735609503&keeptime=21600
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",31/12 09h 00 JAZZ VS NUGGETS (TC) HD1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://hotlivex179569584.akainu.xyz/vyhFVgopyfCLMieti9KQDw/Fv2lucGIbhPi2caWYvF5Lg/1735631103983/live/thuongHD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",31/12 09h 00 JAZZ VS NUGGETS (TC) HD2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://hotcontentx1123898219.fbcdn.live/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzU2MzExMDMsInVyaSI6Ii90aHVvbmdIRCIsImlhdCI6MTczNTYwOTUwM30.d9s1Z5tYiBzlLbDbLNiunrUdT4biXweRBhTRFRM1F2I-/thuongHD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",31/12 09h 00 JAZZ VS NUGGETS (TC) SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://newobjectxpzybaks9eeliv.fbcdn.fyi/d575b33eeb18852c1cb44bfc7a3134dc/1735631103984/live/thuongSD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",31/12 09h 00 JAZZ VS NUGGETS (TC) FullHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://brothersaylie.nsnd.live/nHnwdR20QPXn56phxufYJw/9d3c1936b065e6a3605ccd426df0ce6c/1735631103/live/_definst_/stream_1_1bda7@thuongFHD/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",31/12 10h 00 KINGS VS MAVERICKS (TC) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
