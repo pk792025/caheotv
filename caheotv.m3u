@@ -866,7 +866,35 @@ http://pcrtv.ddns.net:9981/stream/channelid/2068752869&profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV
 http://pcrtv.ddns.net:9981/stream/channelid/2081323837&profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2
-http://pcrtv.ddns.net:9981/stream/channelid/1364622528&profile=pass#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" English Championship",02/01 00h30 Hull City VS Middlesbrough (CH) SD 1
+http://pcrtv.ddns.net:9981/stream/channelid/1364622528&profile=pass#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Ngoại Hạng Anh",02/01 00h30 Brentford VS Arsenal (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://live-caheo.cdnlive.pro/live/_definst_/stream_1_a86e6@hplussd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Ngoại Hạng Anh",02/01 00h30 Brentford VS Arsenal (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://live-caheo.cdnlive.pro/live/_definst_/stream_1_a86e6@hplushd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Ngoại Hạng Anh",02/01 00h30 Brentford VS Arsenal (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/hplussd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Ngoại Hạng Anh",02/01 00h30 Brentford VS Arsenal (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/hplushd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Ngoại Hạng Anh",02/01 00h30 Brentford VS Arsenal (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@hplussd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Ngoại Hạng Anh",02/01 00h30 Brentford VS Arsenal (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@hplushd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Ngoại Hạng Anh",02/01 00h30 Brentford VS Arsenal (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m101nd/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" English Championship",02/01 00h30 Hull City VS Middlesbrough (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://live-caheo.cdnlive.pro/live/_definst_/stream_1_a86e6@cosd1/playlist.m3u8
@@ -890,10 +918,6 @@ https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@cosd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@cohd1.flv
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Ngoại Hạng Anh",02/01 00h30 Brentford VS Arsenal (CH)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Ngoại hạng Israel",02/01 00h45 Hapoel Jerusalem VS Hapoel Haifa (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -1270,18 +1294,6 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="[LỊCH THI ĐẤU]",02/01 00h30 Brentford vs Arsenal (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=zM22Wpe&t=1735752600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="[LỊCH THI ĐẤU]",02/01 00h30 Brentford vs Arsenal (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=xs7Qf8l&t=1735752600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LỊCH THI ĐẤU]",02/01 00h30 Hull City vs Middlesbrough (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=ffIiKg9&t=1735752600
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LỊCH THI ĐẤU]",02/01 03h00 Sunderland A.F.C vs Sheffield United (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
