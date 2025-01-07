@@ -877,46 +877,10 @@ http://pcrtv.ddns.net:9981/stream/channelid/2081323837&profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2
 http://pcrtv.ddns.net:9981/stream/channelid/1364622528&profile=pass
 
-#EXTINF:0 group-title="clip tv",HTV2 HD
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cliptv.vn/
-https://pk79.io.vn/vclip/vclip.php?id=htv2-hd
-#EXTINF:0 group-title="clip tv",HTV3
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cliptv.vn/
-https://pk79.io.vn/vclip/vclip.php?id=htv3
-#EXTINF:0 group-title="clip tv",HTV7 HD
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cliptv.vn/
-https://pk79.io.vn/vclip/vclip.php?id=htv7-hd
-#EXTINF:0 group-title="clip tv",HTV9 HD
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cliptv.vn/
-https://pk79.io.vn/vclip/vclip.php?id=htv9-hd
-#EXTINF:0 group-title="clip tv",ON Sports+
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cliptv.vn/
-https://pk79.io.vn/vclip/vclip.php?id=on-sports-plus
-#EXTINF:0 group-title="clip tv",ON Sports
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cliptv.vn/
-https://pk79.io.vn/vclip/vclip.php?id=on-sports
-#EXTINF:0 group-title="clip tv",ON Football
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cliptv.vn/
-http://127.0.0.1/vclip.php?id=on-football
-#EXTINF:0 group-title="clip tv",ON Sports News
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cliptv.vn/
-https://pk79.io.vn/vclip/vclip.php?id=on-sports-news
-#EXTINF:0 group-title="clip tv",TH Đồng Tháp 1
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cliptv.vn/
-https://pk79.io.vn/vclip/vclip.php?id=th-dong-thap-1
-#EXTINF:0 group-title="clip tv",TH An Giang
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cliptv.vn/
-https://pk79.io.vn/vclip/vclip.php?id=th-an-giang#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" NBA Nhà Nghề Mỹ",07/01 07h00 Philadelphia 76ers VS Phoenix Suns (CH) Nhà đài
+#EXTINF:-1 group-title="BOXING TV" tvg-logo="http://xemtruyenhinh.tv/image/boxingtv.jpg",KÊNH BOXING'S TV 
+https://linkxink.net/boxingtv
+#EXTINF:-1 group-title="FIGHBOX" tvg-logo="http://xemtruyenhinh.tv/image/fightbox.png",KÊNH FIGHBOX
+https://stream01.vnet.am/Fightbox/mono.m3u8#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" NBA Nhà Nghề Mỹ",07/01 07h00 Philadelphia 76ers VS Phoenix Suns (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8 
