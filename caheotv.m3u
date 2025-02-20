@@ -1298,6 +1298,63 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
+<?php
+$id = isset($_GET['id']) ? $_GET['id'] : '';
+$apiUrl = "https://api.lookthatmuch.com/v1/match/room/{$id}";
+
+// Kiểm tra nếu ID rỗng
+if (!$id) {
+    die("Thiếu ID trận đấu!");
+}
+
+// Khởi tạo cURL
+$ch = curl_init();
+curl_setopt($ch, CURLOPT_URL, $apiUrl);
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+
+// Gửi request và lấy kết quả
+$response = curl_exec($ch);
+curl_close($ch);
+
+// Kiểm tra response
+if ($response) {
+    $data = json_decode($response, true);
+
+    if ($data['status'] && isset($data['result']['room']['links'])) {
+        $links = $data['result']['room']['links'];
+
+        // Thứ tự ưu tiên
+        $priority = ['HD Nhanh', 'HD 1', 'HD 2', 'Nhà đài', 'SD Nhanh', 'SD 1'];
+
+        // Sắp xếp các link theo thứ tự ưu tiên
+        usort($links, function ($a, $b) use ($priority) {
+            $indexA = array_search($a['name'], $priority);
+            $indexB = array_search($b['name'], $priority);
+            return ($indexA === false ? PHP_INT_MAX : $indexA) - ($indexB === false ? PHP_INT_MAX : $indexB);
+        });
+
+        // Lấy link đầu tiên trong danh sách sắp xếp
+        $firstLink = $links[0]['url'] ?? null;
+
+        if ($firstLink) {
+            // Kiểm tra xem link có chứa "m3u8" không
+            if (strpos($firstLink, 'm3u8') !== false) {
+                // Nếu muốn chạy trên localhost, in link ra thay vì redirect
+                echo "<h3>Link M3U8:</h3> <a href='$firstLink'>$firstLink</a>";
+            } else {
+                echo "<h3>Link Video:</h3> <a href='$firstLink'>$firstLink</a>";
+            }
+        } else {
+            echo "Không tìm thấy link ưu tiên.";
+        }
+    } else {
+        echo "Dữ liệu không hợp lệ hoặc không có danh sách links.";
+    }
+} else {
+    echo "Không thể kết nối đến API.";
+}
+?>
 #EXTINF:0 tvg-logo="https://g7w1r.4shares.live/leagues/2023_AFC_U-20_Asian_Cup.png" group-title="[LỊCH THI ĐẤU]",20/02 14h00 Japan U20 vs Korea Republic U20 (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
