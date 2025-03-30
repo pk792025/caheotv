@@ -462,9 +462,7 @@ http://s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/n
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
 http://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/sctv16/index.m3u8
 #EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/SCTV17.jpg",SCTV 17
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sctvonline.vn/
-http://olala.thatvidieu.site/stream/mux/3e8422fdfa8b2ed1a277b25f819dfdb6
+http://khaitv.giize.com:8080/onplus/play.php?id=SCTV17
 #EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/SCTV18.jpg",SCTV 18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
@@ -756,7 +754,7 @@ http://khaitv.giize.com:8083/get?id=UnxaSChz4fo
 http://khaitv.giize.com:8083/get?id=-7_obfFpAbQ
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/3yvhJAvNWNI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVfeLo1pr4TeONGUNsk3nRAseerA" group-title="YOUTUBE",LK Tình Đã Phai Phôi ✔️DIỄM TRANG & VŨ DUY & VÕ HOÀNG LÂM -  Làm Đốn Tim HàngTriệu Người Nghe Nhạc
 http://khaitv.giize.com:8083/get?id=3yvhJAvNWNI
-#EXTINF:-1 group-title="YOUTUBE LIVE" tvg-logo="http://img.youtube.com/vi/VdOJ8GxmVNY/default.jpg",🔴Nhạc Không Lời Buổi Sáng 2024 | Hòa Tấu Rumba Guitar | Nhạc Vàng Hải Ngoại Không Lời
+#EXTINF:-1 group-title="YOUTUBE LIVE" tvg-logo="http://img.youtube.com/vi/VdOJ8GxmVNY/default.jpg",🐀񝁎hạc Không Lời Buổi Sáng 2024 | Hòa Tấu Rumba Guitar | Nhạc Vàng Hải Ngoại Không Lời
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 http://khaitv.giize.com:8083/get?id=VdOJ8GxmVNY
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/4PkVdscTLcg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLnFTMwxa8dFGvA5oE9H6QE5-odA" group-title="YOUTUBE",Tình Thương Đậm Đà - Ngày Xuân Tái Ngộ ➤ Diễm Trang & Võ HoàngLâm | Liên Khúc RumBa 🎶 Mới Nhất 2024
@@ -1284,17 +1282,11 @@ http://khaitv.giize.com:8083/get?id=7ddt3X2O8ko
 
 
 #EXTINF:-1 group-title="New",VTVcab 16 | On Football
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=70fb8c3c934834d1a2e81987c944a92a:23a13f2e342e297e75141cce1d497cae
-https://odcc62j2arliv.vcdn.cloud/livedrm/V16_test/manifest.mpd
+http://khaitv.giize.com:8080/onplus/play.php?id=BONGDA_HD
 #EXTINF:-1 group-title="New",VTVcab3 | On Sports
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d5fee0ae0a71330d9c7853a47fc397b7:253ec7bd4860f0967953e6d79aefd096
-https://odcc62j2arliv.vcdn.cloud/livedrm/V3_test/manifest.mpd
+http://khaitv.giize.com:8080/onplus/play.php?id=THETHAO_HD
 #EXTINF:-1 group-title="New",VTVcab6 | On Sports+
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=63cff512e9db32568bb571c2310a7ac1:21104fc5c92598ea81f04f64f97a3844
-https://odcc62j2arliv.vcdn.cloud/livedrm/V6_test/manifest.mpd
+http://khaitv.giize.com:8080/onplus/play.php?id=HAY_TV
 
 
 
@@ -1394,16 +1386,16 @@ https://pk79.io.vn/cliptv/vclip.php?id=on-sports-plus
 
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/60237478-0dc1-4480-a050-b2a84e4b9b69.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab18-on-sports-news/${start}/${offset}", ON Sports News (ON PLUS) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 
-http://khaitv.giize.com:9090/stream/drm/onnews/master.m3u8?u=khai&p=581abaf0c386fe78d7a2470bbbf4cb788753c0b567f3c2577292b942deab107b
+http://khaitv.giize.com:8080/onplus/play.php?id=THETHAO_TINTUC_HD
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/5145995d-794d-4329-a44b-d8caffdceb40.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" codec="system", ON Football HD (ON PLUS) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 
-http://khaitv.giize.com:9090/stream/drm/onfoot/master.m3u8?u=khai&p=581abaf0c386fe78d7a2470bbbf4cb788753c0b567f3c2577292b942deab107b
+http://khaitv.giize.com:8080/onplus/play.php?id=BONGDA_HD
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/f53c0d1b-0268-4d1e-b150-7d797354b925.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", TRÊN KÊNH THỂ THAO HD (ON PLUS) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 
-http://khaitv.giize.com:9090/stream/drm/onsport/master.m3u8?u=khai&p=581abaf0c386fe78d7a2470bbbf4cb788753c0b567f3c2577292b942deab107b
+http://khaitv.giize.com:8080/onplus/play.php?id=THETHAO_HD
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports+ (ON PLUS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://khaitv.giize.com:9090/stream/drm/onplus/master.m3u8?u=khai&p=581abaf0c386fe78d7a2470bbbf4cb788753c0b567f3c2577292b942deab107b
+http://khaitv.giize.com:8080/onplus/play.php?id=HAY_TV
 #EXTINF:-1 tvg-id="btv5hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/0f3eeb2f-1482-4ea5-a42b-68c22266fd38.jpg?auto=format&fit=max&w=640", BTV5 - ON SPORT ACTION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://509942876.r.vtvcdn.com/onplus/BTV5/m30_index.m3u8
