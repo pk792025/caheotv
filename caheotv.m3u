@@ -754,7 +754,7 @@ http://khaitv.giize.com:8083/get?id=UnxaSChz4fo
 http://khaitv.giize.com:8083/get?id=-7_obfFpAbQ
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/3yvhJAvNWNI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVfeLo1pr4TeONGUNsk3nRAseerA" group-title="YOUTUBE",LK Tình Đã Phai Phôi ✔️DIỄM TRANG & VŨ DUY & VÕ HOÀNG LÂM -  Làm Đốn Tim HàngTriệu Người Nghe Nhạc
 http://khaitv.giize.com:8083/get?id=3yvhJAvNWNI
-#EXTINF:-1 group-title="YOUTUBE LIVE" tvg-logo="http://img.youtube.com/vi/VdOJ8GxmVNY/default.jpg",🐀𐀀𐀀𐀀񝁎𪊡𨰠𢱨ông Lời Buổi Sáng 2024 | Hòa Tấu Rumba Guitar | Nhạc Vàng Hải Ngoại Không Lời
+#EXTINF:-1 group-title="YOUTUBE LIVE" tvg-logo="http://img.youtube.com/vi/VdOJ8GxmVNY/default.jpg",🐀𐀀𐀀𐀀𐄴𣡨򸑣𘁋𪃴ng Lời Buổi Sáng 2024 | Hòa Tấu Rumba Guitar | Nhạc Vàng Hải Ngoại Không Lời
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 http://khaitv.giize.com:8083/get?id=VdOJ8GxmVNY
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/4PkVdscTLcg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLnFTMwxa8dFGvA5oE9H6QE5-odA" group-title="YOUTUBE",Tình Thương Đậm Đà - Ngày Xuân Tái Ngộ ➤ Diễm Trang & Võ HoàngLâm | Liên Khúc RumBa 🎶 Mới Nhất 2024
@@ -1373,7 +1373,7 @@ http://khaitv.giize.com:8080/onplus/play.php?id=HAY_TV
 #EXTINF:-1 group-title="BOXING TV" tvg-logo="http://xemtruyenhinh.tv/image/boxingtv.jpg",KÊNH BOXING'S TV 
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 group-title="FIGHBOX" tvg-logo="http://xemtruyenhinh.tv/image/fightbox.png",KÊNH FIGHBOX
-https://stream01.vnet.am/Fightbox/mono.m3u8
+http://bentre5.hoangai.vn:3333/get_media_link?path=https://tvmienphi.org/live-tv/xem-kenh-warnertv-truc-tuyen.html&extension=token=&n=1&request=1&location=yes
 
 #EXTINF:-1 group-title="CLIPTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/86/ON_Football_HD_logo_2022.png/revision/latest?cb=20230813034236&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Football HD
 https://pk79.io.vn/cliptv/vclip.php?id=on-football
@@ -1656,14 +1656,34 @@ https://ckcdn.livestreameuro.live/live/chuoihd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live//m403nd/playlist.m3u8 
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Ngoại Hạng Trung Quốc",02/04 18h35 Shandong Taishan FC VS Chengdu Rongcheng FC (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/nguumavuongsd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Ngoại Hạng Trung Quốc",02/04 18h35 Shandong Taishan FC VS Chengdu Rongcheng FC (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/nguumavuonghd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Ngoại Hạng Trung Quốc",02/04 18h35 Shandong Taishan FC VS Chengdu Rongcheng FC (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179939170.vipcdnlive.xyz/live/nguumavuongsd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Ngoại Hạng Trung Quốc",02/04 18h35 Shandong Taishan FC VS Chengdu Rongcheng FC (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179939170.vipcdnlive.xyz/live/nguumavuonghd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Ngoại Hạng Trung Quốc",02/04 18h35 Shandong Taishan FC VS Chengdu Rongcheng FC (CH) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/nguumavuongsd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Ngoại Hạng Trung Quốc",02/04 18h35 Shandong Taishan FC VS Chengdu Rongcheng FC (CH) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/nguumavuonghd1.flv
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Ngoại Hạng Trung Quốc",02/04 18h35 Tianjin Jinmen Tiger FC VS Beijing Guoan FC (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m402nd/playlist.m3u8 
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Ngoại Hạng Trung Quốc",02/04 18h35 Shandong Taishan FC VS Chengdu Rongcheng FC (CH)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Ngoại Hạng Trung Quốc",02/04 19h00 Shanghai Port FC VS Meizhou Hakka FC (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -4559,17 +4579,17 @@ http://pk79.io.vn/buncha/play.php?id=255610726
 http://pk79.io.vn/buncha/play.php?id=235610724
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20130413112735.jpg?win007=sell",🔴 02/04-17:30 | J-League Division 1 | Urawa Red Diamonds VS Shimizu S-Pulse
 http://pk79.io.vn/buncha/play.php?id=245610725
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20140111105821.jpg?win007=sell",🔴 02/04-18:00 | Chinese Super League | Qingdao Manatee VS Dalian Zhixing
-http://pk79.io.vn/buncha/play.php?id=388162724
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20140123103529.jpg?win007=sell",🔴 02/04-18:00 | Ukraine Cup | PFC Oleksandria VS FC Shakhtar Donetsk
 http://pk79.io.vn/buncha/play.php?id=223109623
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20140111105821.jpg?win007=sell",🔴 02/04-18:00 | Chinese Super League | Qingdao Manatee VS Dalian Zhixing
+http://pk79.io.vn/buncha/play.php?id=388162724
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200423111932.png?win007=sell",🔴 02/04-18:15 | Bulgaria Premier League | Arda VS Cherno More Varna
 http://pk79.io.vn/buncha/play.php?id=380288523
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20140111105821.jpg?win007=sell",🔴 02/04-18:35 | Chinese Super League | Shandong Taishan VS Chengdu Rongcheng FC
 http://pk79.io.vn/buncha/play.php?id=398162725
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20140111105821.jpg?win007=sell",🔴 02/04-18:35 | Chinese Super League | Tianjin Tigers VS Beijing Guoan
 http://pk79.io.vn/buncha/play.php?id=209162727
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20140111105821.jpg?win007=sell",02/04-19:00 | Chinese Super League | Shanghai Port VS Meizhou Hakka
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20140111105821.jpg?win007=sell",🔴 02/04-19:00 | Chinese Super League | Shanghai Port VS Meizhou Hakka
 http://pk79.io.vn/buncha/play.php?id=219162728
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",02/04-19:30 | ASEAN Club Championship | PSM Makassar VS Công An Hà Nội
 http://pk79.io.vn/buncha/play.php?id=384173722
@@ -4579,10 +4599,10 @@ http://pk79.io.vn/buncha/play.php?id=394173723
 http://pk79.io.vn/buncha/play.php?id=390288524
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20140123150010.jpg?win007=sell",02/04-21:45 | Turkey Cup | Trabzonspor VS Bodrumspor
 http://pk79.io.vn/buncha/play.php?id=250375729
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200423111808.png?win007=sell",02/04-22:00 | Croatia Cup | Slaven Belupo VS ZNK Osijek
-http://pk79.io.vn/buncha/play.php?id=477975724
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20140123103529.jpg?win007=sell",02/04-22:00 | Ukraine Cup | Rukh Vynnyky VS Dynamo Kyiv
 http://pk79.io.vn/buncha/play.php?id=243109625
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200423111808.png?win007=sell",02/04-22:00 | Croatia Cup | Slaven Belupo VS ZNK Osijek
+http://pk79.io.vn/buncha/play.php?id=477975724
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200416075310.jpg?win007=sell",02/04-22:00 | Portugal Campeonato Nacional | Tirsense VS Benfica
 http://pk79.io.vn/buncha/play.php?id=366264723
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200422082007.png?win007=sell",02/04-23:00 | Poland Cup | Ruch Chorzow VS Legia Warszawa
