@@ -1334,9 +1334,9 @@ http://duthao2008.fastddns.org:9981/stream/channelid/41824813?profile=pass
 http://duthao2008.fastddns.org:9981/stream/channelid/1690978840?profile=pass
 
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/f53c0d1b-0268-4d1e-b150-7d797354b925.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", ON Sports HD
-http://duthao2008.fastddns.org:9981/stream/channelid/277208807?profile=pass
+http://113.186.32.209:1986/udp/232.84.3.242:11374
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports+
-http://duthao2008.fastddns.org:9981/stream/channelid/1328332031?profile=pass
+http://113.186.32.209:1986/udp/232.84.3.75:11602
 
 
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/5145995d-794d-4329-a44b-d8caffdceb40.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" codec="system", ON Football HD (Dự Phòng)
@@ -1348,11 +1348,13 @@ http://duthao2008.fastddns.org:9981/stream/channelid/2049737237?profile=pass
 http://khaitv.giize.com:8080/onplus/play.php?id=THETHAO_TINTUC_HD
 
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/5145995d-794d-4329-a44b-d8caffdceb40.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" codec="system", ON Football HD ONPLUS (Dự Phòng 1)
-http://duthao2008.fastddns.org:9981/stream/channelid/2049737237?profile=pass
+http://113.186.32.209:1986/udp/232.84.3.243:11380
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/60237478-0dc1-4480-a050-b2a84e4b9b69.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab18-on-sports-news/${start}/${offset}", ON Sports News ONPLUS
-http://khaitv.giize.com:8080/onplus/play.php?id=THETHAO_TINTUC_HD
+http://113.186.32.209:1986/udp/232.84.2.193:10942
+#EXTINF:-1 group-title="vtvcab3hd" tvg-logo="https://imgvlive.vtvcab.vn/720X405/f53c0d1b-0268-4d1e-b150-7d797354b925.jpg?auto=format&fit=max&w=640"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Sports HD
+http://113.186.32.209:1986/udp/232.84.3.242:11374
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports+ ONPLUS
-http://khaitv.giize.com:8080/onplus/play.php?id=HAY_TV
+http://113.186.32.209:1986/udp/232.84.3.75:11602
 
 
 #EXTINF:-1 group-title="BOXING TV" tvg-logo="http://xemtruyenhinh.tv/image/boxingtv.jpg",KÊNH BOXING'S TV 
@@ -1361,13 +1363,13 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 http://bentre5.hoangai.vn:3333/get_media_link?path=https://tvmienphi.org/live-tv/xem-kenh-warnertv-truc-tuyen.html&extension=token=&n=1&request=1&location=yes
 
 #EXTINF:-1 group-title="CLIPTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/86/ON_Football_HD_logo_2022.png/revision/latest?cb=20230813034236&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Football HD
-http://duthao2008.fastddns.org:9981/stream/channelid/2049737237?profile=pass
+http://113.186.32.209:1986/udp/232.84.3.243:11380
 #EXTINF:-1 group-title="CLIPTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/82/ON_Sports_News_24-03-2022.png/revision/latest?cb=20240205085600&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Sports News HD
-https://pk79.io.vn/cliptv/vclip.php?id=on-sports-news
+http://113.186.32.209:1986/udp/232.84.2.193:10942
 #EXTINF:-1 group-title="CLIPTV" tvg-logo="https://imgvlive.vtvcab.vn/720X405/f53c0d1b-0268-4d1e-b150-7d797354b925.jpg?auto=format&fit=max&w=640"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Sports HD
-http://duthao2008.fastddns.org:9981/stream/channelid/277208807?profile=pass
+http://113.186.32.209:1986/udp/232.84.3.242:11374
 #EXTINF:-1 group-title="CLIPTV" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Sports + HD
-http://duthao2008.fastddns.org:9981/stream/channelid/1328332031?profile=pass
+http://113.186.32.209:1986/udp/232.84.3.75:11602
 
 
 #EXTINF:0 group-title="clip tv vtv" catchup="default" catchup-days="2" catchup-source="http://bentre5.hoangai.vn:8082/vtvgo/get.php?id=1&start=${start}&end=${end}&offset=${offset}" ,VTV1 HD
@@ -1840,6 +1842,10 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: NBA Nhà Nghề Mỹ",10/04 06h30 Dallas Mavericks VS Los Angeles Lakers (CH)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: VĐQG Ecuador",10/04 07h00 Cuniburo FC VS Delfin SC (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -1876,7 +1882,15 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: NBA Nhà Nghề Mỹ",10/04 08h00 Utah Jazz VS Portland Trailblazers (CH)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: CONMEBOL Copa Libertadores",10/04 09h00 Liga Dep Universitaria Quito VS Deportivo Tachira (CH)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: NBA Nhà Nghề Mỹ",10/04 09h00 Oklahoma City Thunder VS Phoenix Suns (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -1884,7 +1898,15 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: NBA Nhà Nghề Mỹ",10/04 09h30 Los Angeles Clippers VS Houston Rockets (CH)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Indonesian Liga 1",10/04 15h30 PSM Makassar VS Semen Padang (CH)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: UEFA European U17 Championship",10/04 16h00 Bulgaria U17 VS Malta U17 (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -3890,20 +3912,22 @@ http://pk79.io.vn/laykinhtv/play.php?id=oklzKUTb
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=vyGBuaHt
 #EXTM3U
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190429141935.jpg?win007=sell",🔴 09/04-19:00 | Thai FA Cup | Buriram United VS Chiangrai United
-http://pk79.io.vn/buncha/play.php?id=242092726
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190420031723.jpg?win007=sell",🔴 09/04-19:00 | AFC Cup | Lion City Sailors VS Sydney FC
-http://pk79.io.vn/buncha/play.php?id=256006726
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200409171833.png?win007=sell",🔴 09/04-19:00 | Armenia Premier League | FC Noah VS BKMA
-http://pk79.io.vn/buncha/play.php?id=281012620
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20140111110501.jpg?win007=sell",🔴 09/04-20:15 | Saudi Arabia Division 1 | Al Ain(KSA) VS Ohod Medina
 http://pk79.io.vn/buncha/play.php?id=477981721
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200409171833.png?win007=sell",🔴 09/04-19:00 | Armenia Premier League | FC Noah VS BKMA
+http://pk79.io.vn/buncha/play.php?id=281012620
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190420031723.jpg?win007=sell",🔴 09/04-19:00 | AFC Cup | Lion City Sailors VS Sydney FC
+http://pk79.io.vn/buncha/play.php?id=256006726
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190429141935.jpg?win007=sell",🔴 09/04-19:00 | Thai FA Cup | Buriram United VS Chiangrai United
+http://pk79.io.vn/buncha/play.php?id=242092726
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200423111352.png?win007=sell",09/04-21:00 | Turkey 2 Ligi A | Erokspor VS Karagumruk
 http://pk79.io.vn/buncha/play.php?id=204253622
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",09/04-20:15 | Tanzania Ligue 1 | Kengold FC VS Tanzania Prisons
+http://pk79.io.vn/buncha/play.php?id=203826728
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",09/04-20:00 | Uganda Premier League | Wakiso Giants FC VS Ma Lu
 http://pk79.io.vn/buncha/play.php?id=253606729
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",09/04-20:00 | Iraq First Division | Al Jolan SC VS Al Fahad
-http://pk79.io.vn/buncha/play.php?id=221036721
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190409144158.png?win007=sell",09/04-20:00 | Russia Division 2 | Legion Dynamo VS FK Pobeda Junior
+http://pk79.io.vn/buncha/play.php?id=370955725
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",09/04-20:00 | Israel C League | Hakoah Amidar Ramat Gan FC VS Hapoel Kiryat Ono
 http://pk79.io.vn/buncha/play.php?id=305826720
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",09/04-20:00 | Iraq First Division | Peshmerga Sulaymaniya SC VS Alsinaat Alkahrabaiya
@@ -3920,16 +3944,14 @@ http://pk79.io.vn/buncha/play.php?id=322926720
 http://pk79.io.vn/buncha/play.php?id=325826722
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200405174350.png?win007=sell",09/04-20:00 | Georgia Primera Division | FC Kolkheti Poti VS Torpedo Kutaisi
 http://pk79.io.vn/buncha/play.php?id=327493724
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",09/04-20:00 | Iraq First Division | Baghdad VS Al Ramadi
-http://pk79.io.vn/buncha/play.php?id=328826725
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",09/04-20:00 | Zambia Super League | Zanaco VS Green Eagles
-http://pk79.io.vn/buncha/play.php?id=332926721
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",09/04-20:00 | Israel C League | Hapoel Hod HaSharon VS Kfar Saba 1928
-http://pk79.io.vn/buncha/play.php?id=384826727
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",09/04-20:00 | Uganda Premier League | URA Kampala VS Bright Stars
-http://pk79.io.vn/buncha/play.php?id=363606720
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190409144158.png?win007=sell",09/04-20:00 | Russia Division 2 | Legion Dynamo VS FK Pobeda Junior
-http://pk79.io.vn/buncha/play.php?id=370955725
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200415065713.jpg?win007=sell",09/04-20:00 | Italian Youth Cup | Cagliari U19 VS AC Milan U20
+http://pk79.io.vn/buncha/play.php?id=358526725
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",09/04-20:00 | Kosovo Cup | KF Drita Gjilan VS Prishtina
+http://pk79.io.vn/buncha/play.php?id=346606721
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",09/04-20:00 | Argentina Reserve League | Juventud Unida San Miguel Reserves VS Puerto Nuevo Reserves
+http://pk79.io.vn/buncha/play.php?id=354826724
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190409144158.png?win007=sell",09/04-20:00 | Russia Division 2 | FK Angusht Nazran VS Dinamo Makhachkala B
+http://pk79.io.vn/buncha/play.php?id=340955722
 #EXTM3U x-tvg-url="http://pk79.x10.mx/bongda/vebo.php" refresh="3600"
 #EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png" tvg-chno="BuZaKK5" catchup="default" catchup-source="?playbackstart={utc}",🔴 09/04-19:00 | AFC Champions League 2 | Lion City Sailors VS Sydney FC (Updated: 2025-04-09 09:00:05)
 http://pk79.io.vn/vebo/play.php?id=BuZaKK5
