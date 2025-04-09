@@ -1318,7 +1318,7 @@ http://bentre5.hoangai.vn:3333/get_media_link?path=https://tvmienphi.org/live-tv
 http://bentre5.hoangai.vn:3333/get_media_link?path=https://tvmienphi.org/live-tv/xem-kenh-k-action-k-ns-truc-tuyen.html&extension=token=&n=1&request=1&location=yes
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png", K+SPORT1 SD
-http://bentre5.hoangai.vn:3333/get_media_link?path=https://tvmienphi.org/live-tv/xem-kenh-k-sport-1-k-pm-truc-tuyen.html&extension=token=&n=1&request=1&location=yes
+http://duthao2008.fastddns.org:9981/stream/channelid/1013494608?profile=pass
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png", K+SPORT1 SD sv2
 http://bentre5.hoangai.vn:3333/get_media_link?path=https://tvmienphi.org/live-tv/xem-kenh-k1-truc-tuyen.html&extension=token=&n=1&request=1&location=yes
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/01/14/1677655028546/6226fc34a55f_640_360.png", K+SPORT2 SD
@@ -1328,7 +1328,7 @@ http://bentre5.hoangai.vn:3333/get_media_link?path=https://tvmienphi.org/live-tv
 http://khaitv.giize.com:8080/onplus/play.php?id=KKIDS
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/01/04/1680297664931/fb287ae7a7ad_640_360.png", K+CINE ONPLUS
-http://khaitv.giize.com:8080/onplus/play.php?id=K_CINE_7777
+http://duthao2008.fastddns.org:9981/stream/channelid/41824813?profile=pass
 
 #EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/01/03/16/1704275031605/a72d5eab8255_640_360.png", K+ACTION ONPLUS
 http://khaitv.giize.com:8080/onplus/play.php?id=K_LIFE_7777
@@ -1348,7 +1348,7 @@ http://duthao2008.fastddns.org:9981/stream/channelid/2049737237?profile=pass
 http://khaitv.giize.com:8080/onplus/play.php?id=THETHAO_TINTUC_HD
 
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/5145995d-794d-4329-a44b-d8caffdceb40.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" codec="system", ON Football HD ONPLUS (Dự Phòng 1)
-http://khaitv.giize.com:8080/onplus/play.php?id=BONGDA_HD
+http://duthao2008.fastddns.org:9981/stream/channelid/2049737237?profile=pass
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/60237478-0dc1-4480-a050-b2a84e4b9b69.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab18-on-sports-news/${start}/${offset}", ON Sports News ONPLUS
 http://khaitv.giize.com:8080/onplus/play.php?id=THETHAO_TINTUC_HD
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports+ ONPLUS
@@ -1361,13 +1361,13 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 http://bentre5.hoangai.vn:3333/get_media_link?path=https://tvmienphi.org/live-tv/xem-kenh-warnertv-truc-tuyen.html&extension=token=&n=1&request=1&location=yes
 
 #EXTINF:-1 group-title="CLIPTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/86/ON_Football_HD_logo_2022.png/revision/latest?cb=20230813034236&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Football HD
-https://pk79.io.vn/cliptv/vclip.php?id=on-football
+http://duthao2008.fastddns.org:9981/stream/channelid/2049737237?profile=pass
 #EXTINF:-1 group-title="CLIPTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/82/ON_Sports_News_24-03-2022.png/revision/latest?cb=20240205085600&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Sports News HD
 https://pk79.io.vn/cliptv/vclip.php?id=on-sports-news
 #EXTINF:-1 group-title="CLIPTV" tvg-logo="https://imgvlive.vtvcab.vn/720X405/f53c0d1b-0268-4d1e-b150-7d797354b925.jpg?auto=format&fit=max&w=640"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Sports HD
-https://pk79.io.vn/cliptv/vclip.php?id=on-sports
+http://duthao2008.fastddns.org:9981/stream/channelid/277208807?profile=pass
 #EXTINF:-1 group-title="CLIPTV" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Sports + HD
-https://pk79.io.vn/cliptv/vclip.php?id=on-sports-plus
+http://duthao2008.fastddns.org:9981/stream/channelid/1328332031?profile=pass
 
 
 #EXTINF:0 group-title="clip tv vtv" catchup="default" catchup-days="2" catchup-source="http://bentre5.hoangai.vn:8082/vtvgo/get.php?id=1&start=${start}&end=${end}&offset=${offset}" ,VTV1 HD
@@ -1676,14 +1676,54 @@ https://qtcdn.livestreameuro.live/live/natrasd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://qtcdn.livestreameuro.live/live/natrahd1.flv
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giao Hữu Quốc Tế",09/04 09h30 USA (W) VS Brazil (W) (CH)
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giao Hữu Quốc Tế",09/04 09h30 USA (W) VS Brazil (W) (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: NBA-Nhà Nghề Mỹ",09/04 09h30 Los Angeles Clippers VS San Antonio Spurs (CH)
+https://ckcdn.livestreameuro.live/live/caysd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giao Hữu Quốc Tế",09/04 09h30 USA (W) VS Brazil (W) (CH) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
+https://ckcdn.livestreameuro.live/live/cayhd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giao Hữu Quốc Tế",09/04 09h30 USA (W) VS Brazil (W) (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/caysd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giao Hữu Quốc Tế",09/04 09h30 USA (W) VS Brazil (W) (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/cayhd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giao Hữu Quốc Tế",09/04 09h30 USA (W) VS Brazil (W) (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/caysd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giao Hữu Quốc Tế",09/04 09h30 USA (W) VS Brazil (W) (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cayhd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: NBA-Nhà Nghề Mỹ",09/04 09h30 Los Angeles Clippers VS San Antonio Spurs (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/paosd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: NBA-Nhà Nghề Mỹ",09/04 09h30 Los Angeles Clippers VS San Antonio Spurs (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/paohd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: NBA-Nhà Nghề Mỹ",09/04 09h30 Los Angeles Clippers VS San Antonio Spurs (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/paosd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: NBA-Nhà Nghề Mỹ",09/04 09h30 Los Angeles Clippers VS San Antonio Spurs (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/paohd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: NBA-Nhà Nghề Mỹ",09/04 09h30 Los Angeles Clippers VS San Antonio Spurs (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/paosd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: NBA-Nhà Nghề Mỹ",09/04 09h30 Los Angeles Clippers VS San Antonio Spurs (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/paohd1.flv
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: CONCACAF Champions Cup",09/04 10h30 Cruz Azul VS Club America (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -3930,10 +3970,10 @@ http://pk79.io.vn/laykinhtv/play.php?id=oklzKUTb
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=vyGBuaHt
 #EXTM3U
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200107100657.jpg?win007=sell",🔴 09/04-07:30 | Copa Libertadores | River Plate VS Barcelona SC(ECU)
-http://pk79.io.vn/buncha/play.php?id=215535728
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200107100657.jpg?win007=sell",🔴 09/04-07:30 | Copa Libertadores | Estudiantes La Plata VS Universidad de Chile
 http://pk79.io.vn/buncha/play.php?id=393535724
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200107100657.jpg?win007=sell",🔴 09/04-07:30 | Copa Libertadores | River Plate VS Barcelona SC(ECU)
+http://pk79.io.vn/buncha/play.php?id=215535728
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200107100657.jpg?win007=sell",🔴 09/04-09:00 | Copa Libertadores | Independiente Jose Teran VS Universitario De Deportes
 http://pk79.io.vn/buncha/play.php?id=205535727
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",09/04-09:00 | Indonesia Liga 3 | Jakarta United FC VS Jakarta City
@@ -3948,18 +3988,16 @@ http://pk79.io.vn/buncha/play.php?id=200375724
 http://pk79.io.vn/buncha/play.php?id=380726722
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",09/04-08:00 | International Friendly | nữ Costa Rica VS Ecuador Nữ
 http://pk79.io.vn/buncha/play.php?id=498816721
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",09/04-07:30 | International Friendly | Mexico Nữ VS nữ Jamaica
-http://pk79.io.vn/buncha/play.php?id=488816720
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20130801162406.jpg?win007=sell",09/04-07:30 | Conmebol - Copa Sudamericana | Godoy Cruz Antonio Tomba VS Sportivo Luqueno
-http://pk79.io.vn/buncha/play.php?id=381735723
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20140109112832.jpg?win007=sell",09/04-07:30 | Colombia Copa Premier | Real Soacha Cundinamarca VS Tigres Zipaquira
-http://pk79.io.vn/buncha/play.php?id=371842721
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20130801162406.jpg?win007=sell",09/04-07:30 | Conmebol - Copa Sudamericana | Vasco da Gama VS Academia Puerto Cabello
 http://pk79.io.vn/buncha/play.php?id=359635727
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20140109112832.jpg?win007=sell",09/04-07:30 | Colombia Copa Premier | Real Soacha Cundinamarca VS Tigres Zipaquira
+http://pk79.io.vn/buncha/play.php?id=371842721
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20130801162406.jpg?win007=sell",09/04-07:30 | Conmebol - Copa Sudamericana | Godoy Cruz Antonio Tomba VS Sportivo Luqueno
+http://pk79.io.vn/buncha/play.php?id=381735723
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20130801162406.jpg?win007=sell",09/04-07:30 | Conmebol - Copa Sudamericana | America de Cali VS Corinthians Paulista (SP)
 http://pk79.io.vn/buncha/play.php?id=385635726
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",09/04-07:00 | Ecuador Campeonato Serie B | SC Imbabura VS Gualaceo SC
-http://pk79.io.vn/buncha/play.php?id=303883721
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",09/04-07:30 | International Friendly | Mexico Nữ VS nữ Jamaica
+http://pk79.io.vn/buncha/play.php?id=488816720
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20121123024503.jpg?win007=sell",09/04-10:30 | CONCACAF Champions League | CDSyC Cruz Azul VS Club America
 http://pk79.io.vn/buncha/play.php?id=210375725
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",09/04-09:30 | International Friendly | nữ Mỹ VS nữ Brazil
@@ -3968,6 +4006,8 @@ http://pk79.io.vn/buncha/play.php?id=309816723
 http://pk79.io.vn/buncha/play.php?id=478926721
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190424204342.jpg?win007=sell",09/04-15:30 | Australia FFA Cup | Cooma Tigers VS Majura FC
 http://pk79.io.vn/buncha/play.php?id=309526721
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190423185543.jpg?win007=sell",09/04-17:00 | J-League Cup | Imabari FC VS Tokushima Vortis
+http://pk79.io.vn/buncha/play.php?id=263360727
 #EXTM3U x-tvg-url="http://pk79.x10.mx/bongda/vebo.php" refresh="3600"
 #EXTM3U
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164940910353.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F3517%2F1gt3w9dwb11z.png%3Fwin007%3Dsell", 🔴 09/04-07:30 | River Plate vs Barcelona SC(ECU) | BLV LÂM XUNG
@@ -4241,3 +4281,5 @@ http://pk79.io.vn/xemlai/play.php?id=anfMjkO
 #EXTINF:-1 group-title="xem lại" tvg-logo="https://g7w1r.4shares.live/news/con24.jpg",Full match Arsenal vs Fulham | BLV Người Cồn | 2.4.25
 http://pk79.io.vn/xemlai/play.php?id=124qFR9
 #EXTM3U
+#EXTINF:-1 group-title="⭐ Sự kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/04/09/08/174416302319/aaf2bc5f089d_640_360.jpg", 10/04-02:00 | BARCELONA VS BORUSSIA DORTMUND
+http://khaitv.giize.com:8080/tv360/playvip.php?id=198
