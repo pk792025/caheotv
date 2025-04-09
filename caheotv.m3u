@@ -1278,11 +1278,11 @@ http://khaitv.giize.com:8083/get?id=7ddt3X2O8ko
 
 
 #EXTINF:-1 group-title="New",VTVcab 16 | On Football
-http://duthao2008.fastddns.org:9981/stream/channelid/2049737237?profile=pass
+http://113.186.32.209:1986/udp/232.84.3.243:11380
 #EXTINF:-1 group-title="New",VTVcab3 | On Sports
-http://duthao2008.fastddns.org:9981/stream/channelid/277208807?profile=pass
+http://113.186.32.209:1986/udp/232.84.3.242:11374
 #EXTINF:-1 group-title="New",VTVcab6 | On Sports+
-http://duthao2008.fastddns.org:9981/stream/channelid/1328332031?profile=pass
+http://113.186.32.209:1986/udp/232.84.3.75:11602
 
 
 
@@ -1340,12 +1340,12 @@ http://113.186.32.209:1986/udp/232.84.3.75:11602
 
 
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/5145995d-794d-4329-a44b-d8caffdceb40.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" codec="system", ON Football HD (Dự Phòng)
-http://duthao2008.fastddns.org:9981/stream/channelid/2049737237?profile=pass
+http://113.186.32.209:1986/udp/232.84.3.243:11380
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/60237478-0dc1-4480-a050-b2a84e4b9b69.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab18-on-sports-news/${start}/${offset}", ON Sports News
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HpYCA/jf1nefWyh7KNJ9dg","kid":"U3iOtb1GQBidlQPkA3Ie7A"}],"type":"temporary"}
-http://khaitv.giize.com:8080/onplus/play.php?id=THETHAO_TINTUC_HD
+http://113.186.32.209:1986/udp/232.84.2.193:10942
 
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/5145995d-794d-4329-a44b-d8caffdceb40.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" codec="system", ON Football HD ONPLUS (Dự Phòng 1)
 http://113.186.32.209:1986/udp/232.84.3.243:11380
@@ -1430,16 +1430,16 @@ https://pk79.io.vn/cliptv/vclip.php?id=htv-the-thao-hd
 
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/60237478-0dc1-4480-a050-b2a84e4b9b69.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab18-on-sports-news/${start}/${offset}", ON Sports News (ON PLUS) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 
-http://khaitv.giize.com:8080/onplus/play.php?id=THETHAO_TINTUC_HD
+http://113.186.32.209:1986/udp/232.84.2.193:10942
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/5145995d-794d-4329-a44b-d8caffdceb40.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" codec="system", ON Football HD (ON PLUS) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 
-http://khaitv.giize.com:8080/onplus/play.php?id=BONGDA_HD
+http://113.186.32.209:1986/udp/232.84.3.243:11380
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/f53c0d1b-0268-4d1e-b150-7d797354b925.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", TRÊN KÊNH THỂ THAO HD (ON PLUS) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 
-http://khaitv.giize.com:8080/onplus/play.php?id=THETHAO_HD
+http://113.186.32.209:1986/udp/232.84.3.242:11374
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports+ (ON PLUS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://khaitv.giize.com:8080/onplus/play.php?id=HAY_TV
+http://113.186.32.209:1986/udp/232.84.3.75:11602
 #EXTINF:-1 tvg-id="btv5hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/0f3eeb2f-1482-4ea5-a42b-68c22266fd38.jpg?auto=format&fit=max&w=640", BTV5 - ON SPORT ACTION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://509942876.r.vtvcdn.com/onplus/BTV5/m30_index.m3u8
@@ -2039,10 +2039,13 @@ http://pk79.io.vn/laykinhtv/play.php?id=Ou1iszSN
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png", 09/04 19:00 | AFC Champions League 2 | Lion City Sailors VS Sydney FC 🔴
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=AbDSQnVi
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/07b72ec070835b9db9f2d6c6765117c6.png", 09/04 20:00 | CAF Confederation Cup | Simba Sports Club VS Al Masry
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/07b72ec070835b9db9f2d6c6765117c6.png", 09/04 20:00 | CAF Confederation Cup | Simba Sports Club VS Al Masry 🔴
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=6rJKuLES
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/0afd31572983ae94a84d5dbded51d8f8.png", 09/04 20:15 | Hạng Nhất Ả Rập Xê Út | Al-Ain Al Atawlah VS Ohod
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/20add0f0000a914f2e9179af8b4ce8bc.png", 09/04 20:00 | VĐQG Georgia | FC Kolkheti Poti VS Torpedo Kutaisi 🔴
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+http://pk79.io.vn/laykinhtv/play.php?id=xaMHFaJn
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/0afd31572983ae94a84d5dbded51d8f8.png", 09/04 20:15 | Hạng Nhất Ả Rập Xê Út | Al-Ain Al Atawlah VS Ohod 🔴
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=b0KYyH2Q
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/d09a3b1ab92ce378a5277b79a98dac59.png", 09/04 21:00 | Hạng nhất Thổ Nhĩ Kỳ | Erokspor VS Karagumruk
@@ -3953,13 +3956,13 @@ http://pk79.io.vn/buncha/play.php?id=354826724
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190409144158.png?win007=sell",09/04-20:00 | Russia Division 2 | FK Angusht Nazran VS Dinamo Makhachkala B
 http://pk79.io.vn/buncha/play.php?id=340955722
 #EXTM3U x-tvg-url="http://pk79.x10.mx/bongda/vebo.php" refresh="3600"
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png" tvg-chno="BuZaKK5" catchup="default" catchup-source="?playbackstart={utc}",🔴 09/04-19:00 | AFC Champions League 2 | Lion City Sailors VS Sydney FC (Updated: 2025-04-09 09:00:05)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png" tvg-chno="BuZaKK5" catchup="default" catchup-source="?playbackstart={utc}",🔴 09/04-19:00 | AFC Champions League 2 | Lion City Sailors VS Sydney FC (Updated: 2025-04-09 09:20:06)
 http://pk79.io.vn/vebo/play.php?id=BuZaKK5
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/ebb529b8f55e325ab03e8382c7473562.png" tvg-chno="vY4xdK1" catchup="default" catchup-source="?playbackstart={utc}",09/04-23:00 | CAF Champions League | Orlando Pirates VS MC Alger (Updated: 2025-04-09 09:00:05)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/ebb529b8f55e325ab03e8382c7473562.png" tvg-chno="vY4xdK1" catchup="default" catchup-source="?playbackstart={utc}",09/04-23:00 | CAF Champions League | Orlando Pirates VS MC Alger (Updated: 2025-04-09 09:20:06)
 http://pk79.io.vn/vebo/play.php?id=vY4xdK1
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/d09477b5ca8fcc88dc8d7d5249d08983.png" tvg-chno="jW6SbHJ" catchup="default" catchup-source="?playbackstart={utc}",09/04-23:00 | AFC Challenge League | Al-Arabi Club (KUW) VS Arkadag FK (Updated: 2025-04-09 09:00:05)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/d09477b5ca8fcc88dc8d7d5249d08983.png" tvg-chno="jW6SbHJ" catchup="default" catchup-source="?playbackstart={utc}",09/04-23:00 | AFC Challenge League | Al-Arabi Club (KUW) VS Arkadag FK (Updated: 2025-04-09 09:20:06)
 http://pk79.io.vn/vebo/play.php?id=jW6SbHJ
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/8eaa58b38bd530dbd09409dd201bae3c.png" tvg-chno="SL6kwCQ" catchup="default" catchup-source="?playbackstart={utc}",09/04-23:00 | Bulgarian Cup | Cherno More Varna VS CSKA Sofia (Updated: 2025-04-09 09:00:05)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/8eaa58b38bd530dbd09409dd201bae3c.png" tvg-chno="SL6kwCQ" catchup="default" catchup-source="?playbackstart={utc}",09/04-23:00 | Bulgarian Cup | Cherno More Varna VS CSKA Sofia (Updated: 2025-04-09 09:20:06)
 http://pk79.io.vn/vebo/play.php?id=SL6kwCQ
 #EXTM3U
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20200320150159.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F1h6dz37kqj19.png%3Fwin007%3Dsell", 🔴 09/04-19:00 | FC Noah vs BKMA | BLV SÀI TIẾN
@@ -4281,3 +4284,9 @@ http://pk79.io.vn/xemlai/play.php?id=CYrjEiD
 #EXTINF:-1 group-title="xem lại" tvg-logo="https://g7w1r.4shares.live/news/tho24.jpg",Full match Nottingham vs Man United | BLV Bat Man Ft Người Thỏ | 2.4.25
 http://pk79.io.vn/xemlai/play.php?id=anfMjkO
 #EXTM3U
+#EXTINF:-1 group-title="⭐ Sự kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/04/09/08/174416302319/aaf2bc5f089d_640_360.jpg", 10/04-02:00 | BARCELONA VS BORUSSIA DORTMUND
+http://khaitv.giize.com:8080/tv360/playvip.php?id=198
+#EXTINF:-1 group-title="⭐ Sự kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/04/09/16/1744190267554/a0405f54943d_640_360.jpg", 11/04-02:00 | CELJE VS FIORENTINA
+http://khaitv.giize.com:8080/tv360/playvip.php?id=169
+#EXTINF:-1 group-title="⭐ Sự kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/04/09/16/1744190290448/8076cffd950e_640_360.jpg", 11/04-02:00 | DJURGARDEN VS RAPID WIEN
+http://khaitv.giize.com:8080/tv360/playvip.php?id=201
