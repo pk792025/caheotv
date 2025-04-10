@@ -787,11 +787,11 @@ http://duthao2008.fastddns.org:9981/stream/channelid/41824813?profile=pass
 #EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/01/03/16/1704275031605/a72d5eab8255_640_360.png", K+ACTION HD (VNPT)
 http://duthao2008.fastddns.org:9981/stream/channelid/1690978840?profile=pass
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png", K+SPORT1 HD (VNPT)
-http://113.186.32.209:1986/udp/232.84.1.37:8196
+http://113.186.32.209:1986/udp/232.84.1.98:8562
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/01/14/1677655028546/6226fc34a55f_640_360.png", K+SPORT2 HD(VNPT)
-http://duthao2008.fastddns.org:9981/stream/channelid/1077102621?profile=pass
+http://113.186.32.209:1986/udp/232.84.1.131:10368
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2022/10/22/18/1666437081424/cbd3f3af84ba_640_360.png", K+KIDS HD (VNPT)
-http://duthao2008.fastddns.org:9981/stream/channelid/471475672?profile=pass
+http://113.186.32.209:1986/udp/232.84.3.43:11794
 
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/01/04/1680297664931/fb287ae7a7ad_640_360.png", K+CINE SD
@@ -801,7 +801,7 @@ http://bentre5.hoangai.vn:3333/get_media_link?path=https://tvmienphi.org/live-tv
 http://bentre5.hoangai.vn:3333/get_media_link?path=https://tvmienphi.org/live-tv/xem-kenh-k-action-k-ns-truc-tuyen.html&extension=token=&n=1&request=1&location=yes
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png", K+SPORT1 SD
-http://duthao2008.fastddns.org:9981/stream/channelid/1013494608?profile=pass
+http://113.186.32.209:1986/udp/232.84.1.98:8562
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png", K+SPORT1 SD sv2
 http://bentre5.hoangai.vn:3333/get_media_link?path=https://tvmienphi.org/live-tv/xem-kenh-k1-truc-tuyen.html&extension=token=&n=1&request=1&location=yes
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/01/14/1677655028546/6226fc34a55f_640_360.png", K+SPORT2 SD
@@ -1326,9 +1326,6 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
 #EXTM3U
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/7c47816625ae0772db06ebabb51a2e33.png", 10/04 17:00 | Korean WK League | Gyeongju FC (w) VS Changnyeong (w) 🔴
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-http://pk79.io.vn/laykinhtv/play.php?id=7ivImWui
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/7c47816625ae0772db06ebabb51a2e33.png", 10/04 17:00 | Korean WK League | KSPO FC (w) VS Boeun Sangmu (w) 🔴
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=GIsdX7Py
@@ -1344,6 +1341,9 @@ http://pk79.io.vn/laykinhtv/play.php?id=TstWjoZs
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/04e9f1a0b5fdc35553c2604d7be4e9a5.png", 10/04 18:00 | Thai League 1 | Port FC VS Prachuap Khiri Khan 🔴
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=UpoOkGyH
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/7c47816625ae0772db06ebabb51a2e33.png", 10/04 17:00 | Korean WK League | Gyeongju FC (w) VS Changnyeong (w)
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+http://pk79.io.vn/laykinhtv/play.php?id=7ivImWui
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png", 10/04 19:00 | Indonesian Liga 1 | Bali United VS Dewa United FC
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=Hq455lPq
@@ -3488,3 +3488,15 @@ http://pk79.io.vn/xemlai/play.php?id=qAD4nOv
 #EXTINF:-1 group-title="xem lại" tvg-logo="https://g7w1r.4shares.live/news/cuon34.jpg",Fullmatch AC Milan vs Inter Milan | BLV Bánh Cuốn | 3.4.25
 http://pk79.io.vn/xemlai/play.php?id=5xGDpDb
 #EXTM3U
+#EXTINF:-1 group-title="⭐ Sự kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/04/09/16/1744190267554/a0405f54943d_640_360.jpg", 11/04-02:00 | CELJE VS FIORENTINA
+http://khaitv.giize.com:8080/tv360/playvip.php?id=169
+#EXTINF:-1 group-title="⭐ Sự kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/04/10/14/1744269787794/07fa312df160_640_360.jpg", 13/04-18:00 | Becamex Bình Dương vs SHB Đà Nẵng
+http://khaitv.giize.com:8080/tv360/playvip.php?id=201
+#EXTINF:-1 group-title="⭐ Sự kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/04/10/10/1744255169451/9ef9e1f3c60e_640_360.jpg", 12/04-16:00 | LONG AN VS PHÙ ĐỔNG NINH BÌNH
+http://khaitv.giize.com:8080/tv360/playvip.php?id=195
+#EXTINF:-1 group-title="⭐ Sự kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/04/10/09/174425113728/12d8030b6941_640_360.jpg", 12/04-17:00 | QUẢNG NAM VS QUY NHƠN BÌNH ĐỊNH
+http://khaitv.giize.com:8080/tv360/playvip.php?id=368
+#EXTINF:-1 group-title="⭐ Sự kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/04/10/10/1744255202151/cc5ba93d55c3_640_360.jpg", 12/04-17:00 | KHATOCO KHÁNH HÒA VS TRƯỜNG TƯƠI BÌNH PHƯỚC
+http://khaitv.giize.com:8080/tv360/playvip.php?id=367
+#EXTINF:-1 group-title="⭐ Sự kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/04/10/14/1744269819126/b5166e00e701_640_360.jpg", 13/04-18:00 | Thép Xanh Nam Định vs TP. Hồ Chí Minh
+http://khaitv.giize.com:8080/tv360/playvip.php?id=110
