@@ -715,15 +715,15 @@ http://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/n
 http://s2.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline.vn/hls/ttxvn/index.m3u8
 
 #EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/SCTV15.jpg",SCTV 15 ONPLUS
-http://113.188.154.29:1024/udp/232.84.3.22:11920
+http://113.186.239.195:4022/udp/232.84.3.22:11920
 
 #EXTINF:0 group-title="SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2022/10/22/18/1666437081424/cbd3f3af84ba_640_360.png",K+KIDS HD
-http://113.188.154.29:1024/udp/232.84.3.43:11794
+http://113.186.239.195:4022/udp/232.84.3.43:11794
 
 #EXTINF:0 group-title="TEST" tvg-logo="https://i.imgur.com/2CYmcji.png", HBO
 http://125hvt.ddns.net:21585/hbo/index.m3u8
 #EXTINF:0 group-title="TEST" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/01/04/1680297664931/fb287ae7a7ad_640_360.png", K+CINE
-http://113.188.154.29:1024/udp/232.84.1.96:8550
+http://113.186.239.195:4022/udp/232.84.1.96:8550
 
 
 
@@ -751,11 +751,11 @@ http://khaitv.giize.com:8083/get?id=DNhw3ctmQ7o
 
 
 #EXTINF:-1 group-title="New",VTVcab 16 | On Football
-http://113.186.32.209:1986/udp/232.84.1.138:8802
+http://113.186.239.195:4022/udp/232.84.1.138:8802
 #EXTINF:-1 group-title="New",VTVcab3 | On Sports
-http://113.186.32.209:1986/udp/232.84.1.208:9222
+http://113.186.239.195:4022/udp/232.84.1.208:9222
 #EXTINF:-1 group-title="New",VTVcab6 | On Sports+
-http://113.186.32.209:1986/udp/232.84.1.220:9294
+http://113.186.239.195:4022/udp/232.84.1.220:9294
 
 
 
@@ -777,11 +777,11 @@ http://duthao2008.fastddns.org:9981/stream/channelid/41824813?profile=pass
 #EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/01/03/16/1704275031605/a72d5eab8255_640_360.png", K+ACTION HD (VNPT)
 http://duthao2008.fastddns.org:9981/stream/channelid/1690978840?profile=pass
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png", K+SPORT1 HD (VNPT)
-http://113.186.32.209:1986/udp/232.84.1.98:8562
+http://113.186.239.195:4022/udp/232.84.1.98:8562
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/01/14/1677655028546/6226fc34a55f_640_360.png", K+SPORT2 HD(VNPT)
-http://113.186.32.209:1986/udp/232.84.1.131:10368
+http://113.186.239.195:4022/udp/232.84.1.131:10368
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2022/10/22/18/1666437081424/cbd3f3af84ba_640_360.png", K+KIDS HD (VNPT)
-http://113.186.32.209:1986/udp/232.84.3.43:11794
+http://113.186.239.195:4022/udp/232.84.3.43:11794
 
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/01/04/1680297664931/fb287ae7a7ad_640_360.png", K+CINE SD
@@ -791,7 +791,7 @@ http://bentre5.hoangai.vn:3333/get_media_link?path=https://tvmienphi.org/live-tv
 http://bentre5.hoangai.vn:3333/get_media_link?path=https://tvmienphi.org/live-tv/xem-kenh-k-action-k-ns-truc-tuyen.html&extension=token=&n=1&request=1&location=yes
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png", K+SPORT1 SD
-http://113.186.32.209:1986/udp/232.84.1.98:8562
+http://113.186.239.195:4022/udp/232.84.1.98:8562
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png", K+SPORT1 SD sv2
 http://bentre5.hoangai.vn:3333/get_media_link?path=https://tvmienphi.org/live-tv/xem-kenh-k1-truc-tuyen.html&extension=token=&n=1&request=1&location=yes
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/01/14/1677655028546/6226fc34a55f_640_360.png", K+SPORT2 SD
@@ -807,27 +807,27 @@ http://duthao2008.fastddns.org:9981/stream/channelid/41824813?profile=pass
 http://duthao2008.fastddns.org:9981/stream/channelid/1690978840?profile=pass
 
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/f53c0d1b-0268-4d1e-b150-7d797354b925.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", ON Sports HD
-http://113.186.32.209:1986/udp/232.84.1.208:9222
+http://113.186.239.195:4022/udp/232.84.1.208:9222
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports+
-http://113.186.32.209:1986/udp/232.84.1.220:9294
+http://113.186.239.195:4022/udp/232.84.1.220:9294
 
 
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/5145995d-794d-4329-a44b-d8caffdceb40.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" codec="system", ON Football HD (Dự Phòng)
-http://113.186.32.209:1986/udp/232.84.1.138:8802
+http://113.186.239.195:4022/udp/232.84.1.138:8802
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/60237478-0dc1-4480-a050-b2a84e4b9b69.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab18-on-sports-news/${start}/${offset}", ON Sports News
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HpYCA/jf1nefWyh7KNJ9dg","kid":"U3iOtb1GQBidlQPkA3Ie7A"}],"type":"temporary"}
-http://113.186.32.209:1986/udp/232.84.2.193:10942
+http://113.186.239.195:4022/udp/232.84.2.193:10942
 
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/5145995d-794d-4329-a44b-d8caffdceb40.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" codec="system", ON Football HD ONPLUS (Dự Phòng 1)
-http://113.186.32.209:1986/udp/232.84.1.138:8802
+http://113.186.239.195:4022/udp/232.84.1.138:8802
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/60237478-0dc1-4480-a050-b2a84e4b9b69.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab18-on-sports-news/${start}/${offset}", ON Sports News ONPLUS
-http://113.186.32.209:1986/udp/232.84.2.193:10942
+http://113.186.239.195:4022/udp/232.84.2.193:10942
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/f53c0d1b-0268-4d1e-b150-7d797354b925.jpg?auto=format&fit=max&w=640"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}", ON Sports HD
-http://113.186.32.209:1986/udp/232.84.1.208:9222
+http://113.186.239.195:4022/udp/232.84.1.208:9222
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports+ ONPLUS
-http://113.186.32.209:1986/udp/232.84.1.220:9294
+http://113.186.239.195:4022/udp/232.84.1.220:9294
 
 
 #EXTINF:-1 group-title="BOXING TV" tvg-logo="http://xemtruyenhinh.tv/image/boxingtv.jpg",KÊNH BOXING'S TV 
@@ -836,13 +836,13 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 http://bentre5.hoangai.vn:3333/get_media_link?path=https://tvmienphi.org/live-tv/xem-kenh-warnertv-truc-tuyen.html&extension=token=&n=1&request=1&location=yes
 
 #EXTINF:-1 group-title="CLIPTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/86/ON_Football_HD_logo_2022.png/revision/latest?cb=20230813034236&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Football HD
-http://113.186.32.209:1986/udp/232.84.1.138:8802
+http://113.186.239.195:4022/udp/232.84.1.138:8802
 #EXTINF:-1 group-title="CLIPTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/82/ON_Sports_News_24-03-2022.png/revision/latest?cb=20240205085600&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Sports News HD
-http://113.186.32.209:1986/udp/232.84.2.193:10942
+http://113.186.239.195:4022/udp/232.84.2.193:10942
 #EXTINF:-1 group-title="CLIPTV" tvg-logo="https://imgvlive.vtvcab.vn/720X405/f53c0d1b-0268-4d1e-b150-7d797354b925.jpg?auto=format&fit=max&w=640"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Sports HD
-http://113.186.32.209:1986/udp/232.84.1.208:9222
+http://113.186.239.195:4022/udp/232.84.1.208:9222
 #EXTINF:-1 group-title="CLIPTV" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Sports + HD
-http://113.186.32.209:1986/udp/232.84.1.220:9294
+http://113.186.239.195:4022/udp/232.84.1.220:9294
 
 
 #EXTINF:0 group-title="clip tv vtv" catchup="default" catchup-days="2" catchup-source="http://bentre5.hoangai.vn:8082/vtvgo/get.php?id=1&start=${start}&end=${end}&offset=${offset}" ,VTV1 HD
@@ -1460,9 +1460,6 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
 #EXTM3U
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/f6ee5b5c991ae7af40af139efa05a07f.png", 11/04 06:15 | Hạng nhất Paraguay | Club Sportivo Trinidense VS Atlético Tembetary 🔴
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-http://pk79.io.vn/laykinhtv/play.php?id=72Au7jRx
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/a43b934409a4d2475b0e5f69d1b2ec16.png", 11/04 07:00 | VĐQG Colombia | La Equidad VS Independiente Santa Fe 🔴
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=JDSyLVuw
@@ -3996,15 +3993,3 @@ http://pk79.io.vn/xemlai/play.php?id=Yenxzsm
 #EXTINF:-1 group-title="xem lại" tvg-logo="https://g7w1r.4shares.live/images/20250403-LA-MIA.jpg",Fullmatch Los Angeles FC vs Inter Miami CF | BLV Người Cồn | 03.04.25
 http://pk79.io.vn/xemlai/play.php?id=Eiu6TXc
 #EXTM3U
-#EXTINF:-1 group-title="⭐ Sự kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/04/10/14/1744269787794/07fa312df160_640_360.jpg", 13/04-18:00 | Becamex Bình Dương vs SHB Đà Nẵng
-http://khaitv.giize.com:8080/tv360/playvip.php?id=201
-#EXTINF:-1 group-title="⭐ Sự kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/04/10/14/1744269955137/d42a0921092a_640_360.jpg", 13/04-19:15 | Hải Phòng vs Hà Nội
-http://khaitv.giize.com:8080/tv360/playvip.php?id=195
-#EXTINF:-1 group-title="⭐ Sự kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/04/10/09/174425113728/12d8030b6941_640_360.jpg", 12/04-17:00 | QUẢNG NAM VS QUY NHƠN BÌNH ĐỊNH
-http://khaitv.giize.com:8080/tv360/playvip.php?id=368
-#EXTINF:-1 group-title="⭐ Sự kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/04/10/14/1744269856252/f3717b0ec69b_640_360.jpg", 13/04-18:00 | Hòa Bình vs PVF-CAND
-http://khaitv.giize.com:8080/tv360/playvip.php?id=367
-#EXTINF:-1 group-title="⭐ Sự kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/04/10/14/1744269819126/b5166e00e701_640_360.jpg", 13/04-18:00 | Thép Xanh Nam Định vs TP. Hồ Chí Minh
-http://khaitv.giize.com:8080/tv360/playvip.php?id=110
-#EXTINF:-1 group-title="⭐ Sự kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/04/10/14/1744269882721/49a56f6bbcea_640_360.jpg", 13/04-18:00 | Trẻ TP. Hồ Chí Minh vs Đồng Tháp
-http://khaitv.giize.com:8080/tv360/playvip.php?id=190
