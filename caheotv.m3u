@@ -459,28 +459,24 @@ http://bentre5.hoangai.vn:7000/stream_media?id=sctvonline.vn/detail/sctv12-b0d6c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
 http://bentre5.hoangai.vn:7000/stream_media?id=sctvonline.vn/detail/sctv13-67f88fcb
-#EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/SCTV16.jpg",SCTV 16
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sctvonline.vn/
-http://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/sctv16/index.m3u8
-#EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/SCTV17.jpg",SCTV 17
-http://khaitv.giize.com:8080/onplus/play.php?id=SCTV17
-#EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/SCTV18.jpg",SCTV 18
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sctvonline.vn/
-http://s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s3.edge.cdn.sctvonline.vn/hls/sctv18/index.m3u8
-#EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/SCTV19.jpg",SCTV 19
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sctvonline.vn/
-http://s8.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/hls/sctv19/index.m3u8
-#EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/SCTV20.jpg",SCTV 20
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sctvonline.vn/
-http://s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s3.edge.cdn.sctvonline.vn/hls/sctv20/index.m3u8
-#EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/SCTV21.jpg",SCTV 21
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sctvonline.vn/
-http://s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s3.edge.cdn.sctvonline.vn/hls/sctv21/index.m3u8
+#EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/SCTV14.jpg", SCTV14 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e8.endpoint.cdn.sctvonline.vn/hls/sctv14/index.m3u8?vmttv
+#EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/SCTV16.jpg", SCTV16 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8
+#EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/SCTV18.jpg", SCTV18 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://e1.endpoint.cdn.sctvonline.vn/hls/sctv18/index.m3u8
+#EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/SCTV19.jpg", SCTV19 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://e8.endpoint.cdn.sctvonline.vn/hls/sctv19/index.m3u8
+#EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/SCTV20.jpg", SCTV20 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://e1.endpoint.cdn.sctvonline.vn/hls/sctv20/index.m3u8
+#EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/SCTV21.jpg", SCTV21 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://e1.endpoint.cdn.sctvonline.vn/hls/sctv21/index.m3u8
 #EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/SCTV22.jpg",SCTV 22
 http://113.188.154.29:1024/udp/232.84.3.15:11962
 #EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/SCTV6.jpg",SCTV 6
@@ -3747,23 +3743,23 @@ http://pk79.io.vn/buncha/play.php?id=330936720
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",11/04-21:00 | Romania - Liga 3 Seria | Petrolul Ploiesti II VS CSM Flacara Moreni
 http://pk79.io.vn/buncha/play.php?id=331936721
 #EXTM3U x-tvg-url="http://pk79.x10.mx/bongda/vebo.php" refresh="3600"
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/c1781a10c3550887df9d6ef111ad8b59.png" tvg-chno="FtJZKdE" catchup="default" catchup-source="?playbackstart={utc}",🔴 11/04-20:30 | Bulgarian First League | Spartak Varna VS FK Levski Krumovgrad (Updated: 2025-04-11 11:00:05)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/c1781a10c3550887df9d6ef111ad8b59.png" tvg-chno="FtJZKdE" catchup="default" catchup-source="?playbackstart={utc}",🔴 11/04-20:30 | Bulgarian First League | Spartak Varna VS FK Levski Krumovgrad (Updated: 2025-04-11 11:20:05)
 http://pk79.io.vn/vebo/play.php?id=FtJZKdE
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/7ec5916b4a6a5a4616b8150944f88763.png" tvg-chno="hVBEvzX" catchup="default" catchup-source="?playbackstart={utc}",11/04-22:00 | Azerbaijan Premier Liqa | Sabail FC VS Qarabag (Updated: 2025-04-11 11:00:05)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/7ec5916b4a6a5a4616b8150944f88763.png" tvg-chno="hVBEvzX" catchup="default" catchup-source="?playbackstart={utc}",🔴 11/04-22:00 | Azerbaijan Premier Liqa | Sabail FC VS Qarabag (Updated: 2025-04-11 11:20:05)
 http://pk79.io.vn/vebo/play.php?id=hVBEvzX
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/d2e9c7a1da8e0eb131019669344528e5.png" tvg-chno="t6m86g8" catchup="default" catchup-source="?playbackstart={utc}",11/04-22:30 | Qatar Stars League | Al Duhail VS Al-Arabi SC (Updated: 2025-04-11 11:00:05)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/d2e9c7a1da8e0eb131019669344528e5.png" tvg-chno="t6m86g8" catchup="default" catchup-source="?playbackstart={utc}",11/04-22:30 | Qatar Stars League | Al Duhail VS Al-Arabi SC (Updated: 2025-04-11 11:20:05)
 http://pk79.io.vn/vebo/play.php?id=t6m86g8
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/d2e9c7a1da8e0eb131019669344528e5.png" tvg-chno="fRFA0qW" catchup="default" catchup-source="?playbackstart={utc}",11/04-22:30 | Qatar Stars League | Al-Sadd VS Al Khor SC (Updated: 2025-04-11 11:00:05)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/d2e9c7a1da8e0eb131019669344528e5.png" tvg-chno="fRFA0qW" catchup="default" catchup-source="?playbackstart={utc}",11/04-22:30 | Qatar Stars League | Al-Sadd VS Al Khor SC (Updated: 2025-04-11 11:20:05)
 http://pk79.io.vn/vebo/play.php?id=fRFA0qW
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png" tvg-chno="aDUWX4Y" catchup="default" catchup-source="?playbackstart={utc}",11/04-23:00 | Saudi Professional League | Al Raed VS Al Ahli (Updated: 2025-04-11 11:00:05)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png" tvg-chno="aDUWX4Y" catchup="default" catchup-source="?playbackstart={utc}",11/04-23:00 | Saudi Professional League | Al Raed VS Al Ahli (Updated: 2025-04-11 11:20:05)
 http://pk79.io.vn/vebo/play.php?id=aDUWX4Y
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/56e74a0ff4b7dac6763a73bac11c7f34.png" tvg-chno="pgqaZqI" catchup="default" catchup-source="?playbackstart={utc}",11/04-23:00 | CAF U17 Championship | Ivory Coast U17 VS Senegal U17 (Updated: 2025-04-11 11:00:05)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/56e74a0ff4b7dac6763a73bac11c7f34.png" tvg-chno="pgqaZqI" catchup="default" catchup-source="?playbackstart={utc}",11/04-23:00 | CAF U17 Championship | Ivory Coast U17 VS Senegal U17 (Updated: 2025-04-11 11:20:05)
 http://pk79.io.vn/vebo/play.php?id=pgqaZqI
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/bad575ed2b0e7e413cb4de4b6c5fefa8.png" tvg-chno="XOJHuFM" catchup="default" catchup-source="?playbackstart={utc}",11/04-23:30 | Russian Premier League | Spartak Moscow VS FK Makhachkala (Updated: 2025-04-11 11:00:05)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/bad575ed2b0e7e413cb4de4b6c5fefa8.png" tvg-chno="XOJHuFM" catchup="default" catchup-source="?playbackstart={utc}",11/04-23:30 | Russian Premier League | Spartak Moscow VS FK Makhachkala (Updated: 2025-04-11 11:20:05)
 http://pk79.io.vn/vebo/play.php?id=XOJHuFM
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png" tvg-chno="Wmre3MR" catchup="default" catchup-source="?playbackstart={utc}",11/04-23:30 | Bundesliga 2 | Greuther Furth VS FC Koln (Updated: 2025-04-11 11:00:05)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png" tvg-chno="Wmre3MR" catchup="default" catchup-source="?playbackstart={utc}",11/04-23:30 | Bundesliga 2 | Greuther Furth VS FC Koln (Updated: 2025-04-11 11:20:05)
 http://pk79.io.vn/vebo/play.php?id=Wmre3MR
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png" tvg-chno="AE2Cijz" catchup="default" catchup-source="?playbackstart={utc}",11/04-23:30 | Bundesliga 2 | Hamburger SV VS Eintracht Braunschweig (Updated: 2025-04-11 11:00:05)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png" tvg-chno="AE2Cijz" catchup="default" catchup-source="?playbackstart={utc}",11/04-23:30 | Bundesliga 2 | Hamburger SV VS Eintracht Braunschweig (Updated: 2025-04-11 11:20:05)
 http://pk79.io.vn/vebo/play.php?id=AE2Cijz
 #EXTM3U
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F1155%2F1h5e4fpvkc23.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F58965%2F1gs4byf8441t.png%3Fwin007%3Dsell", 🔴 11/04-20:30 | Spartak Varna vs FK Levski Krumovgrad | BLV NGHỆ CẢ CỦ 
