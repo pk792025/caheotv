@@ -758,6 +758,10 @@ http://khaitv.giize.com:1234/live/channel/sp1clip.mpegts
 http://bentre5.hoangai.vn:3333/get_media_link?path=https://tvmienphi.org/live-tv/xem-kenh-k1-truc-tuyen.html&extension=token=&n=1&request=1&location=yes
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/01/14/1677655028546/6226fc34a55f_640_360.png", K+SPORT2 SD
 http://bentre5.hoangai.vn:3333/get_media_link?path=https://tvmienphi.org/live-tv/xem-kenh-k-sport-2-k-pc-truc-tuyen.html&extension=token=&n=1&request=1&location=yes
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/01/04/1680297664931/fb287ae7a7ad_640_360.png", K+CINE SCTV
+http://bentre5.hoangai.vn:1234/stream/sctv/kcine/master.m3u8?u=atat1996&p=fbf555dd835e1c2de5842f148e9b8c20555a316e90b63ef0947791beb24ed843
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/01/04/1680297664931/fb287ae7a7ad_640_360.png", K+ACTION SCTV
+http://bentre5.hoangai.vn:1234/stream/sctv/kaction/master.m3u8?u=atat1996&p=fbf555dd835e1c2de5842f148e9b8c20555a316e90b63ef0947791beb24ed843
 
 
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/f53c0d1b-0268-4d1e-b150-7d797354b925.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", ON Sports HD
@@ -1627,12 +1631,6 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
 #EXTM3U
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/5edae2b7b8f5eef8c1a6ee1b46118eae.png", 13/04 17:10 | Ngoại hạng Ukraina | FC Vorskla Poltava VS Polissya Zhytomyr 🔴
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-http://pk79.io.vn/laykinhtv/play.php?id=rHxg4Q1r
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/280e7df640872c99064a56a3361450a9.png", 13/04 17:15 | VĐQG Hà Lan | FC Utrecht VS Groningen 🔴
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-http://pk79.io.vn/laykinhtv/play.php?id=pUdi0Dte
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png", 13/04 17:30 | Italian Serie A | Atalanta VS Bologna 🔴
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=rSle6Ztj
@@ -1669,45 +1667,45 @@ http://pk79.io.vn/laykinhtv/play.php?id=9mXB5u1A
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/f7d1dfb17d306eba1289fc8b07f9ec68.png", 13/04 18:45 | VĐQG Uzbekistan | Xorazm Urganch VS FC OKMK Olmaliq 🔴
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=6oPdEdZS
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png", 13/04 19:00 | Indonesian Liga 1 | Persita Tangerang VS Barito Putera
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png", 13/04 19:00 | Indonesian Liga 1 | Persita Tangerang VS Barito Putera 🔴
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=K58akLoQ
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/e8d38514cbb040848b373ab571a0f11c.png", 13/04 19:00 | Hạng Nhì Tây Ban Nha | Albacete Balompié SAD VS Granada CF
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/e8d38514cbb040848b373ab571a0f11c.png", 13/04 19:00 | Hạng Nhì Tây Ban Nha | Albacete Balompié SAD VS Granada CF 🔴
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=UvTLfYY2
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/04e9f1a0b5fdc35553c2604d7be4e9a5.png", 13/04 19:00 | Thai League 1 | Muang Thong United VS Uthai Thani Forest
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/04e9f1a0b5fdc35553c2604d7be4e9a5.png", 13/04 19:00 | Thai League 1 | Muang Thong United VS Uthai Thani Forest 🔴
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=CCElsNi9
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/57d43a43dee9fea54bd82b2ae1ed7581.png", 13/04 19:00 | FNL Nga | Chernomorets Novorossijsk VS Rotor Volgograd
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/57d43a43dee9fea54bd82b2ae1ed7581.png", 13/04 19:00 | FNL Nga | Chernomorets Novorossijsk VS Rotor Volgograd 🔴
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=9I3b9Lyg
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/5e1b2629744b07c53f6d6c032475078a.png", 13/04 19:00 | Spanish La Liga | CA Osasuna VS Girona FC
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/5e1b2629744b07c53f6d6c032475078a.png", 13/04 19:00 | Spanish La Liga | CA Osasuna VS Girona FC 🔴
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=hpLtYZ4i
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png", 13/04 19:00 | VĐQG Bulgaria | Arda VS Lokomotiv Sofia
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png", 13/04 19:00 | VĐQG Bulgaria | Arda VS Lokomotiv Sofia 🔴
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=sj2TxHCQ
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/8ddbbfcdc6f98675b4b0d2601976e6bf.png", 13/04 19:00 | Ngoại Hạng Đan Mạch | FC Copenhagen VS Brondby IF 🔴
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+http://pk79.io.vn/laykinhtv/play.php?id=ii4xMibr
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/8ddbbfcdc6f98675b4b0d2601976e6bf.png", 13/04 19:00 | Ngoại Hạng Đan Mạch | Viborg VS Silkeborg 🔴
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+http://pk79.io.vn/laykinhtv/play.php?id=qJYqt1bB
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/53c39d0e222d0707324dcf86dd20ca23.png", 13/04 19:00 | VĐQG  Serbian | FK Čukarički VS Radnicki Nis 🔴
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+http://pk79.io.vn/laykinhtv/play.php?id=QrXkn7bk
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/24a57747bac38f002dd68b574b39d730.png", 13/04 19:10 | Ngoại hạng Belarus | Slavia Mozyr VS Dinamo Minsk 🔴
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+http://pk79.io.vn/laykinhtv/play.php?id=DGJDAXKw
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/70dd3b1e69708842440893f5a8b46632.png", 13/04 19:15 | Malaysian Super League | Penang FC VS Kuala Lumpur City FC 🔴
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+http://pk79.io.vn/laykinhtv/play.php?id=jotSQrzF
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png", 13/04 19:15 | V-League | XM Hai Phong FC VS TT Hanoi 🔴
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+http://pk79.io.vn/laykinhtv/play.php?id=YU38YkSu
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvX-GwGG7n9HMAm1DLvfiC6PS7elB6IZxthA&s", 13/04 19:00 | Cup FA Nữ Anh | Manchester City (w) VS Manchester United (w)
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=pvzN6rGD
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/8ddbbfcdc6f98675b4b0d2601976e6bf.png", 13/04 19:00 | Ngoại Hạng Đan Mạch | FC Copenhagen VS Brondby IF
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-http://pk79.io.vn/laykinhtv/play.php?id=ii4xMibr
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/8ddbbfcdc6f98675b4b0d2601976e6bf.png", 13/04 19:00 | Ngoại Hạng Đan Mạch | Viborg VS Silkeborg
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-http://pk79.io.vn/laykinhtv/play.php?id=qJYqt1bB
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/53c39d0e222d0707324dcf86dd20ca23.png", 13/04 19:00 | VĐQG  Serbian | FK Čukarički VS Radnicki Nis
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-http://pk79.io.vn/laykinhtv/play.php?id=QrXkn7bk
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/24a57747bac38f002dd68b574b39d730.png", 13/04 19:10 | Ngoại hạng Belarus | Slavia Mozyr VS Dinamo Minsk
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-http://pk79.io.vn/laykinhtv/play.php?id=DGJDAXKw
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/70dd3b1e69708842440893f5a8b46632.png", 13/04 19:15 | Malaysian Super League | Penang FC VS Kuala Lumpur City FC
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-http://pk79.io.vn/laykinhtv/play.php?id=jotSQrzF
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png", 13/04 19:15 | V-League | XM Hai Phong FC VS TT Hanoi
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-http://pk79.io.vn/laykinhtv/play.php?id=YU38YkSu
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/5edae2b7b8f5eef8c1a6ee1b46118eae.png", 13/04 19:30 | Ngoại hạng Ukraina | FC Livyi Bereh VS Kolos Kovalivka
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=gepM1WaJ
@@ -3322,47 +3320,45 @@ http://pk79.io.vn/buncha/play.php?id=325536720
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",13/04-19:00 | Turkey 3. Ligi B | Bayburt Ozel Idare VS Aliaga FUTBOL AS
 http://pk79.io.vn/buncha/play.php?id=325944622
 #EXTM3U x-tvg-url="http://pk79.x10.mx/bongda/vebo.php" refresh="3600"
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/280e7df640872c99064a56a3361450a9.png" tvg-chno="SgDo57k" catchup="default" catchup-source="?playbackstart={utc}",🔴 13/04-17:15 | Vô địch quốc gia Hà Lan | FC Utrecht VS Groningen (Updated: 2025-04-13 08:00:05)
-http://pk79.io.vn/vebo/play.php?id=SgDo57k
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" tvg-chno="nHwZv55" catchup="default" catchup-source="?playbackstart={utc}",🔴 13/04-17:30 | Serie A | Atalanta VS Bologna (Updated: 2025-04-13 08:00:05)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" tvg-chno="nHwZv55" catchup="default" catchup-source="?playbackstart={utc}",🔴 13/04-17:30 | Serie A | Atalanta VS Bologna (Updated: 2025-04-13 08:20:07)
 http://pk79.io.vn/vebo/play.php?id=nHwZv55
-#EXTINF:-1 group-title="vebo" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" tvg-chno="mhTxIom" catchup="default" catchup-source="?playbackstart={utc}",🔴 13/04-18:00 | V League | Bình Dương VS Đà Nẵng (Updated: 2025-04-13 08:00:05)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" tvg-chno="mhTxIom" catchup="default" catchup-source="?playbackstart={utc}",🔴 13/04-18:00 | V League | Bình Dương VS Đà Nẵng (Updated: 2025-04-13 08:20:07)
 http://pk79.io.vn/vebo/play.php?id=mhTxIom
-#EXTINF:-1 group-title="vebo" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" tvg-chno="uxcAoAi" catchup="default" catchup-source="?playbackstart={utc}",🔴 13/04-18:00 | V League | Nam Định VS TP Hồ Chí Minh (Updated: 2025-04-13 08:00:05)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" tvg-chno="uxcAoAi" catchup="default" catchup-source="?playbackstart={utc}",🔴 13/04-18:00 | V League | Nam Định VS TP Hồ Chí Minh (Updated: 2025-04-13 08:20:07)
 http://pk79.io.vn/vebo/play.php?id=uxcAoAi
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" tvg-chno="1LdQx7f" catchup="default" catchup-source="?playbackstart={utc}",13/04-19:00 | La Liga | Osasuna VS Girona (Updated: 2025-04-13 08:00:05)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" tvg-chno="1LdQx7f" catchup="default" catchup-source="?playbackstart={utc}",🔴 13/04-19:00 | La Liga | Osasuna VS Girona (Updated: 2025-04-13 08:20:07)
 http://pk79.io.vn/vebo/play.php?id=1LdQx7f
-#EXTINF:-1 group-title="vebo" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" tvg-chno="O6EAhsV" catchup="default" catchup-source="?playbackstart={utc}",13/04-19:15 | V League | Hải Phòng VS Hà Nội (Updated: 2025-04-13 08:00:05)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" tvg-chno="O6EAhsV" catchup="default" catchup-source="?playbackstart={utc}",🔴 13/04-19:15 | V League | Hải Phòng VS Hà Nội (Updated: 2025-04-13 08:20:07)
 http://pk79.io.vn/vebo/play.php?id=O6EAhsV
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/0267ddafe2140758cb495835ff65e61d.png" tvg-chno="4zqqf4B" catchup="default" catchup-source="?playbackstart={utc}",13/04-19:30 | Austrian Bundesliga | Red Bull Salzburg VS Sturm Graz (Updated: 2025-04-13 08:00:05)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/0267ddafe2140758cb495835ff65e61d.png" tvg-chno="4zqqf4B" catchup="default" catchup-source="?playbackstart={utc}",13/04-19:30 | Austrian Bundesliga | Red Bull Salzburg VS Sturm Graz (Updated: 2025-04-13 08:20:07)
 http://pk79.io.vn/vebo/play.php?id=4zqqf4B
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" tvg-chno="4yzvOTY" catchup="default" catchup-source="?playbackstart={utc}",13/04-20:00 | Ngoại hạng Anh | Chelsea VS Ipswich Town (Updated: 2025-04-13 08:00:05)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" tvg-chno="4yzvOTY" catchup="default" catchup-source="?playbackstart={utc}",13/04-20:00 | Ngoại hạng Anh | Chelsea VS Ipswich Town (Updated: 2025-04-13 08:20:07)
 http://pk79.io.vn/vebo/play.php?id=4yzvOTY
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" tvg-chno="Irqznf2" catchup="default" catchup-source="?playbackstart={utc}",13/04-20:00 | Ngoại hạng Anh | Liverpool VS West Ham (Updated: 2025-04-13 08:00:05)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" tvg-chno="Irqznf2" catchup="default" catchup-source="?playbackstart={utc}",13/04-20:00 | Ngoại hạng Anh | Liverpool VS West Ham (Updated: 2025-04-13 08:20:07)
 http://pk79.io.vn/vebo/play.php?id=Irqznf2
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" tvg-chno="WPB6pQA" catchup="default" catchup-source="?playbackstart={utc}",13/04-20:00 | Ngoại hạng Anh | Wolves VS Tottenham Hotspur (Updated: 2025-04-13 08:00:05)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" tvg-chno="WPB6pQA" catchup="default" catchup-source="?playbackstart={utc}",13/04-20:00 | Ngoại hạng Anh | Wolves VS Tottenham Hotspur (Updated: 2025-04-13 08:20:07)
 http://pk79.io.vn/vebo/play.php?id=WPB6pQA
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" tvg-chno="PnMXxwS" catchup="default" catchup-source="?playbackstart={utc}",13/04-20:00 | Serie A | Fiorentina VS Parma (Updated: 2025-04-13 08:00:05)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" tvg-chno="PnMXxwS" catchup="default" catchup-source="?playbackstart={utc}",13/04-20:00 | Serie A | Fiorentina VS Parma (Updated: 2025-04-13 08:20:07)
 http://pk79.io.vn/vebo/play.php?id=PnMXxwS
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" tvg-chno="tlrxdF9" catchup="default" catchup-source="?playbackstart={utc}",🔴 13/04-20:00 | Ngoại hạng Anh | Liverpool VS West Ham (Updated: 2025-04-13 08:00:05)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" tvg-chno="tlrxdF9" catchup="default" catchup-source="?playbackstart={utc}",🔴 13/04-20:00 | Ngoại hạng Anh | Liverpool VS West Ham (Updated: 2025-04-13 08:20:07)
 http://pk79.io.vn/vebo/play.php?id=tlrxdF9
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" tvg-chno="6s9flTV" catchup="default" catchup-source="?playbackstart={utc}",13/04-20:30 | Bundesliga | VfB Stuttgart VS Werder Bremen (Updated: 2025-04-13 08:00:05)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" tvg-chno="6s9flTV" catchup="default" catchup-source="?playbackstart={utc}",13/04-20:30 | Bundesliga | VfB Stuttgart VS Werder Bremen (Updated: 2025-04-13 08:20:07)
 http://pk79.io.vn/vebo/play.php?id=6s9flTV
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" tvg-chno="43wfqwb" catchup="default" catchup-source="?playbackstart={utc}",13/04-21:15 | La Liga | Alaves VS Real Madrid (Updated: 2025-04-13 08:00:05)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" tvg-chno="43wfqwb" catchup="default" catchup-source="?playbackstart={utc}",13/04-21:15 | La Liga | Alaves VS Real Madrid (Updated: 2025-04-13 08:20:07)
 http://pk79.io.vn/vebo/play.php?id=43wfqwb
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/280e7df640872c99064a56a3361450a9.png" tvg-chno="mRfDb3v" catchup="default" catchup-source="?playbackstart={utc}",13/04-21:45 | Vô địch quốc gia Hà Lan | Willem II VS AFC Ajax (Updated: 2025-04-13 08:00:05)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/280e7df640872c99064a56a3361450a9.png" tvg-chno="mRfDb3v" catchup="default" catchup-source="?playbackstart={utc}",13/04-21:45 | Vô địch quốc gia Hà Lan | Willem II VS AFC Ajax (Updated: 2025-04-13 08:20:07)
 http://pk79.io.vn/vebo/play.php?id=mRfDb3v
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" tvg-chno="2b2VVQM" catchup="default" catchup-source="?playbackstart={utc}",13/04-22:30 | Ngoại hạng Anh | Newcastle United VS Off fan MU (Updated: 2025-04-13 08:00:05)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" tvg-chno="2b2VVQM" catchup="default" catchup-source="?playbackstart={utc}",13/04-22:30 | Ngoại hạng Anh | Newcastle United VS Off fan MU (Updated: 2025-04-13 08:20:07)
 http://pk79.io.vn/vebo/play.php?id=2b2VVQM
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" tvg-chno="cyduoCj" catchup="default" catchup-source="?playbackstart={utc}",13/04-22:30 | Bundesliga | Eintracht Frankfurt VS Heidenheim (Updated: 2025-04-13 08:00:05)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" tvg-chno="cyduoCj" catchup="default" catchup-source="?playbackstart={utc}",13/04-22:30 | Bundesliga | Eintracht Frankfurt VS Heidenheim (Updated: 2025-04-13 08:20:07)
 http://pk79.io.vn/vebo/play.php?id=cyduoCj
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" tvg-chno="vMIq5BL" catchup="default" catchup-source="?playbackstart={utc}",13/04-22:30 | Ngoại hạng Anh | Anti Mân VS Manchester United (Updated: 2025-04-13 08:00:05)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" tvg-chno="vMIq5BL" catchup="default" catchup-source="?playbackstart={utc}",13/04-22:30 | Ngoại hạng Anh | Anti Mân VS Manchester United (Updated: 2025-04-13 08:20:07)
 http://pk79.io.vn/vebo/play.php?id=vMIq5BL
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" tvg-chno="Do3PgWp" catchup="default" catchup-source="?playbackstart={utc}",13/04-23:00 | Serie A | Como VS Torino (Updated: 2025-04-13 08:00:05)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" tvg-chno="Do3PgWp" catchup="default" catchup-source="?playbackstart={utc}",13/04-23:00 | Serie A | Como VS Torino (Updated: 2025-04-13 08:20:07)
 http://pk79.io.vn/vebo/play.php?id=Do3PgWp
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/732e87cac85fccf702f3ce0516c7d93f.png" tvg-chno="laG9kWR" catchup="default" catchup-source="?playbackstart={utc}",13/04-23:00 | Turkey Super League | Sivasspor VS Fenerbahce (Updated: 2025-04-13 08:00:05)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/732e87cac85fccf702f3ce0516c7d93f.png" tvg-chno="laG9kWR" catchup="default" catchup-source="?playbackstart={utc}",13/04-23:00 | Turkey Super League | Sivasspor VS Fenerbahce (Updated: 2025-04-13 08:20:07)
 http://pk79.io.vn/vebo/play.php?id=laG9kWR
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" tvg-chno="wfyB4de" catchup="default" catchup-source="?playbackstart={utc}",13/04-23:30 | La Liga | Real Betis VS Villarreal (Updated: 2025-04-13 08:00:05)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" tvg-chno="wfyB4de" catchup="default" catchup-source="?playbackstart={utc}",13/04-23:30 | La Liga | Real Betis VS Villarreal (Updated: 2025-04-13 08:20:07)
 http://pk79.io.vn/vebo/play.php?id=wfyB4de
 #EXTM3U
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165095716992.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F16509569590.png%3Fwin007%3Dsell", 🔴 13/04-17:15 | FC Utrecht vs Groningen | BLV LA THÀNH
