@@ -478,7 +478,7 @@ http://khaitv.giize.com:9090/stream/drm/sctv15/master.m3u8?u=khai&p=581abaf0c386
 #EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/SCTV16.jpg", SCTV16 HD
 http://khaitv.giize.com:8080/tvmienphi/get.php?id=sctv16
 #EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/SCTV17.jpg", SCTV17 HD
-http://khaitv.giize.com:9090/stream/drm/sctv17/master.m3u8?u=khai&p=581abaf0c386fe78d7a2470bbbf4cb788753c0b567f3c2577292b942deab107b
+http://bentre5.hoangai.vn:1234/stream/sctv/sctv17/master.m3u8?u=atat1996&p=fbf555dd835e1c2de5842f148e9b8c20555a316e90b63ef0947791beb24ed843
 
 #EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/SCTV18.jpg", SCTV18 HD
 http://khaitv.giize.com:8080/tvmienphi/get.php?id=sctv18
@@ -489,7 +489,7 @@ http://khaitv.giize.com:8080/tvmienphi/get.php?id=sctv20
 #EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/SCTV21.jpg", SCTV21 HD
 http://bentre5.hoangai.vn:7000/stream_media?id=sctvonline.vn/detail/sctv-21-57de221a
 #EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/SCTV22.jpg", SCTV22 HD
-http://bentre5.hoangai.vn:8086/stream/d3BtaVRBNnZSVFlpQVQ4RUNSUXlZZz09/S3RoWEtjV2RPZE4vWnhxOVp1M0JFdz09/phuockhai/phuockhai/playlist.mpegts
+http://bentre5.hoangai.vn:1234/stream/sctv/sctv22/master.m3u8?u=atat1996&p=fbf555dd835e1c2de5842f148e9b8c20555a316e90b63ef0947791beb24ed843
 
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/SCTVPTH.jpg", SCTV HD Phim Tổng Hợp
 http://bentre5.hoangai.vn:7000/stream_media?id=sctvonline.vn/detail/sctv-phim-tong-hop-e6d2df88
@@ -644,7 +644,7 @@ http://s2.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/n
 #EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/SCTV3.jpg",SCTV 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
-http://s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e5.endpoint.cdn.sctvonline.vn/nginx.s3.edge.cdn.sctvonline.vn/hls/sctv4/index.m3u8
+http://khaitv.giize.com:8080/tvmienphi/get.php?id=sctv4
 #EXTINF:0 group-title="SCTV" tvg-logo="",TV5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
@@ -660,7 +660,7 @@ http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/n
 #EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/SCTV14.jpg",SCTV 14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
-https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/sctv14/index.m3u8
+http://khaitv.giize.com:8080/tvmienphi/get.php?id=sctv14
 #EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/ANTVHD.jpg",Công an nhân dân
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
@@ -672,19 +672,19 @@ http://s4.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/n
 #EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/SCTV1HD.jpg",SCTV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
-http://s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s3.edge.cdn.sctvonline.vn/hls/sctv1/index.m3u8
+http://bentre5.hoangai.vn:7000/stream_media?id=sctvonline.vn/detail/sctv1-hd-7f2aafec
 #EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/SCTV2.jpg",SCTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
-http://s8.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/hls/sctv2/index.m3u8
+http://bentre5.hoangai.vn:7000/stream_media?id=sctvonline.vn/detail/sctv2-57c3884d
 #EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/SCTV3.jpg",SCTV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
-http://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/sctv3/index.m3u8
+http://khaitv.giize.com:8080/tvmienphi/get.php?id=sctv3
 #EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/SCTV5.jpg",SCTV 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
-http://s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s3.edge.cdn.sctvonline.vn/hls/sctv5/index.m3u8
+http://khaitv.giize.com:8080/tvmienphi/get.php?id=sctv5
 #EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/QUOCHOITV.jpg",Quốc hội Việt Nam
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
@@ -704,10 +704,10 @@ http://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/n
 #EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/SCTV15.jpg",SCTV 15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
-http://s2.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline.vn/hls/ttxvn/index.m3u8
+http://bentre5.hoangai.vn:1234/stream/sctv/sctv15/master.m3u8?u=atat1996&p=fbf555dd835e1c2de5842f148e9b8c20555a316e90b63ef0947791beb24ed843
 
 #EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/SCTV15.jpg",SCTV 15 ONPLUS
-http://113.186.239.195:4022/udp/232.84.3.22:11920
+http://bentre5.hoangai.vn:12345/192.168.2.41:100/stream?url=https://zenlive.onsports.vn/onplus/SCTV15HD/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10
 
 #EXTINF:0 group-title="TEST" tvg-logo="https://i.imgur.com/2CYmcji.png", HBO
 http://125hvt.ddns.net:21585/hbo/index.m3u8
@@ -768,7 +768,7 @@ http://bentre5.hoangai.vn:12345/192.168.2.41:100/stream?url=https://zenlive.onsp
 
 
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/5145995d-794d-4329-a44b-d8caffdceb40.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" codec="system", ON Football HD ONPLUS (Dự Phòng 1)
-http://bentre5.hoangai.vn:12345/192.168.2.41:100/stream?url=https://zenlive.onsports.vn/onplus//BONGDA_HDmanifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10
+http://bentre5.hoangai.vn:12345/192.168.2.41:100/stream?url=https://zenlive.onsports.vn/onplus/BONGDA_HD/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/60237478-0dc1-4480-a050-b2a84e4b9b69.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab18-on-sports-news/${start}/${offset}", ON Sports News ONPLUS
 http://bentre5.hoangai.vn:12345/192.168.2.41:100/stream?url=https://zenlive.onsports.vn/onplus/THETHAO_TINTUC_HD/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/f53c0d1b-0268-4d1e-b150-7d797354b925.jpg?auto=format&fit=max&w=640"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}", ON Sports HD
@@ -961,25 +961,25 @@ http://bentre5.hoangai.vn:3333/get_media_link?path=https://tv360.vn/video/que-hu
 
 
 #EXTINF:-1 tvg-id="" group-title="Onplus Live" tvg-logo="https://raw.githubusercontent.com/pk792025/pk050979/refs/heads/main/ON1.jpg", ON Live 1
-http://khaitv.giize.com:8080/onplus/play.php?id=ONSPORT1
+http://bentre5.hoangai.vn:12345/192.168.2.41:100/stream?url=https://zenlive.onsports.vn/onplus/ONSPORT1/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10
 #EXTINF:-1 tvg-id="" group-title="Onplus Live" tvg-logo="https://raw.githubusercontent.com/pk792025/pk050979/refs/heads/main/ON2.jpg", ON Live 2
-http://khaitv.giize.com:8080/onplus/play.php?id=ONSPORT2
+http://bentre5.hoangai.vn:12345/192.168.2.41:100/stream?url=https://zenlive.onsports.vn/onplus/ONSPORT2/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10
 #EXTINF:-1 tvg-id="" group-title="Onplus Live" tvg-logo="https://raw.githubusercontent.com/pk792025/pk050979/refs/heads/main/ON3.jpg", ON Live 3
-http://khaitv.giize.com:8080/onplus/play.php?id=ONSPORT3
+http://bentre5.hoangai.vn:12345/192.168.2.41:100/stream?url=https://zenlive.onsports.vn/onplus/ONSPORT3/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10
 #EXTINF:-1 tvg-id="" group-title="Onplus Live" tvg-logo="https://raw.githubusercontent.com/pk792025/pk050979/refs/heads/main/ON4.jpg", ON Live 4
-http://khaitv.giize.com:8080/onplus/play.php?id=ONSPORT4
+http://bentre5.hoangai.vn:12345/192.168.2.41:100/stream?url=https://zenlive.onsports.vn/onplus/ONSPORT4/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10
 #EXTINF:-1 tvg-id="" group-title="Onplus Live" tvg-logo="https://raw.githubusercontent.com/pk792025/pk050979/refs/heads/main/ON5.jpg", ON Live 5
-http://khaitv.giize.com:8080/onplus/play.php?id=ONSPORT5
+http://bentre5.hoangai.vn:12345/192.168.2.41:100/stream?url=https://zenlive.onsports.vn/onplus/ONSPORT5/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10
 #EXTINF:-1 tvg-id="" group-title="Onplus Live" tvg-logo="https://raw.githubusercontent.com/pk792025/pk050979/refs/heads/main/ON6.jpg", ON Live 6
-http://khaitv.giize.com:8080/onplus/play.php?id=ONSPORT6
+http://bentre5.hoangai.vn:12345/192.168.2.41:100/stream?url=https://zenlive.onsports.vn/onplus/ONSPORT6/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10
 #EXTINF:-1 tvg-id="" group-title="Onplus Live" tvg-logo="https://raw.githubusercontent.com/pk792025/pk050979/refs/heads/main/ON7.jpg", ON Live 7
-http://khaitv.giize.com:8080/onplus/play.php?id=ONSPORT7
+http://bentre5.hoangai.vn:12345/192.168.2.41:100/stream?url=https://zenlive.onsports.vn/onplus/ONSPORT7/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10
 #EXTINF:-1 tvg-id="" group-title="Onplus Live" tvg-logo="https://raw.githubusercontent.com/pk792025/pk050979/refs/heads/main/ON8.jpg", ON Live 8
-http://khaitv.giize.com:8080/onplus/play.php?id=ONSPORT8
+http://bentre5.hoangai.vn:12345/192.168.2.41:100/stream?url=https://zenlive.onsports.vn/onplus/ONSPORT8/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10
 #EXTINF:-1 tvg-id="" group-title="Onplus Live" tvg-logo="https://raw.githubusercontent.com/pk792025/pk050979/refs/heads/main/ON9.jpg", ON Live 9
-http://khaitv.giize.com:8080/onplus/play.php?id=ONSPORT9
+http://bentre5.hoangai.vn:12345/192.168.2.41:100/stream?url=https://zenlive.onsports.vn/onplus/ONSPORT9/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10
 #EXTINF:-1 tvg-id="" group-title="Onplus Live" tvg-logo="https://raw.githubusercontent.com/pk792025/pk050979/refs/heads/main/ON10.jpg", ON Live 10
-http://khaitv.giize.com:8080/onplus/play.php?id=ONSPORT10
+http://bentre5.hoangai.vn:12345/192.168.2.41:100/stream?url=https://zenlive.onsports.vn/onplus/ONSPORT10/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10
 
 
 
@@ -3134,49 +3134,49 @@ http://pk79.io.vn/buncha/play.php?id=217243625
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200402173222.png?win007=sell",13/04-17:00 | POL WD1 | Pogon Szczecin Nữ VS Resovia Rzeszow  Nữ
 http://pk79.io.vn/buncha/play.php?id=270141621
 #EXTM3U x-tvg-url="http://pk79.x10.mx/bongda/vebo.php" refresh="3600"
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/280e7df640872c99064a56a3361450a9.png" tvg-chno="SgDo57k" catchup="default" catchup-source="?playbackstart={utc}",13/04-17:15 | Vô địch quốc gia Hà Lan | FC Utrecht VS Groningen (Updated: 2025-04-13 06:00:06)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/280e7df640872c99064a56a3361450a9.png" tvg-chno="SgDo57k" catchup="default" catchup-source="?playbackstart={utc}",13/04-17:15 | Vô địch quốc gia Hà Lan | FC Utrecht VS Groningen (Updated: 2025-04-13 06:20:04)
 http://pk79.io.vn/vebo/play.php?id=SgDo57k
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" tvg-chno="nHwZv55" catchup="default" catchup-source="?playbackstart={utc}",13/04-17:30 | Serie A | Atalanta VS Bologna (Updated: 2025-04-13 06:00:06)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" tvg-chno="nHwZv55" catchup="default" catchup-source="?playbackstart={utc}",13/04-17:30 | Serie A | Atalanta VS Bologna (Updated: 2025-04-13 06:20:04)
 http://pk79.io.vn/vebo/play.php?id=nHwZv55
-#EXTINF:-1 group-title="vebo" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" tvg-chno="mhTxIom" catchup="default" catchup-source="?playbackstart={utc}",13/04-18:00 | V League | Bình Dương VS Đà Nẵng (Updated: 2025-04-13 06:00:06)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" tvg-chno="mhTxIom" catchup="default" catchup-source="?playbackstart={utc}",13/04-18:00 | V League | Bình Dương VS Đà Nẵng (Updated: 2025-04-13 06:20:04)
 http://pk79.io.vn/vebo/play.php?id=mhTxIom
-#EXTINF:-1 group-title="vebo" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" tvg-chno="uxcAoAi" catchup="default" catchup-source="?playbackstart={utc}",13/04-18:00 | V League | Nam Định VS TP Hồ Chí Minh (Updated: 2025-04-13 06:00:06)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" tvg-chno="uxcAoAi" catchup="default" catchup-source="?playbackstart={utc}",13/04-18:00 | V League | Nam Định VS TP Hồ Chí Minh (Updated: 2025-04-13 06:20:04)
 http://pk79.io.vn/vebo/play.php?id=uxcAoAi
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" tvg-chno="1LdQx7f" catchup="default" catchup-source="?playbackstart={utc}",13/04-19:00 | La Liga | Osasuna VS Girona (Updated: 2025-04-13 06:00:06)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" tvg-chno="1LdQx7f" catchup="default" catchup-source="?playbackstart={utc}",13/04-19:00 | La Liga | Osasuna VS Girona (Updated: 2025-04-13 06:20:04)
 http://pk79.io.vn/vebo/play.php?id=1LdQx7f
-#EXTINF:-1 group-title="vebo" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" tvg-chno="O6EAhsV" catchup="default" catchup-source="?playbackstart={utc}",13/04-19:15 | V League | Hải Phòng VS Hà Nội (Updated: 2025-04-13 06:00:06)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" tvg-chno="O6EAhsV" catchup="default" catchup-source="?playbackstart={utc}",13/04-19:15 | V League | Hải Phòng VS Hà Nội (Updated: 2025-04-13 06:20:04)
 http://pk79.io.vn/vebo/play.php?id=O6EAhsV
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/0267ddafe2140758cb495835ff65e61d.png" tvg-chno="4zqqf4B" catchup="default" catchup-source="?playbackstart={utc}",13/04-19:30 | Austrian Bundesliga | Red Bull Salzburg VS Sturm Graz (Updated: 2025-04-13 06:00:06)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/0267ddafe2140758cb495835ff65e61d.png" tvg-chno="4zqqf4B" catchup="default" catchup-source="?playbackstart={utc}",13/04-19:30 | Austrian Bundesliga | Red Bull Salzburg VS Sturm Graz (Updated: 2025-04-13 06:20:04)
 http://pk79.io.vn/vebo/play.php?id=4zqqf4B
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" tvg-chno="4yzvOTY" catchup="default" catchup-source="?playbackstart={utc}",13/04-20:00 | Ngoại hạng Anh | Chelsea VS Ipswich Town (Updated: 2025-04-13 06:00:06)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" tvg-chno="4yzvOTY" catchup="default" catchup-source="?playbackstart={utc}",13/04-20:00 | Ngoại hạng Anh | Chelsea VS Ipswich Town (Updated: 2025-04-13 06:20:04)
 http://pk79.io.vn/vebo/play.php?id=4yzvOTY
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" tvg-chno="Irqznf2" catchup="default" catchup-source="?playbackstart={utc}",13/04-20:00 | Ngoại hạng Anh | Liverpool VS West Ham (Updated: 2025-04-13 06:00:06)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" tvg-chno="Irqznf2" catchup="default" catchup-source="?playbackstart={utc}",13/04-20:00 | Ngoại hạng Anh | Liverpool VS West Ham (Updated: 2025-04-13 06:20:04)
 http://pk79.io.vn/vebo/play.php?id=Irqznf2
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" tvg-chno="WPB6pQA" catchup="default" catchup-source="?playbackstart={utc}",13/04-20:00 | Ngoại hạng Anh | Wolves VS Tottenham Hotspur (Updated: 2025-04-13 06:00:06)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" tvg-chno="WPB6pQA" catchup="default" catchup-source="?playbackstart={utc}",13/04-20:00 | Ngoại hạng Anh | Wolves VS Tottenham Hotspur (Updated: 2025-04-13 06:20:04)
 http://pk79.io.vn/vebo/play.php?id=WPB6pQA
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" tvg-chno="PnMXxwS" catchup="default" catchup-source="?playbackstart={utc}",13/04-20:00 | Serie A | Fiorentina VS Parma (Updated: 2025-04-13 06:00:06)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" tvg-chno="PnMXxwS" catchup="default" catchup-source="?playbackstart={utc}",13/04-20:00 | Serie A | Fiorentina VS Parma (Updated: 2025-04-13 06:20:04)
 http://pk79.io.vn/vebo/play.php?id=PnMXxwS
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" tvg-chno="tlrxdF9" catchup="default" catchup-source="?playbackstart={utc}",13/04-20:00 | Ngoại hạng Anh | Liverpool VS West Ham (Updated: 2025-04-13 06:00:06)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" tvg-chno="tlrxdF9" catchup="default" catchup-source="?playbackstart={utc}",13/04-20:00 | Ngoại hạng Anh | Liverpool VS West Ham (Updated: 2025-04-13 06:20:04)
 http://pk79.io.vn/vebo/play.php?id=tlrxdF9
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" tvg-chno="BizHdNZ" catchup="default" catchup-source="?playbackstart={utc}",13/04-20:00 | Ngoại hạng Anh | Chelsea VS Ipswich Town (Updated: 2025-04-13 06:00:06)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" tvg-chno="BizHdNZ" catchup="default" catchup-source="?playbackstart={utc}",13/04-20:00 | Ngoại hạng Anh | Chelsea VS Ipswich Town (Updated: 2025-04-13 06:20:04)
 http://pk79.io.vn/vebo/play.php?id=BizHdNZ
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" tvg-chno="6s9flTV" catchup="default" catchup-source="?playbackstart={utc}",13/04-20:30 | Bundesliga | VfB Stuttgart VS Werder Bremen (Updated: 2025-04-13 06:00:06)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" tvg-chno="6s9flTV" catchup="default" catchup-source="?playbackstart={utc}",13/04-20:30 | Bundesliga | VfB Stuttgart VS Werder Bremen (Updated: 2025-04-13 06:20:04)
 http://pk79.io.vn/vebo/play.php?id=6s9flTV
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" tvg-chno="43wfqwb" catchup="default" catchup-source="?playbackstart={utc}",13/04-21:15 | La Liga | Alaves VS Real Madrid (Updated: 2025-04-13 06:00:06)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" tvg-chno="43wfqwb" catchup="default" catchup-source="?playbackstart={utc}",13/04-21:15 | La Liga | Alaves VS Real Madrid (Updated: 2025-04-13 06:20:04)
 http://pk79.io.vn/vebo/play.php?id=43wfqwb
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/280e7df640872c99064a56a3361450a9.png" tvg-chno="mRfDb3v" catchup="default" catchup-source="?playbackstart={utc}",13/04-21:45 | Vô địch quốc gia Hà Lan | Willem II VS AFC Ajax (Updated: 2025-04-13 06:00:06)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/280e7df640872c99064a56a3361450a9.png" tvg-chno="mRfDb3v" catchup="default" catchup-source="?playbackstart={utc}",13/04-21:45 | Vô địch quốc gia Hà Lan | Willem II VS AFC Ajax (Updated: 2025-04-13 06:20:04)
 http://pk79.io.vn/vebo/play.php?id=mRfDb3v
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" tvg-chno="2b2VVQM" catchup="default" catchup-source="?playbackstart={utc}",13/04-22:30 | Ngoại hạng Anh | Newcastle United VS Off fan MU (Updated: 2025-04-13 06:00:06)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" tvg-chno="2b2VVQM" catchup="default" catchup-source="?playbackstart={utc}",13/04-22:30 | Ngoại hạng Anh | Newcastle United VS Off fan MU (Updated: 2025-04-13 06:20:04)
 http://pk79.io.vn/vebo/play.php?id=2b2VVQM
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" tvg-chno="cyduoCj" catchup="default" catchup-source="?playbackstart={utc}",13/04-22:30 | Bundesliga | Eintracht Frankfurt VS Heidenheim (Updated: 2025-04-13 06:00:06)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" tvg-chno="cyduoCj" catchup="default" catchup-source="?playbackstart={utc}",13/04-22:30 | Bundesliga | Eintracht Frankfurt VS Heidenheim (Updated: 2025-04-13 06:20:04)
 http://pk79.io.vn/vebo/play.php?id=cyduoCj
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" tvg-chno="vMIq5BL" catchup="default" catchup-source="?playbackstart={utc}",13/04-22:30 | Ngoại hạng Anh | Anti Mân VS Manchester United (Updated: 2025-04-13 06:00:06)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" tvg-chno="vMIq5BL" catchup="default" catchup-source="?playbackstart={utc}",13/04-22:30 | Ngoại hạng Anh | Anti Mân VS Manchester United (Updated: 2025-04-13 06:20:04)
 http://pk79.io.vn/vebo/play.php?id=vMIq5BL
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" tvg-chno="Do3PgWp" catchup="default" catchup-source="?playbackstart={utc}",13/04-23:00 | Serie A | Como VS Torino (Updated: 2025-04-13 06:00:06)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" tvg-chno="Do3PgWp" catchup="default" catchup-source="?playbackstart={utc}",13/04-23:00 | Serie A | Como VS Torino (Updated: 2025-04-13 06:20:04)
 http://pk79.io.vn/vebo/play.php?id=Do3PgWp
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/732e87cac85fccf702f3ce0516c7d93f.png" tvg-chno="laG9kWR" catchup="default" catchup-source="?playbackstart={utc}",13/04-23:00 | Turkey Super League | Sivasspor VS Fenerbahce (Updated: 2025-04-13 06:00:06)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/732e87cac85fccf702f3ce0516c7d93f.png" tvg-chno="laG9kWR" catchup="default" catchup-source="?playbackstart={utc}",13/04-23:00 | Turkey Super League | Sivasspor VS Fenerbahce (Updated: 2025-04-13 06:20:04)
 http://pk79.io.vn/vebo/play.php?id=laG9kWR
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" tvg-chno="wfyB4de" catchup="default" catchup-source="?playbackstart={utc}",13/04-23:30 | La Liga | Real Betis VS Villarreal (Updated: 2025-04-13 06:00:06)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" tvg-chno="wfyB4de" catchup="default" catchup-source="?playbackstart={utc}",13/04-23:30 | La Liga | Real Betis VS Villarreal (Updated: 2025-04-13 06:20:04)
 http://pk79.io.vn/vebo/play.php?id=wfyB4de
 #EXTM3U
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F11363%2F1gxpyjhyqf2n.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F13025%2F1hbcsevf4t12.png%3Fwin007%3Dsell", 🔴 13/04-16:00 | Genoa U20 vs Sampdoria U20 | BLV MÃ SIÊU
