@@ -467,9 +467,9 @@ http://bentre5.hoangai.vn:8082/sctv/get.php?id=sctv10
 #EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/SCTV11.jpg", SCTV11 HD
 http://bentre5.hoangai.vn:8082/sctv/get.php?id=sctv11
 #EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/SCTV12.jpg", SCTV12 HD
-http://khaitv.giize.com:8080/tvmienphi/get.php?id=sctv12
+http://bentre5.hoangai.vn:8082/sctv/get.php?id=sctv12
 #EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/SCTV13.jpg", SCTV13 HD
-http://khaitv.giize.com:8080/tvmienphi/get.php?id=sctv13
+http://bentre5.hoangai.vn:8082/sctv/get.php?id=sctv13
 #EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/SCTV14.jpg", SCTV14 HD
 http://bentre5.hoangai.vn:8082/sctv/get.php?id=sctv14
 #EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/SCTV15.jpg", SCTV15 HD
@@ -477,7 +477,7 @@ http://bentre5.hoangai.vn:1234/stream/sctv/sctv15/master.m3u8?u=atat1996&p=fbf55
 
 
 #EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/SCTV16.jpg", SCTV16 HD
-http://khaitv.giize.com:8080/tvmienphi/get.php?id=sctv16
+http://bentre5.hoangai.vn:8082/sctv/get.php?id=sctv16
 #EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/SCTV17.jpg", SCTV17 HD
 http://bentre5.hoangai.vn:1234/stream/sctv/sctv17/master.m3u8?u=atat1996&p=fbf555dd835e1c2de5842f148e9b8c20555a316e90b63ef0947791beb24ed843
 
@@ -681,7 +681,7 @@ http://bentre5.hoangai.vn:7000/stream_media?id=sctvonline.vn/detail/sctv2-57c388
 #EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/SCTV3.jpg",SCTV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
-http://khaitv.giize.com:8080/tvmienphi/get.php?id=sctv3
+http://bentre5.hoangai.vn:8082/sctv/get.php?id=sctv3
 #EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/SCTV5.jpg",SCTV 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
@@ -2811,11 +2811,11 @@ http://pk79.io.vn/buncha/play.php?id=384253620
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200423111352.png?win007=sell",15/04-00:00 | Turkey 2 Ligi A | Kocaelispor VS Yeni Malatyaspor
 http://pk79.io.vn/buncha/play.php?id=245253627
 #EXTM3U x-tvg-url="http://pk79.x10.mx/bongda/vebo.php" refresh="3600"
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/2cf1e35cdd6ee2d7e7ba1a90c8e8f137.png" tvg-chno="XJKNCBG" catchup="default" catchup-source="?playbackstart={utc}",🔴 14/04-19:00 | Armenian Premier League | FC West Armenia VS Ararat Yerevan (Updated: 2025-04-14 09:00:08)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/2cf1e35cdd6ee2d7e7ba1a90c8e8f137.png" tvg-chno="XJKNCBG" catchup="default" catchup-source="?playbackstart={utc}",🔴 14/04-19:00 | Armenian Premier League | FC West Armenia VS Ararat Yerevan (Updated: 2025-04-14 09:20:06)
 http://pk79.io.vn/vebo/play.php?id=XJKNCBG
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/66515d4316c1cd5be3af297c6243953c.png" tvg-chno="19tmP3e" catchup="default" catchup-source="?playbackstart={utc}",14/04-21:00 | AFC U17 Championship | Indonesia U17 VS Korea DPR U17 (Updated: 2025-04-14 09:00:08)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/66515d4316c1cd5be3af297c6243953c.png" tvg-chno="19tmP3e" catchup="default" catchup-source="?playbackstart={utc}",14/04-21:00 | AFC U17 Championship | Indonesia U17 VS Korea DPR U17 (Updated: 2025-04-14 09:20:06)
 http://pk79.io.vn/vebo/play.php?id=19tmP3e
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/c1781a10c3550887df9d6ef111ad8b59.png" tvg-chno="nB7Knto" catchup="default" catchup-source="?playbackstart={utc}",14/04-21:30 | Bulgarian First League | Slavia Sofia VS Botev Vratsa (Updated: 2025-04-14 09:00:08)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/c1781a10c3550887df9d6ef111ad8b59.png" tvg-chno="nB7Knto" catchup="default" catchup-source="?playbackstart={utc}",14/04-21:30 | Bulgarian First League | Slavia Sofia VS Botev Vratsa (Updated: 2025-04-14 09:20:06)
 http://pk79.io.vn/vebo/play.php?id=nB7Knto
 #EXTM3U
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20200320174833.jpg%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F12009%2F1gxmbrmwnk14.png%3Fwin007%3Dsell", 🔴 14/04-19:00 | Sassuolo U20 vs AS Roma U20 | BLV CÔNG TÔN THẮNG 
