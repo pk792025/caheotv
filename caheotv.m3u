@@ -773,6 +773,18 @@ http://bentre5.hoangai.vn:1234/stream/sctv/kcine/master.m3u8?u=atat1996&p=fbf555
 http://bentre5.hoangai.vn:1234/stream/sctv/kaction/master.m3u8?u=atat1996&p=fbf555dd835e1c2de5842f148e9b8c20555a316e90b63ef0947791beb24ed843
 
 
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://img.lichphatsong.xyz/logo/kcinehd.jpg", K+CINE HD SƯU TẦM
+http://duthao2008.fastddns.org:9981/stream/channelid/41824813?profile=pass
+#EXTINF:-1 tvg-id="kactionhd" group-title="K+" tvg-logo="https://img.lichphatsong.xyz/logo/kaction.jpg", K+ACTION HD SƯU TẦM
+http://duthao2008.fastddns.org:9981/stream/channelid/1690978840?profile=pass
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img.lichphatsong.xyz/logo/ksport1hd.jpg", K+SPORT1 HD V
+http://duthao2008.fastddns.org:9981/stream/channelid/1013494608?profile=pass
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://img.lichphatsong.xyz/logo/ksport2hd.jpg", K+SPORT2 HD SƯU TẦM
+http://duthao2008.fastddns.org:9981/stream/channelid/1077102621?profile=pass
+#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://img.lichphatsong.xyz/logo/kkidshd.jpg", K+SPORT2 HD SƯU TẦM
+http://duthao2008.fastddns.org:9981/stream/channelid/471475672?profile=pass
+
+
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/f53c0d1b-0268-4d1e-b150-7d797354b925.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", ON Sports HD
 http://bentre5.hoangai.vn:12345/192.168.2.41:100/stream?url=https://zenlive.onsports.vn/onplus/THETHAO_HD/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports+
@@ -1562,24 +1574,21 @@ http://pk79.io.vn/laykinhtv/play.php?id=e4GTgi0T
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/6f443f105a4d0569784a322b334b34f1.png", 16/04 19:00 | Chinese Hong Kong Elite Cup | Tai Po VS Lee Man 🔴
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=deLUsQ7y
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/70dd3b1e69708842440893f5a8b46632.png", 16/04 19:15 | Malaysian Super League | Kuching City FC VS Johor Darul Ta'zim FC 🔴
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-http://pk79.io.vn/laykinhtv/play.php?id=YfUjBZb3
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/3f173748c6130443ceb3c19524947811.png", 16/04 20:50 | VĐQG Oman | Al Shabab SC VS Al-Nasr(OMA) 🔴
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=75Nr1VHd
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/072d48588b6bd92c62e25e6a3bfa8051.png", 16/04 21:00 | Cúp Liên Đoàn Ai Cập | El Gounah VS Modern Sport FC 🔴
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+http://pk79.io.vn/laykinhtv/play.php?id=ZMSHyvJK
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/072d48588b6bd92c62e25e6a3bfa8051.png", 16/04 21:00 | Cúp Liên Đoàn Ai Cập | Smouha SC VS Zamalek SC 🔴
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+http://pk79.io.vn/laykinhtv/play.php?id=Cnyxlf61
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/b2db315c601e35550890342833f2b693.png", 16/04 21:00 | Ngoại hạng Kazakhstan | FC Kairat Almaty VS FK Atyrau 🔴
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+http://pk79.io.vn/laykinhtv/play.php?id=jTh9dbrT
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/950887f6f686e4f70d453426abf383cb.png", 16/04 21:00 | Ngoại hạng Iraq | Zakho SC VS Naft Missan 🔴
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=gd3xW6PV
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/072d48588b6bd92c62e25e6a3bfa8051.png", 16/04 21:00 | Cúp Liên Đoàn Ai Cập | El Gounah VS Modern Sport FC
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-http://pk79.io.vn/laykinhtv/play.php?id=ZMSHyvJK
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/072d48588b6bd92c62e25e6a3bfa8051.png", 16/04 21:00 | Cúp Liên Đoàn Ai Cập | Smouha SC VS Zamalek SC
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-http://pk79.io.vn/laykinhtv/play.php?id=Cnyxlf61
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/b2db315c601e35550890342833f2b693.png", 16/04 21:00 | Ngoại hạng Kazakhstan | FC Kairat Almaty VS FK Atyrau
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-http://pk79.io.vn/laykinhtv/play.php?id=jTh9dbrT
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/626fc309dc4e2119c7205acdd10b488b.png", 16/04 21:30 | Armenian Cup | FC Noah VS FK Van Charentsavan
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=4F8olsFP
@@ -2853,9 +2862,7 @@ http://pk79.io.vn/laykinhtv/play.php?id=oklzKUTb
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=vyGBuaHt
 #EXTM3U x-tvg-url="http://pk79.x10.mx/bongda/vebo.php" refresh="3600"
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/c5c201512031b5950e58c1f8ca04b47e.png" tvg-chno="JmTSDuk" catchup="default" catchup-source="?playbackstart={utc}",🔴 16/04-19:00 | China Super League | Shanghai Shenhua VS Qingdao Manatee (Updated: 2025-04-16 10:00:09)
-http://pk79.io.vn/vebo/play.php?id=JmTSDuk
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/3eb43a66309f6afcd815c2ae31367351.png" tvg-chno="QYjW4gc" catchup="default" catchup-source="?playbackstart={utc}",16/04-22:00 | Russian Cup | Zenit St. Petersburg VS Rostov FK (Updated: 2025-04-16 10:00:09)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/3eb43a66309f6afcd815c2ae31367351.png" tvg-chno="QYjW4gc" catchup="default" catchup-source="?playbackstart={utc}",16/04-22:00 | Russian Cup | Zenit St. Petersburg VS Rostov FK (Updated: 2025-04-16 10:20:05)
 http://pk79.io.vn/vebo/play.php?id=QYjW4gc
 #EXTM3U
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F5211%2F1gqk9n72e0r.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F4028%2F1gtqmgs3q21w.png%3Fwin007%3Dsell", 🔴 16/04-19:00 | Bangkok United FC vs Buriram United | BLV BRUNO
@@ -3174,14 +3181,12 @@ http://khaitv.giize.com:8080/luongson/play.php?id=707ebfe0-5dc4-4014-b1a3-b66617
 http://khaitv.giize.com:8080/luongson/play.php?id=9ed31b17-d169-4253-97a6-bfc7ab3f5f6d
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577409120.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F659%2F1gxmbjjqa62r.png%3Fwin007%3Dsell", 18/04-02:00 | Chelsea vs Legia Warszawa | BLV CHU ĐỒNG
 http://khaitv.giize.com:8080/luongson/play.php?id=7fdec423-d1a9-4c01-a8c0-b2ff58b4f70a
-#EXTINF:-1 group-title="gavang" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb43159455cda7d0aedf3acb9d929d495%2Fimage%2Fsmall&m2=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa63b7a7c3cbd2bfa58a1aae93d57b0d1%2Fimage%2Fsmall", 16/04-19:00 | Chinese Super League | Shanghai Shenhua FC - Qingdao Hainiu FC
-http://khaitv.giize.com:8080/thapcam/proxy.php?url=https%3A%2F%2Flive.rapid-api.icu%2Flive%2F274ee5009c385eafc3df1a1ac4a99cdc%2Fplaylist.m3u8&referer=https://tructiep1.gavang4.uk/
 #EXTINF:-1 group-title="gavang" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F109f144a3b5e3d4121e6fb49c35388da%2Fimage%2Fsmall&m2=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6638476ac3ec9f0b74fb0283a59e904f%2Fimage%2Fsmall", 16/04-19:00 | Thai League Cup | Bangkok United FC - Buriram United
 http://khaitv.giize.com:8080/thapcam/proxy.php?url=&referer=https://tructiep1.gavang4.uk/
 #EXTINF:-1 group-title="gavang" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fcecfb0124f67b3b954783c52b786778f%2Fimage%2Fsmall&m2=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb8351117d59ca3a9ffa39382da09673c%2Fimage%2Fsmall", 16/04-21:00 | Egypt League Cup | Smouha SC - Zamalek SC
 http://khaitv.giize.com:8080/thapcam/proxy.php?url=https%3A%2F%2Flive.rapid-api.icu%2Flive%2Fce542f8c6bd9d81b383e241875c93117%2Fplaylist.m3u8&referer=https://tructiep1.gavang4.uk/
 #EXTINF:-1 group-title="gavang" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6a568829a62f50d2120b85e8b5f88a2f%2Fimage%2Fsmall&m2=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6b13de9db69295f0d9533f2b42fffb09%2Fimage%2Fsmall", 16/04-22:00 | Russian Cup | Zenit St. Petersburg - FK Rostov
-http://khaitv.giize.com:8080/thapcam/proxy.php?url=&referer=https://tructiep1.gavang4.uk/
+http://khaitv.giize.com:8080/thapcam/proxy.php?url=https%3A%2F%2Flive.rapid-api.icu%2Flive%2F968ff327c527766bbc9fc08310d1b1b9%2Fplaylist.m3u8&referer=https://tructiep1.gavang4.uk/
 #EXTINF:-1 group-title="gavang" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F066af9bdd1177c6d9a3f92ce320c3648%2Fimage%2Fsmall&m2=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F132b20a329c7c9f97ec1b5edb9da464d%2Fimage%2Fsmall", 16/04-23:00 | Slovak Cup | Dukla Banska Bystrica - MFK Ruzomberok
 http://khaitv.giize.com:8080/thapcam/proxy.php?url=&referer=https://tructiep1.gavang4.uk/
 #EXTINF:-1 group-title="gavang" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F7a91ad38d4f148cfef81632fbd3a50b3%2Fimage%2Fsmall&m2=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F92bb2f50169cd35aec5a354fc7dd13a8%2Fimage%2Fsmall", 17/04-00:30 | Russian Cup | Dynamo Moscow - CSKA Moscow
@@ -3192,8 +3197,10 @@ http://khaitv.giize.com:8080/thapcam/proxy.php?url=&referer=https://tructiep1.ga
 http://khaitv.giize.com:8080/thapcam/proxy.php?url=&referer=https://tructiep1.gavang4.uk/
 #EXTINF:-1 group-title="gavang" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F946ca6ff50107aa2aa51fc0ddbb7fe6d%2Fimage%2Fsmall&m2=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F42b8a7886e54d35cf818dd6c497a8b2f%2Fimage%2Fsmall", 17/04-02:00 | UEFA Champions League | Real Madrid - Arsenal
 http://khaitv.giize.com:8080/thapcam/proxy.php?url=&referer=https://tructiep1.gavang4.uk/
+#EXTINF:-1 group-title="gavang" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F946ca6ff50107aa2aa51fc0ddbb7fe6d%2Fimage%2Fsmall&m2=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F42b8a7886e54d35cf818dd6c497a8b2f%2Fimage%2Fsmall", 17/04-02:00 | UEFA Champions League | Real Madrid - Arsenal
+http://khaitv.giize.com:8080/thapcam/proxy.php?url=&referer=https://tructiep1.gavang4.uk/
 #EXTM3U
-# Cập nhật lúc: 2025-04-16 10:00:08
+# Cập nhật lúc: 2025-04-16 10:25:07
 #EXTINF:-1 group-title="OnPLus Live 🔴" tvg-logo="https://imgvlive.vtvcab.vn/720X405/62786b17-a47c-44e4-bb7e-baff5691983a.jpg", 🔴 16/04-10:25 | Arena of Glory Spring 2025
 http://bentre5.hoangai.vn:8082/onplus/play2.php?id=onsport7
 #EXTINF:-1 group-title="OnPLus Live 🔴" tvg-logo="https://imgvlive.vtvcab.vn/720X405/f9ac5b04-0007-4342-af33-1943777034c3.jpg", 🔴 16/04-12:00 | Ngày 3 I BMW Open 2025
