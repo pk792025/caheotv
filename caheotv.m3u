@@ -521,57 +521,31 @@ http://bentre5.hoangai.vn:7000/stream_media?id=sctvonline.vn/detail/th-dong-thap
 #EXTINF:0 group-title="SCTV" tvg-logo="https://i.ytimg.com/vi/Opv4PmUyi8g/maxresdefault.jpg",VTV 4
 http://bentre5.hoangai.vn:7000/stream_media?id=sctvonline.vn/detail/vtv4-truyen-hinh-doi-ngoai
 #EXTINF:0 group-title="SCTV" tvg-logo="https://i.ytimg.com/vi/fyT_xa-g-Pk/hq720.jpg",VTVcab 1 Vie Giải Trí
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sctvonline.vn/
-http://s2.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8
+http://bentre5.hoangai.vn:8082/sctv/get.php?id=vtvcab1
 #EXTINF:0 group-title="SCTV" tvg-logo="https://i.ytimg.com/vi/rwhsuTvSXxo/maxresdefault.jpg",VTVcab 10 On Cine
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sctvonline.vn/
-http://s2.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline.vn/hls/vtvcab10/index.m3u8
+http://bentre5.hoangai.vn:8082/sctv/get.php?id=vtvcab10
 #EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/ONSTYLE.jpg",VTVcab 12 StyleTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sctvonline.vn/
-http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/vtvcab12/index.m3u8
+http://bentre5.hoangai.vn:8082/sctv/get.php?id=vtvcab12
 #EXTINF:0 group-title="SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822524259/0f3a4d1ebfaf_640_360.png",VTVcab 15 On Music
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sctvonline.vn/
-http://s8.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/hls/vtvcab15/index.m3u8
+http://bentre5.hoangai.vn:8082/sctv/get.php?id=vtvcab15
 #EXTINF:0 group-title="SCTV" tvg-logo="https://i.ibb.co/k1ccQNr/vcab17.webp",VTVcab 17 On Trending TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sctvonline.vn/
-http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/vtvcab17/index.m3u8
+http://bentre5.hoangai.vn:8082/sctv/get.php?id=vtvcab17
 #EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/ONECHANNEL.jpg",VTVcab 19 On Film TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sctvonline.vn/
-http://s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s3.edge.cdn.sctvonline.vn/hls/vtvcab19/index.m3u8
+http://bentre5.hoangai.vn:8082/sctv/get.php?id=vtvcab19
 #EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ONPHIMVIET.jpg/1600px-ONPHIMVIET.jpg",VTVcab 2 On Phim Việt
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sctvonline.vn/
-http://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8
+http://bentre5.hoangai.vn:8082/sctv/get.php?id=vtvcab2
 #EXTINF:0 group-title="SCTV" tvg-logo="https://i.ibb.co/HHfL7Dq/cocab20.webp",VTVcab 20 On V Family
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sctvonline.vn/
-http://s2.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline.vn/hls/vtvcab20/index.m3u8
+http://bentre5.hoangai.vn:8082/sctv/get.php?id=vtvcab20
 #EXTINF:0 group-title="SCTV" tvg-logo="https://i.ytimg.com/vi/NZablQM-L9g/maxresdefault.jpg",VTVcab 4 On Movies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sctvonline.vn/
-http://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/vtvcab4/index.m3u8
+http://bentre5.hoangai.vn:8082/sctv/get.php?id=vtvcab4
 #EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/ONECHANNEL.jpg",VTVcab 5 On E Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sctvonline.vn/
-http://s4.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s4.edge.cdn.sctvonline.vn/hls/vtvcab5/index.m3u8
+http://bentre5.hoangai.vn:8082/sctv/get.php?id=vtvcab5
 #EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/ONO2TV.jpg",VTVcab 7 ON O2TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sctvonline.vn/
-http://s8.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/hls/vtvcab7/index.m3u8
+http://bentre5.hoangai.vn:8082/sctv/get.php?id=vtvcab7
 #EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/ONBIBI.jpg",VTVcab 8 On Bi Bi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sctvonline.vn/
-http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/vtvcab8/index.m3u8
+http://bentre5.hoangai.vn:8082/sctv/get.php?id=vtvcab8
 #EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/ONINFO.jpg",VTVcab 9 On InfoTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sctvonline.vn/
-http://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/vtvcab9/index.m3u8
+http://bentre5.hoangai.vn:8082/sctv/get.php?id=vtvcab9
 #EXTINF:0 group-title="SCTV" tvg-logo="",Box Movie 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
@@ -1042,10 +1016,30 @@ https://qtcdn.livestreameuro.live/live/duongtiensd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://qtcdn.livestreameuro.live/live/duongtienhd1.flv
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Indonesian Liga 1",17/04 19h00 PSS Sleman VS Dewa United FC (CH)
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Indonesian Liga 1",17/04 19h00 PSS Sleman VS Dewa United FC (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
+https://qtcdn.livestreameuro.live/live/honghainhisd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Indonesian Liga 1",17/04 19h00 PSS Sleman VS Dewa United FC (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/honghainhihd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Indonesian Liga 1",17/04 19h00 PSS Sleman VS Dewa United FC (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179939170.vipcdnlive.xyz/live/honghainhisd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Indonesian Liga 1",17/04 19h00 PSS Sleman VS Dewa United FC (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179939170.vipcdnlive.xyz/live/honghainhihd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Indonesian Liga 1",17/04 19h00 PSS Sleman VS Dewa United FC (CH) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/honghainhisd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Indonesian Liga 1",17/04 19h00 PSS Sleman VS Dewa United FC (CH) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/honghainhihd1.flv
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Ngoại Hạng Đan Mạch",17/04 19h00 Lyngby VS Sonderjyske (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -2614,109 +2608,107 @@ http://pk79.io.vn/laykinhtv/play.php?id=oklzKUTb
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=vyGBuaHt
 #EXTM3U
-#PLAYLIST: Bún Chả TV - Cập nhật ngày 17/04/2025 18:15
+#PLAYLIST: Bún Chả TV - Cập nhật ngày 17/04/2025 18:30
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/fdad32ccf5205e78f9f39db42d073998.svg",🔴 17/04-16:00 | LPL | WE vs BLG
 http://pk79.io.vn/buncha/play.php?id=599996965&type=36
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200418084009.png?win007=sell",🔴 SÓNG QUỐC TẾ | 17/04-16:30 | Ukraine U21 Liga | FC Vorskla U21 vs PFC Oleksandria U21
 http://pk79.io.vn/buncha/play.php?id=122024628&type=quocte
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200317091800.png?win007=sell",🔴 17/04-16:35 | Australia A-League | Brisbane Roar vs Western United FC
-http://pk79.io.vn/buncha/play.php?id=262145626&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/2011929115408.jpg?win007=sell",🔴 17/04-17:00 | WK League | Hyundai Steel Red Angels Nữ vs Gyeongju FC Nữ
 http://pk79.io.vn/buncha/play.php?id=380094720&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/2011929115408.jpg?win007=sell",🔴 17/04-17:00 | WK League | KSPO FC Nữ vs Suwon FMC Nữ
 http://pk79.io.vn/buncha/play.php?id=270094729&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/2011929115408.jpg?win007=sell",🔴 17/04-17:00 | WK League | Sejong Gumi Sportstoto Nữ vs Seoul Amazones Nữ
 http://pk79.io.vn/buncha/play.php?id=390094721&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190424204342.jpg?win007=sell",17/04-17:00 | Australia FFA Cup | Eltham Redbacks vs Hume City
-http://pk79.io.vn/buncha/play.php?id=355446723&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Spanish Bizkaia-Tercera Division | CD Binissalem vs UD Alcudia
-http://pk79.io.vn/buncha/play.php?id=359046723&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Australia New South Wales League 2 | Hawkesbury City SC vs Fraser Park FC
-http://pk79.io.vn/buncha/play.php?id=600005629&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Spanish Bizkaia-Tercera Division | CD Marchamalo vs CD Azuqueca
-http://pk79.io.vn/buncha/play.php?id=600002283&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Spanish Bizkaia-Tercera Division | Las Rozas vs CDF Tres Cantos
-http://pk79.io.vn/buncha/play.php?id=600001478&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Spanish Bizkaia-Tercera Division | Alcorcon B vs Rayo Vallecano B
-http://pk79.io.vn/buncha/play.php?id=600001471&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190424204342.jpg?win007=sell",17/04-17:00 | Australia FFA Cup | Whittlesea United vs West Preston SC
 http://pk79.io.vn/buncha/play.php?id=600001268&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Spanish Bizkaia-Tercera Division | CD Mosconia vs Real Titanico Laviana
 http://pk79.io.vn/buncha/play.php?id=280146728&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190424204342.jpg?win007=sell",17/04-17:00 | Australia FFA Cup | Sydenham Park vs Dandenong City SC
-http://pk79.io.vn/buncha/play.php?id=375446725&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Spanish Bizkaia-Tercera Division | CA Bembibre vs Burgos Promesas
 http://pk79.io.vn/buncha/play.php?id=397046725&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Spanish Bizkaia-Tercera Division | Muleno CF vs At. Pulpileno
-http://pk79.io.vn/buncha/play.php?id=347146721&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Spanish Bizkaia-Tercera Division | CD Cieza vs SFC Minerva
-http://pk79.io.vn/buncha/play.php?id=337146720&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Spanish Bizkaia-Tercera Division | Palencia vs Villaralbo CF
-http://pk79.io.vn/buncha/play.php?id=338046720&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Spanish Bizkaia-Tercera Division | AD San Juan vs Bidzala
+http://pk79.io.vn/buncha/play.php?id=227146729&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Spanish Bizkaia-Tercera Division | Alcorcon B vs Rayo Vallecano B
+http://pk79.io.vn/buncha/play.php?id=600001471&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Spanish Bizkaia-Tercera Division | CD Cuarte Industrial vs AD Almudevar
+http://pk79.io.vn/buncha/play.php?id=399046727&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Spanish Bizkaia-Tercera Division | CD Marchamalo vs CD Azuqueca
+http://pk79.io.vn/buncha/play.php?id=600002283&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Australia New South Wales League 2 | Hawkesbury City SC vs Fraser Park FC
+http://pk79.io.vn/buncha/play.php?id=600005629&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200418084009.png?win007=sell",17/04-17:00 | Ukraine U21 Liga | Dinamo KyivU21 vs Obolon Kiev U21
+http://pk79.io.vn/buncha/play.php?id=283124626&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Czech Republic U19 League | Vysocina Jihlava U19 vs Viktoria Plzen U19
+http://pk79.io.vn/buncha/play.php?id=494893722&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Spanish Bizkaia-Tercera Division | Atletico Arteixo vs CF Noia
+http://pk79.io.vn/buncha/play.php?id=226146728&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Hungary U19 A League | MTK Budapest U19 vs Paksi SEU19
+http://pk79.io.vn/buncha/play.php?id=399164728&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Spanish Bizkaia-Tercera Division | Las Rozas vs CDF Tres Cantos
+http://pk79.io.vn/buncha/play.php?id=600001478&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/5e8468d2571ba27c635555405a3f26d6.png",🔴 17/04-17:00 | LCK 2025 LMHT | BRO vs KT
 http://pk79.io.vn/buncha/play.php?id=599995964&type=36
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200418084009.png?win007=sell",🔴 SÓNG QUỐC TẾ | 17/04-17:00 | Ukraine U21 Liga | Dinamo KyivU21 vs Obolon Kiev U21
+http://pk79.io.vn/buncha/play.php?id=283124626&type=quocte
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:10 | Ethiopia Higher League | Addis Ababa University vs Nib FC
 http://pk79.io.vn/buncha/play.php?id=600010543&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:10 | Australia Queensland Premier League 3 | Palm Beach vs Tweed United
-http://pk79.io.vn/buncha/play.php?id=600008247&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:10 | Spanish Bizkaia-Tercera Division | Cazalegas vs Valdepenas
 http://pk79.io.vn/buncha/play.php?id=396146725&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:10 | Australia Queensland Premier League 3 | Palm Beach vs Tweed United
+http://pk79.io.vn/buncha/play.php?id=600008247&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:20 | Spanish Bizkaia-Tercera Division | SD San Ignacio vs CD Lagun Onak
 http://pk79.io.vn/buncha/play.php?id=339046721&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190424204342.jpg?win007=sell",17/04-17:30 | Australia FFA Cup | Chisholm United vs Daniel Maciol
-http://pk79.io.vn/buncha/play.php?id=385446726&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:30 | Australia WA State League 1 Reserves | Curtin University SC Reserves vs Gwelup Croatia SC Reserves
-http://pk79.io.vn/buncha/play.php?id=319246721&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200825111140.png?win007=sell",17/04-17:30 | Denmark Youth U19 | BrondbyU19 vs Randers Freja U19
+http://pk79.io.vn/buncha/play.php?id=107211629&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:30 | Spanish Bizkaia-Tercera Division | CD Atletico Mansilles vs CD Cristo Atletico
 http://pk79.io.vn/buncha/play.php?id=378046724&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:30 | Czech Republic U19 League | Jablonec U19 vs Brno U19
 http://pk79.io.vn/buncha/play.php?id=305893724&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200825111140.png?win007=sell",17/04-17:30 | Denmark Youth U19 | BrondbyU19 vs Randers Freja U19
-http://pk79.io.vn/buncha/play.php?id=107211629&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:30 | Spanish Bizkaia-Tercera Division | Moralo CP vs Arroyo Club Polideportivo
 http://pk79.io.vn/buncha/play.php?id=395146724&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:30 | Spanish Bizkaia-Tercera Division | Cala Pozuelo vs CF Trival Valderas
-http://pk79.io.vn/buncha/play.php?id=600001485&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:30 | Australia WA State League 1 Reserves | Curtin University SC Reserves vs Gwelup Croatia SC Reserves
+http://pk79.io.vn/buncha/play.php?id=319246721&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190424204342.jpg?win007=sell",17/04-17:30 | Australia FFA Cup | Chisholm United vs Daniel Maciol
+http://pk79.io.vn/buncha/play.php?id=385446726&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:30 | Spanish Bizkaia-Tercera Division | Villarreal C vs UD Rayo Ibense
 http://pk79.io.vn/buncha/play.php?id=226246729&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:00 | Spanish Bizkaia-Tercera Division | Lanzarote vs Arucas CF
-http://pk79.io.vn/buncha/play.php?id=215146726&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:00 | Spanish Bizkaia-Tercera Division | Villa Santa Brigida vs UD Tamaraceite
-http://pk79.io.vn/buncha/play.php?id=365146721&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:00 | Spanish Bizkaia-Tercera Division | CD Santa Ursula vs CD San Miguel
-http://pk79.io.vn/buncha/play.php?id=355146720&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:00 | Serbia U19 League | TSC U19 vs Partizan Belgrade U19
-http://pk79.io.vn/buncha/play.php?id=600010613&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:00 | Spanish Bizkaia-Tercera Division | CD Buzanada vs Estrella CF
-http://pk79.io.vn/buncha/play.php?id=384146722&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190423221331.jpg?win007=sell",17/04-18:00 | National Premier Leagues Western Australia | Bayswater City vs Armadale SC
-http://pk79.io.vn/buncha/play.php?id=209092729&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:00 | Denmark - 4.Liga | Greve Fodbold vs Næstved IF 2
-http://pk79.io.vn/buncha/play.php?id=600010585&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:00 | Denmark - 4.Liga | Grenaa vs Tarup Paarup IF
-http://pk79.io.vn/buncha/play.php?id=600010578&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:00 | Denmark - 4.Liga | Fredensborg BI vs Karlslunde IF
-http://pk79.io.vn/buncha/play.php?id=600010571&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:00 | International Friendly | North Macedonia U18 vs Slovakia U18
-http://pk79.io.vn/buncha/play.php?id=600005678&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:00 | Spanish Bizkaia-Tercera Division | Marino vs Union Viera
-http://pk79.io.vn/buncha/play.php?id=394146723&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:30 | Spanish Bizkaia-Tercera Division | Cala Pozuelo vs CF Trival Valderas
+http://pk79.io.vn/buncha/play.php?id=600001485&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:00 | Spanish Bizkaia-Tercera Division | CF San Bartolome vs UD Ibarra
 http://pk79.io.vn/buncha/play.php?id=245146729&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:00 | Spanish Bizkaia-Tercera Division | CD Mensajero vs UD San Fernando
-http://pk79.io.vn/buncha/play.php?id=235146728&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200825111140.png?win007=sell",17/04-18:00 | Denmark Youth U19 | Aarhus AGF U19 vs Silkeborg U19
-http://pk79.io.vn/buncha/play.php?id=237211622&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190423221331.jpg?win007=sell",17/04-18:00 | National Premier Leagues Western Australia | Perth SC vs Floreat Athena
 http://pk79.io.vn/buncha/play.php?id=398092727&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:00 | Spanish Bizkaia-Tercera Division | Las Palmas Atletico vs Panaderia Pulido
-http://pk79.io.vn/buncha/play.php?id=225146727&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:00 | Spanish Bizkaia-Tercera Division | Marino vs Union Viera
+http://pk79.io.vn/buncha/play.php?id=394146723&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20130418202641.jpg?win007=sell",17/04-18:00 | Danish 1st Division | Odense BK vs Kolding FC
 http://pk79.io.vn/buncha/play.php?id=469475720&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200420172705.jpg?win007=sell",17/04-18:00 | Denmark Womans League | Osterbro IF Nữ vs Midtjylland (W)
 http://pk79.io.vn/buncha/play.php?id=348360720&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/fdad32ccf5205e78f9f39db42d073998.svg",17/04-18:00 | LPL | NIP vs WBG
-http://pk79.io.vn/buncha/play.php?id=599996972&type=36
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190423221331.jpg?win007=sell",17/04-18:00 | National Premier Leagues Western Australia | Bayswater City vs Armadale SC
+http://pk79.io.vn/buncha/play.php?id=209092729&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:00 | Spanish Bizkaia-Tercera Division | CD Buzanada vs Estrella CF
+http://pk79.io.vn/buncha/play.php?id=384146722&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:00 | Spanish Bizkaia-Tercera Division | CD Santa Ursula vs CD San Miguel
+http://pk79.io.vn/buncha/play.php?id=355146720&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:00 | Spanish Bizkaia-Tercera Division | Las Palmas Atletico vs Panaderia Pulido
+http://pk79.io.vn/buncha/play.php?id=225146727&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:00 | Spanish Bizkaia-Tercera Division | Lanzarote vs Arucas CF
+http://pk79.io.vn/buncha/play.php?id=215146726&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200825111140.png?win007=sell",17/04-18:00 | Denmark Youth U19 | Aarhus AGF U19 vs Silkeborg U19
+http://pk79.io.vn/buncha/play.php?id=237211622&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:00 | International Friendly | North Macedonia U18 vs Slovakia U18
+http://pk79.io.vn/buncha/play.php?id=600005678&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:00 | Spanish Bizkaia-Tercera Division | Villa Santa Brigida vs UD Tamaraceite
+http://pk79.io.vn/buncha/play.php?id=365146721&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:00 | Spanish Bizkaia-Tercera Division | CD Mensajero vs UD San Fernando
+http://pk79.io.vn/buncha/play.php?id=235146728&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:00 | Denmark - 4.Liga | Fredensborg BI vs Karlslunde IF
+http://pk79.io.vn/buncha/play.php?id=600010571&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:00 | Denmark - 4.Liga | Grenaa vs Tarup Paarup IF
+http://pk79.io.vn/buncha/play.php?id=600010578&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:00 | Denmark - 4.Liga | Greve Fodbold vs Næstved IF 2
+http://pk79.io.vn/buncha/play.php?id=600010585&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:00 | Serbia U19 League | TSC U19 vs Partizan Belgrade U19
+http://pk79.io.vn/buncha/play.php?id=600010613&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190423221331.jpg?win007=sell",🔴 SÓNG QUỐC TẾ | 17/04-18:00 | National Premier Leagues Western Australia | Bayswater City vs Armadale SC
 http://pk79.io.vn/buncha/play.php?id=209092729&type=quocte
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190423221331.jpg?win007=sell",🔴 SÓNG QUỐC TẾ | 17/04-18:00 | National Premier Leagues Western Australia | Perth SC vs Floreat Athena
@@ -2727,10 +2719,14 @@ http://pk79.io.vn/buncha/play.php?id=469475720&type=quocte
 http://pk79.io.vn/buncha/play.php?id=600005678&type=quocte
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:15 | Mongolia Premier League | Bayanzurkh Sporting Ilch vs Khangarid Klub
 http://pk79.io.vn/buncha/play.php?id=327446722&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",SÓNG QUỐC TẾ | 17/04-18:15 | Mongolia Premier League | Bayanzurkh Sporting Ilch vs Khangarid Klub
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",🔴 SÓNG QUỐC TẾ | 17/04-18:15 | Mongolia Premier League | Bayanzurkh Sporting Ilch vs Khangarid Klub
 http://pk79.io.vn/buncha/play.php?id=327446722&type=quocte
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200423114206.png?win007=sell",🔴 17/04-18:30 | Kazakhstan Division 1 | Kairat Almaty II vs Khan Tengri FC
 http://pk79.io.vn/buncha/play.php?id=236326729&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:30 | Denmark - 4.Liga | Norresundby vs Marienlyst
+http://pk79.io.vn/buncha/play.php?id=600010592&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/fdad32ccf5205e78f9f39db42d073998.svg",17/04-18:45 | LPL | NIP vs WBG
+http://pk79.io.vn/buncha/play.php?id=599996972&type=36
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190516105925.png?win007=sell",17/04-19:00 | Indonesia Super League | PSS Sleman vs Dewa United FC
 http://pk79.io.vn/buncha/play.php?id=223614624&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20130418202641.jpg?win007=sell",SÓNG QUỐC TẾ | 17/04-19:00 | Danish 1st Division | Roskilde vs Herfolge Boldklub Koge
@@ -2753,8 +2749,8 @@ http://pk79.io.vn/buncha/play.php?id=599995992&type=36
 http://pk79.io.vn/buncha/play.php?id=599996979&type=36
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/fdad32ccf5205e78f9f39db42d073998.svg",19/04-18:00 | LPL | WE vs AL
 http://pk79.io.vn/buncha/play.php?id=599997000&type=36
-# Tổng số trận đấu: 69
-# Tạo tự động lúc 17/04/2025 18:15:13
+# Tổng số trận đấu: 70
+# Tạo tự động lúc 17/04/2025 18:30:12
 #EXTM3U x-tvg-url="http://pk79.x10.mx/bongda/vebo.php" refresh="3600"
 #EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/4882cc6cf460ceca9f2e45402e673433.png" tvg-chno="pzs5jXb" catchup="default" catchup-source="?playbackstart={utc}",🔴 17/04-16:35 | Australia A-League | Brisbane Roar VS Western United FC (Updated: 2025-04-17 07:20:03)
 http://pk79.io.vn/vebo/play.php?id=pzs5jXb
@@ -2771,50 +2767,36 @@ http://pk79.io.vn/vebo/play.php?id=mFhINyG
 #EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" tvg-chno="NBRGsSB" catchup="default" catchup-source="?playbackstart={utc}",17/04-23:45 | Europa Conference League | Fiorentina VS NK Publikum Celje (Updated: 2025-04-17 07:20:03)
 http://pk79.io.vn/vebo/play.php?id=NBRGsSB
 #EXTM3U
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20181011191538.jpg%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20191012082708.jpg%3Fwin007%3Dsell", 🔴 17/04-16:35 | Brisbane Roar vs Western United FC | BLV HOẮC ĐÔ
-http://khaitv.giize.com:8080/luongson/play.php?id=08aef72b-c423-47dd-8837-911e02cf5454
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20181011191538.jpg%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20191012082708.jpg%3Fwin007%3Dsell", 🔴 17/04-16:35 | Brisbane Roar vs Western United FC | BLV ĐOÀN DỰ 
-http://khaitv.giize.com:8080/luongson/play.php?id=edf8cd01-096b-47a5-8e99-419928935cf6
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20181011191538.jpg%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20191012082708.jpg%3Fwin007%3Dsell", 🔴 17/04-16:35 | Brisbane Roar vs Western United FC | BLV VĂN TÍCH
-http://khaitv.giize.com:8080/luongson/play.php?id=262145626
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20181011191538.jpg%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20191012082708.jpg%3Fwin007%3Dsell", 🔴 17/04-16:35 | Brisbane Roar vs Western United FC | BLV LƯU BỊ
-http://khaitv.giize.com:8080/luongson/play.php?id=8c4860ea-532c-47fe-af14-b87197a94346
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20181011191538.jpg%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20191012082708.jpg%3Fwin007%3Dsell", 🔴 17/04-16:35 | Brisbane Roar vs Western United FC | BLV DƯƠNG CHÍ
-http://khaitv.giize.com:8080/luongson/play.php?id=c16b251d-0f54-4382-9bdc-33011c588ef9
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20181011191538.jpg%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20191012082708.jpg%3Fwin007%3Dsell", 🔴 17/04-16:35 | Brisbane Roar vs Western United FC | BLV DƯƠNG QUÁ
-http://khaitv.giize.com:8080/luongson/play.php?id=1d8383cd-3ba5-4618-95dd-4a0eeecb013a
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20181011191538.jpg%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20191012082708.jpg%3Fwin007%3Dsell", 🔴 17/04-16:35 | Brisbane Roar vs Western United FC | BLV KHÔNG NGỦ
-http://khaitv.giize.com:8080/luongson/play.php?id=01887e84-cc1a-442a-b40f-8ded552943d9
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F201332443258.jpg%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F10589%2F1gwbdv1r94c.png%3Fwin007%3Dsell", 🔴 17/04-17:00 | Sejong Gumi Sportstoto (W) vs Seoul Amazones (W) | BLV CÔNG TÔN THẮNG 
-http://khaitv.giize.com:8080/luongson/play.php?id=56371a3f-ac26-417b-b1aa-62daeef310f7
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F201332443258.jpg%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F10589%2F1gwbdv1r94c.png%3Fwin007%3Dsell", 🔴 17/04-17:00 | Sejong Gumi Sportstoto (W) vs Seoul Amazones (W) | BLV QUAN THẮNG
 http://khaitv.giize.com:8080/luongson/play.php?id=390094721
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F10591%2F1gw8ppsgvg2h.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20200322172925.gif%3Fwin007%3Dsell", 🔴 17/04-17:00 | Hyundai Steel Red Angels (W) vs Gyeongju FC (W) | BLV CAO CẦU
-http://khaitv.giize.com:8080/luongson/play.php?id=380094720
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F201332443306.jpg%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F10590%2F1gwbdv1r9x2w.PNG%3Fwin007%3Dsell", 🔴 17/04-17:00 | KSPO FC (W) vs Suwon FMC (W) | BLV HOÀNG TÍN
-http://khaitv.giize.com:8080/luongson/play.php?id=7a462fc3-168b-4fa9-826b-9a09dc90751d
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F201332443258.jpg%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F10589%2F1gwbdv1r94c.png%3Fwin007%3Dsell", 🔴 17/04-17:00 | Sejong Gumi Sportstoto (W) vs Seoul Amazones (W) | BLV CÔNG TÔN THẮNG 
+http://khaitv.giize.com:8080/luongson/play.php?id=56371a3f-ac26-417b-b1aa-62daeef310f7
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F201332443306.jpg%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F10590%2F1gwbdv1r9x2w.PNG%3Fwin007%3Dsell", 🔴 17/04-17:00 | KSPO FC (W) vs Suwon FMC (W) | BLV THẠCH TÚ
 http://khaitv.giize.com:8080/luongson/play.php?id=270094729
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F5903%2F1gqrk9vdc51e.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F5890%2F1h2vp2gfbx24.png%3Fwin007%3Dsell", 17/04-18:00 | Perth SC vs Floreat Athena | BLV PHONG VÂN
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F201332443306.jpg%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F10590%2F1gwbdv1r9x2w.PNG%3Fwin007%3Dsell", 🔴 17/04-17:00 | KSPO FC (W) vs Suwon FMC (W) | BLV HOÀNG TÍN
+http://khaitv.giize.com:8080/luongson/play.php?id=7a462fc3-168b-4fa9-826b-9a09dc90751d
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F10591%2F1gw8ppsgvg2h.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20200322172925.gif%3Fwin007%3Dsell", 🔴 17/04-17:00 | Hyundai Steel Red Angels (W) vs Gyeongju FC (W) | BLV CAO CẦU
+http://khaitv.giize.com:8080/luongson/play.php?id=380094720
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F5903%2F1gqrk9vdc51e.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F5890%2F1h2vp2gfbx24.png%3Fwin007%3Dsell", 🔴 17/04-18:00 | Perth SC vs Floreat Athena | BLV PHONG VÂN
 http://khaitv.giize.com:8080/luongson/play.php?id=398092727
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F5903%2F1gqrk9vdc51e.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F5890%2F1h2vp2gfbx24.png%3Fwin007%3Dsell", 17/04-18:00 | Perth SC vs Floreat Athena | BLV KHỔNG MINH
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F5903%2F1gqrk9vdc51e.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F5890%2F1h2vp2gfbx24.png%3Fwin007%3Dsell", 🔴 17/04-18:00 | Perth SC vs Floreat Athena | BLV KHỔNG MINH
 http://khaitv.giize.com:8080/luongson/play.php?id=8996fdf0-4ba9-4900-8d08-a017a594ffe0
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F9710%2F1gragj29b02g.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F5889%2F1gqrk9vdcpx.png%3Fwin007%3Dsell", 17/04-18:00 | Bayswater City vs Armadale SC | BLV CHU ĐỒNG
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F9710%2F1gragj29b02g.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F5889%2F1gqrk9vdcpx.png%3Fwin007%3Dsell", 🔴 17/04-18:00 | Bayswater City vs Armadale SC | BLV CHU ĐỒNG
 http://khaitv.giize.com:8080/luongson/play.php?id=209092729
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F9710%2F1gragj29b02g.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F5889%2F1gqrk9vdcpx.png%3Fwin007%3Dsell", 17/04-18:00 | Bayswater City vs Armadale SC | BLV NGÔ DỤNG
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F9710%2F1gragj29b02g.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F5889%2F1gqrk9vdcpx.png%3Fwin007%3Dsell", 🔴 17/04-18:00 | Bayswater City vs Armadale SC | BLV NGÔ DỤNG
 http://khaitv.giize.com:8080/luongson/play.php?id=6096e741-dbab-495d-9316-e3702774a21e
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164941042590.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164085292224.png%3Fwin007%3Dsell", 17/04-19:00 | PSS Sleman vs Dewa United FC | BLV TỐNG GIANG
-http://khaitv.giize.com:8080/luongson/play.php?id=223614624
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164941042590.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164085292224.png%3Fwin007%3Dsell", 17/04-19:00 | PSS Sleman vs Dewa United FC | BLV DẾ LỬA
 http://khaitv.giize.com:8080/luongson/play.php?id=05444884-5a76-493e-8830-7df5e6465b1d
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164941042590.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164085292224.png%3Fwin007%3Dsell", 17/04-19:00 | PSS Sleman vs Dewa United FC | BLV TỐNG GIANG
+http://khaitv.giize.com:8080/luongson/play.php?id=223614624
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164941042590.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164085292224.png%3Fwin007%3Dsell", 17/04-19:00 | PSS Sleman vs Dewa United FC | BLV TRƯƠNG VÔ KỴ
 http://khaitv.giize.com:8080/luongson/play.php?id=145513f7-0ed5-416d-8c6a-7e4f1f307027
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164941042590.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164085292224.png%3Fwin007%3Dsell", 17/04-19:00 | PSS Sleman vs Dewa United FC | BLV NGŨ CA
 http://khaitv.giize.com:8080/luongson/play.php?id=8dc7deda-bc8a-4cf6-9cff-6ee9a7f4b9f3
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F1313%2F1gtqm5s60626.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F240%2F1gtqm082hs2k.png%3Fwin007%3Dsell", 17/04-19:00 | Vejle vs Viborg | BLV LA THÀNH
-http://khaitv.giize.com:8080/luongson/play.php?id=495845720
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F1313%2F1gtqm5s60626.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F240%2F1gtqm082hs2k.png%3Fwin007%3Dsell", 17/04-19:00 | Vejle vs Viborg | BLV SÀI TIẾN
 http://khaitv.giize.com:8080/luongson/play.php?id=20b0901b-231f-48a2-b14f-1cc598feada9
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F1313%2F1gtqm5s60626.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F240%2F1gtqm082hs2k.png%3Fwin007%3Dsell", 17/04-19:00 | Vejle vs Viborg | BLV LA THÀNH
+http://khaitv.giize.com:8080/luongson/play.php?id=495845720
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F1313%2F1gtqm5s60626.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F240%2F1gtqm082hs2k.png%3Fwin007%3Dsell", 17/04-19:00 | Vejle vs Viborg | BLV TRƯƠNG THANH 
 http://khaitv.giize.com:8080/luongson/play.php?id=9dadf11c-8fe5-42e8-8f27-101692c3545c
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F1716%2F1h5bja72d6b.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F242%2F1h5bja71ec6.png%3Fwin007%3Dsell", 17/04-19:00 | Roskilde vs Herfolge Boldklub Koge |  BLV ĐỊCH NHÂN KIỆT
@@ -2827,116 +2809,106 @@ http://khaitv.giize.com:8080/luongson/play.php?id=342575722
 http://khaitv.giize.com:8080/luongson/play.php?id=0acedb77-3c94-4317-b884-67b34c43d85f
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1744806877.jpg&m2=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1744806879.jpg", 17/04-20:00 | LIVE GAME vs LIVE GAME | LIVE GAME TRIỆU MẪN
 http://khaitv.giize.com:8080/luongson/play.php?id=aefa8f4e-0027-4cdf-9881-f8b6d9ead12f
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F1h2fe1f9pg28.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F1gs6yny1t51a.png%3Fwin007%3Dsell", 17/04-21:00 | Saudi Arabia U17 vs South Korea U17 | BLV LỮ BỐ
-http://khaitv.giize.com:8080/luongson/play.php?id=304956723
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F1h2fe1f9pg28.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F1gs6yny1t51a.png%3Fwin007%3Dsell", 17/04-21:00 | Saudi Arabia U17 vs South Korea U17 | BLV NGŨ CA
 http://khaitv.giize.com:8080/luongson/play.php?id=926d852c-71bf-4e7a-8ccd-f9b07b5d849d
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F1h2fe1f9pg28.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F1gs6yny1t51a.png%3Fwin007%3Dsell", 17/04-21:00 | Saudi Arabia U17 vs South Korea U17 | BLV LỮ BỐ
+http://khaitv.giize.com:8080/luongson/play.php?id=304956723
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F1h2fe1f9pg28.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F1gs6yny1t51a.png%3Fwin007%3Dsell", 17/04-21:00 | Saudi Arabia U17 vs South Korea U17 | BLV MÃ SIÊU
 http://khaitv.giize.com:8080/luongson/play.php?id=57b47b98-9d53-4acd-9739-4a41cf27399a
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F4599%2F1h5e4drq1n26.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F25959%2F1h5e4drq1e4.png%3Fwin007%3Dsell", 17/04-21:00 | Shabab AlOrdon vs Al Aqaba SC | BLV TIÊU PHONG
-http://khaitv.giize.com:8080/luongson/play.php?id=357924726
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F226%2F1hbcp5rd3bn.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F247%2F1h6mr9v64k1k.png%3Fwin007%3Dsell", 17/04-21:00 | Randers FC vs Aarhus AGF | BLV PHONG VÂN
 http://khaitv.giize.com:8080/luongson/play.php?id=372845725
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F4599%2F1h5e4drq1n26.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F25959%2F1h5e4drq1e4.png%3Fwin007%3Dsell", 17/04-21:00 | Shabab AlOrdon vs Al Aqaba SC | BLV TIÊU PHONG
+http://khaitv.giize.com:8080/luongson/play.php?id=357924726
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F3404%2F1gqbqe8n3b7.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F3719%2F1gpwsd3bgjw.png%3Fwin007%3Dsell", 17/04-22:40 | Al-Ettifaq vs Al-Riyadh |  BLV ĐỊCH NHÂN KIỆT
+http://khaitv.giize.com:8080/luongson/play.php?id=c6e49f65-01af-4b4a-b65f-a9e0ffa920a0
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F3404%2F1gqbqe8n3b7.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F3719%2F1gpwsd3bgjw.png%3Fwin007%3Dsell", 17/04-22:40 | Al-Ettifaq vs Al-Riyadh | BLV CAO CẦU
 http://khaitv.giize.com:8080/luongson/play.php?id=289003628
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F3404%2F1gqbqe8n3b7.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F3719%2F1gpwsd3bgjw.png%3Fwin007%3Dsell", 17/04-22:40 | Al-Ettifaq vs Al-Riyadh | BLV SAITAMA
 http://khaitv.giize.com:8080/luongson/play.php?id=dde4be8f-41f7-4cb0-9549-58ff71328695
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F3404%2F1gqbqe8n3b7.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F3719%2F1gpwsd3bgjw.png%3Fwin007%3Dsell", 17/04-22:40 | Al-Ettifaq vs Al-Riyadh |  BLV ĐỊCH NHÂN KIỆT
-http://khaitv.giize.com:8080/luongson/play.php?id=c6e49f65-01af-4b4a-b65f-a9e0ffa920a0
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F11137%2F1gy3vm7s9q9.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F7096%2F1gq1dn26c72y.png%3Fwin007%3Dsell", 17/04-22:50 | Al-Shabab vs Al-Akhdoud | BLV HOÀNG TÍN
-http://khaitv.giize.com:8080/luongson/play.php?id=38e59b8d-b8bc-4162-8efb-4578d9cfb74a
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F11137%2F1gy3vm7s9q9.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F7096%2F1gq1dn26c72y.png%3Fwin007%3Dsell", 17/04-22:50 | Al-Shabab vs Al-Akhdoud | BLV THẠCH TÚ
 http://khaitv.giize.com:8080/luongson/play.php?id=140103626
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F1h8k53q5bc4.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F4513%2F1hdqcw5mk76.png%3Fwin007%3Dsell", 17/04-22:50 | Al Hilal vs Al-Khaleej | BLV LƯU BỊ
-http://khaitv.giize.com:8080/luongson/play.php?id=68856b89-95b8-44df-84b7-fc1d6f33685a
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F11137%2F1gy3vm7s9q9.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F7096%2F1gq1dn26c72y.png%3Fwin007%3Dsell", 17/04-22:50 | Al-Shabab vs Al-Akhdoud | BLV HOÀNG TÍN
+http://khaitv.giize.com:8080/luongson/play.php?id=38e59b8d-b8bc-4162-8efb-4578d9cfb74a
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F1h8k53q5bc4.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F4513%2F1hdqcw5mk76.png%3Fwin007%3Dsell", 17/04-22:50 | Al Hilal vs Al-Khaleej | BLV TÀO THÁO
 http://khaitv.giize.com:8080/luongson/play.php?id=100103622
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F1h8k53q5bc4.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F4513%2F1hdqcw5mk76.png%3Fwin007%3Dsell", 17/04-22:50 | Al Hilal vs Al-Khaleej | BLV LƯU BỊ
+http://khaitv.giize.com:8080/luongson/play.php?id=68856b89-95b8-44df-84b7-fc1d6f33685a
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F1h8k53q5bc4.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F4513%2F1hdqcw5mk76.png%3Fwin007%3Dsell", 17/04-22:50 | Al Hilal vs Al-Khaleej | BLV DƯƠNG CHÍ
 http://khaitv.giize.com:8080/luongson/play.php?id=a9cc7d13-19f6-4c70-a8a2-2218b177ff74
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F1h8k53q5bc4.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F4513%2F1hdqcw5mk76.png%3Fwin007%3Dsell", 17/04-22:50 | Al Hilal vs Al-Khaleej | BLV CÔNG TÔN THẮNG 
 http://khaitv.giize.com:8080/luongson/play.php?id=4f7d32d9-22a3-42ed-9c50-173317c5a3f1
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F238%2F1grja8zvzwr.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F227%2F1gtqm082h92c.png%3Fwin007%3Dsell", 17/04-23:00 | Midtjylland vs FC Copenhagen | BLV TỐNG GIANG
-http://khaitv.giize.com:8080/luongson/play.php?id=382845726
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F238%2F1grja8zvzwr.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F227%2F1gtqm082h92c.png%3Fwin007%3Dsell", 17/04-23:00 | Midtjylland vs FC Copenhagen | BLV DẾ LỬA
-http://khaitv.giize.com:8080/luongson/play.php?id=c3df023a-78a1-4371-8130-d6aa23ce01e6
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F238%2F1grja8zvzwr.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F227%2F1gtqm082h92c.png%3Fwin007%3Dsell", 17/04-23:00 | Midtjylland vs FC Copenhagen | BLV TRƯƠNG VÔ KỴ
-http://khaitv.giize.com:8080/luongson/play.php?id=d4735922-cf7e-4bcb-ab28-2bc4b276099c
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F4438%2F1hbcqhxb7ej.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F653%2F1gtqm5gxda1e.png%3Fwin007%3Dsell", 17/04-23:00 | HNK Sibenik vs Dinamo Zagreb | BLV LA THÀNH
-http://khaitv.giize.com:8080/luongson/play.php?id=486978525
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F4438%2F1hbcqhxb7ej.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F653%2F1gtqm5gxda1e.png%3Fwin007%3Dsell", 17/04-23:00 | HNK Sibenik vs Dinamo Zagreb | BLV SÀI TIẾN
 http://khaitv.giize.com:8080/luongson/play.php?id=7d97aef8-80c9-40b7-8a76-327ae3439866
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F4438%2F1hbcqhxb7ej.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F653%2F1gtqm5gxda1e.png%3Fwin007%3Dsell", 17/04-23:00 | HNK Sibenik vs Dinamo Zagreb | BLV LA THÀNH
+http://khaitv.giize.com:8080/luongson/play.php?id=486978525
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F4438%2F1hbcqhxb7ej.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F653%2F1gtqm5gxda1e.png%3Fwin007%3Dsell", 17/04-23:00 | HNK Sibenik vs Dinamo Zagreb | BLV TRƯƠNG THANH 
 http://khaitv.giize.com:8080/luongson/play.php?id=59075d5b-f99a-4a79-8885-5fd2f2cfae81
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F176%2F1gv1yreqwa1v.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F696%2F1gryyttskf1t.png%3Fwin007%3Dsell", 17/04-23:45 | Fiorentina vs NK Publikum Celje | BLV KHÔNG NGỦ
-http://khaitv.giize.com:8080/luongson/play.php?id=4f4c6376-9419-4301-ad1c-467bbad9852c
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F238%2F1grja8zvzwr.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F227%2F1gtqm082h92c.png%3Fwin007%3Dsell", 17/04-23:00 | Midtjylland vs FC Copenhagen | BLV DẾ LỬA
+http://khaitv.giize.com:8080/luongson/play.php?id=c3df023a-78a1-4371-8130-d6aa23ce01e6
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F238%2F1grja8zvzwr.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F227%2F1gtqm082h92c.png%3Fwin007%3Dsell", 17/04-23:00 | Midtjylland vs FC Copenhagen | BLV TỐNG GIANG
+http://khaitv.giize.com:8080/luongson/play.php?id=382845726
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F238%2F1grja8zvzwr.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F227%2F1gtqm082h92c.png%3Fwin007%3Dsell", 17/04-23:00 | Midtjylland vs FC Copenhagen | BLV TRƯƠNG VÔ KỴ
+http://khaitv.giize.com:8080/luongson/play.php?id=d4735922-cf7e-4bcb-ab28-2bc4b276099c
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F176%2F1gv1yreqwa1v.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F696%2F1gryyttskf1t.png%3Fwin007%3Dsell", 17/04-23:45 | Fiorentina vs NK Publikum Celje | BLV DƯƠNG QUÁ
 http://khaitv.giize.com:8080/luongson/play.php?id=95ec8dc4-e153-4cee-b76b-b987ff9ce3ce
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F176%2F1gv1yreqwa1v.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F696%2F1gryyttskf1t.png%3Fwin007%3Dsell", 17/04-23:45 | Fiorentina vs NK Publikum Celje | BLV KHÔNG NGỦ
+http://khaitv.giize.com:8080/luongson/play.php?id=4f4c6376-9419-4301-ad1c-467bbad9852c
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F176%2F1gv1yreqwa1v.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F696%2F1gryyttskf1t.png%3Fwin007%3Dsell", 17/04-23:45 | Fiorentina vs NK Publikum Celje | BLV CHU ĐỒNG
 http://khaitv.giize.com:8080/luongson/play.php?id=213505723
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F176%2F1gv1yreqwa1v.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F696%2F1gryyttskf1t.png%3Fwin007%3Dsell", 17/04-23:45 | Fiorentina vs NK Publikum Celje | BLV NGÔ DỤNG
 http://khaitv.giize.com:8080/luongson/play.php?id=ae459b59-0137-47db-91df-5354e9b8662d
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20130814172615.gif%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871261858.png%3Fwin007%3Dsell", 17/04-23:45 | Jagiellonia Bialystok vs Real Betis | BLV NHỊ KA
-http://khaitv.giize.com:8080/luongson/play.php?id=f6e75f6d-268b-4d03-befc-9eacf683b581
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20130814172615.gif%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871261858.png%3Fwin007%3Dsell", 17/04-23:45 | Jagiellonia Bialystok vs Real Betis | BLV KAKA
-http://khaitv.giize.com:8080/luongson/play.php?id=3e215c9a-917f-461f-9e56-bcef498c07e9
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20130814172615.gif%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871261858.png%3Fwin007%3Dsell", 17/04-23:45 | Jagiellonia Bialystok vs Real Betis | BLV TRIỆU TỬ LONG
-http://khaitv.giize.com:8080/luongson/play.php?id=5807d34f-fe9d-4e3b-8bc5-a52846c354ad
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20130814172615.gif%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871261858.png%3Fwin007%3Dsell", 17/04-23:45 | Jagiellonia Bialystok vs Real Betis | BLV ĐOÀN DỰ 
 http://khaitv.giize.com:8080/luongson/play.php?id=60c33833-efbc-4e7a-87ab-d8cbc6a23976
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20130814172615.gif%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871261858.png%3Fwin007%3Dsell", 17/04-23:45 | Jagiellonia Bialystok vs Real Betis | BLV NHỊ KA
+http://khaitv.giize.com:8080/luongson/play.php?id=f6e75f6d-268b-4d03-befc-9eacf683b581
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20130814172615.gif%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871261858.png%3Fwin007%3Dsell", 17/04-23:45 | Jagiellonia Bialystok vs Real Betis | BLV TRIỆU TỬ LONG
+http://khaitv.giize.com:8080/luongson/play.php?id=5807d34f-fe9d-4e3b-8bc5-a52846c354ad
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20130814172615.gif%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871261858.png%3Fwin007%3Dsell", 17/04-23:45 | Jagiellonia Bialystok vs Real Betis | BLV KAKA
+http://khaitv.giize.com:8080/luongson/play.php?id=3e215c9a-917f-461f-9e56-bcef498c07e9
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20130814172615.gif%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871261858.png%3Fwin007%3Dsell", 17/04-23:45 | Jagiellonia Bialystok vs Real Betis | BLV KHỔNG MINH
 http://khaitv.giize.com:8080/luongson/play.php?id=1db35730-bfeb-4b31-82c1-1d5e729b74db
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20130814172615.gif%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871261858.png%3Fwin007%3Dsell", 17/04-23:45 | Jagiellonia Bialystok vs Real Betis | BLV LỮ BỐ
 http://khaitv.giize.com:8080/luongson/play.php?id=203505722
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F7102%2F1hbcscj6142n.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F1912%2F1gq6k5acwa2a.png%3Fwin007%3Dsell", 18/04-01:00 | Al-Fateh vs Al-Ittihad | BLV MÃ SIÊU
-http://khaitv.giize.com:8080/luongson/play.php?id=299003629
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F7102%2F1hbcscj6142n.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F1912%2F1gq6k5acwa2a.png%3Fwin007%3Dsell", 18/04-01:00 | Al-Fateh vs Al-Ittihad | BLV HOÀNG TÍN
 http://khaitv.giize.com:8080/luongson/play.php?id=99c6bc9a-17f2-47ad-8f69-ef49220e0348
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577409120.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F659%2F1gxmbjjqa62r.png%3Fwin007%3Dsell", 18/04-02:00 | Chelsea vs Legia Warszawa | BLV TỐNG GIANG
-http://khaitv.giize.com:8080/luongson/play.php?id=272505728
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577409120.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F659%2F1gxmbjjqa62r.png%3Fwin007%3Dsell", 18/04-02:00 | Chelsea vs Legia Warszawa | BLV DẾ LỬA
-http://khaitv.giize.com:8080/luongson/play.php?id=8e71c34c-21cf-4b31-8236-ea5eb4db5231
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577409120.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F659%2F1gxmbjjqa62r.png%3Fwin007%3Dsell", 18/04-02:00 | Chelsea vs Legia Warszawa | BLV CÔNG TÔN THẮNG 
-http://khaitv.giize.com:8080/luongson/play.php?id=9ed31b17-d169-4253-97a6-bfc7ab3f5f6d
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577409120.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F659%2F1gxmbjjqa62r.png%3Fwin007%3Dsell", 18/04-02:00 | Chelsea vs Legia Warszawa | BLV CHU ĐỒNG
-http://khaitv.giize.com:8080/luongson/play.php?id=7fdec423-d1a9-4c01-a8c0-b2ff58b4f70a
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577409120.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F659%2F1gxmbjjqa62r.png%3Fwin007%3Dsell", 18/04-02:00 | Chelsea vs Legia Warszawa | BLV TRƯƠNG VÔ KỴ
-http://khaitv.giize.com:8080/luongson/play.php?id=707ebfe0-5dc4-4014-b1a3-b66617054317
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F7102%2F1hbcscj6142n.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F1912%2F1gq6k5acwa2a.png%3Fwin007%3Dsell", 18/04-01:00 | Al-Fateh vs Al-Ittihad | BLV MÃ SIÊU
+http://khaitv.giize.com:8080/luongson/play.php?id=299003629
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871258463.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165363474719.png%3Fwin007%3Dsell", 18/04-02:00 | Athletic Bilbao vs Glasgow Rangers | BLV NGÔ DỤNG
 http://khaitv.giize.com:8080/luongson/play.php?id=66c01d7d-e2bb-4d89-a22f-46b6223fad77
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871258463.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165363474719.png%3Fwin007%3Dsell", 18/04-02:00 | Athletic Bilbao vs Glasgow Rangers | BLV PHONG VÂN
 http://khaitv.giize.com:8080/luongson/play.php?id=212505722
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577479190.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871170063.png%3Fwin007%3Dsell", 18/04-02:00 | Manchester United vs Lyon | BLV TÀO THÁO
-http://khaitv.giize.com:8080/luongson/play.php?id=3752d7b8-d832-4d9d-a454-2229f5330abf
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577479190.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871170063.png%3Fwin007%3Dsell", 18/04-02:00 | Manchester United vs Lyon | BLV KAKA
-http://khaitv.giize.com:8080/luongson/play.php?id=6575c9e6-7796-4da8-90d1-6422e76cdb16
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577479190.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871170063.png%3Fwin007%3Dsell", 18/04-02:00 | Manchester United vs Lyon | BLV VĂN TÍCH
-http://khaitv.giize.com:8080/luongson/play.php?id=9789d78a-f1cf-4dc2-821c-c5a385d30480
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577479190.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871170063.png%3Fwin007%3Dsell", 18/04-02:00 | Manchester United vs Lyon | BLV KHÔNG NGỦ
-http://khaitv.giize.com:8080/luongson/play.php?id=eba7857e-83b9-4362-a8dc-e2f9f3d812d1
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577479190.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871170063.png%3Fwin007%3Dsell", 18/04-02:00 | Manchester United vs Lyon | BLV DƯƠNG QUÁ
 http://khaitv.giize.com:8080/luongson/play.php?id=65f0ddd4-e24c-4687-8650-6a448cfbba51
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577479190.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871170063.png%3Fwin007%3Dsell", 18/04-02:00 | Manchester United vs Lyon | BLV HOẮC ĐÔ
-http://khaitv.giize.com:8080/luongson/play.php?id=b0d61cf1-4724-423e-9794-125a7efd7f59
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577479190.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871170063.png%3Fwin007%3Dsell", 18/04-02:00 | Manchester United vs Lyon | BLV ĐOÀN DỰ 
-http://khaitv.giize.com:8080/luongson/play.php?id=e362722c-f1aa-489c-92c1-1bd566f30b7e
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577479190.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871170063.png%3Fwin007%3Dsell", 18/04-02:00 | Manchester United vs Lyon | BLV LƯU BỊ
-http://khaitv.giize.com:8080/luongson/play.php?id=a1345fb4-45a9-47e0-8928-0c2f3e228691
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577479190.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871170063.png%3Fwin007%3Dsell", 18/04-02:00 | Manchester United vs Lyon | BLV DƯƠNG CHÍ
-http://khaitv.giize.com:8080/luongson/play.php?id=af6e70e1-7157-4d53-97fc-597fd04bd0fc
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577479190.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871170063.png%3Fwin007%3Dsell", 18/04-02:00 | Manchester United vs Lyon | BLV TRIỆU TỬ LONG
-http://khaitv.giize.com:8080/luongson/play.php?id=29cc6602-c926-48c5-92ab-d719b7ca4a40
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577479190.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871170063.png%3Fwin007%3Dsell", 18/04-02:00 | Manchester United vs Lyon | BLV KHÔNG NGỦ
+http://khaitv.giize.com:8080/luongson/play.php?id=eba7857e-83b9-4362-a8dc-e2f9f3d812d1
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577479190.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871170063.png%3Fwin007%3Dsell", 18/04-02:00 | Manchester United vs Lyon | BLV KAKA
+http://khaitv.giize.com:8080/luongson/play.php?id=6575c9e6-7796-4da8-90d1-6422e76cdb16
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577479190.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871170063.png%3Fwin007%3Dsell", 18/04-02:00 | Manchester United vs Lyon | BLV NHỊ KA
 http://khaitv.giize.com:8080/luongson/play.php?id=829e0818-660c-46c8-9da5-406e6e93e8ae
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577479190.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871170063.png%3Fwin007%3Dsell", 18/04-02:00 | Manchester United vs Lyon | BLV ĐOÀN DỰ 
+http://khaitv.giize.com:8080/luongson/play.php?id=e362722c-f1aa-489c-92c1-1bd566f30b7e
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577479190.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871170063.png%3Fwin007%3Dsell", 18/04-02:00 | Manchester United vs Lyon | BLV TRIỆU TỬ LONG
+http://khaitv.giize.com:8080/luongson/play.php?id=29cc6602-c926-48c5-92ab-d719b7ca4a40
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577479190.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871170063.png%3Fwin007%3Dsell", 18/04-02:00 | Manchester United vs Lyon | BLV VĂN TÍCH
+http://khaitv.giize.com:8080/luongson/play.php?id=9789d78a-f1cf-4dc2-821c-c5a385d30480
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577479190.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871170063.png%3Fwin007%3Dsell", 18/04-02:00 | Manchester United vs Lyon | BLV TÀO THÁO
+http://khaitv.giize.com:8080/luongson/play.php?id=3752d7b8-d832-4d9d-a454-2229f5330abf
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577479190.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871170063.png%3Fwin007%3Dsell", 18/04-02:00 | Manchester United vs Lyon | BLV DƯƠNG CHÍ
+http://khaitv.giize.com:8080/luongson/play.php?id=af6e70e1-7157-4d53-97fc-597fd04bd0fc
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577479190.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871170063.png%3Fwin007%3Dsell", 18/04-02:00 | Manchester United vs Lyon | BLV HOẮC ĐÔ
+http://khaitv.giize.com:8080/luongson/play.php?id=b0d61cf1-4724-423e-9794-125a7efd7f59
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577479190.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871170063.png%3Fwin007%3Dsell", 18/04-02:00 | Manchester United vs Lyon | BLV LƯU BỊ
+http://khaitv.giize.com:8080/luongson/play.php?id=a1345fb4-45a9-47e0-8928-0c2f3e228691
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577479190.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871170063.png%3Fwin007%3Dsell", 18/04-02:00 | Manchester United vs Lyon | BLV LỮ BỐ
 http://khaitv.giize.com:8080/luongson/play.php?id=232505724
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164869050583.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F472%2F1gq6j9e9em1s.png%3Fwin007%3Dsell", 18/04-02:00 | Lazio vs Bodo Glimt | BLV KHỔNG MINH
 http://khaitv.giize.com:8080/luongson/play.php?id=16f92d25-818b-4df1-ae86-b1c515c4b33c
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164869050583.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F472%2F1gq6j9e9em1s.png%3Fwin007%3Dsell", 18/04-02:00 | Lazio vs Bodo Glimt | BLV THẠCH TÚ
 http://khaitv.giize.com:8080/luongson/play.php?id=202505721
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871155563.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F33%2F1h746a4jfr1p.png%3Fwin007%3Dsell", 18/04-02:00 | Eintracht Frankfurt vs Tottenham Hotspur | BLV CAO CẦU
-http://khaitv.giize.com:8080/luongson/play.php?id=618d3130-d9d3-490e-97fd-159fa2fe5bfb
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871155563.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F33%2F1h746a4jfr1p.png%3Fwin007%3Dsell", 18/04-02:00 | Eintracht Frankfurt vs Tottenham Hotspur | BLV SÀI TIẾN
 http://khaitv.giize.com:8080/luongson/play.php?id=68f9e298-34e0-460b-bada-c6c459cd78e8
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871155563.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F33%2F1h746a4jfr1p.png%3Fwin007%3Dsell", 18/04-02:00 | Eintracht Frankfurt vs Tottenham Hotspur | BLV CAO CẦU
+http://khaitv.giize.com:8080/luongson/play.php?id=618d3130-d9d3-490e-97fd-159fa2fe5bfb
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871155563.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F33%2F1h746a4jfr1p.png%3Fwin007%3Dsell", 18/04-02:00 | Eintracht Frankfurt vs Tottenham Hotspur | BLV LA THÀNH
 http://khaitv.giize.com:8080/luongson/play.php?id=0ddef000-04b4-45ec-b352-ccf66db07c26
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871155563.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F33%2F1h746a4jfr1p.png%3Fwin007%3Dsell", 18/04-02:00 | Eintracht Frankfurt vs Tottenham Hotspur | BLV NGŨ CA
@@ -2947,16 +2919,50 @@ http://khaitv.giize.com:8080/luongson/play.php?id=222505723
 http://khaitv.giize.com:8080/luongson/play.php?id=86a8ac7c-986a-4a31-b5cc-5752b7676541
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871155563.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F33%2F1h746a4jfr1p.png%3Fwin007%3Dsell", 18/04-02:00 | Eintracht Frankfurt vs Tottenham Hotspur |  BLV ĐỊCH NHÂN KIỆT
 http://khaitv.giize.com:8080/luongson/play.php?id=2050d443-1887-492b-844a-de84182008bc
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577409120.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F659%2F1gxmbjjqa62r.png%3Fwin007%3Dsell", 18/04-02:00 | Chelsea vs Legia Warszawa | BLV DẾ LỬA
+http://khaitv.giize.com:8080/luongson/play.php?id=8e71c34c-21cf-4b31-8236-ea5eb4db5231
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577409120.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F659%2F1gxmbjjqa62r.png%3Fwin007%3Dsell", 18/04-02:00 | Chelsea vs Legia Warszawa | BLV TỐNG GIANG
+http://khaitv.giize.com:8080/luongson/play.php?id=272505728
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577409120.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F659%2F1gxmbjjqa62r.png%3Fwin007%3Dsell", 18/04-02:00 | Chelsea vs Legia Warszawa | BLV CÔNG TÔN THẮNG 
+http://khaitv.giize.com:8080/luongson/play.php?id=9ed31b17-d169-4253-97a6-bfc7ab3f5f6d
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577409120.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F659%2F1gxmbjjqa62r.png%3Fwin007%3Dsell", 18/04-02:00 | Chelsea vs Legia Warszawa | BLV CHU ĐỒNG
+http://khaitv.giize.com:8080/luongson/play.php?id=7fdec423-d1a9-4c01-a8c0-b2ff58b4f70a
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577409120.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F659%2F1gxmbjjqa62r.png%3Fwin007%3Dsell", 18/04-02:00 | Chelsea vs Legia Warszawa | BLV TRƯƠNG VÔ KỴ
+http://khaitv.giize.com:8080/luongson/play.php?id=707ebfe0-5dc4-4014-b1a3-b66617054317
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F10406%2F1gq952h3ccw.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165769006653.png%3Fwin007%3Dsell", 18/04-06:00 | Saint Louis Athletica (W) vs Puebla (W) | BLV LÂM XUNG
+http://khaitv.giize.com:8080/luongson/play.php?id=377380724
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F16596%2F1gryz01ysv2h.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F19887%2F1grd73j8kb2g.png%3Fwin007%3Dsell", 18/04-07:00 | Fortaleza F.C vs Llaneros FC | BLV BRUNO
+http://khaitv.giize.com:8080/luongson/play.php?id=325591721
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F354%2F1grcyq30k1x.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F1979%2F1grdmmb9f68.png%3Fwin007%3Dsell", 18/04-07:30 | Cruzeiro vs Bahia | BLV QUAN THẮNG
+http://khaitv.giize.com:8080/luongson/play.php?id=383743724
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1742731157.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165768945214.png%3Fwin007%3Dsell", 18/04-08:05 | Chivas Guadalajara (W) vs Unam Pumas (W) | BLV KAKA
+http://khaitv.giize.com:8080/luongson/play.php?id=cd6d6439-ed17-42b9-914b-5c0ede07a77e
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1742731157.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165768945214.png%3Fwin007%3Dsell", 18/04-08:05 | Chivas Guadalajara (W) vs Unam Pumas (W) | BLV LÂM XUNG
+http://khaitv.giize.com:8080/luongson/play.php?id=387380725
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F7147%2F1h71msx3mgj.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F7146%2F1h6swyav1g1n.png%3Fwin007%3Dsell", 18/04-09:00 | Xelaju MC vs C.S.D. Comunicaciones | TRỢ LÝ ĐIÊU THUYỀN
+http://khaitv.giize.com:8080/luongson/play.php?id=219261728
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1744880863.jpg&m2=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1744880865.jpg", 18/04-09:00 | LIVE IDOL vs LIVE IDOL | TRỢ LÝ TÂY THI
 http://khaitv.giize.com:8080/luongson/play.php?id=3758a8a0-f2c6-460a-8566-71e591193084
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1744880896.jpg&m2=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1744880899.jpg", 18/04-10:00 | LIVE IDOL vs LIVE IDOL | IDOL LINHLUNA
 http://khaitv.giize.com:8080/luongson/play.php?id=62e7cd5b-9642-4b1f-b986-f6a25d092a51
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165769014887.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165769002817.png%3Fwin007%3Dsell", 18/04-10:05 | Mazatlan FC (W) vs Santos Laguna (W) | BLV VĂN TÍCH
+http://khaitv.giize.com:8080/luongson/play.php?id=397380726
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165769014887.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165769002817.png%3Fwin007%3Dsell", 18/04-10:05 | Mazatlan FC (W) vs Santos Laguna (W) | BLV BRUNO
+http://khaitv.giize.com:8080/luongson/play.php?id=0c8cdba9-6c25-4fa6-b522-4982305e31d0
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F8973%2F1grcyn2cdw6.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F13206%2F1gragv13bn2r.png%3Fwin007%3Dsell", 18/04-10:30 | Sydney FC (Youth) vs Wollongong Wolves | BLV QUAN THẮNG
+http://khaitv.giize.com:8080/luongson/play.php?id=272730728
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1744880938.jpg&m2=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1744880941.jpg", 18/04-11:00 | LIVE BACCARAT vs LIVE BACCARAT | LIVE GAME ĐIÊU THUYỀN
 http://khaitv.giize.com:8080/luongson/play.php?id=83e503b3-1992-4953-9ef2-0dee06cfd4c4
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1744880984.jpg&m2=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1744880986.jpg", 18/04-12:00 | LIVE IDOL vs LIVE IDOL | TRỢ LÝ TÂY THI
 http://khaitv.giize.com:8080/luongson/play.php?id=98ea64a5-3364-4abd-aa4d-8a9c4b9e584a
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1744881014.jpg&m2=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1744881017.jpg", 18/04-13:00 | LIVE IDOL vs LIVE IDOL | LIVE GAME TRIỆU MẪN
 http://khaitv.giize.com:8080/luongson/play.php?id=c9598d1e-8a90-4658-b163-05828dd5eb7e
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20130923115335.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F7069%2F1gqrke40pa29.png%3Fwin007%3Dsell", 18/04-13:50 | Adelaide United (W) vs Sydney FC (W) | BLV ĐOÀN DỰ 
+http://khaitv.giize.com:8080/luongson/play.php?id=1a67229e-78a0-487a-9c14-c7e9c049f85e
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20130923115335.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F7069%2F1gqrke40pa29.png%3Fwin007%3Dsell", 18/04-13:50 | Adelaide United (W) vs Sydney FC (W) | BLV LÂM XUNG
+http://khaitv.giize.com:8080/luongson/play.php?id=3595d16a-0d86-42a5-803c-cc8ef3e74003
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20130923115335.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F7069%2F1gqrke40pa29.png%3Fwin007%3Dsell", 18/04-13:50 | Adelaide United (W) vs Sydney FC (W) | BLV QUAN VŨ
+http://khaitv.giize.com:8080/luongson/play.php?id=479638621
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1744881074.jpg&m2=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1744881076.jpg", 18/04-14:00 | LIVE IDOL vs LIVE IDOL | IDOL LINHLUNA
 http://khaitv.giize.com:8080/luongson/play.php?id=1e4227ac-8a7e-4a30-a27e-c6cfbb230588
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1744881048.jpg&m2=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1744881051.jpg", 18/04-14:00 | BÀN LUẬN BÓNG ĐÁ vs BÀN LUẬN BÓNG ĐÁ | BLV SÀI TIẾN TALKSHOW
@@ -2965,8 +2971,62 @@ http://khaitv.giize.com:8080/luongson/play.php?id=5ca9ddb0-8bf4-479e-a1f7-4df372
 http://khaitv.giize.com:8080/luongson/play.php?id=07d4e8eb-219f-48de-9d14-9b031b746568
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1744881107.jpg&m2=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1744881109.jpg", 18/04-15:00 | LIVE IDOL vs LIVE IDOL | TRỢ LÝ TÂY THI
 http://khaitv.giize.com:8080/luongson/play.php?id=fb8d3f61-397b-4312-9bd8-feb8d5c9b32e
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164941038260.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164941019114.png%3Fwin007%3Dsell", 18/04-15:30 | Borneo FC vs PSM Makassar | BLV DƯƠNG CHÍ
+http://khaitv.giize.com:8080/luongson/play.php?id=bc470d8f-62a6-400b-9fd4-a49a567540d0
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164941038260.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164941019114.png%3Fwin007%3Dsell", 18/04-15:30 | Borneo FC vs PSM Makassar | BLV DƯƠNG QUÁ
+http://khaitv.giize.com:8080/luongson/play.php?id=bb189e54-af4e-4a85-9e0d-827aab376c85
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164941038260.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164941019114.png%3Fwin007%3Dsell", 18/04-15:30 | Borneo FC vs PSM Makassar | BLV TỐNG GIANG
+http://khaitv.giize.com:8080/luongson/play.php?id=233614625
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20130923112344.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F5953%2F1h6z210pqs2n.png%3Fwin007%3Dsell", 18/04-16:35 | Adelaide United vs Wellington Phoenix | BLV ĐOÀN DỰ 
+http://khaitv.giize.com:8080/luongson/play.php?id=424f2086-3fee-4876-8223-ecc541909f8e
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20130923112344.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F5953%2F1h6z210pqs2n.png%3Fwin007%3Dsell", 18/04-16:35 | Adelaide United vs Wellington Phoenix | BLV KHÔNG NGỦ
+http://khaitv.giize.com:8080/luongson/play.php?id=71fb4006-126f-4d7c-8a84-ef7be84a1369
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20130923112344.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F5953%2F1h6z210pqs2n.png%3Fwin007%3Dsell", 18/04-16:35 | Adelaide United vs Wellington Phoenix | BLV VĂN TÍCH
+http://khaitv.giize.com:8080/luongson/play.php?id=272145627
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20130923112344.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F5953%2F1h6z210pqs2n.png%3Fwin007%3Dsell", 18/04-16:35 | Adelaide United vs Wellington Phoenix | BLV LƯU BỊ
+http://khaitv.giize.com:8080/luongson/play.php?id=c22d9045-e84d-4b97-8c6b-977ec2c04527
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20130923112344.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F5953%2F1h6z210pqs2n.png%3Fwin007%3Dsell", 18/04-16:35 | Adelaide United vs Wellington Phoenix | BLV HOẮC ĐÔ
+http://khaitv.giize.com:8080/luongson/play.php?id=c87465e7-c75d-485e-92a0-27cc11baf8ad
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20130923112344.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F5953%2F1h6z210pqs2n.png%3Fwin007%3Dsell", 18/04-16:35 | Adelaide United vs Wellington Phoenix | BLV NHỊ KA
+http://khaitv.giize.com:8080/luongson/play.php?id=5f31efbb-d09c-42f1-bc06-c8df672aae79
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1744383648.webp&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F26630%2F1h5e4e370r1y.png%3Fwin007%3Dsell", 18/04-17:00 | Hoang Anh Gia Lai vs Hong Linh Ha Tinh | BLV DẾ LỬA
+http://khaitv.giize.com:8080/luongson/play.php?id=de341be1-b185-4f0d-ac91-e382ee3ae2dd
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1744383648.webp&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F26630%2F1h5e4e370r1y.png%3Fwin007%3Dsell", 18/04-17:00 | Hoang Anh Gia Lai vs Hong Linh Ha Tinh | BLV PHONG VÂN
+http://khaitv.giize.com:8080/luongson/play.php?id=478aff01-3d8a-4dda-92cf-24c0e56e25cc
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1744383648.webp&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F26630%2F1h5e4e370r1y.png%3Fwin007%3Dsell", 18/04-17:00 | Hoang Anh Gia Lai vs Hong Linh Ha Tinh | BLV LỮ BỐ
+http://khaitv.giize.com:8080/luongson/play.php?id=333834720
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1744383648.webp&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F26630%2F1h5e4e370r1y.png%3Fwin007%3Dsell", 18/04-17:00 | Hoang Anh Gia Lai vs Hong Linh Ha Tinh | BLV TRƯƠNG THANH 
+http://khaitv.giize.com:8080/luongson/play.php?id=9f89662f-d4f5-48a5-8bbc-3474ee14598a
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20130923115323.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F25968%2F1gq6k99f9c1m.png%3Fwin007%3Dsell", 18/04-18:00 | Perth Glory (W) vs Melbourne City (W) | BLV BRUNO
+http://khaitv.giize.com:8080/luongson/play.php?id=489638622
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F1gz3j6bb5wt.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164869119739.png%3Fwin007%3Dsell", 18/04-18:30 | Derby County vs Luton Town | BLV TRIỆU TỬ LONG
+http://khaitv.giize.com:8080/luongson/play.php?id=46975928-aec0-4a79-b0f7-e57e07acf2b4
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F1gz3j6bb5wt.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164869119739.png%3Fwin007%3Dsell", 18/04-18:30 | Derby County vs Luton Town | BLV SÀI TIẾN
+http://khaitv.giize.com:8080/luongson/play.php?id=3e46f639-1d09-424a-a5c7-d9cfbd84d569
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F1gz3j6bb5wt.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164869119739.png%3Fwin007%3Dsell", 18/04-18:30 | Derby County vs Luton Town | BLV LA THÀNH
+http://khaitv.giize.com:8080/luongson/play.php?id=391489528
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F59747%2F1h9yf9yeq71c.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F167037911263.png%3Fwin007%3Dsell", 18/04-19:00 | Malut United vs PSBS Biak | BLV QUAN VŨ
+http://khaitv.giize.com:8080/luongson/play.php?id=243614626
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F59747%2F1h9yf9yeq71c.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F167037911263.png%3Fwin007%3Dsell", 18/04-19:00 | Malut United vs PSBS Biak |  BLV ĐỊCH NHÂN KIỆT
+http://khaitv.giize.com:8080/luongson/play.php?id=8f52a633-54e7-4d4c-8cfc-d5a7ed331392
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F16494102541.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164941039640.png%3Fwin007%3Dsell", 18/04-19:00 | Persib Bandung vs Bali United | BLV CHU ĐỒNG
+http://khaitv.giize.com:8080/luongson/play.php?id=253614627
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F16494102541.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164941039640.png%3Fwin007%3Dsell", 18/04-19:00 | Persib Bandung vs Bali United | BLV TRƯƠNG VÔ KỴ
+http://khaitv.giize.com:8080/luongson/play.php?id=bc0d94c0-7d84-4299-ae2b-f62917aede1c
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F16494102541.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164941039640.png%3Fwin007%3Dsell", 18/04-19:00 | Persib Bandung vs Bali United | BLV CAO CẦU
+http://khaitv.giize.com:8080/luongson/play.php?id=af9d4f85-a323-4d3f-a13d-fb2558344a16
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1744881168.jpg&m2=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1744881170.jpg", 18/04-19:00 | LIVE BACCARAT vs LIVE BACCARAT | LIVE GAME ĐIÊU THUYỀN
 http://khaitv.giize.com:8080/luongson/play.php?id=dcb76249-6563-4fda-8cb5-edd84c88a163
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1744383645.webp&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20170107083859.png%3Fwin007%3Dsell", 18/04-19:15 | Cong An Ha Noi vs Ho Chi Minh City | BLV LƯU BỊ
+http://khaitv.giize.com:8080/luongson/play.php?id=2d1539c7-e764-49e9-b282-a9b4fcb81404
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1744383645.webp&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20170107083859.png%3Fwin007%3Dsell", 18/04-19:15 | Cong An Ha Noi vs Ho Chi Minh City | BLV DẾ LỬA
+http://khaitv.giize.com:8080/luongson/play.php?id=e16ca72e-8620-4f52-9a3e-637f78b16c6a
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1744383645.webp&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20170107083859.png%3Fwin007%3Dsell", 18/04-19:15 | Cong An Ha Noi vs Ho Chi Minh City | BLV LỮ BỐ
+http://khaitv.giize.com:8080/luongson/play.php?id=343834721
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1744383645.webp&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20170107083859.png%3Fwin007%3Dsell", 18/04-19:15 | Cong An Ha Noi vs Ho Chi Minh City | BLV TIÊU PHONG
+http://khaitv.giize.com:8080/luongson/play.php?id=21556e3a-ef5d-42b3-b7d9-d94e01bf8877
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1744383645.webp&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20170107083859.png%3Fwin007%3Dsell", 18/04-19:15 | Cong An Ha Noi vs Ho Chi Minh City | BLV NGÔ DỤNG
+http://khaitv.giize.com:8080/luongson/play.php?id=a256939c-1823-493c-b411-48bb95a55af2
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1744881197.jpg&m2=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1744881199.jpg", 18/04-20:00 | LIVE IDOL vs LIVE IDOL | IDOL LINHLUNA
 http://khaitv.giize.com:8080/luongson/play.php?id=bcedc7da-5aa9-400c-8352-f8f978e81c52
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1744881224.jpg&m2=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1744881226.jpg", 18/04-20:00 | LIVE IDOL vs LIVE IDOL | LIVE GAME TRIỆU MẪN
@@ -3172,3 +3232,13 @@ http://pk79.io.vn/xemlai/play.php?id=l8RNW9y
 #EXTINF:-1 group-title="xem lại" tvg-logo="https://g7w1r.4shares.live/news/my124.jpg",Fullmatch  Man City vs Crystal Palace | BLV Mỳ Tôm | 13.4.25
 http://pk79.io.vn/xemlai/play.php?id=4OFMeAU
 #EXTM3U
+#EXTINF:-1 group-title="⭐ Sự kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/10/22/16/1634893218113/fc915179ef69_640_360.jpg", 17/04 18:00 | Xổ Số Miền Bắc
+http://khaitv.giize.com:8080/tv360/playvip.php?id=346
+#EXTINF:-1 group-title="⭐ Sự kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/04/15/17/174471267263/f699e6915e9f_640_360.jpg", 19/04 11:30 | DP WORLD TOUR 2025 VOLVO CHINA OPEN NGÀY 3
+http://khaitv.giize.com:8080/tv360/playvip.php?id=169
+#EXTINF:-1 group-title="⭐ Sự kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/04/16/11/1744777155678/c8c94ec74aa5_640_360.jpg", 18/04 17:00 | HOÀNG ANH GIA LAI VS HỒNG LĨNH HÀ TĨNH
+http://khaitv.giize.com:8080/tv360/playvip.php?id=201
+#EXTINF:-1 group-title="⭐ Sự kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/04/17/09/1744856414131/acc287769e0b_640_360.jpg", 19/04 16:00 | ĐỒNG NAI VS BÀ RỊA VŨNG TÀU
+http://khaitv.giize.com:8080/tv360/playvip.php?id=195
+#EXTINF:-1 group-title="⭐ Sự kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/04/16/11/1744777252384/efc818c72b64_640_360.jpg", 18/04 19:15 | HẢI PHÒNG VS QUY NHƠN BÌNH ĐỊNH
+http://khaitv.giize.com:8080/tv360/playvip.php?id=110
