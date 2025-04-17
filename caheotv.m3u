@@ -594,22 +594,12 @@ http://bentre5.hoangai.vn:8082/sctv/get.php?id=sctv3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
 http://khaitv.giize.com:8080/tvmienphi/get.php?id=sctv5
-#EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/QUOCHOITV.jpg",Quốc hội Việt Nam
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sctvonline.vn/
-https://s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s3.edge.cdn.sctvonline.vn/hls/thquochoi/index.m3u8
 #EXTINF:0 group-title="SCTV" tvg-logo="https://i.ytimg.com/vi/lak883WKa3s/hq720.jpg",VTV 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sctvonline.vn/
-http://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/vtv5/index.m3u8
+http://bentre5.hoangai.vn:7000/stream_media?id=sctvonline.vn/detail/vtv5-truyen-hinh-dan-toc
 #EXTINF:0 group-title="SCTV" tvg-logo="https://i.ytimg.com/vi/LkeoKNW8YlU/hq720.jpg",VTV 5 Tây Nam Bộ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sctvonline.vn/
-http://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/vtv5_tnb/index.m3u8
+http://bentre5.hoangai.vn:7000/stream_media?id=sctvonline.vn/detail/vtv5-tay-nam-bo-tieng-dan-toc-khu-vuc-tay-nam-bo
 #EXTINF:0 group-title="SCTV" tvg-logo="https://i.ytimg.com/vi/u3oLNrB_WDM/maxresdefault.jpg",VTV 6 VTV Cần Thơ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sctvonline.vn/
-http://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/vtv6/index.m3u8
+http://bentre5.hoangai.vn:12345/192.168.2.41:100/stream?url=https://zenlive.onsports.vn/onplus/VTV6_HD/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10
 #EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/SCTV15.jpg",SCTV 15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
@@ -854,7 +844,7 @@ https://funny-cock.gxsyrh.com/vn88/TH3_250/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tructiepdaga.456789.site/
 https://funny-cock.gxsyrh.com/vn88/SV1_250/playlist.
-#EXTINF:-1 group-title="🔴|Đá Gà Live" tvg-logo="https://sildeal.vn/wp-content/uploads/2022/04/huong-dan-cach-choi-ca-cuoc-da-ga.jpg", Đá gà live 7 🔴
+#EXTINF:-1 group-title="🐀񝁼Đá Gà Live" tvg-logo="https://sildeal.vn/wp-content/uploads/2022/04/huong-dan-cach-choi-ca-cuoc-da-ga.jpg", Đá gà live 7 🔴
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tructiepdaga.456789.site/
 https://funny-cock.gxsyrh.com/vn88/SA1_250/playlist.m3u8
