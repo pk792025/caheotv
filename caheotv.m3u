@@ -773,17 +773,6 @@ http://bentre5.hoangai.vn:1234/stream/sctv/kcine/master.m3u8?u=atat1996&p=fbf555
 http://bentre5.hoangai.vn:1234/stream/sctv/kaction/master.m3u8?u=atat1996&p=fbf555dd835e1c2de5842f148e9b8c20555a316e90b63ef0947791beb24ed843
 
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://img.lichphatsong.xyz/logo/kcinehd.jpg", K+CINE HD SƯU TẦM
-http://duthao2008.fastddns.org:9981/stream/channelid/41824813?profile=pass
-#EXTINF:-1 tvg-id="kactionhd" group-title="K+" tvg-logo="https://img.lichphatsong.xyz/logo/kaction.jpg", K+ACTION HD SƯU TẦM
-http://duthao2008.fastddns.org:9981/stream/channelid/1690978840?profile=pass
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img.lichphatsong.xyz/logo/ksport1hd.jpg", K+SPORT1 HD V
-http://duthao2008.fastddns.org:9981/stream/channelid/1013494608?profile=pass
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://img.lichphatsong.xyz/logo/ksport2hd.jpg", K+SPORT2 HD SƯU TẦM
-http://duthao2008.fastddns.org:9981/stream/channelid/1077102621?profile=pass
-#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://img.lichphatsong.xyz/logo/kkidshd.jpg", K+SPORT2 HD SƯU TẦM
-http://duthao2008.fastddns.org:9981/stream/channelid/471475672?profile=pass
-
 
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/f53c0d1b-0268-4d1e-b150-7d797354b925.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", ON Sports HD
 http://bentre5.hoangai.vn:12345/192.168.2.41:100/stream?url=https://zenlive.onsports.vn/onplus/THETHAO_HD/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10
@@ -1404,12 +1393,6 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
 #EXTM3U
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png", 17/04 10:05 | Mexico Liga MX | Pumas U.N.A.M. VS Santos Laguna 🔴
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-http://pk79.io.vn/laykinhtv/play.php?id=dB6h82rY
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/70f03bd4da7c486b8ca8f11ab251ce34.png", 17/04 12:15 | Mongolia Premier League | Khovd VS FC Ulaanbaatar
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-http://pk79.io.vn/laykinhtv/play.php?id=vK3rYxNv
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/7c47816625ae0772db06ebabb51a2e33.png", 17/04 14:00 | Korean WK League | Boeun Sangmu (w) VS Changnyeong (w)
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=nuVKnCzd
@@ -2790,13 +2773,11 @@ http://pk79.io.vn/buncha/play.php?id=239170628&type=1
 # Tổng số trận đấu: 68
 # Tạo tự động lúc 17/04/2025 12:15:12
 #EXTM3U x-tvg-url="http://pk79.x10.mx/bongda/vebo.php" refresh="3600"
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png" tvg-chno="vQMunhC" catchup="default" catchup-source="?playbackstart={utc}",🔴 17/04-10:05 | Mexico Liga MX | Pumas U.N.A.M. VS Santos Laguna (Updated: 2025-04-17 01:00:04)
-http://pk79.io.vn/vebo/play.php?id=vQMunhC
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" tvg-chno="vZiaZTV" catchup="default" catchup-source="?playbackstart={utc}",17/04-15:30 | Indonesian Liga 1 | Semen Padang VS PSIS Semarang (Updated: 2025-04-17 01:00:04)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" tvg-chno="vZiaZTV" catchup="default" catchup-source="?playbackstart={utc}",17/04-15:30 | Indonesian Liga 1 | Semen Padang VS PSIS Semarang (Updated: 2025-04-17 01:20:05)
 http://pk79.io.vn/vebo/play.php?id=vZiaZTV
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/d09477b5ca8fcc88dc8d7d5249d08983.png" tvg-chno="WmS72wU" catchup="default" catchup-source="?playbackstart={utc}",17/04-15:30 | AFC Challenge League | Madura United VS Svay Rieng FC (Updated: 2025-04-17 01:00:04)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/d09477b5ca8fcc88dc8d7d5249d08983.png" tvg-chno="WmS72wU" catchup="default" catchup-source="?playbackstart={utc}",17/04-15:30 | AFC Challenge League | Madura United VS Svay Rieng FC (Updated: 2025-04-17 01:20:05)
 http://pk79.io.vn/vebo/play.php?id=WmS72wU
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/4882cc6cf460ceca9f2e45402e673433.png" tvg-chno="pzs5jXb" catchup="default" catchup-source="?playbackstart={utc}",17/04-16:35 | Australia A-League | Brisbane Roar VS Western United FC (Updated: 2025-04-17 01:00:04)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/4882cc6cf460ceca9f2e45402e673433.png" tvg-chno="pzs5jXb" catchup="default" catchup-source="?playbackstart={utc}",17/04-16:35 | Australia A-League | Brisbane Roar VS Western United FC (Updated: 2025-04-17 01:20:05)
 http://pk79.io.vn/vebo/play.php?id=pzs5jXb
 #EXTM3U
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20130923105202.jpg%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F1333%2F1h5gp7hy4y1h.png%3Fwin007%3Dsell", 🔴 17/04-10:05 | Pumas U.N.A.M. vs Santos Laguna | BLV HOẮC ĐÔ
@@ -2999,8 +2980,6 @@ http://khaitv.giize.com:8080/luongson/play.php?id=9ed31b17-d169-4253-97a6-bfc7ab
 http://khaitv.giize.com:8080/luongson/play.php?id=7fdec423-d1a9-4c01-a8c0-b2ff58b4f70a
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577409120.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F659%2F1gxmbjjqa62r.png%3Fwin007%3Dsell", 18/04-02:00 | Chelsea vs Legia Warszawa | BLV TRƯƠNG VÔ KỴ
 http://khaitv.giize.com:8080/luongson/play.php?id=707ebfe0-5dc4-4014-b1a3-b66617054317
-#EXTINF:-1 group-title="gavang" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F7469a3ba655842152c7fb9879022215f%2Fimage%2Fsmall&m2=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F77a686795b42638e7c37e82febceb611%2Fimage%2Fsmall", 17/04-10:00 | Mexico Liga MX | Pumas U.N.A.M. - Santos Laguna
-http://khaitv.giize.com:8080/thapcam/proxy.php?url=https%3A%2F%2Flive.rapid-api.icu%2Flive%2Fa5c55ef65fed68aaf9f3c85aead7eefc%2Fplaylist.m3u8&referer=https://tructiep1.gavang4.uk/
 #EXTINF:-1 group-title="gavang" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2f8a2f0cb268ac531b894e1574154002%2Fimage%2Fsmall&m2=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2518b4b9b25f90b201107ff25eb1ea7e%2Fimage%2Fsmall", 17/04-15:30 | AFC Challenge League | Madura United - Svay Rieng FC
 http://khaitv.giize.com:8080/thapcam/proxy.php?url=&referer=https://tructiep1.gavang4.uk/
 #EXTINF:-1 group-title="gavang" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F19dd9f52649ba4c38c86621fce6a7f38%2Fimage%2Fsmall&m2=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F49a476ed8bb3cf096406cbd2b7dac8c7%2Fimage%2Fsmall", 17/04-16:35 | Australia A-League | Brisbane Roar - Western United FC
@@ -3017,8 +2996,10 @@ http://khaitv.giize.com:8080/thapcam/proxy.php?url=&referer=https://tructiep1.ga
 http://khaitv.giize.com:8080/thapcam/proxy.php?url=&referer=https://tructiep1.gavang4.uk/
 #EXTINF:-1 group-title="gavang" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fdf0422ab9b8d61684e8aee7bb7bc4f4d%2Fimage%2Fsmall&m2=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8cea83e71494928de3ba9b45ffc3f97e%2Fimage%2Fsmall", 17/04-23:45 | UEFA Europa Conference League | Jagiellonia Bialystok - Real Betis
 http://khaitv.giize.com:8080/thapcam/proxy.php?url=&referer=https://tructiep1.gavang4.uk/
+#EXTINF:-1 group-title="gavang" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F54c0a4f2e30c047e561f386e04e0760e%2Fimage%2Fsmall&m2=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc8130080c813ef1acc5189c0da0552f9%2Fimage%2Fsmall", 18/04-01:00 | Saudi Professional League | Al-Fateh SC - Al-Ittihad Club
+http://khaitv.giize.com:8080/thapcam/proxy.php?url=&referer=https://tructiep1.gavang4.uk/
 #EXTM3U
-# Cập nhật lúc: 2025-04-17 01:00:09
+# Cập nhật lúc: 2025-04-17 01:25:07
 #EXTINF:-1 group-title="OnPLus Live 🔴" tvg-logo="https://imgvlive.vtvcab.vn/720X405/eee60040-1a45-4337-8a63-4cfbc27922a2.jpg", 17/04-10:00 | Pickleball VPO Cup 2025
 http://bentre5.hoangai.vn:8082/onplus/play2.php?id=onsport9
 #EXTINF:-1 group-title="OnPLus Live 🔴" tvg-logo="https://imgvlive.vtvcab.vn/720X405/198771f8-c1cf-4448-a8bc-00d449a9e51d.jpg", 17/04-10:30 | Arena of Glory Spring 2025
