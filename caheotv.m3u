@@ -568,21 +568,11 @@ http://khaitv.giize.com:8080/tv360/play.php?id=135
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
 http://khaitv.giize.com:8080/tvmienphi/get.php?id=sctv4
-#EXTINF:0 group-title="SCTV" tvg-logo="",TV5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sctvonline.vn/
-http://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/tv5/index.m3u8
 #EXTINF:0 group-title="SCTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg",VTV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sctvonline.vn/
-http://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/vtv1/index.m3u8
+http://bentre5.hoangai.vn:12345/192.168.2.41:100/stream?url=https://zenlive.onsports.vn/onplus/VTV1_HD/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10
 #EXTINF:0 group-title="SCTV" tvg-logo="",Woman
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sctvonline.vn/
-http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/woman/index.m3u8
+http://khaitv.giize.com:8080/tv360/play.php?id=163
 #EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/SCTV14.jpg",SCTV 14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sctvonline.vn/
 http://khaitv.giize.com:8080/tvmienphi/get.php?id=sctv14
 #EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/ANTVHD.jpg",Công an nhân dân
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
@@ -2590,37 +2580,29 @@ http://pk79.io.vn/laykinhtv/play.php?id=oklzKUTb
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=vyGBuaHt
 #EXTM3U
-#PLAYLIST: Bún Chả TV - Cập nhật ngày 17/04/2025 19:00
+#PLAYLIST: Bún Chả TV - Cập nhật ngày 17/04/2025 19:15
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/5e8468d2571ba27c635555405a3f26d6.png",🔴 17/04-17:00 | LCK 2025 LMHT | BRO vs KT
 http://pk79.io.vn/buncha/play.php?id=599995964&type=36
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200418084009.png?win007=sell",🔴 SÓNG QUỐC TẾ | 17/04-17:00 | Ukraine U21 Liga | Dinamo KyivU21 vs Obolon Kiev U21
 http://pk79.io.vn/buncha/play.php?id=283124626&type=quocte
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:00 | Spanish Bizkaia-Tercera Division | CF San Bartolome vs UD Ibarra
-http://pk79.io.vn/buncha/play.php?id=245146729&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:00 | Spanish Bizkaia-Tercera Division | Lanzarote vs Arucas CF
-http://pk79.io.vn/buncha/play.php?id=215146726&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20130418202641.jpg?win007=sell",17/04-18:00 | Danish 1st Division | Odense BK vs Kolding FC
 http://pk79.io.vn/buncha/play.php?id=469475720&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:00 | Spanish Bizkaia-Tercera Division | CD Santa Ursula vs CD San Miguel
-http://pk79.io.vn/buncha/play.php?id=355146720&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:00 | International Friendly | North Macedonia U18 vs Slovakia U18
-http://pk79.io.vn/buncha/play.php?id=600005678&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:00 | Spanish Bizkaia-Tercera Division | Villa Santa Brigida vs UD Tamaraceite
-http://pk79.io.vn/buncha/play.php?id=365146721&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190423221331.jpg?win007=sell",17/04-18:00 | National Premier Leagues Western Australia | Perth SC vs Floreat Athena
-http://pk79.io.vn/buncha/play.php?id=398092727&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:00 | Spanish Bizkaia-Tercera Division | Marino vs Union Viera
+http://pk79.io.vn/buncha/play.php?id=394146723&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190423221331.jpg?win007=sell",17/04-18:00 | National Premier Leagues Western Australia | Bayswater City vs Armadale SC
 http://pk79.io.vn/buncha/play.php?id=209092729&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200825111140.png?win007=sell",17/04-18:00 | Denmark Youth U19 | Aarhus AGF U19 vs Silkeborg U19
-http://pk79.io.vn/buncha/play.php?id=237211622&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:00 | Spanish Bizkaia-Tercera Division | Lanzarote vs Arucas CF
+http://pk79.io.vn/buncha/play.php?id=215146726&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190423221331.jpg?win007=sell",17/04-18:00 | National Premier Leagues Western Australia | Perth SC vs Floreat Athena
+http://pk79.io.vn/buncha/play.php?id=398092727&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",🔴 SÓNG QUỐC TẾ | 17/04-18:00 | International Friendly | North Macedonia U18 vs Slovakia U18
+http://pk79.io.vn/buncha/play.php?id=600005678&type=quocte
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190423221331.jpg?win007=sell",🔴 SÓNG QUỐC TẾ | 17/04-18:00 | National Premier Leagues Western Australia | Bayswater City vs Armadale SC
 http://pk79.io.vn/buncha/play.php?id=209092729&type=quocte
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190423221331.jpg?win007=sell",🔴 SÓNG QUỐC TẾ | 17/04-18:00 | National Premier Leagues Western Australia | Perth SC vs Floreat Athena
 http://pk79.io.vn/buncha/play.php?id=398092727&type=quocte
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20130418202641.jpg?win007=sell",🔴 SÓNG QUỐC TẾ | 17/04-18:00 | Danish 1st Division | Odense BK vs Kolding FC
 http://pk79.io.vn/buncha/play.php?id=469475720&type=quocte
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",🔴 SÓNG QUỐC TẾ | 17/04-18:00 | International Friendly | North Macedonia U18 vs Slovakia U18
-http://pk79.io.vn/buncha/play.php?id=600005678&type=quocte
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:15 | Mongolia Premier League | Bayanzurkh Sporting Ilch vs Khangarid Klub
 http://pk79.io.vn/buncha/play.php?id=327446722&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",🔴 SÓNG QUỐC TẾ | 17/04-18:15 | Mongolia Premier League | Bayanzurkh Sporting Ilch vs Khangarid Klub
@@ -2629,6 +2611,8 @@ http://pk79.io.vn/buncha/play.php?id=327446722&type=quocte
 http://pk79.io.vn/buncha/play.php?id=600010550&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200423114206.png?win007=sell",🔴 17/04-18:30 | Kazakhstan Division 1 | Kairat Almaty II vs Khan Tengri FC
 http://pk79.io.vn/buncha/play.php?id=236326729&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:30 | Denmark - 4.Liga | Norresundby vs Marienlyst
+http://pk79.io.vn/buncha/play.php?id=600010592&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:45 | Spanish Bizkaia-Tercera Division | Herbania vs UD Los Llanos De Aridane
 http://pk79.io.vn/buncha/play.php?id=205146725&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/fdad32ccf5205e78f9f39db42d073998.svg",🔴 17/04-18:45 | LPL | NIP vs WBG
@@ -2637,14 +2621,16 @@ http://pk79.io.vn/buncha/play.php?id=599996972&type=36
 http://pk79.io.vn/buncha/play.php?id=495845720&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190516105925.png?win007=sell",🔴 17/04-19:00 | Indonesia Super League | PSS Sleman vs Dewa United FC
 http://pk79.io.vn/buncha/play.php?id=223614624&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200420173551.jpg?win007=sell",17/04-19:00 | Denmark Superligaen | Lyngby vs Sonderjyske
-http://pk79.io.vn/buncha/play.php?id=385845729&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-19:00 | Poland Division 4 | Legia Warszawa B vs OKS Stomil Olsztyn
 http://pk79.io.vn/buncha/play.php?id=376246724&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190409145139.png?win007=sell",17/04-19:00 | Germany Regionalliga | Werder Bremen (Youth) vs St Pauli II
-http://pk79.io.vn/buncha/play.php?id=600001492&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-19:00 | Norway Division 4 | Djerv 1919 vs Brodd
 http://pk79.io.vn/buncha/play.php?id=366750723&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20130418202641.jpg?win007=sell",17/04-19:00 | Danish 1st Division | Roskilde vs Herfolge Boldklub Koge
+http://pk79.io.vn/buncha/play.php?id=332575721&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190409145139.png?win007=sell",17/04-19:00 | Germany Regionalliga | Werder Bremen (Youth) vs St Pauli II
+http://pk79.io.vn/buncha/play.php?id=600001492&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200402173757.png?win007=sell",17/04-19:00 | Poland Division 2 | Zaglebie Lubin B vs KP Calisia Kalisz
+http://pk79.io.vn/buncha/play.php?id=394539527&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-19:00 | Argentina Youth League | Banfield U20 vs CA Talleres de Cordoba U20
 http://pk79.io.vn/buncha/play.php?id=600008254&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-19:00 | Argentina Youth League | Newells U20 vs Estudiantes La Plata U20
@@ -2685,36 +2671,56 @@ http://pk79.io.vn/buncha/play.php?id=600008373&type=1
 http://pk79.io.vn/buncha/play.php?id=600008380&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-19:00 | Argentina Youth League | Barracas Central U20 vs CA Aldosivi U20
 http://pk79.io.vn/buncha/play.php?id=600008387&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-19:00 | Argentina Youth League | Racing Club U20 vs CA Tigre U20
-http://pk79.io.vn/buncha/play.php?id=600008394&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-19:00 | Argentina Youth League | CA San Miguel U20 vs Temperley U20
 http://pk79.io.vn/buncha/play.php?id=600008401&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200402173757.png?win007=sell",17/04-19:00 | Poland Division 2 | Zaglebie Lubin B vs KP Calisia Kalisz
-http://pk79.io.vn/buncha/play.php?id=394539527&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20130418202641.jpg?win007=sell",17/04-19:00 | Danish 1st Division | Roskilde vs Herfolge Boldklub Koge
-http://pk79.io.vn/buncha/play.php?id=332575721&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-19:00 | Norway Division 4 | Madla IL vs Hinna
-http://pk79.io.vn/buncha/play.php?id=386750725&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200420171123.jpg?win007=sell",17/04-19:00 | Norway 2.Liga | Grorud vs Honefoss BK
-http://pk79.io.vn/buncha/play.php?id=235021720&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200420171123.jpg?win007=sell",17/04-19:00 | Norway 2.Liga | Ullensaker/Kisa IL vs Kjelsas
-http://pk79.io.vn/buncha/play.php?id=285021725&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-19:00 | Norway Division 4 | Askoy FK vs Os Turn Fotball
-http://pk79.io.vn/buncha/play.php?id=348550721&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-19:00 | Argentina Youth League | Los Andes U20 vs Club Comunicaciones Reserves
-http://pk79.io.vn/buncha/play.php?id=600010606&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-19:00 | Czech Republic U19 League | Slovan Liberec U19 vs Sigma Olomouc U19
 http://pk79.io.vn/buncha/play.php?id=355893729&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-19:00 | Norway Division 4 | Askoy FK vs Os Turn Fotball
+http://pk79.io.vn/buncha/play.php?id=348550721&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-19:00 | Norway Division 4 | Madla IL vs Hinna
+http://pk79.io.vn/buncha/play.php?id=386750725&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-19:00 | Argentina Youth League | Los Andes U20 vs Club Comunicaciones Reserves
+http://pk79.io.vn/buncha/play.php?id=600010606&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200420173551.jpg?win007=sell",17/04-19:00 | Denmark Superligaen | Lyngby vs Sonderjyske
+http://pk79.io.vn/buncha/play.php?id=385845729&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200420171123.jpg?win007=sell",17/04-19:00 | Norway 2.Liga | Grorud vs Honefoss BK
+http://pk79.io.vn/buncha/play.php?id=235021720&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-19:00 | Argentina Youth League | Racing Club U20 vs CA Tigre U20
+http://pk79.io.vn/buncha/play.php?id=600008394&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-19:00 | Azerbaijan Division 2 | Baku Sporting vs Qaradag Lokbatan
 http://pk79.io.vn/buncha/play.php?id=203346725&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20130418202641.jpg?win007=sell",SÓNG QUỐC TẾ | 17/04-19:00 | Danish 1st Division | Roskilde vs Herfolge Boldklub Koge
-http://pk79.io.vn/buncha/play.php?id=332575721&type=quocte
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",🔴 SÓNG QUỐC TẾ | 17/04-19:00 | Norway Division 4 | Askoy FK vs Os Turn Fotball
-http://pk79.io.vn/buncha/play.php?id=348550721&type=quocte
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",SÓNG QUỐC TẾ | 17/04-19:00 | Norway Division 4 | Djerv 1919 vs Brodd
-http://pk79.io.vn/buncha/play.php?id=366750723&type=quocte
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200420171123.jpg?win007=sell",17/04-19:00 | Norway 2.Liga | Ullensaker/Kisa IL vs Kjelsas
+http://pk79.io.vn/buncha/play.php?id=285021725&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200420173551.jpg?win007=sell",🔴 SÓNG QUỐC TẾ | 17/04-19:00 | Denmark Superligaen | Lyngby vs Sonderjyske
+http://pk79.io.vn/buncha/play.php?id=385845729&type=quocte
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",🔴 SÓNG QUỐC TẾ | 17/04-19:00 | Norway Division 4 | Madla IL vs Hinna
 http://pk79.io.vn/buncha/play.php?id=386750725&type=quocte
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",🔴 SÓNG QUỐC TẾ | 17/04-19:00 | Norway Division 4 | Djerv 1919 vs Brodd
+http://pk79.io.vn/buncha/play.php?id=366750723&type=quocte
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",🔴 SÓNG QUỐC TẾ | 17/04-19:00 | Norway Division 4 | Askoy FK vs Os Turn Fotball
+http://pk79.io.vn/buncha/play.php?id=348550721&type=quocte
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",🔴 SÓNG QUỐC TẾ | 17/04-19:00 | Azerbaijan Division 2 | Baku Sporting vs Qaradag Lokbatan
+http://pk79.io.vn/buncha/play.php?id=203346725&type=quocte
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20130418202641.jpg?win007=sell",🔴 SÓNG QUỐC TẾ | 17/04-19:00 | Danish 1st Division | Roskilde vs Herfolge Boldklub Koge
+http://pk79.io.vn/buncha/play.php?id=332575721&type=quocte
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200420171123.jpg?win007=sell",🔴 SÓNG QUỐC TẾ | 17/04-19:00 | Norway 2.Liga | Ullensaker/Kisa IL vs Kjelsas
+http://pk79.io.vn/buncha/play.php?id=285021725&type=quocte
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200420171123.jpg?win007=sell",🔴 SÓNG QUỐC TẾ | 17/04-19:00 | Norway 2.Liga | Grorud vs Honefoss BK
+http://pk79.io.vn/buncha/play.php?id=235021720&type=quocte
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190409145139.png?win007=sell",🔴 SÓNG QUỐC TẾ | 17/04-19:00 | Germany Regionalliga | Werder Bremen (Youth) vs St Pauli II
+http://pk79.io.vn/buncha/play.php?id=600001492&type=quocte
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-19:15 | Nepal super | Dhangadhi FC vs Chitwan
+http://pk79.io.vn/buncha/play.php?id=600008408&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",SÓNG QUỐC TẾ | 17/04-19:30 | Azerbaijan Division 2 | Difai Agsu FK vs Zaqatala FK
+http://pk79.io.vn/buncha/play.php?id=223346727&type=quocte
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200402173757.png?win007=sell",SÓNG QUỐC TẾ | 17/04-20:15 | Poland Division 2 | KS Wieczysta Krakow vs Swit Szczecin
+http://pk79.io.vn/buncha/play.php?id=344539522&type=quocte
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200405174701.png?win007=sell",SÓNG QUỐC TẾ | 17/04-20:45 | Faroe Islands Formuladeildin | TB/FCS/Royn vs 07 Vestur Sorvagur
+http://pk79.io.vn/buncha/play.php?id=205361724&type=quocte
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi/http://zq.titan007.com/Image/league_match/images/16645130071.png?win007=sell",17/04-21:00 | AFC Championship U17 | Saudi Arabia U17 vs South Korea U17
+http://pk79.io.vn/buncha/play.php?id=600005692&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20140123113140.jpg?win007=sell",17/04-21:00 | Iceland Cup | Keflavik vs Leiknir Reykjavik
+http://pk79.io.vn/buncha/play.php?id=368346726&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/5e8468d2571ba27c635555405a3f26d6.png",18/04-15:00 | LCK 2025 LMHT | BFX vs T1
 http://pk79.io.vn/buncha/play.php?id=599995971&type=36
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/fdad32ccf5205e78f9f39db42d073998.svg",18/04-16:00 | LPL | NIP vs TT
@@ -2733,8 +2739,8 @@ http://pk79.io.vn/buncha/play.php?id=599995992&type=36
 http://pk79.io.vn/buncha/play.php?id=599996979&type=36
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/fdad32ccf5205e78f9f39db42d073998.svg",19/04-18:00 | LPL | WE vs AL
 http://pk79.io.vn/buncha/play.php?id=599997000&type=36
-# Tổng số trận đấu: 71
-# Tạo tự động lúc 17/04/2025 19:00:13
+# Tổng số trận đấu: 79
+# Tạo tự động lúc 17/04/2025 19:15:10
 #EXTM3U x-tvg-url="http://pk79.x10.mx/bongda/vebo.php" refresh="3600"
 #EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" tvg-chno="prmAl6Q" catchup="default" catchup-source="?playbackstart={utc}",17/04-19:00 | Indonesian Liga 1 | PSS Sleman VS Dewa United FC (Updated: 2025-04-17 08:00:04)
 http://pk79.io.vn/vebo/play.php?id=prmAl6Q
