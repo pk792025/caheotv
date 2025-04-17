@@ -444,13 +444,13 @@ https://pk79.io.vn/vieon/v.php?id=vtv9
 
 
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/SCTV1HD.jpg", SCTV1 HD
-http://bentre5.hoangai.vn:7000/stream_media?id=sctvonline.vn/detail/sctv1-hd-7f2aafec
+http://bentre5.hoangai.vn:8082/sctv/get.php?id=sctv1
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV2TODAYTV.jpg", SCTV2 HD - TODAY TV
 http://bentre5.hoangai.vn:8082/sctv/get.php?id=sctv2
 #EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/SCTV3.jpg", SCTV3 HD
-http://khaitv.giize.com:8080/tvmienphi/get.php?id=sctv3
+http://bentre5.hoangai.vn:8082/sctv/get.php?id=sctv3
 #EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/SCTV4.jpg", SCTV4 HD
-http://khaitv.giize.com:8080/tvmienphi/get.php?id=sctv4
+http://bentre5.hoangai.vn:8082/sctv/get.php?id=sctv4
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/SCTV5.jpg", SCTV5 HD - SCJ
 http://bentre5.hoangai.vn:8082/sctv/get.php?id=sctv5
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/SCTV6.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6 HD
@@ -488,12 +488,12 @@ http://bentre5.hoangai.vn:8082/sctv/get.php?id=sctv19
 #EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/SCTV20.jpg", SCTV20 HD
 http://bentre5.hoangai.vn:8082/sctv/get.php?id=sctv20
 #EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/SCTV21.jpg", SCTV21 HD
-http://bentre5.hoangai.vn:7000/stream_media?id=sctvonline.vn/detail/sctv-21-57de221a
+http://bentre5.hoangai.vn:8082/sctv/get.php?id=sctv21
 #EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/SCTV22.jpg", SCTV22 HD
 http://bentre5.hoangai.vn:1234/stream/sctv/sctv22/master.m3u8?u=atat1996&p=fbf555dd835e1c2de5842f148e9b8c20555a316e90b63ef0947791beb24ed843
 
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/SCTVPTH.jpg", SCTV HD Phim Tổng Hợp
-http://bentre5.hoangai.vn:7000/stream_media?id=sctvonline.vn/detail/sctv-phim-tong-hop-e6d2df88
+http://bentre5.hoangai.vn:8082/sctv/get.php?id=sctvpth
 #EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/HTV2VIECHANNEL.jpg",HTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
@@ -996,58 +996,6 @@ http://bentre5.hoangai.vn:12345/192.168.2.41:100/stream?url=https://zenlive.onsp
 
 
 
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Indonesian Liga 1",17/04 15h30 Semen Padang VS PSIS Semarang (CH) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/chuoisd1/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Indonesian Liga 1",17/04 15h30 Semen Padang VS PSIS Semarang (CH) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/chuoihd1/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Indonesian Liga 1",17/04 15h30 Semen Padang VS PSIS Semarang (CH) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/chuoisd2/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Indonesian Liga 1",17/04 15h30 Semen Padang VS PSIS Semarang (CH) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/chuoihd2/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Indonesian Liga 1",17/04 15h30 Semen Padang VS PSIS Semarang (CH) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/chuoisd1.flv
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Indonesian Liga 1",17/04 15h30 Semen Padang VS PSIS Semarang (CH) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/chuoihd1.flv
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: AFC Challenge League",17/04 15h30 Madura United VS Svay Rieng FC (CH) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/bachlongmasd1/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: AFC Challenge League",17/04 15h30 Madura United VS Svay Rieng FC (CH) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/bachlongmahd1/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: AFC Challenge League",17/04 15h30 Madura United VS Svay Rieng FC (CH) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179939170.vipcdnlive.xyz/live/bachlongmasd2/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: AFC Challenge League",17/04 15h30 Madura United VS Svay Rieng FC (CH) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179939170.vipcdnlive.xyz/live/bachlongmahd2/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: AFC Challenge League",17/04 15h30 Madura United VS Svay Rieng FC (CH) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/bachlongmasd1.flv
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: AFC Challenge League",17/04 15h30 Madura United VS Svay Rieng FC (CH) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/bachlongmahd1.flv
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Hạng nhất Azerbaijan",17/04 16h00 Cəbrayıl FK VS Mingachevir (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/m101qt/playlist.m3u8 
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: A-League",17/04 16h35 Brisbane Roar VS Western United FC (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -1104,10 +1052,30 @@ https://ckcdn.livestreameuro.live/live/m501nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m502nd/playlist.m3u8 
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Hạng Nhất Đan Mạch",17/04 18h00 Odense BK VS Kolding FC (CH)
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Hạng Nhất Đan Mạch",17/04 18h00 Odense BK VS Kolding FC (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
+https://qtcdn.livestreameuro.live/live/duongtiensd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Hạng Nhất Đan Mạch",17/04 18h00 Odense BK VS Kolding FC (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/duongtienhd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Hạng Nhất Đan Mạch",17/04 18h00 Odense BK VS Kolding FC (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179939170.vipcdnlive.xyz/live/duongtiensd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Hạng Nhất Đan Mạch",17/04 18h00 Odense BK VS Kolding FC (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179939170.vipcdnlive.xyz/live/duongtienhd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Hạng Nhất Đan Mạch",17/04 18h00 Odense BK VS Kolding FC (CH) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/duongtiensd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Hạng Nhất Đan Mạch",17/04 18h00 Odense BK VS Kolding FC (CH) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/duongtienhd1.flv
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Indonesian Liga 1",17/04 19h00 PSS Sleman VS Dewa United FC (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -1461,9 +1429,6 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
 #EXTM3U
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/037cb5cd1380d9d8506dec3f712e749f.png", 17/04 16:00 | Hạng Nhất Azerbaijan | Cəbrayıl FK VS Mingachevir 🔴
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-http://pk79.io.vn/laykinhtv/play.php?id=3Enoj2ou
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/76722a157176d354a952c671bb46cc7e.png", 17/04 16:35 | A-League | Brisbane Roar VS Western United FC 🔴
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=cbxklDYV
@@ -2683,121 +2648,123 @@ http://pk79.io.vn/laykinhtv/play.php?id=oklzKUTb
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=vyGBuaHt
 #EXTM3U
-#PLAYLIST: Bún Chả TV - Cập nhật ngày 17/04/2025 17:45
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200423114206.png?win007=sell",🔴 17/04-16:00 | Kazakhstan Division 1 | FK Aktobe II vs Irtysh Pavlodar
-http://pk79.io.vn/buncha/play.php?id=216326727&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200423114206.png?win007=sell",🔴 17/04-16:00 | Kazakhstan Division 1 | FC Jetisay vs FK Kaspyi Aktau
-http://pk79.io.vn/buncha/play.php?id=226326728&type=1
+#PLAYLIST: Bún Chả TV - Cập nhật ngày 17/04/2025 18:00
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/fdad32ccf5205e78f9f39db42d073998.svg",🔴 17/04-16:00 | LPL | WE vs BLG
 http://pk79.io.vn/buncha/play.php?id=599996965&type=36
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",🔴 SÓNG QUỐC TẾ | 17/04-16:00 | Azerbaijan Division 2 | Cəbrayıl FK vs E Nel G Tick
-http://pk79.io.vn/buncha/play.php?id=213346726&type=quocte
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200418084009.png?win007=sell",🔴 SÓNG QUỐC TẾ | 17/04-16:30 | Ukraine U21 Liga | FC Vorskla U21 vs PFC Oleksandria U21
 http://pk79.io.vn/buncha/play.php?id=122024628&type=quocte
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200317091800.png?win007=sell",🔴 17/04-16:35 | Australia A-League | Brisbane Roar vs Western United FC
 http://pk79.io.vn/buncha/play.php?id=262145626&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190424204342.jpg?win007=sell",17/04-16:45 | Australia FFA Cup | Corio SC vs FC Clifton Hill
-http://pk79.io.vn/buncha/play.php?id=335446721&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190424204342.jpg?win007=sell",17/04-16:45 | Australia FFA Cup | Dallas City vs Preston Lions
-http://pk79.io.vn/buncha/play.php?id=395446727&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/2011929115408.jpg?win007=sell",🔴 17/04-17:00 | WK League | KSPO FC Nữ vs Suwon FMC Nữ
 http://pk79.io.vn/buncha/play.php?id=270094729&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/2011929115408.jpg?win007=sell",🔴 17/04-17:00 | WK League | Hyundai Steel Red Angels Nữ vs Gyeongju FC Nữ
 http://pk79.io.vn/buncha/play.php?id=380094720&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/2011929115408.jpg?win007=sell",🔴 17/04-17:00 | WK League | Sejong Gumi Sportstoto Nữ vs Seoul Amazones Nữ
 http://pk79.io.vn/buncha/play.php?id=390094721&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190424204342.jpg?win007=sell",17/04-17:00 | Australia FFA Cup | Sydenham Park vs Dandenong City SC
-http://pk79.io.vn/buncha/play.php?id=375446725&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Spanish Bizkaia-Tercera Division | UD Somozas vs CD Estradense
-http://pk79.io.vn/buncha/play.php?id=366146722&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Australia New South Wales League 2 | Hawkesbury City SC vs Fraser Park FC
-http://pk79.io.vn/buncha/play.php?id=600005629&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Spanish Bizkaia-Tercera Division | CD Marchamalo vs CD Azuqueca
-http://pk79.io.vn/buncha/play.php?id=600002283&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190424204342.jpg?win007=sell",17/04-17:00 | Australia FFA Cup | Mill Park vs Western Eagles
-http://pk79.io.vn/buncha/play.php?id=365446724&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Spanish Bizkaia-Tercera Division | CD Binissalem vs UD Alcudia
-http://pk79.io.vn/buncha/play.php?id=359046723&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Spanish Bizkaia-Tercera Division | Atletico Arteixo vs CF Noia
-http://pk79.io.vn/buncha/play.php?id=226146728&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Spanish Bizkaia-Tercera Division | CD Calamonte vs Jerez
-http://pk79.io.vn/buncha/play.php?id=385146723&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190424204342.jpg?win007=sell",17/04-17:00 | Australia FFA Cup | Eltham Redbacks vs Hume City
-http://pk79.io.vn/buncha/play.php?id=355446723&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Spanish Bizkaia-Tercera Division | AD San Juan vs Bidzala
-http://pk79.io.vn/buncha/play.php?id=227146729&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Spanish Bizkaia-Tercera Division | Las Rozas vs CDF Tres Cantos
-http://pk79.io.vn/buncha/play.php?id=600001478&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Spanish Bizkaia-Tercera Division | Alcorcon B vs Rayo Vallecano B
-http://pk79.io.vn/buncha/play.php?id=600001471&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Spanish Bizkaia-Tercera Division | Cazalegas vs Valdepenas
-http://pk79.io.vn/buncha/play.php?id=396146725&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Spanish Bizkaia-Tercera Division | Atletico Tordesillas vs CD La Virgen Del Camino
-http://pk79.io.vn/buncha/play.php?id=348046721&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Spanish Bizkaia-Tercera Division | Muleno CF vs At. Pulpileno
-http://pk79.io.vn/buncha/play.php?id=347146721&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Spanish Bizkaia-Tercera Division | CD Cortes vs Atletico Artajones
-http://pk79.io.vn/buncha/play.php?id=217146728&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Spanish Bizkaia-Tercera Division | Palencia vs Villaralbo CF
-http://pk79.io.vn/buncha/play.php?id=338046720&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Hungary U19 A League | MTK Budapest U19 vs Paksi SEU19
 http://pk79.io.vn/buncha/play.php?id=399164728&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Spanish Bizkaia-Tercera Division | CD Cuarte Industrial vs AD Almudevar
 http://pk79.io.vn/buncha/play.php?id=399046727&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Denmark - 4.Liga | Vegar vs Hedensted
-http://pk79.io.vn/buncha/play.php?id=600010564&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Denmark - 4.Liga | Hobro IK 2 vs OKS
-http://pk79.io.vn/buncha/play.php?id=600010557&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Ethiopia Higher League | Addis Ababa University vs Nib FC
-http://pk79.io.vn/buncha/play.php?id=600010543&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Spanish Bizkaia-Tercera Division | CD Mosconia vs Real Titanico Laviana
-http://pk79.io.vn/buncha/play.php?id=280146728&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200418084009.png?win007=sell",17/04-17:00 | Ukraine U21 Liga | Dinamo KyivU21 vs Obolon Kiev U21
-http://pk79.io.vn/buncha/play.php?id=283124626&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190424204342.jpg?win007=sell",17/04-17:00 | Australia FFA Cup | Whittlesea United vs West Preston SC
-http://pk79.io.vn/buncha/play.php?id=600001268&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Spanish Bizkaia-Tercera Division | UD Barbadas vs Gran Pena
-http://pk79.io.vn/buncha/play.php?id=236146729&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190424204342.jpg?win007=sell",17/04-17:00 | Australia FFA Cup | Banyule City vs Old Scotch SC
-http://pk79.io.vn/buncha/play.php?id=600005895&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Spanish Bizkaia-Tercera Division | CD Cieza vs SFC Minerva
-http://pk79.io.vn/buncha/play.php?id=337146720&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190424204342.jpg?win007=sell",17/04-17:00 | Australia FFA Cup | Adelaide Raiders SC vs Cumberland United FC
-http://pk79.io.vn/buncha/play.php?id=233056726&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Czech Republic U19 League | Vysocina Jihlava U19 vs Viktoria Plzen U19
-http://pk79.io.vn/buncha/play.php?id=494893722&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Spanish Bizkaia-Tercera Division | CA Bembibre vs Burgos Promesas
-http://pk79.io.vn/buncha/play.php?id=397046725&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Serbia U19 League | FK Radnicki 1923 U19 vs Spartak Subotica U19
 http://pk79.io.vn/buncha/play.php?id=600008240&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Spanish Bizkaia-Tercera Division | Castuera vs Puebla Calzada
-http://pk79.io.vn/buncha/play.php?id=375146722&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Spanish Bizkaia-Tercera Division | Arandina vs CD Mohamed
-http://pk79.io.vn/buncha/play.php?id=368046723&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Spanish Bizkaia-Tercera Division | CD Cieza vs SFC Minerva
+http://pk79.io.vn/buncha/play.php?id=337146720&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Spanish Bizkaia-Tercera Division | CA Bembibre vs Burgos Promesas
+http://pk79.io.vn/buncha/play.php?id=397046725&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Spanish Bizkaia-Tercera Division | Palencia vs Villaralbo CF
+http://pk79.io.vn/buncha/play.php?id=338046720&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Australia New South Wales League 2 | Hawkesbury City SC vs Fraser Park FC
+http://pk79.io.vn/buncha/play.php?id=600005629&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Spanish Bizkaia-Tercera Division | CD Marchamalo vs CD Azuqueca
+http://pk79.io.vn/buncha/play.php?id=600002283&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Spanish Bizkaia-Tercera Division | Muleno CF vs At. Pulpileno
+http://pk79.io.vn/buncha/play.php?id=347146721&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Spanish Bizkaia-Tercera Division | Atletico Tordesillas vs CD La Virgen Del Camino
+http://pk79.io.vn/buncha/play.php?id=348046721&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Spanish Bizkaia-Tercera Division | CD Mosconia vs Real Titanico Laviana
+http://pk79.io.vn/buncha/play.php?id=280146728&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190424204342.jpg?win007=sell",17/04-17:00 | Australia FFA Cup | Adelaide Raiders SC vs Cumberland United FC
+http://pk79.io.vn/buncha/play.php?id=233056726&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190424204342.jpg?win007=sell",17/04-17:00 | Australia FFA Cup | Whittlesea United vs West Preston SC
+http://pk79.io.vn/buncha/play.php?id=600001268&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Spanish Bizkaia-Tercera Division | UD Somozas vs CD Estradense
+http://pk79.io.vn/buncha/play.php?id=366146722&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:00 | Spanish Bizkaia-Tercera Division | UD Barbadas vs Gran Pena
+http://pk79.io.vn/buncha/play.php?id=236146729&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190424204342.jpg?win007=sell",17/04-17:00 | Australia FFA Cup | Mill Park vs Western Eagles
+http://pk79.io.vn/buncha/play.php?id=365446724&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/5e8468d2571ba27c635555405a3f26d6.png",🔴 17/04-17:00 | LCK 2025 LMHT | BRO vs KT
 http://pk79.io.vn/buncha/play.php?id=599995964&type=36
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200418084009.png?win007=sell",🔴 SÓNG QUỐC TẾ | 17/04-17:00 | Ukraine U21 Liga | Dinamo KyivU21 vs Obolon Kiev U21
-http://pk79.io.vn/buncha/play.php?id=283124626&type=quocte
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:30 | Spanish Bizkaia-Tercera Division | Moralo CP vs Arroyo Club Polideportivo
-http://pk79.io.vn/buncha/play.php?id=395146724&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:30 | Spanish Bizkaia-Tercera Division | Villarreal C vs UD Rayo Ibense
-http://pk79.io.vn/buncha/play.php?id=226246729&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:30 | Spanish Bizkaia-Tercera Division | Cala Pozuelo vs CF Trival Valderas
-http://pk79.io.vn/buncha/play.php?id=600001485&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190424204342.jpg?win007=sell",17/04-17:30 | Australia FFA Cup | Chisholm United vs Daniel Maciol
-http://pk79.io.vn/buncha/play.php?id=385446726&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:30 | Spanish Bizkaia-Tercera Division | CD Atletico Mansilles vs CD Cristo Atletico
-http://pk79.io.vn/buncha/play.php?id=378046724&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:10 | Ethiopia Higher League | Addis Ababa University vs Nib FC
+http://pk79.io.vn/buncha/play.php?id=600010543&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:10 | Australia Queensland Premier League 3 | Palm Beach vs Tweed United
+http://pk79.io.vn/buncha/play.php?id=600008247&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:10 | Spanish Bizkaia-Tercera Division | Cazalegas vs Valdepenas
+http://pk79.io.vn/buncha/play.php?id=396146725&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:20 | Spanish Bizkaia-Tercera Division | SD San Ignacio vs CD Lagun Onak
+http://pk79.io.vn/buncha/play.php?id=339046721&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:30 | Australia WA State League 1 Reserves | Curtin University SC Reserves vs Gwelup Croatia SC Reserves
+http://pk79.io.vn/buncha/play.php?id=319246721&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:30 | Czech Republic U19 League | Jablonec U19 vs Brno U19
 http://pk79.io.vn/buncha/play.php?id=305893724&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200825111140.png?win007=sell",17/04-17:30 | Denmark Youth U19 | BrondbyU19 vs Randers Freja U19
 http://pk79.io.vn/buncha/play.php?id=107211629&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:30 | Australia WA State League 1 Reserves | Curtin University SC Reserves vs Gwelup Croatia SC Reserves
-http://pk79.io.vn/buncha/play.php?id=319246721&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:30 | Spanish Bizkaia-Tercera Division | CD Atletico Mansilles vs CD Cristo Atletico
+http://pk79.io.vn/buncha/play.php?id=378046724&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:30 | Spanish Bizkaia-Tercera Division | Moralo CP vs Arroyo Club Polideportivo
+http://pk79.io.vn/buncha/play.php?id=395146724&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:30 | Spanish Bizkaia-Tercera Division | Villarreal C vs UD Rayo Ibense
+http://pk79.io.vn/buncha/play.php?id=226246729&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190424204342.jpg?win007=sell",17/04-17:30 | Australia FFA Cup | Chisholm United vs Daniel Maciol
+http://pk79.io.vn/buncha/play.php?id=385446726&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-17:30 | Spanish Bizkaia-Tercera Division | Cala Pozuelo vs CF Trival Valderas
+http://pk79.io.vn/buncha/play.php?id=600001485&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:00 | International Friendly | North Macedonia U18 vs Slovakia U18
+http://pk79.io.vn/buncha/play.php?id=600005678&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:00 | Spanish Bizkaia-Tercera Division | Las Palmas Atletico vs Panaderia Pulido
+http://pk79.io.vn/buncha/play.php?id=225146727&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:00 | Spanish Bizkaia-Tercera Division | Lanzarote vs Arucas CF
+http://pk79.io.vn/buncha/play.php?id=215146726&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:00 | Serbia U19 League | TSC U19 vs Partizan Belgrade U19
+http://pk79.io.vn/buncha/play.php?id=600010613&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20130418202641.jpg?win007=sell",17/04-18:00 | Danish 1st Division | Odense BK vs Kolding FC
+http://pk79.io.vn/buncha/play.php?id=469475720&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:00 | Denmark - 4.Liga | Greve Fodbold vs Næstved IF 2
+http://pk79.io.vn/buncha/play.php?id=600010585&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:00 | Denmark - 4.Liga | Grenaa vs Tarup Paarup IF
+http://pk79.io.vn/buncha/play.php?id=600010578&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:00 | Denmark - 4.Liga | Fredensborg BI vs Karlslunde IF
+http://pk79.io.vn/buncha/play.php?id=600010571&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:00 | Spanish Bizkaia-Tercera Division | CD Mensajero vs UD San Fernando
+http://pk79.io.vn/buncha/play.php?id=235146728&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190423221331.jpg?win007=sell",17/04-18:00 | National Premier Leagues Western Australia | Perth SC vs Floreat Athena
+http://pk79.io.vn/buncha/play.php?id=398092727&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200825111140.png?win007=sell",17/04-18:00 | Denmark Youth U19 | Aarhus AGF U19 vs Silkeborg U19
+http://pk79.io.vn/buncha/play.php?id=237211622&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:00 | Spanish Bizkaia-Tercera Division | Villa Santa Brigida vs UD Tamaraceite
+http://pk79.io.vn/buncha/play.php?id=365146721&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:00 | Spanish Bizkaia-Tercera Division | CD Buzanada vs Estrella CF
+http://pk79.io.vn/buncha/play.php?id=384146722&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:00 | Spanish Bizkaia-Tercera Division | CF San Bartolome vs UD Ibarra
+http://pk79.io.vn/buncha/play.php?id=245146729&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:00 | Spanish Bizkaia-Tercera Division | Marino vs Union Viera
+http://pk79.io.vn/buncha/play.php?id=394146723&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190423221331.jpg?win007=sell",17/04-18:00 | National Premier Leagues Western Australia | Bayswater City vs Armadale SC
+http://pk79.io.vn/buncha/play.php?id=209092729&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",17/04-18:00 | Spanish Bizkaia-Tercera Division | CD Santa Ursula vs CD San Miguel
+http://pk79.io.vn/buncha/play.php?id=355146720&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200420172705.jpg?win007=sell",17/04-18:00 | Denmark Womans League | Osterbro IF Nữ vs Midtjylland (W)
+http://pk79.io.vn/buncha/play.php?id=348360720&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/fdad32ccf5205e78f9f39db42d073998.svg",17/04-18:00 | LPL | NIP vs WBG
 http://pk79.io.vn/buncha/play.php?id=599996972&type=36
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190423221331.jpg?win007=sell",SÓNG QUỐC TẾ | 17/04-18:00 | National Premier Leagues Western Australia | Bayswater City vs Armadale SC
+http://pk79.io.vn/buncha/play.php?id=209092729&type=quocte
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190423221331.jpg?win007=sell",SÓNG QUỐC TẾ | 17/04-18:00 | National Premier Leagues Western Australia | Perth SC vs Floreat Athena
+http://pk79.io.vn/buncha/play.php?id=398092727&type=quocte
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20130418202641.jpg?win007=sell",SÓNG QUỐC TẾ | 17/04-18:00 | Danish 1st Division | Odense BK vs Kolding FC
 http://pk79.io.vn/buncha/play.php?id=469475720&type=quocte
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",SÓNG QUỐC TẾ | 17/04-18:00 | International Friendly | North Macedonia U18 vs Slovakia U18
+http://pk79.io.vn/buncha/play.php?id=600005678&type=quocte
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20130418202641.jpg?win007=sell",SÓNG QUỐC TẾ | 17/04-19:00 | Danish 1st Division | Roskilde vs Herfolge Boldklub Koge
 http://pk79.io.vn/buncha/play.php?id=332575721&type=quocte
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/5e8468d2571ba27c635555405a3f26d6.png",18/04-15:00 | LCK 2025 LMHT | BFX vs T1
@@ -2818,22 +2785,22 @@ http://pk79.io.vn/buncha/play.php?id=599995992&type=36
 http://pk79.io.vn/buncha/play.php?id=599996979&type=36
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/fdad32ccf5205e78f9f39db42d073998.svg",19/04-18:00 | LPL | WE vs AL
 http://pk79.io.vn/buncha/play.php?id=599997000&type=36
-# Tổng số trận đấu: 67
-# Tạo tự động lúc 17/04/2025 17:45:10
+# Tổng số trận đấu: 68
+# Tạo tự động lúc 17/04/2025 18:00:14
 #EXTM3U x-tvg-url="http://pk79.x10.mx/bongda/vebo.php" refresh="3600"
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/4882cc6cf460ceca9f2e45402e673433.png" tvg-chno="pzs5jXb" catchup="default" catchup-source="?playbackstart={utc}",🔴 17/04-16:35 | Australia A-League | Brisbane Roar VS Western United FC (Updated: 2025-04-17 06:40:04)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/4882cc6cf460ceca9f2e45402e673433.png" tvg-chno="pzs5jXb" catchup="default" catchup-source="?playbackstart={utc}",🔴 17/04-16:35 | Australia A-League | Brisbane Roar VS Western United FC (Updated: 2025-04-17 07:00:05)
 http://pk79.io.vn/vebo/play.php?id=pzs5jXb
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" tvg-chno="prmAl6Q" catchup="default" catchup-source="?playbackstart={utc}",17/04-19:00 | Indonesian Liga 1 | PSS Sleman VS Dewa United FC (Updated: 2025-04-17 06:40:04)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" tvg-chno="prmAl6Q" catchup="default" catchup-source="?playbackstart={utc}",17/04-19:00 | Indonesian Liga 1 | PSS Sleman VS Dewa United FC (Updated: 2025-04-17 07:00:05)
 http://pk79.io.vn/vebo/play.php?id=prmAl6Q
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/66515d4316c1cd5be3af297c6243953c.png" tvg-chno="sW5tX6z" catchup="default" catchup-source="?playbackstart={utc}",17/04-21:00 | AFC U17 Championship | Saudi Arabia U17 VS Korea Republic U17 (Updated: 2025-04-17 06:40:04)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/66515d4316c1cd5be3af297c6243953c.png" tvg-chno="sW5tX6z" catchup="default" catchup-source="?playbackstart={utc}",17/04-21:00 | AFC U17 Championship | Saudi Arabia U17 VS Korea Republic U17 (Updated: 2025-04-17 07:00:05)
 http://pk79.io.vn/vebo/play.php?id=sW5tX6z
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png" tvg-chno="gA8oQUr" catchup="default" catchup-source="?playbackstart={utc}",17/04-22:50 | Saudi Professional League | Al Hilal VS Al Khaleej Club (Updated: 2025-04-17 06:40:04)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png" tvg-chno="gA8oQUr" catchup="default" catchup-source="?playbackstart={utc}",17/04-22:50 | Saudi Professional League | Al Hilal VS Al Khaleej Club (Updated: 2025-04-17 07:00:05)
 http://pk79.io.vn/vebo/play.php?id=gA8oQUr
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/8ddbbfcdc6f98675b4b0d2601976e6bf.png" tvg-chno="68K5MeI" catchup="default" catchup-source="?playbackstart={utc}",17/04-23:00 | Denmark Super Liga | Midtjylland VS FC Copenhagen (Updated: 2025-04-17 06:40:04)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/8ddbbfcdc6f98675b4b0d2601976e6bf.png" tvg-chno="68K5MeI" catchup="default" catchup-source="?playbackstart={utc}",17/04-23:00 | Denmark Super Liga | Midtjylland VS FC Copenhagen (Updated: 2025-04-17 07:00:05)
 http://pk79.io.vn/vebo/play.php?id=68K5MeI
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" tvg-chno="mFhINyG" catchup="default" catchup-source="?playbackstart={utc}",17/04-23:45 | Europa Conference League | Jagiellonia Bialystok VS Real Betis (Updated: 2025-04-17 06:40:04)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" tvg-chno="mFhINyG" catchup="default" catchup-source="?playbackstart={utc}",17/04-23:45 | Europa Conference League | Jagiellonia Bialystok VS Real Betis (Updated: 2025-04-17 07:00:05)
 http://pk79.io.vn/vebo/play.php?id=mFhINyG
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" tvg-chno="NBRGsSB" catchup="default" catchup-source="?playbackstart={utc}",17/04-23:45 | Europa Conference League | Fiorentina VS NK Publikum Celje (Updated: 2025-04-17 06:40:04)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" tvg-chno="NBRGsSB" catchup="default" catchup-source="?playbackstart={utc}",17/04-23:45 | Europa Conference League | Fiorentina VS NK Publikum Celje (Updated: 2025-04-17 07:00:05)
 http://pk79.io.vn/vebo/play.php?id=NBRGsSB
 #EXTM3U
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20181011191538.jpg%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20191012082708.jpg%3Fwin007%3Dsell", 🔴 17/04-16:35 | Brisbane Roar vs Western United FC | BLV HOẮC ĐÔ
@@ -3039,7 +3006,7 @@ http://khaitv.giize.com:8080/luongson/play.php?id=88bf8a55-c6a5-4db3-9ab4-c01dbf
 #EXTINF:-1 group-title="gavang" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F19dd9f52649ba4c38c86621fce6a7f38%2Fimage%2Fsmall&m2=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F49a476ed8bb3cf096406cbd2b7dac8c7%2Fimage%2Fsmall", 17/04-16:35 | Australia A-League | Brisbane Roar - Western United FC
 http://khaitv.giize.com:8080/thapcam/proxy.php?url=https%3A%2F%2Flive.rapid-api.icu%2Flive%2Fffdf329229245060893063557cf4d39c%2Fplaylist.m3u8&referer=https://tructiep1.gavang4.uk/
 #EXTINF:-1 group-title="gavang" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5282d67ad0333d3b11315449e0b9fcb5%2Fimage%2Fsmall&m2=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fafb6622b849cdd68a1143fe6027f8dd9%2Fimage%2Fsmall", 17/04-18:00 | Danish 1st Division | Odense BK - Kolding FC
-http://khaitv.giize.com:8080/thapcam/proxy.php?url=&referer=https://tructiep1.gavang4.uk/
+http://khaitv.giize.com:8080/thapcam/proxy.php?url=https%3A%2F%2Flive.rapid-api.icu%2Flive%2F3cec47e247f3c87f3a325ec4dc105828%2Fplaylist.m3u8&referer=https://tructiep1.gavang4.uk/
 #EXTINF:-1 group-title="gavang" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F01df80d53b991adc560aecb5f6e7dd71%2Fimage%2Fsmall&m2=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe847e2e175560886499172fa4de03a62%2Fimage%2Fsmall", 17/04-19:00 | Indonesian Liga 1 | PSS Sleman - Dewa United FC
 http://khaitv.giize.com:8080/thapcam/proxy.php?url=&referer=https://tructiep1.gavang4.uk/
 #EXTINF:-1 group-title="gavang" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F7601245127a2a1e1a65929f34b95a784%2Fimage%2Fsmall&m2=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0435bd6cf75fb39e83a66735cc79be40%2Fimage%2Fsmall", 17/04-21:00 | AFC U17 Asian Cup | Saudi Arabia U17 - South Korea U17
@@ -3055,7 +3022,7 @@ http://khaitv.giize.com:8080/thapcam/proxy.php?url=&referer=https://tructiep1.ga
 #EXTINF:-1 group-title="gavang" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9e820dc04f473cfbd02cd5b1680ee327%2Fimage%2Fsmall&m2=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F3d40b08ba3d9aa22dc08718f4dd46ff1%2Fimage%2Fsmall", 18/04-02:00 | UEFA Europa League | Eintracht Frankfurt - Tottenham Hotspur
 http://khaitv.giize.com:8080/thapcam/proxy.php?url=&referer=https://tructiep1.gavang4.uk/
 #EXTM3U
-# Cập nhật lúc: 2025-04-17 06:50:06
+# Cập nhật lúc: 2025-04-17 07:00:06
 #EXTINF:-1 group-title="OnPLus Live 🔴" tvg-logo="https://imgvlive.vtvcab.vn/720X405/eee60040-1a45-4337-8a63-4cfbc27922a2.jpg", 🔴 17/04-10:00 | Pickleball VPO Cup 2025
 http://bentre5.hoangai.vn:8082/onplus/play2.php?id=onsport9
 #EXTINF:-1 group-title="OnPLus Live 🔴" tvg-logo="https://imgvlive.vtvcab.vn/720X405/198771f8-c1cf-4448-a8bc-00d449a9e51d.jpg", 🔴 17/04-10:30 | Arena of Glory Spring 2025
@@ -3237,6 +3204,8 @@ http://pk79.io.vn/xemlai/play.php?id=l8RNW9y
 #EXTINF:-1 group-title="xem lại" tvg-logo="https://g7w1r.4shares.live/news/my124.jpg",Fullmatch  Man City vs Crystal Palace | BLV Mỳ Tôm | 13.4.25
 http://pk79.io.vn/xemlai/play.php?id=4OFMeAU
 #EXTM3U
+#EXTINF:-1 group-title="⭐ Sự kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/10/22/16/1634893218113/fc915179ef69_640_360.jpg", 17/04 18:00 | Xổ Số Miền Bắc
+http://khaitv.giize.com:8080/tv360/playvip.php?id=346
 #EXTINF:-1 group-title="⭐ Sự kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/04/15/17/174471267263/f699e6915e9f_640_360.jpg", 19/04 11:30 | DP WORLD TOUR 2025 VOLVO CHINA OPEN NGÀY 3
 http://khaitv.giize.com:8080/tv360/playvip.php?id=169
 #EXTINF:-1 group-title="⭐ Sự kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/04/16/11/1744777155678/c8c94ec74aa5_640_360.jpg", 18/04 17:00 | HOÀNG ANH GIA LAI VS HỒNG LĨNH HÀ TĨNH
