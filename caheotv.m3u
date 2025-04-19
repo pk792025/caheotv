@@ -1157,11 +1157,7 @@ http://khaitv.giize.com:502/stream?url=udp://@225.1.4.171:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",Vũng Tàu HD
 http://khaitv.giize.com:502/stream?url=udp://@225.1.4.172:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",Bắc Kạn HD
-http://khaitv.giize.com:502/stream?url=udp://@225.1.4.174:30120#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: V-League 2",19/04 16h00 Đồng Nai VS Ba Ria Vung Tau FC (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/m201qt/playlist.m3u8 
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Ngoại hạng Nga",19/04 16h00 Gazovik Orenburg VS FK Makhachkala (CH) SD 1
+http://khaitv.giize.com:502/stream?url=udp://@225.1.4.174:30120#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Ngoại hạng Nga",19/04 16h00 Gazovik Orenburg VS FK Makhachkala (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://qtcdn.livestreameuro.live/live/phusd1/playlist.m3u8
@@ -1185,6 +1181,10 @@ https://qtcdn.livestreameuro.live/live/phusd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://qtcdn.livestreameuro.live/live/phuhd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: V-League 2",19/04 16h00 Đồng Nai VS Ba Ria Vung Tau FC (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/m201qt/playlist.m3u8 
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Hạng 2 Romania",19/04 16h30 Arges VS FK Csikszereda Miercurea Ciuc (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -1269,10 +1269,6 @@ https://ckcdn.livestreameuro.live/live/sunsd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/sunhd1.flv
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Hạng nhất Thổ Nhĩ Kỳ",19/04 17h30 Erzurum BB VS Istanbulspor (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/m210qt/playlist.m3u8 
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: VĐQG Thổ Nhĩ Kỳ",19/04 17h30 Kasimpasa VS Sivasspor (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -1297,31 +1293,47 @@ https://ckcdn.livestreameuro.live/live/lansd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/lanhd1.flv
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"V-League",19/04 18h00 Becamex Binh Duong VS TT Hanoi (CH)
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Hạng nhất Thổ Nhĩ Kỳ",19/04 17h30 Erzurum BB VS Istanbulspor (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Thai League 1",19/04 18h00 Ratchaburi FC VS Buriram United (CH)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: V-League 2",19/04 18h00 TTBD Phu Dong VS Khatoco Khanh Hoa (CH)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
+https://qtcdn.livestreameuro.live/live/m210qt/playlist.m3u8 
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Bundesliga 2",19/04 18h00 Eintracht Braunschweig VS 1. FC Kaiserslautern (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Ngoại Hạng Trung Quốc",19/04 18h00 Shanghai Shenhua FC VS Wuhan Three Towns FC (CH)
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: VĐQG Bulgaria",19/04 18h00 Botev Vratsa VS Arda (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/m203qt/playlist.m3u8 
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"V-League",19/04 18h00 Becamex Binh Duong VS TT Hanoi (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Bundesliga 2",19/04 18h00 SV Elversberg VS Fortuna Dusseldorf (CH)
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Thai League 1",19/04 18h00 Ratchaburi FC VS Buriram United (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"V-League",19/04 18h00 CLB Thanh Hoa VS Viettel FC (CH)
+https://ckcdn.livestreameuro.live/live/lulusd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Thai League 1",19/04 18h00 Ratchaburi FC VS Buriram United (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/luluhd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Thai League 1",19/04 18h00 Ratchaburi FC VS Buriram United (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lulusd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Thai League 1",19/04 18h00 Ratchaburi FC VS Buriram United (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/luluhd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Thai League 1",19/04 18h00 Ratchaburi FC VS Buriram United (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lulusd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Thai League 1",19/04 18h00 Ratchaburi FC VS Buriram United (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/luluhd1.flv
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: V-League 2",19/04 18h00 TTBD Phu Dong VS Khatoco Khanh Hoa (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -1329,27 +1341,47 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://qtcdn.livestreameuro.live/live/m207qt/playlist.m3u8 
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Thai League 1",19/04 18h00 Sukhothai VS Chiangrai United (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"V-League",19/04 18h00 CLB Thanh Hoa VS Viettel FC (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Bundesliga 2",19/04 18h00 1. FC Nürnberg VS SC Paderborn 07 (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/m204qt/playlist.m3u8 
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: VĐQG Bulgaria",19/04 18h00 Botev Vratsa VS Arda (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/m203qt/playlist.m3u8 
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: English FA Women's Super League",19/04 18h00 West Ham United (w) VS Manchester United (w) (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://qtcdn.livestreameuro.live/live/m205qt/playlist.m3u8 
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Ngoại hạng Nga",19/04 18h30 Akron Togliatti VS Spartak Moscow (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Thai League 1",19/04 18h00 Sukhothai VS Chiangrai United (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"UEFA Women's Champions League",19/04 18h30 Arsenal (w) VS Lyon (w) (CH)
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Ngoại Hạng Trung Quốc",19/04 18h00 Shanghai Shenhua FC VS Wuhan Three Towns FC (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/bachlongmasd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Ngoại Hạng Trung Quốc",19/04 18h00 Shanghai Shenhua FC VS Wuhan Three Towns FC (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/bachlongmahd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Ngoại Hạng Trung Quốc",19/04 18h00 Shanghai Shenhua FC VS Wuhan Three Towns FC (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179939170.vipcdnlive.xyz/live/bachlongmasd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Ngoại Hạng Trung Quốc",19/04 18h00 Shanghai Shenhua FC VS Wuhan Three Towns FC (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179939170.vipcdnlive.xyz/live/bachlongmahd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Ngoại Hạng Trung Quốc",19/04 18h00 Shanghai Shenhua FC VS Wuhan Three Towns FC (CH) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/bachlongmasd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Ngoại Hạng Trung Quốc",19/04 18h00 Shanghai Shenhua FC VS Wuhan Three Towns FC (CH) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/bachlongmahd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Bundesliga 2",19/04 18h00 1. FC Nürnberg VS SC Paderborn 07 (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/m204qt/playlist.m3u8 
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Bundesliga 2",19/04 18h00 SV Elversberg VS Fortuna Dusseldorf (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -1357,10 +1389,42 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://qtcdn.livestreameuro.live/live/m206qt/playlist.m3u8 
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Ngoại hạng Nga",19/04 18h30 Akron Togliatti VS Spartak Moscow (CH)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" UEFA Women's Champions League",19/04 18h30 Arsenal (w) VS Lyon (w) (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoisd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" UEFA Women's Champions League",19/04 18h30 Arsenal (w) VS Lyon (w) (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoihd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" UEFA Women's Champions League",19/04 18h30 Arsenal (w) VS Lyon (w) (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoisd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" UEFA Women's Champions League",19/04 18h30 Arsenal (w) VS Lyon (w) (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoihd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" UEFA Women's Champions League",19/04 18h30 Arsenal (w) VS Lyon (w) (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoisd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" UEFA Women's Champions League",19/04 18h30 Arsenal (w) VS Lyon (w) (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoihd1.flv
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Ngoại Hạng Trung Quốc",19/04 18h35 Beijing Guoan FC VS Shandong Taishan FC (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://qtcdn.livestreameuro.live/live/m208qt/playlist.m3u8 
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Ngoại hạng Armenia",19/04 19h00 FC Pyunik VS Urartu (CH)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Indonesian Liga 1",19/04 19h00 Persik Kediri VS Persija Jakarta (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -1369,15 +1433,11 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Ngoại hạng Armenia",19/04 19h00 FC Pyunik VS Urartu (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Thai League 1",19/04 19h00 Bangkok United FC VS BG Pathum United (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Indonesian Liga 1",19/04 19h00 Barito Putera VS Persis Solo FC (CH)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Thai League 1",19/04 19h00 Bangkok United FC VS BG Pathum United (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -1413,15 +1473,19 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Bundesliga",19/04 20h30 FSV Mainz 05 VS VfL Wolfsburg (CH)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Ngoại Hạng Azerbaijan",19/04 20h30 Sabah Baku VS Sabail FC (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Bundesliga",19/04 20h30 SC Freiburg VS TSG Hoffenheim (CH)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Bundesliga",19/04 20h30 1. FC Heidenheim VS Bayern Munchen (CH)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Bundesliga",19/04 20h30 FSV Mainz 05 VS VfL Wolfsburg (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -1433,15 +1497,7 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Bundesliga",19/04 20h30 SC Freiburg VS TSG Hoffenheim (CH)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: VĐQG Bulgaria",19/04 20h30 Lokomotiv Plovdiv VS Slavia Sofia (CH)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Ngoại hạng Nga",19/04 21h00 Lokomotiv Moscow VS FK Nizhny Novgorod (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -1449,11 +1505,7 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Ngoại Hạng Anh",19/04 21h00 Everton VS Manchester City (CH)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Ngoại Hạng Anh",19/04 21h00 Crystal Palace VS Bournemouth AFC (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Ngoại hạng Nga",19/04 21h00 Lokomotiv Moscow VS FK Nizhny Novgorod (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -1461,11 +1513,19 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Ngoại Hạng Anh",19/04 21h00 Crystal Palace VS Bournemouth AFC (CH)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Ngoại Hạng Anh",19/04 21h00 Everton VS Manchester City (CH)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Ngoại Hạng Anh",19/04 21h00 West Ham United VS Southampton (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: VĐQG Hungary",19/04 21h15 Diosgyor VTK VS Gyori ETO (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Hạng Nhì Tây Ban Nha",19/04 21h15 SD Huesca VS Racing Santander (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -1473,7 +1533,7 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Hạng Nhì Tây Ban Nha",19/04 21h15 SD Huesca VS Racing Santander (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: VĐQG Hungary",19/04 21h15 Diosgyor VTK VS Gyori ETO (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -1489,15 +1549,15 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: VĐQG Bỉ",19/04 22h00  Oud-Heverlee Leuven VS FCV Dender EH (CH)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"French Ligue 1",19/04 22h00 Paris Saint Germain (PSG) VS Le Havre AC (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: VĐQG Georgia",19/04 22h00 Samgurali Tskh VS FC Telavi (CH)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: VĐQG Bỉ",19/04 22h00  Oud-Heverlee Leuven VS FCV Dender EH (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -1513,7 +1573,7 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: VĐQG Bulgaria",19/04 23h00 Ludogorets Razgrad VS Spartak Varna (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: VĐQG Georgia",19/04 23h00 Gareji Sagarejo VS Torpedo Kutaisi (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -1521,7 +1581,7 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: VĐQG Georgia",19/04 23h00 Gareji Sagarejo VS Torpedo Kutaisi (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: VĐQG Bulgaria",19/04 23h00 Ludogorets Razgrad VS Spartak Varna (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -1537,11 +1597,19 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Ngoại hạng Nga",19/04 23h30 FC Krasnodar VS Terek Grozny (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"La Liga",19/04 23h30 Mallorca VS Leganes (CH)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Hạng Nhì Tây Ban Nha",19/04 23h30 Levante VS Real Zaragoza (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Ngoại Hạng Anh",19/04 23h30 Aston Villa VS Newcastle United (CH)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Ngoại hạng Nga",19/04 23h30 FC Krasnodar VS Terek Grozny (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -1553,23 +1621,15 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"La Liga",19/04 23h30 Mallorca VS Leganes (CH)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Hạng Nhì Tây Ban Nha",19/04 23h30 Levante VS Real Zaragoza (CH)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: VĐQG Bồ Đào Nha",20/04 00h00 FC Arouca VS CF Estrela Amadora SAD (CH)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: VĐQG Romania",20/04 00h00 FC Rapid 1923 VS Universitaea Cluj (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"French Ligue 1",20/04 00h00 Monaco VS Strasbourg (CH)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: VĐQG Bồ Đào Nha",20/04 00h00 FC Arouca VS CF Estrela Amadora SAD (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -1585,6 +1645,10 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: VĐQG Hà Lan",20/04 01h00 SC Heerenveen VS Almere City FC (CH)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: VĐQG Ả Rập Xê Út",20/04 01h00 Al-Taawoun VS Al Wehda Mecca (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -1594,10 +1658,6 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: VĐQG Peru",20/04 01h00 Sport Boys VS Cienciano (CH)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: VĐQG Hà Lan",20/04 01h00 SC Heerenveen VS Almere City FC (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -1621,11 +1681,11 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Italian Serie A",20/04 01h45 AS Roma VS Verona (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Ngoại Hạng Bosnia & Herzegovina",20/04 01h45 Borac Banja Luka VS Sarajevo (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Ngoại Hạng Bosnia & Herzegovina",20/04 01h45 Borac Banja Luka VS Sarajevo (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Italian Serie A",20/04 01h45 AS Roma VS Verona (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -2748,15 +2808,15 @@ http://pk79.io.vn/laykinhtv/play.php?id=oklzKUTb
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=vyGBuaHt
 #EXTM3U
-#PLAYLIST: Bún Chả TV - Cập nhật ngày 19/04/2025 17:15
+#PLAYLIST: Bún Chả TV - Cập nhật ngày 19/04/2025 17:30
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190429125619.jpg?win007=sell",🔴 19/04-16:00 | Vietnamese First Division | Đồng Nai 2 vs Bà Rịa Vũng Tàu
 http://pk79.io.vn/buncha/play.php?id=600005965&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190423220617.jpg?win007=sell",🔴 19/04-16:00 | NSW Premier League | St George Saints vs Sydney United
+http://pk79.io.vn/buncha/play.php?id=243730726&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190423220617.jpg?win007=sell",🔴 19/04-16:00 | NSW Premier League | Marconi Stallions vs Central Coast Mariners (Youth)
 http://pk79.io.vn/buncha/play.php?id=223730724&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190423220617.jpg?win007=sell",🔴 19/04-16:00 | NSW Premier League | Rockdale City Suns vs Western Sydney Wanderers AM
 http://pk79.io.vn/buncha/play.php?id=233730725&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190423220617.jpg?win007=sell",🔴 19/04-16:00 | NSW Premier League | St George Saints vs Sydney United
-http://pk79.io.vn/buncha/play.php?id=243730726&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/fdad32ccf5205e78f9f39db42d073998.svg",🔴 19/04-16:00 | LPL | OMG vs EDG
 http://pk79.io.vn/buncha/play.php?id=599996979&type=36
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200411092415.jpg?win007=sell",🔴 SÓNG QUỐC TẾ | 19/04-16:00 | Russia Premier League | Gazovik Orenburg vs FK Makhachkala
@@ -2771,14 +2831,6 @@ http://pk79.io.vn/buncha/play.php?id=385665729&type=quocte
 http://pk79.io.vn/buncha/play.php?id=600013469&type=quocte
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",🔴 SÓNG QUỐC TẾ | 19/04-16:15 | Ukraine Division 3 | Skala 1911 Stryi vs Polissya Zhytomyr B
 http://pk79.io.vn/buncha/play.php?id=361456721&type=quocte
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",19/04-16:30 | Italian Youth League B | Sha LAN U19 vs Pescara Youth
-http://pk79.io.vn/buncha/play.php?id=220263621&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200418085148.png?win007=sell",19/04-16:30 | Romania - Liga 2 Seria | Arges vs FK Csikszereda Miercurea Ciuc
-http://pk79.io.vn/buncha/play.php?id=377745729&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",19/04-16:30 | Belarus Womens Premier League | ABFF U19 Nữ vs Dyussh Polesgu Nữ
-http://pk79.io.vn/buncha/play.php?id=349284726&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",19/04-16:30 | India I-League 2nd Division | Chanmari FC vs Diamond Harbour FC
-http://pk79.io.vn/buncha/play.php?id=348456726&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",🔴 SÓNG QUỐC TẾ | 19/04-16:30 | Belarus Womens Premier League | ABFF U19 Nữ vs Dyussh Polesgu Nữ
 http://pk79.io.vn/buncha/play.php?id=349284726&type=quocte
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200418085148.png?win007=sell",🔴 SÓNG QUỐC TẾ | 19/04-16:30 | Romania - Liga 2 Seria | Arges vs FK Csikszereda Miercurea Ciuc
@@ -2787,66 +2839,54 @@ http://pk79.io.vn/buncha/play.php?id=377745729&type=quocte
 http://pk79.io.vn/buncha/play.php?id=459665720&type=quocte
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200317091800.png?win007=sell",🔴 19/04-16:35 | Australia A-League | Western Sydney vs Melbourne City
 http://pk79.io.vn/buncha/play.php?id=292145629&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200418084009.png?win007=sell",19/04-16:40 | Ukraine U21 Liga | Kryvbas U21 vs Zorya U21
-http://pk79.io.vn/buncha/play.php?id=214124620&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200418084009.png?win007=sell",🔴 SÓNG QUỐC TẾ | 19/04-16:40 | Ukraine U21 Liga | Kryvbas U21 vs Zorya U21
 http://pk79.io.vn/buncha/play.php?id=214124620&type=quocte
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",19/04-16:45 | Ukraine Division 3 | FC Chernigiv vs Niva Vinica
-http://pk79.io.vn/buncha/play.php?id=380456722&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200402173222.png?win007=sell",19/04-16:45 | POL WD1 | GKS Katowice Nữ vs APLG Gdansk Nữ
-http://pk79.io.vn/buncha/play.php?id=600005972&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200402173222.png?win007=sell",🔴 SÓNG QUỐC TẾ | 19/04-16:45 | POL WD1 | GKS Katowice Nữ vs APLG Gdansk Nữ
 http://pk79.io.vn/buncha/play.php?id=600005972&type=quocte
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200416073911.jpg?win007=sell",🔴 19/04-17:00 | Portugal Segunda Liga | Penafiel vs Feirense
 http://pk79.io.vn/buncha/play.php?id=281611625&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",19/04-17:00 | Poland Division 4 | Chelmianka Chelm vs Siarka Tarnobrzeg
-http://pk79.io.vn/buncha/play.php?id=205456729&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20130406173431.jpg?win007=sell",19/04-17:00 | Ukraine Division 2 | Nyva Ternopil vs FK Yarud Mariupol
-http://pk79.io.vn/buncha/play.php?id=349665729&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",19/04-17:00 | Spanish Bizkaia-Tercera Division | CE Europa B vs CE Atletic Lleida 2019
-http://pk79.io.vn/buncha/play.php?id=358356726&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200411201331.png?win007=sell",19/04-17:00 | Ukrainian Premier League | FC Karpaty Lviv vs Rukh Vynnyky
 http://pk79.io.vn/buncha/play.php?id=398740626&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",19/04-17:00 | Poland Division 4 | Cartusia vs Zawisza Bydgoszcz SA
-http://pk79.io.vn/buncha/play.php?id=344456722&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",19/04-17:00 | National Primera Division Western Australia | Kingsley Westside vs Joondalup City
-http://pk79.io.vn/buncha/play.php?id=338456725&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200415072517.jpg?win007=sell",19/04-17:00 | Spanish Segunda Division B | UD Melilla vs Mostoles
-http://pk79.io.vn/buncha/play.php?id=359843627&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",19/04-17:00 | Poland Division 4 | Wislanie Jaskowice vs Czarni Polaniec
-http://pk79.io.vn/buncha/play.php?id=335456722&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",19/04-17:00 | Poland Division 4 | Gedania Gdansk vs Gryf Slupsk
-http://pk79.io.vn/buncha/play.php?id=364456724&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200421173811.jpg?win007=sell",19/04-17:00 | Russia Womens Premier League | Lokomotiv Moscow Nữ vs Rubin Kazan Nữ
-http://pk79.io.vn/buncha/play.php?id=318594726&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200423114126.png?win007=sell",19/04-17:00 | Kazakhstan Premier League | Ulytau Zhezkazgan vs Okzhetpes
+http://pk79.io.vn/buncha/play.php?id=211543723&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",19/04-17:00 | Romania Liga 1 Women | FK Csikszereda Miercurea Ciuc Nữ vs Olimpia Cluj Nữ
 http://pk79.io.vn/buncha/play.php?id=600001709&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200420175210.jpg?win007=sell",19/04-17:00 | Austrian Frauen Bundesliga | Dornbirn Nữ vs Neulengbach Nữ
 http://pk79.io.vn/buncha/play.php?id=209236729&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200421173811.jpg?win007=sell",19/04-17:00 | Russia Womens Premier League | Lokomotiv Moscow Nữ vs Rubin Kazan Nữ
+http://pk79.io.vn/buncha/play.php?id=318594726&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",19/04-17:00 | Poland Division 4 | Chelmianka Chelm vs Siarka Tarnobrzeg
+http://pk79.io.vn/buncha/play.php?id=205456729&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",19/04-17:00 | Poland Division 4 | Wislanie Jaskowice vs Czarni Polaniec
+http://pk79.io.vn/buncha/play.php?id=335456722&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",19/04-17:00 | National Primera Division Western Australia | Kingsley Westside vs Joondalup City
+http://pk79.io.vn/buncha/play.php?id=338456725&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200418084009.png?win007=sell",19/04-17:00 | Ukraine U21 Liga | Veres Rivne U21 vs Chernomorets Odessa U21
 http://pk79.io.vn/buncha/play.php?id=244124623&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",19/04-17:00 | Poland Division 4 | Cartusia vs Zawisza Bydgoszcz SA
+http://pk79.io.vn/buncha/play.php?id=344456722&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20130406173431.jpg?win007=sell",19/04-17:00 | Ukraine Division 2 | Nyva Ternopil vs FK Yarud Mariupol
+http://pk79.io.vn/buncha/play.php?id=349665729&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20190423203352.jpg?win007=sell",19/04-17:00 | Korea League | FC Seoul vs Gwangju Football Club
 http://pk79.io.vn/buncha/play.php?id=242561727&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200423114126.png?win007=sell",19/04-17:00 | Kazakhstan Premier League | Ulytau Zhezkazgan vs Okzhetpes
-http://pk79.io.vn/buncha/play.php?id=211543723&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",19/04-17:00 | Spanish Bizkaia-Tercera Division | CE Europa B vs CE Atletic Lleida 2019
+http://pk79.io.vn/buncha/play.php?id=358356726&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200415072517.jpg?win007=sell",19/04-17:00 | Spanish Segunda Division B | UD Melilla vs Mostoles
+http://pk79.io.vn/buncha/play.php?id=359843627&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",19/04-17:00 | Poland Division 4 | Gedania Gdansk vs Gryf Slupsk
+http://pk79.io.vn/buncha/play.php?id=364456724&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200415073317.jpg?win007=sell",19/04-17:00 | Spanish Ladies Premier League | Granada CFNữ vs Colegio Aleman Valencia Nữ
 http://pk79.io.vn/buncha/play.php?id=226106623&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",19/04-17:00 | Finland Women League 1 | PK Keski Uusimaa Nữ vs ONS Nữ
+http://pk79.io.vn/buncha/play.php?id=390556724&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",19/04-17:00 | Italian Youth League B | Palermo U20 vs Spezia U20
 http://pk79.io.vn/buncha/play.php?id=100263629&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",19/04-17:00 | Italian Youth League B | AS Avellino Youth vs Napoli Youth
 http://pk79.io.vn/buncha/play.php?id=379163624&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",19/04-17:00 | Finland Women League 1 | PK Keski Uusimaa Nữ vs ONS Nữ
-http://pk79.io.vn/buncha/play.php?id=390556724&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",19/04-17:00 | Lithuania II Lyga | DFK Dainava Alytus B vs FK Viltis Vilnius
-http://pk79.io.vn/buncha/play.php?id=600013686&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",19/04-17:00 | Thai Division 2 League | Samut Sakhon vs Pattani
-http://pk79.io.vn/buncha/play.php?id=600011411&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",19/04-17:00 | International Friendly | Spain Nữ U16 vs USA Nữ U16
-http://pk79.io.vn/buncha/play.php?id=600006630&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",19/04-17:00 | Turkey A2 League U19 | Ankaragucu U19 vs Sivasspor U19
-http://pk79.io.vn/buncha/play.php?id=600013504&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",19/04-17:00 | Kyrgyzstan Top Liga | Dordoi-Dynamo Naryn vs FC Bishkek City
 http://pk79.io.vn/buncha/play.php?id=600013567&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",19/04-17:00 | Thai Division 2 League | Samut Sakhon vs Pattani
+http://pk79.io.vn/buncha/play.php?id=600011411&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",19/04-17:00 | Spain Segunda Women | CD Guiniguada Apolinario Nữ vs Cordoba Nữ
 http://pk79.io.vn/buncha/play.php?id=600013595&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",19/04-17:00 | Slovenia 3.Liga | NK Ziri vs Zarica Kranj
@@ -2861,28 +2901,48 @@ http://pk79.io.vn/buncha/play.php?id=600013637&type=1
 http://pk79.io.vn/buncha/play.php?id=600013644&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",19/04-17:00 | Poland Division 4 | Chemik Bydgoszcz vs Sparta Brodnica
 http://pk79.io.vn/buncha/play.php?id=600013651&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",19/04-17:00 | Spanish Ladies Premier League C | Osasuna C (W) vs Athletic Bilbao C Nữ
-http://pk79.io.vn/buncha/play.php?id=600013658&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",19/04-17:00 | Poland Division 4 | GKS Rudki vs Naprzod Jedrzejow
-http://pk79.io.vn/buncha/play.php?id=600013665&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",19/04-17:00 | Netherlands U21 League (cup) | RKVV Westlandia U21 vs VV Alexandria 66 U21
-http://pk79.io.vn/buncha/play.php?id=600013672&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",19/04-17:00 | Spain Segunda Women | Valencia B Nữ vs CD Femarguin Nữ
-http://pk79.io.vn/buncha/play.php?id=600013679&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200420175210.jpg?win007=sell",🔴 SÓNG QUỐC TẾ | 19/04-17:00 | Austrian Frauen Bundesliga | Dornbirn Nữ vs Neulengbach Nữ
 http://pk79.io.vn/buncha/play.php?id=209236729&type=quocte
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200423114126.png?win007=sell",🔴 SÓNG QUỐC TẾ | 19/04-17:00 | Kazakhstan Premier League | Ulytau Zhezkazgan vs Okzhetpes
+http://pk79.io.vn/buncha/play.php?id=211543723&type=quocte
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200415073317.jpg?win007=sell",🔴 SÓNG QUỐC TẾ | 19/04-17:00 | Spanish Ladies Premier League | Granada CFNữ vs Colegio Aleman Valencia Nữ
 http://pk79.io.vn/buncha/play.php?id=226106623&type=quocte
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200418084009.png?win007=sell",🔴 SÓNG QUỐC TẾ | 19/04-17:00 | Ukraine U21 Liga | Veres Rivne U21 vs Chernomorets Odessa U21
 http://pk79.io.vn/buncha/play.php?id=244124623&type=quocte
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200421173811.jpg?win007=sell",🔴 SÓNG QUỐC TẾ | 19/04-17:00 | Russia Womens Premier League | Lokomotiv Moscow Nữ vs Rubin Kazan Nữ
 http://pk79.io.vn/buncha/play.php?id=318594726&type=quocte
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20130406173431.jpg?win007=sell",🔴 SÓNG QUỐC TẾ | 19/04-17:00 | Ukraine Division 2 | Nyva Ternopil vs FK Yarud Mariupol
+http://pk79.io.vn/buncha/play.php?id=349665729&type=quocte
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200411201331.png?win007=sell",🔴 SÓNG QUỐC TẾ | 19/04-17:00 | Ukrainian Premier League | FC Karpaty Lviv vs Rukh Vynnyky
 http://pk79.io.vn/buncha/play.php?id=398740626&type=quocte
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200402170800.png?win007=sell",SÓNG QUỐC TẾ | 19/04-17:15 | Poland Ekstraklasa | Piast Gliwice vs Korona Kielce
-http://pk79.io.vn/buncha/play.php?id=459488521&type=quocte
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20130406173431.jpg?win007=sell",SÓNG QUỐC TẾ | 19/04-17:30 | Ukraine Division 2 | FC Mynai vs FC Victoria Mykolaivka
-http://pk79.io.vn/buncha/play.php?id=339665728&type=quocte
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",🔴 19/04-17:15 | Ukraine Division 3 | Revera 1908 vs Rukh Lviv II
+http://pk79.io.vn/buncha/play.php?id=351456720&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",19/04-17:15 | Netherlands U21 League (cup) | AFC Reserve vs Alkmaarse FC 1934 U21
+http://pk79.io.vn/buncha/play.php?id=600017088&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200402170800.png?win007=sell",19/04-17:15 | Poland Ekstraklasa | Piast Gliwice vs Korona Kielce
+http://pk79.io.vn/buncha/play.php?id=459488521&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200423111352.png?win007=sell",🔴 19/04-17:30 | Turkey 2 Ligi A | Erzurum BB vs Istanbulspor
+http://pk79.io.vn/buncha/play.php?id=216253625&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200423111314.png?win007=sell",🔴 19/04-17:30 | Turkish Super Liga | Kasimpasa vs Sivasspor
+http://pk79.io.vn/buncha/play.php?id=358831623&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200825111140.png?win007=sell",19/04-17:30 | Denmark Youth U19 | Sonderjyske U19 vs Nordsjaelland U19
+http://pk79.io.vn/buncha/play.php?id=296211627&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20130406173431.jpg?win007=sell",19/04-17:30 | Ukraine Division 2 | FC Mynai vs FC Victoria Mykolaivka
+http://pk79.io.vn/buncha/play.php?id=339665728&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",19/04-17:30 | India I-League 2nd Division | FC Bengaluru United vs Sporting Clube de Goa
+http://pk79.io.vn/buncha/play.php?id=358456727&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200415063940.jpg?win007=sell",19/04-17:30 | Italian Women Division 1 | Sassuolo Nữ vs Como 2000 Nữ
+http://pk79.io.vn/buncha/play.php?id=376504721&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200526181026.png?win007=sell",19/04-17:30 | Czech Republic 2.Liga | Lisen vs Brno
+http://pk79.io.vn/buncha/play.php?id=375451620&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",19/04-17:30 | India I-League 2nd Division | Sports Academy Tirur vs Trau FC
+http://pk79.io.vn/buncha/play.php?id=368456728&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",19/04-17:30 | Holland Youth Eredivisie | FC Twente/Heracles U19 vs Ajax U19
+http://pk79.io.vn/buncha/play.php?id=600013693&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",19/04-17:30 | Paraguay reserve team league | Olimpia Asuncion Reserves vs Sportivo Luqueno Reserves
+http://pk79.io.vn/buncha/play.php?id=600013700&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",19/04-17:30 | Malawi Premier League | Mafco vs Kamuzu Barracks
+http://pk79.io.vn/buncha/play.php?id=600013707&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/fdad32ccf5205e78f9f39db42d073998.svg",19/04-18:00 | LPL | WE vs AL
 http://pk79.io.vn/buncha/play.php?id=599997000&type=36
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/categories/2025/03/29/72d6d502a06ad88d01c93b7499af32b0.jpg",20/04-00:00 | Đua xe F1 | F1 Saudi Arabia (Phân Hạng)
@@ -2910,7 +2970,7 @@ http://pk79.io.vn/buncha/play.php?id=600007605&type=29
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200402170800.png?win007=sell",21/04-19:45 | Poland Ekstraklasa | Jagiellonia Bialystok vs Zaglebie Lubin
 http://pk79.io.vn/buncha/play.php?id=329488528&type=1
 # Tổng số trận đấu: 80
-# Tạo tự động lúc 19/04/2025 17:15:10
+# Tạo tự động lúc 19/04/2025 17:30:13
 #EXTM3U x-tvg-url="http://pk79.x10.mx/bongda/vebo.php" refresh="3600"
 #EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/51190878447ed4a23608f899df485da2.png" tvg-chno="cDIr6Ta" catchup="default" catchup-source="?playbackstart={utc}",19/04-07:30 | Argentine Division 1 | Atletico Tucuman VS Independiente (Updated: 2025-04-19 06:20:04)
 http://pk79.io.vn/vebo/play.php?id=cDIr6Ta
@@ -2961,23 +3021,23 @@ http://pk79.io.vn/vebo/play.php?id=rs3UHuN
 #EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" tvg-chno="4HecCwh" catchup="default" catchup-source="?playbackstart={utc}",19/04-23:30 | Ngoại hạng Anh | Aston Villa VS Newcastle United (Updated: 2025-04-19 06:20:04)
 http://pk79.io.vn/vebo/play.php?id=4HecCwh
 #EXTM3U
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20181105093134.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F44196%2F1gqhh4j1a77.png%3Fwin007%3Dsell", 🔴 19/04-16:00 | Gazovik Orenburg vs FK Makhachkala | BLV PHONG VÂN
-http://khaitv.giize.com:8080/luongson/play.php?id=204549529
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20037%2F1gv55qwkbxv.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F37722%2F1gvagpekvs2d.png%3Fwin007%3Dsell", 🔴 19/04-16:00 | Dong Nai Berjaya vs Ba Ria Vung Tau FC | BLV MÃ SIÊU
 http://khaitv.giize.com:8080/luongson/play.php?id=377718628
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20130923112441.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F14549%2F1gq92j83kv7.png%3Fwin007%3Dsell", 🔴 19/04-16:35 | Western Sydney vs Melbourne City | BLV NHỊ KA
-http://khaitv.giize.com:8080/luongson/play.php?id=1f35596d-1f32-449c-9ac5-2b79365effdb
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20130923112441.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F14549%2F1gq92j83kv7.png%3Fwin007%3Dsell", 🔴 19/04-16:35 | Western Sydney vs Melbourne City | BLV KAKA
-http://khaitv.giize.com:8080/luongson/play.php?id=1f3ad42c-33da-47a0-a8b1-5c7c1095a429
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20130923112441.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F14549%2F1gq92j83kv7.png%3Fwin007%3Dsell", 🔴 19/04-16:35 | Western Sydney vs Melbourne City | BLV ĐOÀN DỰ 
-http://khaitv.giize.com:8080/luongson/play.php?id=d2637102-97a0-49f4-ba8f-79c5304b4b07
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20130923112441.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F14549%2F1gq92j83kv7.png%3Fwin007%3Dsell", 🔴 19/04-16:35 | Western Sydney vs Melbourne City | BLV KHÔNG NGỦ
-http://khaitv.giize.com:8080/luongson/play.php?id=c3f68ff6-c7c5-4b31-befb-d728de80a9e0
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20181105093134.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F44196%2F1gqhh4j1a77.png%3Fwin007%3Dsell", 🔴 19/04-16:00 | Gazovik Orenburg vs FK Makhachkala | BLV PHONG VÂN
+http://khaitv.giize.com:8080/luongson/play.php?id=204549529
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20130923112441.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F14549%2F1gq92j83kv7.png%3Fwin007%3Dsell", 🔴 19/04-16:35 | Western Sydney vs Melbourne City | BLV LƯU BỊ
 http://khaitv.giize.com:8080/luongson/play.php?id=edb75841-7e1b-424b-90ec-1b69a38f3387
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20130923112441.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F14549%2F1gq92j83kv7.png%3Fwin007%3Dsell", 🔴 19/04-16:35 | Western Sydney vs Melbourne City | BLV KAKA
+http://khaitv.giize.com:8080/luongson/play.php?id=1f3ad42c-33da-47a0-a8b1-5c7c1095a429
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20130923112441.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F14549%2F1gq92j83kv7.png%3Fwin007%3Dsell", 🔴 19/04-16:35 | Western Sydney vs Melbourne City | BLV KHÔNG NGỦ
+http://khaitv.giize.com:8080/luongson/play.php?id=c3f68ff6-c7c5-4b31-befb-d728de80a9e0
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20130923112441.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F14549%2F1gq92j83kv7.png%3Fwin007%3Dsell", 🔴 19/04-16:35 | Western Sydney vs Melbourne City | BLV ĐOÀN DỰ 
+http://khaitv.giize.com:8080/luongson/play.php?id=d2637102-97a0-49f4-ba8f-79c5304b4b07
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20130923112441.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F14549%2F1gq92j83kv7.png%3Fwin007%3Dsell", 🔴 19/04-16:35 | Western Sydney vs Melbourne City | BLV NHỊ KA
+http://khaitv.giize.com:8080/luongson/play.php?id=1f35596d-1f32-449c-9ac5-2b79365effdb
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20130923112441.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F14549%2F1gq92j83kv7.png%3Fwin007%3Dsell", 🔴 19/04-16:35 | Western Sydney vs Melbourne City | BLV LỮ BỐ
 http://khaitv.giize.com:8080/luongson/play.php?id=292145629
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F741%2F1gxsf6qjyq26.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F1gsq1q2mds5.png%3Fwin007%3Dsell", 19/04-17:00 | FC Seoul vs Gwangju Football Club | BLV CÔNG TÔN THẮNG 
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F741%2F1gxsf6qjyq26.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F1gsq1q2mds5.png%3Fwin007%3Dsell", 🔴 19/04-17:00 | FC Seoul vs Gwangju Football Club | BLV CÔNG TÔN THẮNG 
 http://khaitv.giize.com:8080/luongson/play.php?id=242561727
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1743939542.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F1566%2F1gv1yreqcjn.png%3Fwin007%3Dsell", 19/04-17:30 | Kasimpasa vs Sivasspor | BLV BRUNO
 http://khaitv.giize.com:8080/luongson/play.php?id=358831623
@@ -2999,26 +3059,26 @@ http://khaitv.giize.com:8080/luongson/play.php?id=120340cf-bbdf-4d8e-a2ee-a6b925
 http://khaitv.giize.com:8080/luongson/play.php?id=223834729
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F9825%2F1h5e4e370y1r.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F24875%2F1grfnycz2q32.png%3Fwin007%3Dsell", 19/04-18:00 | Thanh Hoa vs Viettel FC | BLV TRƯƠNG THANH 
 http://khaitv.giize.com:8080/luongson/play.php?id=03709b22-4b77-47ce-b3d6-bc6f63eda068
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F39%2F1gy3vjsrhn1p.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F42492%2F1hd5at5b6g1y.png%3Fwin007%3Dsell", 19/04-18:00 | Shanghai Shenhua vs Wuhan Three Towns | BLV VĂN TÍCH
-http://khaitv.giize.com:8080/luongson/play.php?id=261262726
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F39%2F1gy3vjsrhn1p.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F42492%2F1hd5at5b6g1y.png%3Fwin007%3Dsell", 19/04-18:00 | Shanghai Shenhua vs Wuhan Three Towns | BLV TRIỆU TỬ LONG
 http://khaitv.giize.com:8080/luongson/play.php?id=425a3014-a758-4284-884d-32fcac114871
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F39%2F1gy3vjsrhn1p.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F42492%2F1hd5at5b6g1y.png%3Fwin007%3Dsell", 19/04-18:00 | Shanghai Shenhua vs Wuhan Three Towns | BLV VĂN TÍCH
+http://khaitv.giize.com:8080/luongson/play.php?id=261262726
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F39%2F1gy3vjsrhn1p.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F42492%2F1hd5at5b6g1y.png%3Fwin007%3Dsell", 19/04-18:00 | Shanghai Shenhua vs Wuhan Three Towns | BLV HOẮC ĐÔ
 http://khaitv.giize.com:8080/luongson/play.php?id=1f503d83-5a11-42aa-bf24-a592bb462fde
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F2733%2F1gtqpyp08x2e.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F5335%2F1h8qpaa8861j.png%3Fwin007%3Dsell", 19/04-18:30 | Arsenal (W) vs Lyon (W) | BLV DƯƠNG CHÍ
 http://khaitv.giize.com:8080/luongson/play.php?id=327475724
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F2733%2F1gtqpyp08x2e.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F5335%2F1h8qpaa8861j.png%3Fwin007%3Dsell", 19/04-18:30 | Arsenal (W) vs Lyon (W) | BLV KHỔNG MINH
 http://khaitv.giize.com:8080/luongson/play.php?id=c3a7e728-beb5-4ec1-94a1-175d277cb6d1
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165371351048.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F40%2F1gy3vjsrhjq.png%3Fwin007%3Dsell", 19/04-18:35 | Beijing Guoan vs Shandong Taishan | BLV PHONG VÂN
-http://khaitv.giize.com:8080/luongson/play.php?id=271262727
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165371351048.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F40%2F1gy3vjsrhjq.png%3Fwin007%3Dsell", 19/04-18:35 | Beijing Guoan vs Shandong Taishan | BLV CAO CẦU
 http://khaitv.giize.com:8080/luongson/play.php?id=87b0ab5f-4eb3-4d6f-a967-3a3dbf8b79cb
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165371351048.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F40%2F1gy3vjsrhjq.png%3Fwin007%3Dsell", 19/04-18:35 | Beijing Guoan vs Shandong Taishan | BLV PHONG VÂN
+http://khaitv.giize.com:8080/luongson/play.php?id=271262727
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165371351048.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F40%2F1gy3vjsrhjq.png%3Fwin007%3Dsell", 19/04-18:35 | Beijing Guoan vs Shandong Taishan | BLV THẠCH TÚ
 http://khaitv.giize.com:8080/luongson/play.php?id=a880f6b1-6ee9-4693-a831-f985ce7eebc7
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871283245.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871269140.png%3Fwin007%3Dsell", 19/04-19:00 | Rayo Vallecano vs Valencia | BLV NHỊ KA
-http://khaitv.giize.com:8080/luongson/play.php?id=4b3b0419-bac0-4cff-931d-2da308af58e1
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871283245.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871269140.png%3Fwin007%3Dsell", 19/04-19:00 | Rayo Vallecano vs Valencia | BLV DƯƠNG QUÁ
 http://khaitv.giize.com:8080/luongson/play.php?id=6a747dfe-e4a7-4962-884b-a3babf9a82cf
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871283245.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871269140.png%3Fwin007%3Dsell", 19/04-19:00 | Rayo Vallecano vs Valencia | BLV NHỊ KA
+http://khaitv.giize.com:8080/luongson/play.php?id=4b3b0419-bac0-4cff-931d-2da308af58e1
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871283245.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871269140.png%3Fwin007%3Dsell", 19/04-19:00 | Rayo Vallecano vs Valencia | BLV NGŨ CA
 http://khaitv.giize.com:8080/luongson/play.php?id=51d4e6e3-47ca-4431-917a-f0a079112576
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871283245.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871269140.png%3Fwin007%3Dsell", 19/04-19:00 | Rayo Vallecano vs Valencia | BLV TIÊU PHONG
@@ -3039,12 +3099,12 @@ http://khaitv.giize.com:8080/luongson/play.php?id=221570623
 http://khaitv.giize.com:8080/luongson/play.php?id=45bb5a3d-b21a-44a8-bb0f-5a75097ce1b7
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F2013120120906.jpg%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164870989340.png%3Fwin007%3Dsell", 19/04-20:30 | Heidenheimer vs Bayern Munchen | BLV SAITAMA
 http://khaitv.giize.com:8080/luongson/play.php?id=201570621
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577453830.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577463784.png%3Fwin007%3Dsell", 19/04-21:00 | West Ham United vs Southampton | BLV THẠCH TÚ
+http://khaitv.giize.com:8080/luongson/play.php?id=d17de93c-8118-4f55-b881-230563d9f646
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577453830.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577463784.png%3Fwin007%3Dsell", 19/04-21:00 | West Ham United vs Southampton | BLV PHONG VÂN
 http://khaitv.giize.com:8080/luongson/play.php?id=272219528
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577453830.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577463784.png%3Fwin007%3Dsell", 19/04-21:00 | West Ham United vs Southampton | BLV CAO CẦU
 http://khaitv.giize.com:8080/luongson/play.php?id=745f2efb-188c-4ad9-9aa8-63d47aa84066
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577453830.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577463784.png%3Fwin007%3Dsell", 19/04-21:00 | West Ham United vs Southampton | BLV THẠCH TÚ
-http://khaitv.giize.com:8080/luongson/play.php?id=d17de93c-8118-4f55-b881-230563d9f646
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577426766.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164869115455.png%3Fwin007%3Dsell", 19/04-21:00 | Crystal Palace vs AFC Bournemouth | BLV CHU ĐỒNG
 http://khaitv.giize.com:8080/luongson/play.php?id=202219521
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577426766.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164869115455.png%3Fwin007%3Dsell", 19/04-21:00 | Crystal Palace vs AFC Bournemouth | BLV KHỔNG MINH
@@ -3057,18 +3117,18 @@ http://khaitv.giize.com:8080/luongson/play.php?id=291219529
 http://khaitv.giize.com:8080/luongson/play.php?id=4a88d223-ae2e-4544-9f53-d3382022de74
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164601812119.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577420829.png%3Fwin007%3Dsell", 19/04-21:00 | Brentford vs Brighton Hove Albion | BLV HOÀNG TÍN
 http://khaitv.giize.com:8080/luongson/play.php?id=01f9f401-30ab-4b47-87bb-bb8621e1cbd2
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577449385.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577478031.png%3Fwin007%3Dsell", 19/04-21:00 | Everton vs Manchester City | BLV TRIỆU TỬ LONG
-http://khaitv.giize.com:8080/luongson/play.php?id=9b25aa76-92af-4fb7-ade7-69967ad8073b
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577449385.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577478031.png%3Fwin007%3Dsell", 19/04-21:00 | Everton vs Manchester City | BLV SÀI TIẾN
-http://khaitv.giize.com:8080/luongson/play.php?id=cdffe101-dcdf-40ca-80b1-85b369f4aac8
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577449385.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577478031.png%3Fwin007%3Dsell", 19/04-21:00 | Everton vs Manchester City | BLV LƯU BỊ
-http://khaitv.giize.com:8080/luongson/play.php?id=958b7032-3927-40fb-9b28-e47e51b97063
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577449385.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577478031.png%3Fwin007%3Dsell", 19/04-21:00 | Everton vs Manchester City | BLV KAKA
-http://khaitv.giize.com:8080/luongson/play.php?id=008f0df4-81a3-4186-b009-9d5dacf13485
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577449385.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577478031.png%3Fwin007%3Dsell", 19/04-21:00 | Everton vs Manchester City | BLV DẾ LỬA
 http://khaitv.giize.com:8080/luongson/play.php?id=3a096d89-187e-4f76-8c65-896d296828a7
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577449385.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577478031.png%3Fwin007%3Dsell", 19/04-21:00 | Everton vs Manchester City | BLV SÀI TIẾN
+http://khaitv.giize.com:8080/luongson/play.php?id=cdffe101-dcdf-40ca-80b1-85b369f4aac8
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577449385.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577478031.png%3Fwin007%3Dsell", 19/04-21:00 | Everton vs Manchester City | BLV KAKA
+http://khaitv.giize.com:8080/luongson/play.php?id=008f0df4-81a3-4186-b009-9d5dacf13485
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577449385.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577478031.png%3Fwin007%3Dsell", 19/04-21:00 | Everton vs Manchester City | BLV TRIỆU TỬ LONG
+http://khaitv.giize.com:8080/luongson/play.php?id=9b25aa76-92af-4fb7-ade7-69967ad8073b
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577449385.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577478031.png%3Fwin007%3Dsell", 19/04-21:00 | Everton vs Manchester City | BLV HOẮC ĐÔ
 http://khaitv.giize.com:8080/luongson/play.php?id=212219522
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577449385.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577478031.png%3Fwin007%3Dsell", 19/04-21:00 | Everton vs Manchester City | BLV LƯU BỊ
+http://khaitv.giize.com:8080/luongson/play.php?id=958b7032-3927-40fb-9b28-e47e51b97063
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577449385.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577478031.png%3Fwin007%3Dsell", 19/04-21:00 | Everton vs Manchester City | BLV TỐNG GIANG
 http://khaitv.giize.com:8080/luongson/play.php?id=39888eae-d0b3-4eae-8f32-8560b782c6d3
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577449385.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577478031.png%3Fwin007%3Dsell", 19/04-21:00 | Everton vs Manchester City | BLV LỮ BỐ
@@ -3079,44 +3139,44 @@ http://khaitv.giize.com:8080/luongson/play.php?id=75185dc0-3b06-494c-97cc-05e9bf
 http://khaitv.giize.com:8080/luongson/play.php?id=10e217f0-9845-4e05-a732-dfa5dabab7fb
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577449385.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577478031.png%3Fwin007%3Dsell", 19/04-21:00 | Everton vs Manchester City | BLV SONBAEMIN
 http://khaitv.giize.com:8080/luongson/play.php?id=2cce1f79-d912-4449-abf4-89786c65e4bc
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871253294.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871275971.png%3Fwin007%3Dsell", 19/04-21:15 | FC Barcelona vs Celta Vigo | BLV ĐOÀN DỰ 
-http://khaitv.giize.com:8080/luongson/play.php?id=8119ca51-6e31-4a34-9404-154da0d0d00f
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871253294.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871275971.png%3Fwin007%3Dsell", 19/04-21:15 | FC Barcelona vs Celta Vigo | BLV NHỊ KA
-http://khaitv.giize.com:8080/luongson/play.php?id=0e1715e2-054c-404d-9930-10431da806ed
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871253294.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871275971.png%3Fwin007%3Dsell", 19/04-21:15 | FC Barcelona vs Celta Vigo | BLV DƯƠNG QUÁ
-http://khaitv.giize.com:8080/luongson/play.php?id=535c4141-381f-4850-948a-5b0e7d1450ca
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871253294.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871275971.png%3Fwin007%3Dsell", 19/04-21:15 | FC Barcelona vs Celta Vigo | BLV DƯƠNG CHÍ
-http://khaitv.giize.com:8080/luongson/play.php?id=322969525
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871253294.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871275971.png%3Fwin007%3Dsell", 19/04-21:15 | FC Barcelona vs Celta Vigo | BLV KHÔNG NGỦ
 http://khaitv.giize.com:8080/luongson/play.php?id=6e13e5f6-e136-4429-ac47-ffba077cf84d
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871253294.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871275971.png%3Fwin007%3Dsell", 19/04-21:15 | FC Barcelona vs Celta Vigo | BLV NHỊ KA
+http://khaitv.giize.com:8080/luongson/play.php?id=0e1715e2-054c-404d-9930-10431da806ed
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871253294.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871275971.png%3Fwin007%3Dsell", 19/04-21:15 | FC Barcelona vs Celta Vigo | BLV DƯƠNG CHÍ
+http://khaitv.giize.com:8080/luongson/play.php?id=322969525
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871253294.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871275971.png%3Fwin007%3Dsell", 19/04-21:15 | FC Barcelona vs Celta Vigo | BLV DƯƠNG QUÁ
+http://khaitv.giize.com:8080/luongson/play.php?id=535c4141-381f-4850-948a-5b0e7d1450ca
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871253294.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871275971.png%3Fwin007%3Dsell", 19/04-21:15 | FC Barcelona vs Celta Vigo | BLV ĐOÀN DỰ 
+http://khaitv.giize.com:8080/luongson/play.php?id=8119ca51-6e31-4a34-9404-154da0d0d00f
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871185439.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20181012141555.png%3Fwin007%3Dsell", 19/04-22:00 | Paris Saint Germain (PSG) vs Le Havre |  BLV ĐỊCH NHÂN KIỆT
+http://khaitv.giize.com:8080/luongson/play.php?id=354acfd2-cc12-4454-b7ee-c1753e3dc806
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871185439.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20181012141555.png%3Fwin007%3Dsell", 19/04-22:00 | Paris Saint Germain (PSG) vs Le Havre | BLV NGŨ CA
 http://khaitv.giize.com:8080/luongson/play.php?id=86e4c58d-3603-4cfa-9932-0f682b9b87bf
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871185439.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20181012141555.png%3Fwin007%3Dsell", 19/04-22:00 | Paris Saint Germain (PSG) vs Le Havre | BLV TIÊU PHONG
 http://khaitv.giize.com:8080/luongson/play.php?id=395159526
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871185439.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20181012141555.png%3Fwin007%3Dsell", 19/04-22:00 | Paris Saint Germain (PSG) vs Le Havre |  BLV ĐỊCH NHÂN KIỆT
-http://khaitv.giize.com:8080/luongson/play.php?id=354acfd2-cc12-4454-b7ee-c1753e3dc806
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F2013123210005.jpg%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164869077541.png%3Fwin007%3Dsell", 19/04-23:00 | Monza vs Napoli | BLV HOÀNG TÍN
 http://khaitv.giize.com:8080/luongson/play.php?id=3a5c412f-e403-43b3-abd3-708bcc907791
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F2013123210005.jpg%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164869077541.png%3Fwin007%3Dsell", 19/04-23:00 | Monza vs Napoli | BLV QUAN VŨ
 http://khaitv.giize.com:8080/luongson/play.php?id=239170628
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-api-ls.cdnokvip.com%2Fuploads%2Fteam_logo%2F1698583388.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577474623.png%3Fwin007%3Dsell", 19/04-23:30 | Aston Villa vs Newcastle United | BLV ĐOÀN DỰ 
-http://khaitv.giize.com:8080/luongson/play.php?id=270604d6-2c3e-47f7-8f61-195829a664ac
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-api-ls.cdnokvip.com%2Fuploads%2Fteam_logo%2F1698583388.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577474623.png%3Fwin007%3Dsell", 19/04-23:30 | Aston Villa vs Newcastle United | BLV TRIỆU TỬ LONG
-http://khaitv.giize.com:8080/luongson/play.php?id=90a72fca-b370-4368-9469-3157099c91a7
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-api-ls.cdnokvip.com%2Fuploads%2Fteam_logo%2F1698583388.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577474623.png%3Fwin007%3Dsell", 19/04-23:30 | Aston Villa vs Newcastle United | BLV KAKA
+http://khaitv.giize.com:8080/luongson/play.php?id=6bec070a-eba0-442c-8be4-1ab7e83e5c9f
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-api-ls.cdnokvip.com%2Fuploads%2Fteam_logo%2F1698583388.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577474623.png%3Fwin007%3Dsell", 19/04-23:30 | Aston Villa vs Newcastle United | BLV DƯƠNG QUÁ
 http://khaitv.giize.com:8080/luongson/play.php?id=4891ca50-98b5-4218-a25c-417fa92c8493
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-api-ls.cdnokvip.com%2Fuploads%2Fteam_logo%2F1698583388.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577474623.png%3Fwin007%3Dsell", 19/04-23:30 | Aston Villa vs Newcastle United | BLV LƯU BỊ
 http://khaitv.giize.com:8080/luongson/play.php?id=e9826143-a113-4fc0-870d-f03eede434fb
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-api-ls.cdnokvip.com%2Fuploads%2Fteam_logo%2F1698583388.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577474623.png%3Fwin007%3Dsell", 19/04-23:30 | Aston Villa vs Newcastle United | BLV DƯƠNG CHÍ
 http://khaitv.giize.com:8080/luongson/play.php?id=5bff1343-9b60-417f-a1bc-865d13d57b0a
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-api-ls.cdnokvip.com%2Fuploads%2Fteam_logo%2F1698583388.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577474623.png%3Fwin007%3Dsell", 19/04-23:30 | Aston Villa vs Newcastle United | BLV LA THÀNH
-http://khaitv.giize.com:8080/luongson/play.php?id=45e40071-531c-44c4-b2c1-fabc5eed5d8d
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-api-ls.cdnokvip.com%2Fuploads%2Fteam_logo%2F1698583388.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577474623.png%3Fwin007%3Dsell", 19/04-23:30 | Aston Villa vs Newcastle United | BLV KAKA
-http://khaitv.giize.com:8080/luongson/play.php?id=6bec070a-eba0-442c-8be4-1ab7e83e5c9f
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-api-ls.cdnokvip.com%2Fuploads%2Fteam_logo%2F1698583388.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577474623.png%3Fwin007%3Dsell", 19/04-23:30 | Aston Villa vs Newcastle United | BLV NHỊ KA
-http://khaitv.giize.com:8080/luongson/play.php?id=7afe310b-2cf2-411b-b6c8-c7c5684dd247
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-api-ls.cdnokvip.com%2Fuploads%2Fteam_logo%2F1698583388.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577474623.png%3Fwin007%3Dsell", 19/04-23:30 | Aston Villa vs Newcastle United | BLV TRIỆU TỬ LONG
+http://khaitv.giize.com:8080/luongson/play.php?id=90a72fca-b370-4368-9469-3157099c91a7
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-api-ls.cdnokvip.com%2Fuploads%2Fteam_logo%2F1698583388.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577474623.png%3Fwin007%3Dsell", 19/04-23:30 | Aston Villa vs Newcastle United | BLV KHÔNG NGỦ
 http://khaitv.giize.com:8080/luongson/play.php?id=e27d8c3a-ee9f-49cc-8fd5-d8ec0bdc9b08
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-api-ls.cdnokvip.com%2Fuploads%2Fteam_logo%2F1698583388.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577474623.png%3Fwin007%3Dsell", 19/04-23:30 | Aston Villa vs Newcastle United | BLV ĐOÀN DỰ 
+http://khaitv.giize.com:8080/luongson/play.php?id=270604d6-2c3e-47f7-8f61-195829a664ac
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-api-ls.cdnokvip.com%2Fuploads%2Fteam_logo%2F1698583388.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577474623.png%3Fwin007%3Dsell", 19/04-23:30 | Aston Villa vs Newcastle United | BLV NHỊ KA
+http://khaitv.giize.com:8080/luongson/play.php?id=7afe310b-2cf2-411b-b6c8-c7c5684dd247
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-api-ls.cdnokvip.com%2Fuploads%2Fteam_logo%2F1698583388.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577474623.png%3Fwin007%3Dsell", 19/04-23:30 | Aston Villa vs Newcastle United | BLV LA THÀNH
+http://khaitv.giize.com:8080/luongson/play.php?id=45e40071-531c-44c4-b2c1-fabc5eed5d8d
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-api-ls.cdnokvip.com%2Fuploads%2Fteam_logo%2F1698583388.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577474623.png%3Fwin007%3Dsell", 19/04-23:30 | Aston Villa vs Newcastle United | BLV TỐNG GIANG
 http://khaitv.giize.com:8080/luongson/play.php?id=8e8e6527-c61c-49b6-9fab-ceeaaf9f60df
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-api-ls.cdnokvip.com%2Fuploads%2Fteam_logo%2F1698583388.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577474623.png%3Fwin007%3Dsell", 19/04-23:30 | Aston Villa vs Newcastle United | BLV LỮ BỐ
@@ -3137,12 +3197,12 @@ http://khaitv.giize.com:8080/luongson/play.php?id=241570625
 http://khaitv.giize.com:8080/luongson/play.php?id=b3865933-e2b3-4ee3-bb51-7dacd081e741
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871161365.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871149852.png%3Fwin007%3Dsell", 19/04-23:30 | Union Berlin vs VfB Stuttgart | BLV THẠCH TÚ
 http://khaitv.giize.com:8080/luongson/play.php?id=28d7d6f6-984a-47e0-b42e-864c1bf01560
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F16487116696.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871181440.png%3Fwin007%3Dsell", 20/04-00:00 | Monaco vs Strasbourg | BLV NGŨ CA
+http://khaitv.giize.com:8080/luongson/play.php?id=2e56694c-7e83-478c-a7ba-aa4a2a54b4b8
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F16487116696.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871181440.png%3Fwin007%3Dsell", 20/04-00:00 | Monaco vs Strasbourg | BLV TIÊU PHONG
 http://khaitv.giize.com:8080/luongson/play.php?id=375159524
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F16487116696.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871181440.png%3Fwin007%3Dsell", 20/04-00:00 | Monaco vs Strasbourg | BLV TRƯƠNG THANH 
 http://khaitv.giize.com:8080/luongson/play.php?id=74ab02e0-a57d-4e3a-88cc-d896ec5e5e14
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F16487116696.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871181440.png%3Fwin007%3Dsell", 20/04-00:00 | Monaco vs Strasbourg | BLV NGŨ CA
-http://khaitv.giize.com:8080/luongson/play.php?id=2e56694c-7e83-478c-a7ba-aa4a2a54b4b8
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165095697544.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20130404175429.jpg%3Fwin007%3Dsell", 20/04-01:00 | SC Heerenveen vs Almere City FC | BLV CHU ĐỒNG
 http://khaitv.giize.com:8080/luongson/play.php?id=221529526
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165095697544.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20130404175429.jpg%3Fwin007%3Dsell", 20/04-01:00 | SC Heerenveen vs Almere City FC | BLV NGÔ DỤNG
@@ -3157,20 +3217,20 @@ http://khaitv.giize.com:8080/luongson/play.php?id=3624e22f-9e02-4621-8308-be9c48
 http://khaitv.giize.com:8080/luongson/play.php?id=378170621
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164869002671.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164869073462.png%3Fwin007%3Dsell", 20/04-01:45 | AS Roma vs Verona |  BLV ĐỊCH NHÂN KIỆT
 http://khaitv.giize.com:8080/luongson/play.php?id=78b79393-2bec-4065-a42d-724a3c524cc1
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F991%2F1h71m9g00a1e.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871274624.png%3Fwin007%3Dsell", 20/04-02:00 | Las Palmas vs Atletico Madrid | BLV DẾ LỬA
-http://khaitv.giize.com:8080/luongson/play.php?id=2cc2dc9a-686f-4863-aa28-b2a6567208f5
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F991%2F1h71m9g00a1e.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871274624.png%3Fwin007%3Dsell", 20/04-02:00 | Las Palmas vs Atletico Madrid | BLV LA THÀNH
 http://khaitv.giize.com:8080/luongson/play.php?id=fbc1c209-fdff-4f2e-8d75-69011edd9343
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F991%2F1h71m9g00a1e.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871274624.png%3Fwin007%3Dsell", 20/04-02:00 | Las Palmas vs Atletico Madrid | BLV DẾ LỬA
+http://khaitv.giize.com:8080/luongson/play.php?id=2cc2dc9a-686f-4863-aa28-b2a6567208f5
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F991%2F1h71m9g00a1e.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871274624.png%3Fwin007%3Dsell", 20/04-02:00 | Las Palmas vs Atletico Madrid | BLV LỮ BỐ
 http://khaitv.giize.com:8080/luongson/play.php?id=342969527
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F991%2F1h71m9g00a1e.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871274624.png%3Fwin007%3Dsell", 20/04-02:00 | Las Palmas vs Atletico Madrid | BLV TRƯƠNG THANH 
 http://khaitv.giize.com:8080/luongson/play.php?id=f22b347e-87be-4b79-b03c-d1dc1e41b3f0
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F991%2F1h71m9g00a1e.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871274624.png%3Fwin007%3Dsell", 20/04-02:00 | Las Palmas vs Atletico Madrid | BLV HOÀNG TÍN
 http://khaitv.giize.com:8080/luongson/play.php?id=d64cce4f-3172-4ae3-ac09-4d2635524c31
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165095604742.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165095593478.png%3Fwin007%3Dsell", 20/04-02:30 | Vitoria Guimaraes vs Benfica | BLV QUAN VŨ
-http://khaitv.giize.com:8080/luongson/play.php?id=242911625
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165095604742.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165095593478.png%3Fwin007%3Dsell", 20/04-02:30 | Vitoria Guimaraes vs Benfica | BLV TRƯƠNG VÔ KỴ
 http://khaitv.giize.com:8080/luongson/play.php?id=32e93f20-d682-4346-80ae-2fb4fc3db19c
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165095604742.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165095593478.png%3Fwin007%3Dsell", 20/04-02:30 | Vitoria Guimaraes vs Benfica | BLV QUAN VŨ
+http://khaitv.giize.com:8080/luongson/play.php?id=242911625
 #EXTINF:-1 group-title="gavang" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fee0173d0360cae24b5fdf05ab8bbca23%2Fimage%2Fsmall&m2=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fdec381e7aadbdb7b73c450583dbe8992%2Fimage%2Fsmall", 19/04-16:00 | Russian Premier League | Gazovik Orenburg - FK Makhachkala
 http://khaitv.giize.com:8080/thapcam/proxy.php?url=https%3A%2F%2Flive.rapid-api.icu%2Flive%2F76eb7ac07e08a62272a0ddbc0532d878%2Fplaylist.m3u8&referer=https://tructiep1.gavang4.uk/
 #EXTINF:-1 group-title="gavang" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F716fc94578b70224d2786e73f3e681c1%2Fimage%2Fsmall&m2=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5eeaed5ac688b5c478c935c4289d5173%2Fimage%2Fsmall", 19/04-16:35 | Australia A-League | Western Sydney - Melbourne City
@@ -3233,13 +3293,7 @@ http://pk79.io.vn/xemlai/play.php?id=1rRsr6Q
 #EXTINF:-1 group-title="highlight" tvg-logo="https://g7w1r.4shares.live/news/cong174.jpg",Highlights Real Madrid vs Arsenal | BLV Cáp Tần Ft Người Thỏ | 17.4.25
 http://pk79.io.vn/xemlai/play.php?id=FLlaJuD
 #EXTM3U
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fbasketball%2Fteam%2F0edf832bceb2f91200dbb544fc51e60a.png&m2=https%3A%2F%2Fimg.thesports.com%2Fbasketball%2Fteam%2Fe8edc9b94b7fd45ec9de586cacb1df6b.png",🔴LIVE 15:05 19/04 | Bóng rổ Nhật Bản | Sunrockers Shibuya Kawasaki Brave Thunders
-http://pk79.io.vn/cakeo/play.php?id=uf4w7vs10w
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F0c7d6546c9204e45c17bc2d9d05f7a4b.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F8fe0dffba0648f1b515c0500c55ff7a8.jpg",🔴LIVE 15:15 19/04 | Mongolia Premier League | FC Ulaanbaatar Tuv Buganuud
-http://pk79.io.vn/cakeo/play.php?id=qkbj23dvc9
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fcab65c911a419976ff0a80e0b091909f.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fe10a8b7e6592c35a6d92c5cf1af44db3.png",🔴LIVE 15:15 19/04 | Czech Third League | Bohemians1905 B SK Motorlet Praha
-http://pk79.io.vn/cakeo/play.php?id=ao4v8lc7b1
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fbasketball%2Fteam%2Fdc026ad9211e3f42bdc552d24dfd8342.png&m2=https%3A%2F%2Fimg.thesports.com%2Fbasketball%2Fteam%2Ff57b1938c7a2cb04e207a7f23d039042.png",⭐Tâm điểm⭐ 🔴LIVE 16:00 19/04 | Taiwan Professional Basketball | Taiwan Beer Leopards Hsinchu Lioneers
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fbasketball%2Fteam%2Fdc026ad9211e3f42bdc552d24dfd8342.png&m2=https%3A%2F%2Fimg.thesports.com%2Fbasketball%2Fteam%2Ff57b1938c7a2cb04e207a7f23d039042.png",🔴LIVE 16:00 19/04 | Taiwan Professional Basketball | Taiwan Beer Leopards Hsinchu Lioneers
 http://pk79.io.vn/cakeo/play.php?id=9bdthpzwox
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimage-eu-na-q2h7.4shares.live%2Fthesports%2Fteam%2FDongNai.png&m2=https%3A%2F%2Fvpf.vn%2Fwp-content%2Fuploads%2F2019%2F12%2FBa-Ria-Vung-Tau-150x150.png",🔴LIVE 16:00 19/04 | V League 2 | Đồng Nai Bà Rịa Vũng Tàu
 http://pk79.io.vn/cakeo/play.php?id=3mc8yj43rp
@@ -3257,18 +3311,16 @@ http://pk79.io.vn/cakeo/play.php?id=m2gp3th0wy
 http://pk79.io.vn/cakeo/play.php?id=sg3u38nm5a
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fc2de2133e2583327f4031ba609a4323f.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F9ec0b58e31e65de4027cf499df009e77.png",🔴LIVE 16:00 19/04 | Lithuanian Women's A Lyga | FK Transinvest (W) MFA Zalgiris (w)
 http://pk79.io.vn/cakeo/play.php?id=nr6x439p6f
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fvolleyball%2Fteam%2F6f05cbf070540bc6001be4b16e9aa5be.png&m2=https%3A%2F%2Fimg.thesports.com%2Fvolleyball%2Fteam%2F6e272d1f4c1eaf9719f7bf7e84b9f0e6.png",⭐Tâm điểm⭐ 🔴LIVE 16:05 19/04 | Bóng chuyền nam Nhật Bản | JTEKT FC Tokyo
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fvolleyball%2Fteam%2F6f05cbf070540bc6001be4b16e9aa5be.png&m2=https%3A%2F%2Fimg.thesports.com%2Fvolleyball%2Fteam%2F6e272d1f4c1eaf9719f7bf7e84b9f0e6.png",🔴LIVE 16:05 19/04 | Bóng chuyền nam Nhật Bản | JTEKT FC Tokyo
 http://pk79.io.vn/cakeo/play.php?id=en4yawzdff
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F8467022e5f2d8204773bddb6cb7d8182.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fa2f47271892fb491ffab880158419ca0.png",🔴LIVE 16:05 19/04 | Australia New South Wales Premier League | St George Saints Sydney United 58 FC
 http://pk79.io.vn/cakeo/play.php?id=defhxc78m0
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fbasketball%2Fteam%2F2f50bb1376a9bac9e8f23f0d0a0cfc6b.png&m2=https%3A%2F%2Fimg.thesports.com%2Fbasketball%2Fteam%2Fd8df78ff3d3b135144b73fa48dc888fe.png",🔴LIVE 16:05 19/04 | Bóng rổ Nhật Bản | Ryukyu Golden Kings Nagasaki Velca
-http://pk79.io.vn/cakeo/play.php?id=r01t80ajo0
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fbasketball%2Fteam%2F4c8413136eb5016607ee093a802f90c3.png&m2=https%3A%2F%2Fimg.thesports.com%2Fbasketball%2Fteam%2F582d7f08840a43e28c42fb66b6c52f28.png",🔴LIVE 16:05 19/04 | Bóng rổ Nhật Bản | Saga Ballooners Shimane Susanoo Magic
 http://pk79.io.vn/cakeo/play.php?id=usf5x99aii
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fbasketball%2Fteam%2F2f50bb1376a9bac9e8f23f0d0a0cfc6b.png&m2=https%3A%2F%2Fimg.thesports.com%2Fbasketball%2Fteam%2Fd8df78ff3d3b135144b73fa48dc888fe.png",🔴LIVE 16:05 19/04 | Bóng rổ Nhật Bản | Ryukyu Golden Kings Nagasaki Velca
+http://pk79.io.vn/cakeo/play.php?id=r01t80ajo0
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F58d14099f30e9fb625a32d63f6a7b415.png&m2=",🔴LIVE 16:15 19/04 | Ukrainian Second League | Skala 1911 Stryi Polissya Zhytomyr B
 http://pk79.io.vn/cakeo/play.php?id=6d12kny2kv
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fa240c65934961f7987a445090fab254c.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fa55325fe91fa89cd7d3a888eb223adac.png",🔴LIVE 16:20 19/04 | Ukrainian Youth Team Championship | Kryvbas U21 Zorya U21
-http://pk79.io.vn/cakeo/play.php?id=g01c2qpaoj
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F2c821a2c4ccdf633fc75d547061cde90.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fd6fac4b99f41455d4a2fbfe0a6f88452.png",🔴LIVE 16:30 19/04 | Belarusian Women's Premier League | ABFF U19 (w) Dyussh Polesgu (W)
 http://pk79.io.vn/cakeo/play.php?id=lspmx69rjc
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F522c9a9ca1d3e6801bde6e57ec18eed7.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F89b11766624d0bdaa785880b1bae8b9e.png",🔴LIVE 16:30 19/04 | Ukrainian First League | Podillya Khmelnytskyi Kremin Kremenchuk
@@ -3277,30 +3329,50 @@ http://pk79.io.vn/cakeo/play.php?id=sp8gy9a6l6
 http://pk79.io.vn/cakeo/play.php?id=xf3a9jfgp5
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Faa46424fa1a452a4b1af49fd3be10edb.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F36806061ca70613f4c30f1211ee0b1ba.png",⭐Tâm điểm⭐ 🔴LIVE 16:35 19/04 | Australia A-League | Western Sydney Melbourne City
 http://pk79.io.vn/cakeo/play.php?id=kxuro7s4gg
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F99ba7fc8678d8ee40ab1c56443f4b1a3.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F068ef4ec1ac9dfb4215a1f6a00ba00ee.png",🔴LIVE 16:45 19/04 | Ukrainian Second League | FC Chernigiv Niva Vinica
-http://pk79.io.vn/cakeo/play.php?id=2q1kl80p99
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F1696f2f8d0a760268154a795175339fd.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fd9219d899c9853d59099e49c79b41d7b.jpg",🔴LIVE 16:45 19/04 | Poland Women's Ekstraliga | GKS Katowice (w) APLG Gdansk (w)
 http://pk79.io.vn/cakeo/play.php?id=sf1k22kuc6
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fad010af729c420626d1865ad744168d3.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fe750a92457bf5d3049657531c6950257.png",⭐Tâm điểm⭐ 🔴LIVE 17:00 19/04 | K League 1 | Football Club Seoul Gwangju Football Club
 http://pk79.io.vn/cakeo/play.php?id=tnywjpsmxs
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F1c0bf62c4b74951819a2f761c3d3b5fe.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F0cdeb1ea76b968c9b9147db96e1c6f6f.png",🔴LIVE 17:00 19/04 | Kazakhstan Premier League | Ulytau Zhezkazgan Okzhetpes
+http://pk79.io.vn/cakeo/play.php?id=li1es9l1z6
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F88b325c7e8e287c96ca15785fe63a017.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fa15c9cd540d929e1f2800948605a4ff3.png",🔴LIVE 17:00 19/04 | Spain Primera División Femenina | Granada CF(w) Valencia FCF (w)
+http://pk79.io.vn/cakeo/play.php?id=d9odau02qq
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fd25afc5d9cb706216ce7c3594298f9fa.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F6f929c51eebd65e08dc4442488618bbf.png",🔴LIVE 17:00 19/04 | Ukrainian Premier League | FC Karpaty Lviv Rukh Vynnyky
+http://pk79.io.vn/cakeo/play.php?id=mexjd1iko1
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F148f2318c90dc6d79e4ffe491a0d6620.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F3c4144192e2493299f0c13baa6a1fafa.png",🔴LIVE 17:00 19/04 | Ukrainian First League | Nyva Ternopil FK Yarud Mariupol
+http://pk79.io.vn/cakeo/play.php?id=4e02ow1vr4
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F9fb2699dc5facf320268de49efe23d86.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fbddfd7f80411ca2d4092b74e981d5835.png",🔴LIVE 17:00 19/04 | Russian Women's Premier League | Lokomotiv Moscow (w) Rubin Kazan (w)
+http://pk79.io.vn/cakeo/play.php?id=t4200iiaqc
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F096a24150e021839bf9319755cfbca23.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F0b55d0ce23d74b1498f5a944abdff09c.png",🔴LIVE 17:00 19/04 | Ukrainian Youth Team Championship | Veres Rivne U21 Chernomorets Odessa U21
+http://pk79.io.vn/cakeo/play.php?id=8ylfvg01wh
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fc009d759e6bbfbbf59f1fd87d06cfd4f.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fbe84edd17fd580398436358e297c60e7.png",🔴LIVE 17:00 19/04 | Liga Portugal 2 | Penafiel Feirense
+http://pk79.io.vn/cakeo/play.php?id=tey23f723s
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Ffd0a1eb5412b376639accdecddf6a510.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fe15b5bb34819676aa9c33c5bbcfd0611.png",🔴LIVE 17:00 19/04 | Austrian Frauen Bundesliga | Dornbirn (W) Neulengbach (w)
+http://pk79.io.vn/cakeo/play.php?id=avnfnvkclc
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F66a25bb6cfc9a26807a1fa30fcb0caf5.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fcafbf5b9dae7681bde5b5ea9ecc03198.png",🔴LIVE 17:15 19/04 | Poland Ekstraklasa | Piast Gliwice Korona Kielce
+http://pk79.io.vn/cakeo/play.php?id=17hkga4n7c
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F4c4293e02b06b8c4c0c7744a66ed3860.png",🔴LIVE 17:20 19/04 | Ukrainian Second League | Revera 1908 Rukh Lviv II
+http://pk79.io.vn/cakeo/play.php?id=39blz8b4jt
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F0dca575777aa5916970b07baaa9517d7.png&m2=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F11262b447b60c71a28aced74c97488b4.png",🔴LIVE 17:30 19/04 | WTA500 Stuttgart Open | Ekaterina Alexandrova Jessica Pegula
+http://pk79.io.vn/cakeo/play.php?id=hysk0j71ij
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fvolleyball%2Fteam%2Fb1e6aa0cfd7fe26304285b6cffee3085.png&m2=https%3A%2F%2Fimg.thesports.com%2Fvolleyball%2Fteam%2F05b3e482b2814abe725f24342b16d41b.png",🔴LIVE 17:30 19/04 | Bóng chuyền nữ Ba Lan | Bielsko-Biala Women Budowlani Lodz Women
+http://pk79.io.vn/cakeo/play.php?id=hc4tqkl89g
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fg7w1r.4shares.live%2Fteams%2Fr%25E1%25BB%2595%2Fpacers.png&m2=https%3A%2F%2Fg7w1r.4shares.live%2Fteams%2Fr%25E1%25BB%2595%2Fbucks.png",00:00 19/04 | NBA | Pacers vs Bucks
 http://pk79.io.vn/cakeo/play.php?id=8o6i2zys97
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fg7w1r.4shares.live%2Fteams%2Fr%25E1%25BB%2595%2Fknicks.png&m2=https%3A%2F%2Fssl.gstatic.com%2Fonebox%2Fmedia%2Fsports%2Flogos%2FqvWE2FgBX0MCqFfciFBDiw_96x96.png",00:00 19/04 | NBA | Knicks vs Pistons
 http://pk79.io.vn/cakeo/play.php?id=fvlqwryann
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F0dca575777aa5916970b07baaa9517d7.png&m2=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F11262b447b60c71a28aced74c97488b4.png",⭐Tâm điểm⭐ 17:30 19/04 | WTA500 Stuttgart Open | Ekaterina Alexandrova vs Jessica Pegula
-http://pk79.io.vn/cakeo/play.php?id=hysk0j71ij
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FSOm1XQAr-fw9MeDYe.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F1052568046c27c694918905cbf403d7c.png",⭐Tâm điểm⭐ 18:00 19/04 | V League | Thanh Hóa vs Viettel
 http://pk79.io.vn/cakeo/play.php?id=vwf9wu1g3j
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimage-eu-na-q2h7.4shares.live%2Fthesports%2Fteam%2FBinhDuong.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F67d250a4f10a0793f49f54bd4c74d77e.png",⭐Tâm điểm⭐ 18:00 19/04 | V League | Bình Dương vs Hà Nội
-http://pk79.io.vn/cakeo/play.php?id=gcyi5y4x8q
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fed068d60c30fc0b40ea1f4e417d59580.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F9d520898f49a46e0a00feef82240cb80.png",⭐Tâm điểm⭐ 18:00 19/04 | Chinese Super League | Shanghai Shenhua FC vs Wuhan Three Towns FC
 http://pk79.io.vn/cakeo/play.php?id=z5qk8fif64
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F20f905fb0975e88482cf157ad9da4874.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F15820ab793d530ee9d101bde619a013f.png",⭐Tâm điểm⭐ 18:00 19/04 | Bundesliga 2 | SV Elversberg vs Fortuna Dusseldorf
 http://pk79.io.vn/cakeo/play.php?id=1w35uwsrb0
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F8bf38e477d945555872642f32648300b.png&m2=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F2da71eac4dfa0820a325a2c619548eb1.png",18:30 19/04 | ATP500 Barcelona Open | Karen Khachanov vs Holger Rune
-http://pk79.io.vn/cakeo/play.php?id=a6l86qltax
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimage-eu-na-q2h7.4shares.live%2Fthesports%2Fteam%2FBinhDuong.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F67d250a4f10a0793f49f54bd4c74d77e.png",⭐Tâm điểm⭐ 18:00 19/04 | V League | Bình Dương vs Hà Nội
+http://pk79.io.vn/cakeo/play.php?id=gcyi5y4x8q
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F59bec17bbb0773687df6306b291438fb.png&m2=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2Fc66bf663ed13a8a01fef6e1ec452f786.png",18:30 19/04 | ATP500 Munich Open | Francisco Cerundolo vs Ben Shelton
 http://pk79.io.vn/cakeo/play.php?id=b60qmwb9yr
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F8bf38e477d945555872642f32648300b.png&m2=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F2da71eac4dfa0820a325a2c619548eb1.png",18:30 19/04 | ATP500 Barcelona Open | Karen Khachanov vs Holger Rune
+http://pk79.io.vn/cakeo/play.php?id=a6l86qltax
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fbasketball%2Fteam%2F559cfc139ec9e214e54b4ddae5d1cba7.png&m2=https%3A%2F%2Fimg.thesports.com%2Fbasketball%2Fteam%2F6c1517eb77ace7e782d74d34e9154710.png",⭐Tâm điểm⭐ 18:35 19/04 | Bóng rổ Trung Quốc | Beijing Konggu vs Beijing Beiqi
 http://pk79.io.vn/cakeo/play.php?id=ed648ghuyy
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F8c01d9b2711db7f4e8d11765afec76c1.png&m2=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F5f10d2e029bdf6ff25acbb58765baa6c.png",18:40 19/04 | WTA500 Stuttgart Open | Jeļena Ostapenko vs Iga Swiatek
@@ -3315,6 +3387,12 @@ http://pk79.io.vn/cakeo/play.php?id=dnh0s2gnv6
 http://pk79.io.vn/cakeo/play.php?id=tql9gm4bdv
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F0b940a65858aa8b75cfbb236e05030b5.png&m2=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F80a22815bd9c41c56b2aa57553046d81.png",20:00 19/04 | WTA250 Rouen Open | Olga Danilovic vs Suzan Lamens
 http://pk79.io.vn/cakeo/play.php?id=tq6u50m77y
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FpEIoHCil-ncNaLxYl.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F4c7e35b5134ebf4d92bdf0e88519e077.png",⭐Tâm điểm⭐ 20:30 19/04 | Bundesliga | 1. FC Heidenheim vs Bayern Munich
+http://pk79.io.vn/cakeo/play.php?id=0g2grbvdjv
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2F02lwXYkl-WvvSE8Dm.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fa285cb29d36e8d0e6fb35def1fbf442c.png",⭐Tâm điểm⭐ 20:30 19/04 | Bundesliga | RB Leipzig vs Holstein Kiel
+http://pk79.io.vn/cakeo/play.php?id=vj3fwsofxz
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F60f1c7788be3148a370dbf59f914abfe.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F9b43a690d5a09f1e319f036821e8e1d3.png",⭐Tâm điểm⭐ 21:00 19/04 | Ngoại hạng Anh | Brentford vs Brighton Hove Albion
+http://pk79.io.vn/cakeo/play.php?id=gf10qe5r4u
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fvolleyball%2Fteam%2F8bd2b70b8ac651aa9578903297948559.png&m2=https%3A%2F%2Fimg.thesports.com%2Fvolleyball%2Fteam%2F93002bbdded4116c8caff7d8e8397782.png",⭐Tâm điểm⭐ 21:00 19/04 | Bóng chuyền nam Nga | Zenit St. Petersburg vs Zenit Kazan
 http://pk79.io.vn/cakeo/play.php?id=83cl1zna0d
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F9b864f2e2a5f3bdec7b5374c080498d6.png&m2=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F26729b5ab038740aa369e56857894c23.png",21:00 19/04 | ATP500 Barcelona Open | Carlos Alcaraz vs Arthur Fils
@@ -3325,6 +3403,8 @@ http://pk79.io.vn/cakeo/play.php?id=7mf28xmjiq
 http://pk79.io.vn/cakeo/play.php?id=we82t03gst
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F02dafb75bfa38f4c3a711fed23dad19b.png&m2=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F91cf23812e9c322f3095477dadbe2b52.png",22:00 19/04 | WTA500 Stuttgart Open | Aryna Sabalenka vs Elise Mertens
 http://pk79.io.vn/cakeo/play.php?id=eqaowiq333
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fvolleyball%2Fteam%2Fc2840c01fce8269555b115c1cf36e6ae.png&m2=https%3A%2F%2Fimg.thesports.com%2Fvolleyball%2Fteam%2F4ffe901e605c675e70cef63ea5191d4f.png",22:30 19/04 | Bóng chuyền nam Ba Lan | Rzeszow vs Kedzierzyn-Kozle
+http://pk79.io.vn/cakeo/play.php?id=6v4ic3txi4
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2Fb1e9a31f168ea64fa99e2be05ace5f19.png&m2=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2Fc2b07f8cc8ec43846a2636202da1bf1f.png",23:30 19/04 | WTA500 Stuttgart Open | Coco Gauff vs Jasmine Paolini
 http://pk79.io.vn/cakeo/play.php?id=nvpsjwphya
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fg7w1r.4shares.live%2Fteams%2Fr%25E1%25BB%2595%2Fpacers.png&m2=https%3A%2F%2Fg7w1r.4shares.live%2Fteams%2Fr%25E1%25BB%2595%2Fbucks.png",⭐Tâm điểm⭐ 00:00 20/04 | NBA | Pacers vs Bucks
@@ -3335,16 +3415,20 @@ http://pk79.io.vn/cakeo/play.php?id=y42pq0w9z5
 http://pk79.io.vn/cakeo/play.php?id=lbs9oths43
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fbasketball%2Fteam%2F624b1a84ff50919f44835640108bdd42.png&m2=https%3A%2F%2Fimg.thesports.com%2Fbasketball%2Fteam%2F64656d413393bbf84730b123a43cb876.png",12:00 20/04 | Bóng rổ Hàn Quốc | Suwon KT Sonicboom vs Daegu KOGAS Pegasus
 http://pk79.io.vn/cakeo/play.php?id=12oqn8wmx0
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fbasketball%2Fteam%2F24080d2818e83e2d82c7a72f02db0ace.png&m2=https%3A%2F%2Fimg.thesports.com%2Fbasketball%2Fteam%2F4e95a228bdd999c079555a3828bca03e.png",12:05 20/04 | Bóng rổ Nhật Bản | Hiroshima Dragonflies vs Osaka Evessa
-http://pk79.io.vn/cakeo/play.php?id=11mxm7dy4o
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fbasketball%2Fteam%2F0a84ca1946994fa91f8c159bf040b54f.png&m2=https%3A%2F%2Fimg.thesports.com%2Fbasketball%2Fteam%2F5701c1bc70a4cd2a8f2fe9f3ffc72904.png",12:05 20/04 | Bóng rổ Nhật Bản | Yokohama B-Corsairs vs Nagoya Diamond Dolphins
 http://pk79.io.vn/cakeo/play.php?id=7y70iez1zr
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fbasketball%2Fteam%2Faa09422ff0a12b45e53cf5ded9477875.png&m2=https%3A%2F%2Fimg.thesports.com%2Fbasketball%2Fteam%2F78966bd85f23715c200e909acd4f2780.png",12:05 20/04 | Bóng rổ Nhật Bản | Levanga Hokkaido vs Chiba Jets
+http://pk79.io.vn/cakeo/play.php?id=nvd8o9kvxd
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fbasketball%2Fteam%2F706def05df715f6e1a0c2e8e3cfcdc33.png&m2=https%3A%2F%2Fimg.thesports.com%2Fbasketball%2Fteam%2F5fd4c2782c645694211128efa12ce7cf.png",12:05 20/04 | Bóng rổ Nhật Bản | Kyoto Hannaryz vs Fighting Eagles Nagoya
 http://pk79.io.vn/cakeo/play.php?id=ty1zwb8ctj
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fbasketball%2Fteam%2F518fcabe90dafc4100d80de02554a004.png&m2=https%3A%2F%2Fimg.thesports.com%2Fbasketball%2Fteam%2F20a59fed8ca763ad64e7b17a79440f3b.png",12:05 20/04 | Bóng rổ Nhật Bản | Akita Northern Happinets vs Utsunomiya Brex
 http://pk79.io.vn/cakeo/play.php?id=rvs7fndmlp
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fbasketball%2Fteam%2Fe9733af4efbd74a471741f187f60a216.png&m2=https%3A%2F%2Fimg.thesports.com%2Fbasketball%2Fteam%2F89b38d35baabff51bf0bee892f9df289.png",12:05 20/04 | Bóng rổ Nhật Bản | Shiga Lakes vs Alvark Tokyo
+http://pk79.io.vn/cakeo/play.php?id=5wy3ui8j37
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fbasketball%2Fteam%2F0edf832bceb2f91200dbb544fc51e60a.png&m2=https%3A%2F%2Fimg.thesports.com%2Fbasketball%2Fteam%2Fe8edc9b94b7fd45ec9de586cacb1df6b.png",12:05 20/04 | Bóng rổ Nhật Bản | Sunrockers Shibuya vs Kawasaki Brave Thunders
 http://pk79.io.vn/cakeo/play.php?id=400e7fzzq7
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fbasketball%2Fteam%2F24080d2818e83e2d82c7a72f02db0ace.png&m2=https%3A%2F%2Fimg.thesports.com%2Fbasketball%2Fteam%2F4e95a228bdd999c079555a3828bca03e.png",12:05 20/04 | Bóng rổ Nhật Bản | Hiroshima Dragonflies vs Osaka Evessa
+http://pk79.io.vn/cakeo/play.php?id=11mxm7dy4o
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=&m2=",18:00 20/04 | WTA500 Stuttgart Open | Wqf1 vs Wqf2
 http://pk79.io.vn/cakeo/play.php?id=1cao7wpghf
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=&m2=",18:00 20/04 | WTA500 Stuttgart Open | Wqf3 vs Wqf4
@@ -3359,6 +3443,8 @@ http://pk79.io.vn/cakeo/play.php?id=fzly4lqjp4
 http://pk79.io.vn/cakeo/play.php?id=hqujg3usir
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=&m2=",18:00 21/04 | WTA500 Stuttgart Open | Wsf1 vs Wsf2
 http://pk79.io.vn/cakeo/play.php?id=n88lm4ku4e
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fvolleyball%2Fteam%2F05b3e482b2814abe725f24342b16d41b.png&m2=https%3A%2F%2Fimg.thesports.com%2Fvolleyball%2Fteam%2Fb1e6aa0cfd7fe26304285b6cffee3085.png",22:30 22/04 | Bóng chuyền nữ Ba Lan | Budowlani Lodz Women vs Bielsko-Biala Women
+http://pk79.io.vn/cakeo/play.php?id=o0kwqcncaj
 #EXTM3U
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F5452.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3270.png",(Nhà đài) 🔴 19/04-16:00 | Italian Campionato Primavera 1 | Lecce U20 vs Fiorentina U20
 http://pk79.io.vn/vachvoi/play.php?id=lecce-u20-vs-fiorentina-u20-19-04-2025-italian-campionato-primavera-1-l213508&type=nhadai
@@ -3609,3 +3695,5 @@ http://khaitv.giize.com:8080/tv360/playvip.php?id=169
 http://khaitv.giize.com:8080/tv360/playvip.php?id=368
 #EXTINF:-1 group-title="⭐ Sự kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/04/17/15/1744877091874/693d0ed85420_640_360.jpg", 20/04 18:00 | SÔNG LAM NGHỆ AN VS QUẢNG NAM
 http://khaitv.giize.com:8080/tv360/playvip.php?id=367
+#EXTINF:-1 group-title="⭐ Sự kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/10/22/16/1634893218113/fc915179ef69_640_360.jpg", 19/04 18:00 | Xổ Số Miền Bắc
+http://khaitv.giize.com:8080/tv360/playvip.php?id=346
