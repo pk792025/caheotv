@@ -467,7 +467,7 @@ http://bentre5.hoangai.vn:8082/sctv/get.php?id=sctv8
 http://bentre5.hoangai.vn:12345/192.168.2.41:100/stream?url=https://zenlive.onsports.vn/onplus/SCTV9/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10
 #EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/SCTV9.jpg", SCTV9 HD SV2
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3 
-https://sctv.locket.website/sctv.m3u8?channel=sctv9
+http://113.173.246.213:44444/udp/232.84.3.27:11890
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/SCTV10.jpg", SCTV10
 http://bentre5.hoangai.vn:8082/sctv/get.php?id=sctv10
 #EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/SCTV11.jpg", SCTV11 HD
@@ -484,7 +484,7 @@ http://bentre5.hoangai.vn:1234/stream/sctv/sctv15/master.m3u8?u=atat1996&p=fbf55
 
 #EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/SCTV16.jpg", SCTV16 HD
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3 
-https://sctv.locket.website/sctv.m3u8?channel=sctv16
+http://113.173.246.213:44444/udp/232.84.3.21:11926
 #EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/SCTV17.jpg", SCTV17 HD
 http://bentre5.hoangai.vn:1234/stream/sctv/sctv17/master.m3u8?u=atat1996&p=fbf555dd835e1c2de5842f148e9b8c20555a316e90b63ef0947791beb24ed843
 
@@ -1218,7 +1218,7 @@ https://ckcdn.livestreameuro.live/live/bipsd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/biphd1.flv
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Hạng Nhì Quốc Gia Việt Nam",22/04 15h00 PVF Vietnam VS Hoai Duc (CH) Nhà đài
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Hạng Nhì Quốc Gia Việt Nam",22/04 15h00 PVF Vietnam VS Hoai Duc (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://qtcdn.livestreameuro.live/live/m102qt/playlist.m3u8
@@ -2509,7 +2509,7 @@ http://pk79.io.vn/laykinhtv/play.php?id=oklzKUTb
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=vyGBuaHt
 #EXTM3U
-#PLAYLIST: Bún Chả TV - Cập nhật ngày 22/04/2025 15:00
+#PLAYLIST: Bún Chả TV - Cập nhật ngày 22/04/2025 15:15
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20170428113807.jpg?win007=sell",🔴 22/04-14:00 | Chinese Football Association Jia League | Yanbian Longding vs Dalian Kun City
 http://pk79.io.vn/buncha/play.php?id=600007197&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20170428113807.jpg?win007=sell",🔴 22/04-14:30 | Chinese Football Association Jia League | ShaanXi Union vs Nanjing City
@@ -2544,6 +2544,8 @@ http://pk79.io.vn/buncha/play.php?id=600011607&type=1
 http://pk79.io.vn/buncha/play.php?id=600007365&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200416074521.jpg?win007=sell",22/04-17:00 | Portugal U23 | Academico Viseu U23 vs Farense U23
 http://pk79.io.vn/buncha/play.php?id=600007337&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",22/04-17:15 | Australia Queensland Premier League 2 | North Star vs Grange Thistle SC
+http://pk79.io.vn/buncha/play.php?id=386970729&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="",22/04-17:30 | QLD Division 1 | Broadbeach United vs Capalaba Bulldogs
 http://pk79.io.vn/buncha/play.php?id=600009465&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20170428113807.jpg?win007=sell",22/04-18:00 | Chinese Football Association Jia League | Liaoning Tieren vs Shenzhen Youth
@@ -2612,8 +2614,6 @@ http://pk79.io.vn/buncha/play.php?id=600009591&type=1
 http://pk79.io.vn/buncha/play.php?id=600011628&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20140123150010.jpg?win007=sell",23/04-00:30 | Turkey Cup | Konyaspor vs Galatasaray
 http://pk79.io.vn/buncha/play.php?id=600007449&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn.kqbd.mobi//Image/league_match/images/20200420174208.jpg?win007=sell",23/04-01:30 | Austrian Bundesliga | SK Austria Klagenfurt vs LASK Linz
-http://pk79.io.vn/buncha/play.php?id=600009703&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/4bb50b9bd9ddc103686037fc5e3c7a09.png",23/04-06:30 | NBA | Oklahoma City Thunder vs Memphis Grizzlies
 http://pk79.io.vn/buncha/play.php?id=600056325&type=20
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/4bb50b9bd9ddc103686037fc5e3c7a09.png",23/04-09:00 | NBA | Los Angeles Lakers vs Minnesota Timberwolves
@@ -2641,23 +2641,23 @@ http://pk79.io.vn/buncha/play.php?id=600056381&type=36
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/fdad32ccf5205e78f9f39db42d073998.svg",24/04-18:00 | LPL | JDG vs Anyone's Legend
 http://pk79.io.vn/buncha/play.php?id=600056388&type=36
 # Tổng số trận đấu: 65
-# Tạo tự động lúc 22/04/2025 15:00:16
+# Tạo tự động lúc 22/04/2025 15:15:12
 #EXTM3U x-tvg-url="http://pk79.x10.mx/bongda/vebo.php" refresh="3600"
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/4882cc6cf460ceca9f2e45402e673433.png" tvg-chno="nRlIwrJ" catchup="default" catchup-source="?playbackstart={utc}",22/04-16:00 | Australia A-League | Brisbane Roar VS Adelaide United (Updated: 2025-04-22 04:00:05)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/4882cc6cf460ceca9f2e45402e673433.png" tvg-chno="nRlIwrJ" catchup="default" catchup-source="?playbackstart={utc}",22/04-16:00 | Australia A-League | Brisbane Roar VS Adelaide United (Updated: 2025-04-22 04:20:05)
 http://pk79.io.vn/vebo/play.php?id=nRlIwrJ
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/66f314c41d4ac724515a03da0e70847e.png" tvg-chno="qLulrYR" catchup="default" catchup-source="?playbackstart={utc}",22/04-19:15 | Vietnam National Cup | Hải Phòng VS Công An Hà Nội (Updated: 2025-04-22 04:00:05)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/66f314c41d4ac724515a03da0e70847e.png" tvg-chno="qLulrYR" catchup="default" catchup-source="?playbackstart={utc}",22/04-19:15 | Vietnam National Cup | Hải Phòng VS Công An Hà Nội (Updated: 2025-04-22 04:20:05)
 http://pk79.io.vn/vebo/play.php?id=qLulrYR
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/63ca729248267615f4b039277e8e92b4.png" tvg-chno="U8eyYTO" catchup="default" catchup-source="?playbackstart={utc}",22/04-20:55 | UAE Pro League | Al-Sharjah VS Ajman (Updated: 2025-04-22 04:00:05)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/63ca729248267615f4b039277e8e92b4.png" tvg-chno="U8eyYTO" catchup="default" catchup-source="?playbackstart={utc}",22/04-20:55 | UAE Pro League | Al-Sharjah VS Ajman (Updated: 2025-04-22 04:20:05)
 http://pk79.io.vn/vebo/play.php?id=U8eyYTO
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/0124371202f367fee37ca99379bac362.png" tvg-chno="RRufwg3" catchup="default" catchup-source="?playbackstart={utc}",22/04-21:00 | Jordan Premier League | Al Hussein Irbid VS Ramtha Club (Updated: 2025-04-22 04:00:05)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/0124371202f367fee37ca99379bac362.png" tvg-chno="RRufwg3" catchup="default" catchup-source="?playbackstart={utc}",22/04-21:00 | Jordan Premier League | Al Hussein Irbid VS Ramtha Club (Updated: 2025-04-22 04:20:05)
 http://pk79.io.vn/vebo/play.php?id=RRufwg3
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/0124371202f367fee37ca99379bac362.png" tvg-chno="q0hmpNQ" catchup="default" catchup-source="?playbackstart={utc}",22/04-21:00 | Jordan Premier League | Al Wehda VS Moghayer Al Sarhan (Updated: 2025-04-22 04:00:05)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/0124371202f367fee37ca99379bac362.png" tvg-chno="q0hmpNQ" catchup="default" catchup-source="?playbackstart={utc}",22/04-21:00 | Jordan Premier League | Al Wehda VS Moghayer Al Sarhan (Updated: 2025-04-22 04:20:05)
 http://pk79.io.vn/vebo/play.php?id=q0hmpNQ
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/8eaa58b38bd530dbd09409dd201bae3c.png" tvg-chno="npxWORf" catchup="default" catchup-source="?playbackstart={utc}",22/04-23:00 | Bulgarian Cup | CSKA Sofia VS Cherno More Varna (Updated: 2025-04-22 04:00:05)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/8eaa58b38bd530dbd09409dd201bae3c.png" tvg-chno="npxWORf" catchup="default" catchup-source="?playbackstart={utc}",22/04-23:00 | Bulgarian Cup | CSKA Sofia VS Cherno More Varna (Updated: 2025-04-22 04:20:05)
 http://pk79.io.vn/vebo/play.php?id=npxWORf
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png" tvg-chno="WJ7X1Vu" catchup="default" catchup-source="?playbackstart={utc}",22/04-23:05 | Saudi Professional League | Dhamk VS Al Nassr (Updated: 2025-04-22 04:00:05)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png" tvg-chno="WJ7X1Vu" catchup="default" catchup-source="?playbackstart={utc}",22/04-23:05 | Saudi Professional League | Dhamk VS Al Nassr (Updated: 2025-04-22 04:20:05)
 http://pk79.io.vn/vebo/play.php?id=WJ7X1Vu
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png" tvg-chno="qGZHnVy" catchup="default" catchup-source="?playbackstart={utc}",22/04-23:20 | Saudi Professional League | Al Wehda Mecca VS Al Ahli (Updated: 2025-04-22 04:00:05)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png" tvg-chno="qGZHnVy" catchup="default" catchup-source="?playbackstart={utc}",22/04-23:20 | Saudi Professional League | Al Wehda Mecca VS Al Ahli (Updated: 2025-04-22 04:20:05)
 http://pk79.io.vn/vebo/play.php?id=qGZHnVy
 #EXTM3U
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F1gybmvxc4a2t.png%3Fwin007%3Dsell&m2=", 🔴 22/04-14:00 | Yanbian Longding vs Dalian Kun City | BLV SÀI TIẾN
@@ -2837,7 +2837,7 @@ http://khaitv.giize.com:8080/luongson/play.php?id=772815fd-386b-4dbc-a446-87ad10
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F476%2F1hdajkkb221n.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165095607959.png%3Fwin007%3Dsell", 23/04-02:45 | Rio Ave vs Sporting CP | BLV NGÔ DỤNG
 http://khaitv.giize.com:8080/luongson/play.php?id=396264726
 #EXTINF:-1 group-title="gavang" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.rapid-api.icu%2Fvolleyball%2Fteam%2F31d97100650cf37834321247a0c3fe80%2Fimage%2Fsmall&m2=https%3A%2F%2Fimg.rapid-api.icu%2Fvolleyball%2Fteam%2Fc2851eda9723d9849603521cef0e5362%2Fimage%2Fsmall", 22/04-15:00 | AVC Champions League Women | PLDT High Speed Hitters - Nakhon Ratchasima Women
-http://khaitv.giize.com:8080/thapcam/proxy.php?url=&referer=https://tructiep1.gavang4.uk/
+http://khaitv.giize.com:8080/thapcam/proxy.php?url=https%3A%2F%2Flive.rapid-api.icu%2Flive%2F256d76caa56bbef110cd34dd4c7e08e9%2Fplaylist.m3u8&referer=https://tructiep1.gavang4.uk/
 #EXTINF:-1 group-title="gavang" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F19dd9f52649ba4c38c86621fce6a7f38%2Fimage%2Fsmall&m2=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F48420c69bf30c3148d7d39f04d7aeb94%2Fimage%2Fsmall", 22/04-16:00 | Australia A-League | Brisbane Roar - Adelaide United
 http://khaitv.giize.com:8080/thapcam/proxy.php?url=&referer=https://tructiep1.gavang4.uk/
 #EXTINF:-1 group-title="gavang" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fee3a91b59a63152ea965957cd660ab4b%2Fimage%2Fsmall&m2=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff727fc6838bdbf3d493cf02390e3a7ad%2Fimage%2Fsmall", 22/04-18:00 | Chinese League One | Shanghai Jiading Huilong - Qingdao Red Lions
@@ -2985,6 +2985,8 @@ http://pk79.io.vn/vachvoi/play.php?id=yanbian-longding-vs-dalian-huayi-22-04-202
 http://pk79.io.vn/vachvoi/play.php?id=binzhou-huilong-vs-nanjing-city-22-04-2025-chinese-league-one-l214650
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F12315.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F9967.png",(Nhà đài) 🔴 22/04-14:30 | Chinese League One | Binzhou Huilong vs Nanjing City
 http://pk79.io.vn/vachvoi/play.php?id=binzhou-huilong-vs-nanjing-city-22-04-2025-chinese-league-one-l214650&type=nhadai
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="https://vnrunning.net/static/images/teams/13770.png",(Nhà đài) 🔴 22/04-15:00 | 	Vietnam National Second Class League | PVF Vietnam vs Hoai Duc
+http://pk79.io.vn/vachvoi/play.php?id=pvf-vietnam-vs-hoai-duc-22-04-2025-	vietnam-national-second-class-league-l214969&type=nhadai
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3851.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3402.png",[BLV:🗣 Sùng A Súp] 22/04-16:00 | Australia A-League | Brisbane Roar vs Adelaide United
 http://pk79.io.vn/vachvoi/play.php?id=brisbane-roar-vs-adelaide-united-22-04-2025-australia-a-league-l214619
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3851.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3402.png",(Nhà đài) 22/04-16:00 | Australia A-League | Brisbane Roar vs Adelaide United
