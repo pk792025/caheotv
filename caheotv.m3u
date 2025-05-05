@@ -44,24 +44,23 @@ http://bentre5.hoangai.vn:1234/stream/sctv/sctv22/master.m3u8?u=atat1996&p=fbf55
 
 
 #EXTINF:0 group-title="🔴|C1 CHÂU ÂU" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189720461/dc4ee8910c25_640_360.png",C1 CHÂU ÂU
-http://bentre5.hoangai.vn:8080/live/tv360/location.php?id1=220&id2=198
+http://bentre5.hoangai.vn:8080/live/tv360/playvip.php?id=198
 #EXTINF:0 group-title="🔴|C1 CHÂU ÂU" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189794311/c4d18ecff9f7_640_360.png",C1 CHÂU ÂU
-http://bentre5.hoangai.vn:8080/live/tv360/location.php?id1=220&id2=199
+http://bentre5.hoangai.vn:8080/live/tv360/playvip.php?id=199
 #EXTINF:0 group-title="🔴|C1 CHÂU ÂU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/TV360%2B3.png",C1 CHÂU ÂU
-http://bentre5.hoangai.vn:8080/live/tv360/location.php?id1=220&id2=200
+http://bentre5.hoangai.vn:8080/live/tv360/playvip.php?id=200
 #EXTINF:0 group-title="🔴|C1 CHÂU ÂU" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/5db9e5a7d0fd_640_360.png",C1 CHÂU ÂU
-http://bentre5.hoangai.vn:8080/live/tv360/location.php?id1=220&id2=201
+http://bentre5.hoangai.vn:8080/live/tv360/playvip.php?id=201
 #EXTINF:0 group-title="🔴|C1 CHÂU ÂU" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189978632/51f31c767a91_640_360.png",C1 CHÂU ÂU
-http://bentre5.hoangai.vn:8080/live/tv360/location.php?id1=2&id2=367
+http://bentre5.hoangai.vn:8080/live/tv360/playvip.php?id=367
 #EXTINF:0 group-title="🔴|C1 CHÂU ÂU" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/22/1727190010448/7463a4b5c14d_640_360.png",C1 CHÂU ÂU
-http://bentre5.hoangai.vn:8080/live/tv360/location.php?id1=2&id2=368
+http://bentre5.hoangai.vn:8080/live/tv360/playvip.php?id=368
 #EXTINF:0 group-title="🔴|C1 CHÂU ÂU" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/22/1727190077791/4922144877f1_640_360.png",C1 CHÂU ÂU
-http://bentre5.hoangai.vn:8080/live/tv360/location.php?id1=2&id2=369
+http://bentre5.hoangai.vn:8080/live/tv360/playvip.php?id=369
 #EXTINF:0 group-title="🔴|C1 CHÂU ÂU" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/22/172719012995/8df54b2f7576_640_360.png",C1 CHÂU ÂU
-http://bentre5.hoangai.vn:8080/live/tv360/location.php?id1=2&id2=370
+http://bentre5.hoangai.vn:8080/live/tv360/playvip.php?id=370
 #EXTINF:0 group-title="🔴|C1 CHÂU ÂU" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png",C1 CHÂU ÂU
-http://bentre5.hoangai.vn:8080/live/tv360/location.php?id1=2&id2=379
-
+http://bentre5.hoangai.vn:8080/live/tv360/playvip.php?id=379
 
 #EXTINF:-1 tvg-id="TVB Vietnam" group-title="SCTV" group-logo="https://sctvonline.vn/static/media/smaller-sctv-logo.4dd61dad2436b9a72f90.png" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg",TVB Vietnam 
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
@@ -1714,18 +1713,24 @@ http://pk79.io.vn/laykinhtv/play.php?id=98AxLeTr
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/09444e4eb2bee58fa8773c8f47267fcb.png", 05/05 21:15 | Qatar Prince Cup | Al Duhail VS Al-Sailiya 🔴
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=K9MV28vD
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/484e577e79960be6becc45ab3dd12ae3.png", 05/05 19:30 | Hạng 2 Romania | FK Csikszereda Miercurea Ciuc VS Metaloglobus
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-http://pk79.io.vn/laykinhtv/play.php?id=n8FsLDZN
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/275fbebeca574500a79c9ad931e49d37.png", 05/05 21:30 | VĐQG Romania | UTA Arad VS Petrolul Ploiesti
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/275fbebeca574500a79c9ad931e49d37.png", 05/05 21:30 | VĐQG Romania | UTA Arad VS Petrolul Ploiesti 🔴
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=cgEZcvU3
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/1def107dcf08c88a806947d8cf531683.png", 05/05 21:35 | VĐQG Kuwait | Kazma VS Khaitan
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/1def107dcf08c88a806947d8cf531683.png", 05/05 21:35 | VĐQG Kuwait | Kazma VS Khaitan 🔴
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=d3kFHgvd
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/06cac69d009fb39c1ed570e5f91effb5.png", 05/05 22:00 | English FA Women's Super League | Brighton H.A. (w) VS Arsenal (w)
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=p2hGusZL
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/14c0fe418966f38de7fb573148830ed6.png", 05/05 22:00 | Hạng 2 Serbian  | Mladost Novi Sad VS Borac Cacak
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+http://pk79.io.vn/laykinhtv/play.php?id=AfIaNYiX
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/14c0fe418966f38de7fb573148830ed6.png", 05/05 22:00 | Hạng 2 Serbian  | FK Radnicki Sremska Mitrovica VS FK Dubocica
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+http://pk79.io.vn/laykinhtv/play.php?id=5z5sz6dV
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/14c0fe418966f38de7fb573148830ed6.png", 05/05 22:00 | Hạng 2 Serbian  | Semendrija 1924 VS Zemun
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+http://pk79.io.vn/laykinhtv/play.php?id=lbL4PNAU
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/37a57bd4441b06ee2f59c99f4a96fbf5.png", 05/05 22:00 | VĐQG Hy Lạp | Panserraikos VS Volos NPS
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=xFVJVF1S
@@ -1738,6 +1743,9 @@ http://pk79.io.vn/laykinhtv/play.php?id=xdvDY86i
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/d4d461679eedfed50374d47d84431ef3.png", 05/05 22:30 | Ngoại hạng Nga | Krylya Sovetov VS Dynamo Moscow
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=3nqSPv9n
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/89f869f2ec7f8e424d5b0abadc7778e4.png", 05/05 22:30 | Hạng 2 Bulgaria | Pirin Blagoevgrad VS Yantra Gabrovo
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+http://pk79.io.vn/laykinhtv/play.php?id=beK6yARF
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/0afd31572983ae94a84d5dbded51d8f8.png", 05/05 23:10 | Hạng Nhất Ả Rập Xê Út | Al-Batin VS Al-Adalah
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=3gPcrJ0Q
@@ -2391,7 +2399,7 @@ http://khaitv.giize.com:8080/thapcam/proxy.php?url=&referer=https://tructiep1.ga
 #EXTINF:-1 group-title="gavang" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc74ccd65f9db2dc43253446029ed2d08%2Fimage%2Fsmall&m2=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5643e74a9b9659b332d5a4fbbd72d4a3%2Fimage%2Fsmall", 06/05-10:00 | Women Empowerment League | JEF United Ichihara Chiba Ladies - RB Omiya Ardija Ventus
 http://khaitv.giize.com:8080/thapcam/proxy.php?url=&referer=https://tructiep1.gavang4.uk/
 #EXTM3U
-# Cập nhật lúc: 2025-05-05 10:25:06
+# Cập nhật lúc: 2025-05-05 10:50:08
 #EXTM3U
 #EXTINF:-1 group-title="highlight" tvg-logo="https://g7w1r.4shares.live/news/cap45.jpg",Fullmatch  Chelsea vs Liverpool | BLV Cáp Tần | 4.5.25
 http://pk79.io.vn/xemlai/play.php?id=9b329OC
