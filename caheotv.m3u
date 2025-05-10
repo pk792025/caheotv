@@ -3,7 +3,7 @@
 #EXTINF:0 group-title="🔴|NGOẠI HẠNG ANH" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png",NGOẠI HẠNG ANH
 http://113.177.113.147:4022/udp/232.84.1.98:8562
 #EXTINF:0 group-title="🔴|NGOẠI HẠNG ANH" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png",NGOẠI HẠNG ANH
-http://bentre5.hoangai.vn:3333/get_media_link?path=https://tvmienphi.org/live-tv/xem-kenh-k-pm-truc-tuyen.html&extension=token=&n=1&request=1&location=yes
+http://113.177.113.147:4022/udp/232.84.1.98:8562
 #EXTINF:0 group-title="🔴|NGOẠI HẠNG ANH" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png",NGOẠI HẠNG ANH
 http://bentre5.hoangai.vn:3333/get_media_link?path=https://tvmienphi.org/live-tv/xem-kenh-k-sport-1-k-pm-truc-tuyen.html&extension=token=&n=1&request=1&location=yes
 #EXTINF:0 group-title="🔴|NGOẠI HẠNG ANH" tvg-logo="https://imgvlive.vtvcab.vn/720X405/f53c0d1b-0268-4d1e-b150-7d797354b925.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", NGOẠI HẠNG ANH
@@ -720,7 +720,7 @@ http://bentre5.hoangai.vn:1234/stream/sctv/kcine/master.m3u8?u=atat1996&p=fbf555
 #EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/01/03/16/1704275031605/a72d5eab8255_640_360.png", K+ACTION HD
 http://bentre5.hoangai.vn:1234/stream/sctv/kaction/master.m3u8?u=atat1996&p=fbf555dd835e1c2de5842f148e9b8c20555a316e90b63ef0947791beb24ed843
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png", K+SPORT1 HD
-http://bentre5.hoangai.vn:3333/get_media_link?path=https://tvmienphi.org/live-tv/xem-kenh-k-pm-truc-tuyen.html&extension=token=&n=1&request=1&location=yes
+http://113.177.113.147:4022/udp/232.84.1.98:8562
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/01/14/1677655028546/6226fc34a55f_640_360.png", K+SPORT2 HD
 http://bentre5.hoangai.vn:3333/get_media_link?path=https://tvmienphi.org/live-tv/xem-kenh-k-sport-1-k-pm-truc-tuyen.html&extension=token=&n=1&request=1&location=yes
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2022/10/22/18/1666437081424/cbd3f3af84ba_640_360.png", K+KIDS HD
@@ -733,9 +733,9 @@ http://bentre5.hoangai.vn:12345/192.168.2.41:100/stream?url=https://zenlive.onsp
 #EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/01/03/16/1704275031605/a72d5eab8255_640_360.png", K+ACTION SD
 http://bentre5.hoangai.vn:12345/192.168.2.41:100/stream?url=https://zenlive.onsports.vn/onplus/K_LIFE_7777/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png", K+SPORT1 SD
-http://bentre5.hoangai.vn:3333/get_media_link?path=https://tvmienphi.org/live-tv/xem-kenh-k-pm-truc-tuyen.html&extension=token=&n=1&request=1&location=yes
+http://113.177.113.147:4022/udp/232.84.1.98:8562
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png", K+SPORT1 tvmp (phát khi có trận)
-http://bentre5.hoangai.vn:3333/get_media_link?path=https://tvmienphi.org/live-tv/xem-kenh-k-sport-1-k-pm-truc-tuyen.html&extension=token=&n=1&request=1&location=yes
+http://113.177.113.147:4022/udp/232.84.1.98:8562
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png", K+SPORT1 sv2 tvmp (phát khi có trận)
 http://113.177.113.147:4022/udp/232.84.1.98:8562
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png", K+SPORT2  tvmp (phát khi có trận)
@@ -1843,9 +1843,6 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
 #EXTM3U
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/d09477b5ca8fcc88dc8d7d5249d08983.png", 10/05 19:00 | AFC Challenge League | Svay Rieng FC VS Arkadag FK 🔴
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-http://pk79.io.vn/laykinhtv/play.php?id=odZHRjBe
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/57f3b41deeb08e04495378ed52ab4fdf.png", 10/05 19:30 | VĐQG Hungary | Puskas Akademia FC VS Debreceni VSC 🔴
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=iKlJyBUe
@@ -1882,40 +1879,40 @@ http://pk79.io.vn/laykinhtv/play.php?id=YWUg1vVY
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png", 10/05 20:30 | Bundesliga | SV Werder Bremen VS RB Leipzig 🔴
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=jAx8MU8B
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/d4d461679eedfed50374d47d84431ef3.png", 10/05 21:00 | Ngoại hạng Nga | FK Makhachkala VS Zenit St. Petersburg
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-http://pk79.io.vn/laykinhtv/play.php?id=dJmzx7ni
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png", 10/05 21:00 | Ngoại Hạng Anh | Fulham VS Everton
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-http://pk79.io.vn/laykinhtv/play.php?id=fjjapJiL
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png", 10/05 21:00 | Ngoại Hạng Anh | Ipswich Town VS Brentford
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-http://pk79.io.vn/laykinhtv/play.php?id=F9pYwcsw
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png", 10/05 21:00 | Ngoại Hạng Anh | Southampton VS Manchester City
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png", 10/05 21:00 | Ngoại Hạng Anh | Southampton VS Manchester City 🔴
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=9Pcc1US3
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png", 10/05 21:00 | Ngoại Hạng Anh | Wolverhampton Wanderers VS Brighton Hove Albion
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png", 10/05 21:00 | Ngoại Hạng Anh | Fulham VS Everton 🔴
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+http://pk79.io.vn/laykinhtv/play.php?id=fjjapJiL
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png", 10/05 21:00 | Ngoại Hạng Anh | Wolverhampton Wanderers VS Brighton Hove Albion 🔴
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=Lw51Q2Pi
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/66b24b09759356277ac913d6f2589f26.png", 10/05 21:00 | VĐQG Bỉ | Beerschot Wilrijk VS Cercle Brugge
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/d4d461679eedfed50374d47d84431ef3.png", 10/05 21:00 | Ngoại hạng Nga | FK Makhachkala VS Zenit St. Petersburg 🔴
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+http://pk79.io.vn/laykinhtv/play.php?id=dJmzx7ni
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png", 10/05 21:00 | Ngoại Hạng Anh | Ipswich Town VS Brentford 🔴
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+http://pk79.io.vn/laykinhtv/play.php?id=F9pYwcsw
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/66b24b09759356277ac913d6f2589f26.png", 10/05 21:00 | VĐQG Bỉ | Beerschot Wilrijk VS Cercle Brugge 🔴
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=KtaMf5Ug
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/66b24b09759356277ac913d6f2589f26.png", 10/05 21:00 | VĐQG Bỉ | KV Kortrijk VS Sint-Truidense
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/66b24b09759356277ac913d6f2589f26.png", 10/05 21:00 | VĐQG Bỉ | KV Kortrijk VS Sint-Truidense 🔴
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=RZoovfM4
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/37a57bd4441b06ee2f59c99f4a96fbf5.png", 10/05 21:00 | VĐQG Hy Lạp | Lamia VS Panserraikos
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/37a57bd4441b06ee2f59c99f4a96fbf5.png", 10/05 21:00 | VĐQG Hy Lạp | Lamia VS Panserraikos 🔴
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=zBQpplmT
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/37a57bd4441b06ee2f59c99f4a96fbf5.png", 10/05 21:00 | VĐQG Hy Lạp | Levadiakos VS Kallithea
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/37a57bd4441b06ee2f59c99f4a96fbf5.png", 10/05 21:00 | VĐQG Hy Lạp | Levadiakos VS Kallithea 🔴
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=fNUjNkan
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/e8d38514cbb040848b373ab571a0f11c.png", 10/05 21:15 | Hạng Nhì Tây Ban Nha | Sporting Gijon VS Deportivo La Coruna
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/e8d38514cbb040848b373ab571a0f11c.png", 10/05 21:15 | Hạng Nhì Tây Ban Nha | Sporting Gijon VS Deportivo La Coruna 🔴
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=pmBfvqbt
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/e8d38514cbb040848b373ab571a0f11c.png", 10/05 21:15 | Hạng Nhì Tây Ban Nha | Mirandes VS Castellon
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/e8d38514cbb040848b373ab571a0f11c.png", 10/05 21:15 | Hạng Nhì Tây Ban Nha | Mirandes VS Castellon 🔴
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=F1YKuVft
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/5e1b2629744b07c53f6d6c032475078a.png", 10/05 21:15 | Spanish La Liga | RC Celta VS Sevilla FC
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/5e1b2629744b07c53f6d6c032475078a.png", 10/05 21:15 | Spanish La Liga | RC Celta VS Sevilla FC 🔴
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=WRSLuvD9
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/4e9bbe69138e2dce52b250649b110435.png", 10/05 21:30 | Ngoại hạng Armenia | Shirak VS Alashkert
@@ -1936,6 +1933,9 @@ http://pk79.io.vn/laykinhtv/play.php?id=3wDUPhDI
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png", 10/05 21:30 | VĐQG Bulgaria | Spartak Varna VS Beroe Stara Zagora
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=0LMxBpYc
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/5edae2b7b8f5eef8c1a6ee1b46118eae.png", 10/05 22:00 | Ngoại hạng Ukraina | Rukh Vynnyky VS Veres
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+http://pk79.io.vn/laykinhtv/play.php?id=Xoy98Gy3
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/a6f523ef6d46d0f9d374502f24f21f32.png", 10/05 22:00 | Austrian Bundesliga | Rheindorf Altach VS Grazer AK
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=H6ZjKn9c
@@ -2746,43 +2746,41 @@ http://pk79.io.vn/buncha/play.php?id=599996216&type=36
 # Tổng số trận đấu: 80
 # Tạo tự động lúc 10/05/2025 21:15:10
 #EXTM3U x-tvg-url="http://pk79.x10.mx/bongda/vebo.php" refresh="3600"
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" tvg-chno="CQql65H" catchup="default" catchup-source="?playbackstart={utc}",🔴 10/05-19:00 | La Liga | Valencia VS Getafe (Updated: 2025-05-10 09:40:06)
-http://pk79.io.vn/vebo/play.php?id=CQql65H
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/d09477b5ca8fcc88dc8d7d5249d08983.png" tvg-chno="bqTmROU" catchup="default" catchup-source="?playbackstart={utc}",🔴 10/05-19:00 | AFC Challenge League | Svay Rieng FC VS Arkadag FK (Updated: 2025-05-10 09:40:06)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/d09477b5ca8fcc88dc8d7d5249d08983.png" tvg-chno="bqTmROU" catchup="default" catchup-source="?playbackstart={utc}",🔴 10/05-19:00 | AFC Challenge League | Svay Rieng FC VS Arkadag FK (Updated: 2025-05-10 10:20:03)
 http://pk79.io.vn/vebo/play.php?id=bqTmROU
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" tvg-chno="qJW8Z8s" catchup="default" catchup-source="?playbackstart={utc}",🔴 10/05-20:00 | Serie A | Como VS Cagliari (Updated: 2025-05-10 09:40:06)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" tvg-chno="qJW8Z8s" catchup="default" catchup-source="?playbackstart={utc}",🔴 10/05-20:00 | Serie A | Como VS Cagliari (Updated: 2025-05-10 10:20:03)
 http://pk79.io.vn/vebo/play.php?id=qJW8Z8s
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" tvg-chno="EKJIG1W" catchup="default" catchup-source="?playbackstart={utc}",🔴 10/05-20:30 | Bundesliga | VfL Bochum VS FSV Mainz 05 (Updated: 2025-05-10 09:40:06)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" tvg-chno="EKJIG1W" catchup="default" catchup-source="?playbackstart={utc}",🔴 10/05-20:30 | Bundesliga | VfL Bochum VS FSV Mainz 05 (Updated: 2025-05-10 10:20:03)
 http://pk79.io.vn/vebo/play.php?id=EKJIG1W
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" tvg-chno="zm6SUTO" catchup="default" catchup-source="?playbackstart={utc}",🔴 10/05-20:30 | Bundesliga | Holstein Kiel VS SC Freiburg (Updated: 2025-05-10 09:40:06)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" tvg-chno="zm6SUTO" catchup="default" catchup-source="?playbackstart={utc}",🔴 10/05-20:30 | Bundesliga | Holstein Kiel VS SC Freiburg (Updated: 2025-05-10 10:20:03)
 http://pk79.io.vn/vebo/play.php?id=zm6SUTO
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" tvg-chno="2MUqiDA" catchup="default" catchup-source="?playbackstart={utc}",🔴 10/05-20:30 | Bundesliga | Werder Bremen VS RB Leipzig (Updated: 2025-05-10 09:40:06)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" tvg-chno="2MUqiDA" catchup="default" catchup-source="?playbackstart={utc}",🔴 10/05-20:30 | Bundesliga | Werder Bremen VS RB Leipzig (Updated: 2025-05-10 10:20:03)
 http://pk79.io.vn/vebo/play.php?id=2MUqiDA
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" tvg-chno="KqUNv3H" catchup="default" catchup-source="?playbackstart={utc}",10/05-21:00 | Ngoại hạng Anh | Fulham VS Everton (Updated: 2025-05-10 09:40:06)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" tvg-chno="KqUNv3H" catchup="default" catchup-source="?playbackstart={utc}",🔴 10/05-21:00 | Ngoại hạng Anh | Fulham VS Everton (Updated: 2025-05-10 10:20:03)
 http://pk79.io.vn/vebo/play.php?id=KqUNv3H
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" tvg-chno="Qjqxssp" catchup="default" catchup-source="?playbackstart={utc}",10/05-21:00 | Ngoại hạng Anh | Ipswich Town VS Brentford (Updated: 2025-05-10 09:40:06)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" tvg-chno="Qjqxssp" catchup="default" catchup-source="?playbackstart={utc}",🔴 10/05-21:00 | Ngoại hạng Anh | Ipswich Town VS Brentford (Updated: 2025-05-10 10:20:03)
 http://pk79.io.vn/vebo/play.php?id=Qjqxssp
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" tvg-chno="kmPr2qB" catchup="default" catchup-source="?playbackstart={utc}",10/05-21:00 | Ngoại hạng Anh | Southampton VS Manchester City (Updated: 2025-05-10 09:40:06)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" tvg-chno="kmPr2qB" catchup="default" catchup-source="?playbackstart={utc}",🔴 10/05-21:00 | Ngoại hạng Anh | Southampton VS Manchester City (Updated: 2025-05-10 10:20:03)
 http://pk79.io.vn/vebo/play.php?id=kmPr2qB
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" tvg-chno="1ZIqsvV" catchup="default" catchup-source="?playbackstart={utc}",10/05-21:00 | Ngoại hạng Anh | Wolves VS Brighton Hove Albion (Updated: 2025-05-10 09:40:06)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" tvg-chno="1ZIqsvV" catchup="default" catchup-source="?playbackstart={utc}",🔴 10/05-21:00 | Ngoại hạng Anh | Wolves VS Brighton Hove Albion (Updated: 2025-05-10 10:20:03)
 http://pk79.io.vn/vebo/play.php?id=1ZIqsvV
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" tvg-chno="RxjZFEd" catchup="default" catchup-source="?playbackstart={utc}",10/05-21:15 | La Liga | Celta Vigo VS Sevilla (Updated: 2025-05-10 09:40:06)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" tvg-chno="RxjZFEd" catchup="default" catchup-source="?playbackstart={utc}",🔴 10/05-21:15 | La Liga | Celta Vigo VS Sevilla (Updated: 2025-05-10 10:20:03)
 http://pk79.io.vn/vebo/play.php?id=RxjZFEd
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" tvg-chno="tjRsZe6" catchup="default" catchup-source="?playbackstart={utc}",10/05-23:00 | Serie A | Lazio VS Juventus (Updated: 2025-05-10 09:40:06)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" tvg-chno="tjRsZe6" catchup="default" catchup-source="?playbackstart={utc}",10/05-23:00 | Serie A | Lazio VS Juventus (Updated: 2025-05-10 10:20:03)
 http://pk79.io.vn/vebo/play.php?id=tjRsZe6
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/732e87cac85fccf702f3ce0516c7d93f.png" tvg-chno="JIpSBKM" catchup="default" catchup-source="?playbackstart={utc}",10/05-23:00 | Turkey Super League | Trabzonspor VS Galatasaray (Updated: 2025-05-10 09:40:06)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/732e87cac85fccf702f3ce0516c7d93f.png" tvg-chno="JIpSBKM" catchup="default" catchup-source="?playbackstart={utc}",10/05-23:00 | Turkey Super League | Trabzonspor VS Galatasaray (Updated: 2025-05-10 10:20:03)
 http://pk79.io.vn/vebo/play.php?id=JIpSBKM
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" tvg-chno="spgrKFV" catchup="default" catchup-source="?playbackstart={utc}",10/05-23:30 | Ngoại hạng Anh | AFC Bournemouth VS Aston Villa (Updated: 2025-05-10 09:40:06)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" tvg-chno="spgrKFV" catchup="default" catchup-source="?playbackstart={utc}",10/05-23:30 | Ngoại hạng Anh | AFC Bournemouth VS Aston Villa (Updated: 2025-05-10 10:20:03)
 http://pk79.io.vn/vebo/play.php?id=spgrKFV
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" tvg-chno="qiyUdQk" catchup="default" catchup-source="?playbackstart={utc}",10/05-23:30 | La Liga | Girona VS Villarreal (Updated: 2025-05-10 09:40:06)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" tvg-chno="qiyUdQk" catchup="default" catchup-source="?playbackstart={utc}",10/05-23:30 | La Liga | Girona VS Villarreal (Updated: 2025-05-10 10:20:03)
 http://pk79.io.vn/vebo/play.php?id=qiyUdQk
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" tvg-chno="YqZnsJs" catchup="default" catchup-source="?playbackstart={utc}",10/05-23:30 | La Liga | Mallorca VS Real Valladolid (Updated: 2025-05-10 09:40:06)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" tvg-chno="YqZnsJs" catchup="default" catchup-source="?playbackstart={utc}",10/05-23:30 | La Liga | Mallorca VS Real Valladolid (Updated: 2025-05-10 10:20:03)
 http://pk79.io.vn/vebo/play.php?id=YqZnsJs
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" tvg-chno="YCWd77A" catchup="default" catchup-source="?playbackstart={utc}",10/05-23:30 | Bundesliga | Bayern Munchen VS Borussia Monchengladbach (Updated: 2025-05-10 09:40:06)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" tvg-chno="YCWd77A" catchup="default" catchup-source="?playbackstart={utc}",10/05-23:30 | Bundesliga | Bayern Munchen VS Borussia Monchengladbach (Updated: 2025-05-10 10:20:03)
 http://pk79.io.vn/vebo/play.php?id=YCWd77A
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" tvg-chno="ivOQ8or" catchup="default" catchup-source="?playbackstart={utc}",10/05-23:30 | Ngoại hạng Anh | AFC Bournemouth VS Aston Villa (Updated: 2025-05-10 09:40:06)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" tvg-chno="ivOQ8or" catchup="default" catchup-source="?playbackstart={utc}",10/05-23:30 | Ngoại hạng Anh | AFC Bournemouth VS Aston Villa (Updated: 2025-05-10 10:20:03)
 http://pk79.io.vn/vebo/play.php?id=ivOQ8or
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" tvg-chno="XO77tvr" catchup="default" catchup-source="?playbackstart={utc}",10/05-23:30 | Bundesliga | Bayern Munchen VS Borussia Monchengladbach (Updated: 2025-05-10 09:40:06)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" tvg-chno="XO77tvr" catchup="default" catchup-source="?playbackstart={utc}",10/05-23:30 | Bundesliga | Bayern Munchen VS Borussia Monchengladbach (Updated: 2025-05-10 10:20:03)
 http://pk79.io.vn/vebo/play.php?id=XO77tvr
 #EXTM3U
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F1397%2F1gq91tkggc2h.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164869052873.png%3Fwin007%3Dsell", 🔴 10/05-20:00 | Como vs Cagliari | BLV SAITAMA
@@ -3205,8 +3203,6 @@ http://khaitv.giize.com:8080/luongson/play.php?id=fb259108-610b-4935-880a-39819e
 http://khaitv.giize.com:8080/luongson/play.php?id=7cd2b0fc-0324-4ab8-95a3-c4e21d81c032
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165095598511.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165095597156.png%3Fwin007%3Dsell", 12/05-02:30 | Boavista FC vs FC Porto | BLV KHỔNG MINH
 http://khaitv.giize.com:8080/luongson/play.php?id=384911621
-#EXTINF:-1 group-title="gavang" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2518b4b9b25f90b201107ff25eb1ea7e%2Fimage%2Fsmall&m2=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F999ffb706bef5386c0317e67337a66e3%2Fimage%2Fsmall", 10/05-19:00 | AFC Challenge League | Svay Rieng FC - Arkadag FK
-http://khaitv.giize.com:8080/thapcam/proxy.php?url=https%3A%2F%2Flive.rapid-api.icu%2Flive%2Fd6b686bd4a325eec8fd7e015bd9ce441%2Fplaylist.m3u8&referer=https://tructiep1.gavang4.uk/
 #EXTINF:-1 group-title="gavang" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc12831052dca8197687f1d7a4b2cba4e%2Fimage%2Fsmall&m2=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe0d16fc0782130a019c166d9da1cc04a%2Fimage%2Fsmall", 10/05-20:30 | Bundesliga | SV Werder Bremen - RB Leipzig
 http://khaitv.giize.com:8080/thapcam/proxy.php?url=https%3A%2F%2Flive.rapid-api.icu%2Flive%2Fb5d5d2827699ce2f239ca9eb994c900e%2Fplaylist.m3u8&referer=https://tructiep1.gavang4.uk/
 #EXTINF:-1 group-title="gavang" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F433a7157b6371c6d174ee6e2d934f3ce%2Fimage%2Fsmall&m2=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F86abe39672d03dc20cc60d9c0c963edb%2Fimage%2Fsmall", 10/05-21:00 | English Premier League | Fulham - Everton
@@ -3223,9 +3219,18 @@ http://khaitv.giize.com:8080/thapcam/proxy.php?url=https%3A%2F%2Flive.rapid-api.
 http://khaitv.giize.com:8080/thapcam/proxy.php?url=https%3A%2F%2Flive.rapid-api.icu%2Flive%2F8cc0561f2c98841b31b16e412d870a6e%2Fplaylist.m3u8&referer=https://tructiep1.gavang4.uk/
 #EXTINF:-1 group-title="gavang" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F11cb134e32330cfea63c72e23a1cc477%2Fimage%2Fsmall&m2=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Faa0c2342e0410de7b59bb09252b94211%2Fimage%2Fsmall", 10/05-23:30 | English Premier League | Bournemouth AFC - Aston Villa
 http://khaitv.giize.com:8080/thapcam/proxy.php?url=https%3A%2F%2Flive.rapid-api.icu%2Flive%2F01bf026a23542627519eb05e97b7e830%2Fplaylist.m3u8&referer=https://tructiep1.gavang4.uk/
+#EXTINF:-1 group-title="gavang" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Feb25dc6db17aca6169a920592e366536%2Fimage%2Fsmall&m2=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb2b9dbf40b290dd09d5abbbcb64686a3%2Fimage%2Fsmall", 10/05-23:30 | Bundesliga | FC Bayern Munich - Borussia Monchengladbach
+http://khaitv.giize.com:8080/thapcam/proxy.php?url=https%3A%2F%2Flive.rapid-api.icu%2Flive%2Fb910b87c10d41cbc45894e2fe592ad83%2Fplaylist.m3u8&referer=https://tructiep1.gavang4.uk/
 #EXTM3U
-# Cập nhật lúc: 2025-05-10 10:00:05
-# Error: Could not retrieve data.
+# Cập nhật lúc: 2025-05-10 10:25:06
+#EXTINF:-1 group-title="OnPLus Live 🔴" tvg-logo="https://imgvlive.vtvcab.vn/720X405/d03ec90b-a3ff-405b-9e15-5f0defc07052.jpg", 🔴 10/05-12:30 | LCP Split 2 LoL
+http://bentre5.hoangai.vn:8082/onplus/play2.php?id=onsport7
+#EXTINF:-1 group-title="OnPLus Live 🔴" tvg-logo="https://imgvlive.vtvcab.vn/720X405/ae4fd9cc-e634-4d06-931e-14b841fdfecf.jpg", 🔴 10/05-13:00 | VMC Queens Open 2025
+http://bentre5.hoangai.vn:8082/onplus/play2.php?id=onsport9
+#EXTINF:-1 group-title="OnPLus Live 🔴" tvg-logo="https://imgvlive.vtvcab.vn/720X405/dbf305ff-d8ed-4cd3-972b-fdbda97d93ad.jpg", 🔴 10/05-16:00 | Biên Phòng MB vs Hà Nội
+http://bentre5.hoangai.vn:8082/onplus/play2.php?id=onsport4
+#EXTINF:-1 group-title="OnPLus Live 🔴" tvg-logo="https://imgvlive.vtvcab.vn/720X405/a6ec3c4e-6ceb-4ce4-8430-29b87c5f945e.jpg", 10/05-22:00 | Myrtle Beach Classic
+http://bentre5.hoangai.vn:8082/onplus/play2.php?id=onsport1
 #EXTM3U
 #EXTINF:-1 group-title="highlight" tvg-logo="https://g7w1r.4shares.live/news/be95.jpg",Fullmatch  Fiorentina vs Real Betis | BLV Bánh Cuốn | 9.5.25
 http://pk79.io.vn/xemlai/play.php?id=ATX13Xh
@@ -3435,32 +3440,18 @@ http://pk79.io.vn/cakeo/play.php?id=xg12k537jx
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F7b769be4f1495af22e0f310a77176ba2.png&m2=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F51719c96ea521bcc7fb6dd2057d6dc6a.png",15:00 11/05 | ATP1000 Rome Open | Jack Draper vs Vit Kopriva
 http://pk79.io.vn/cakeo/play.php?id=pcyeks5kde
 #EXTM3U
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F754.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4075.png",[BLV:🗣 Sùng A Chày] 🔴 10/05-19:00 | La Liga | Valencia vs Getafe
-http://pk79.io.vn/vachvoi/play.php?id=valencia-vs-getafe-10-05-2025-la-liga-l219078
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F754.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4075.png",(Nhà đài) 🔴 10/05-19:00 | La Liga | Valencia vs Getafe
-http://pk79.io.vn/vachvoi/play.php?id=valencia-vs-getafe-10-05-2025-la-liga-l219078&type=nhadai
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F17118.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F17117.png",(Nhà đài) 🔴 10/05-19:00 | Armenian Division 2 | Nikarm vs Andranik
 http://pk79.io.vn/vachvoi/play.php?id=nikarm-vs-andranik-10-05-2025-armenian-division-2-l212686&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F6852.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F6854.webp",(Nhà đài) 🔴 10/05-19:00 | German Bundesliga 5 | SpVgg Weiden vs TSV Abtswind
-http://pk79.io.vn/vachvoi/play.php?id=spvgg-weiden-vs-tsv-abtswind-10-05-2025-german-bundesliga-5-l219922&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F8932.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F17514.jpeg",(Nhà đài) 🔴 10/05-19:00 | German Bundesliga 5 | Union Neumunster vs VfR Neumunster
-http://pk79.io.vn/vachvoi/play.php?id=union-neumunster-vs-vfr-neumunster-10-05-2025-german-bundesliga-5-l219923&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F6620.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F6639.png",(Nhà đài) 🔴 10/05-19:00 | Norwegian 3.Divisjon | Loddefjord vs Bjarg
-http://pk79.io.vn/vachvoi/play.php?id=loddefjord-vs-bjarg-10-05-2025-norwegian-3.divisjon-l219930&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4608.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4347.png",(Nhà đài) 🔴 10/05-19:00 | German Regionalliga | SpVgg Hankofen-Hailing vs SpVgg Bayreuth
-http://pk79.io.vn/vachvoi/play.php?id=spvgg-hankofen-hailing-vs-spvgg-bayreuth-10-05-2025-german-regionalliga-l219931&type=nhadai
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3363.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3359.webp",(Nhà đài) 🔴 10/05-19:00 | German Regionalliga | Wurzburger Kickers vs Greuther Furth (Youth)
 http://pk79.io.vn/vachvoi/play.php?id=wurzburger-kickers-vs-greuther-furth-(youth)-10-05-2025-german-regionalliga-l219934&type=nhadai
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3362.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4604.png",(Nhà đài) 10/05-19:00 | German Regionalliga | SpVgg Ansbach vs Wacker Burghausen
 http://pk79.io.vn/vachvoi/play.php?id=spvgg-ansbach-vs-wacker-burghausen-10-05-2025-german-regionalliga-l219928&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3619.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F5594.png",(Nhà đài) 🔴 10/05-19:30 | Austrian 2.Liga | Kapfenberg vs SV Stripfing Weiden
-http://pk79.io.vn/vachvoi/play.php?id=kapfenberg-vs-sv-stripfing-weiden-10-05-2025-austrian-2.liga-l219084&type=nhadai
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F6489.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F6485.webp",(Nhà đài) 🔴 10/05-19:30 | Ukrainian Premier League | Obolon Kiev vs LNZ Lebedyn
 http://pk79.io.vn/vachvoi/play.php?id=obolon-kiev-vs-lnz-lebedyn-10-05-2025-ukrainian-premier-league-l219085&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F884.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F469.png",(Nhà đài) 🔴 10/05-19:30 | OTP Bank Liga | Videoton Puskas Akademia vs Debrecin VSC
-http://pk79.io.vn/vachvoi/play.php?id=videoton-puskas-akademia-vs-debrecin-vsc-10-05-2025-otp-bank-liga-l219088&type=nhadai
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F438.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F6698.jpeg",(Nhà đài) 🔴 10/05-19:30 | Poland Liga 1 | Stal Rzeszow vs Polonia Warszawa
 http://pk79.io.vn/vachvoi/play.php?id=stal-rzeszow-vs-polonia-warszawa-10-05-2025-poland-liga-1-l219241&type=nhadai
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F9616.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F10060.png",(Nhà đài) 🔴 10/05-19:30 | Malawi Premier League | Moyale Barracks vs Blue Eagles
+http://pk79.io.vn/vachvoi/play.php?id=moyale-barracks-vs-blue-eagles-10-05-2025-malawi-premier-league-l219935&type=nhadai
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F9617.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F12550.png",(Nhà đài) 🔴 10/05-19:30 | Malawi Premier League | Karonga United vs Mighty Tigers
 http://pk79.io.vn/vachvoi/play.php?id=karonga-united-vs-mighty-tigers-10-05-2025-malawi-premier-league-l219936&type=nhadai
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F58.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F370.png",(Nhà đài) 🔴 10/05-19:45 | Poland Ekstraklasa | Radomiak Radom vs Pogon Szczecin
@@ -3469,22 +3460,16 @@ http://pk79.io.vn/vachvoi/play.php?id=radomiak-radom-vs-pogon-szczecin-10-05-202
 http://pk79.io.vn/vachvoi/play.php?id=revera-1908-vs-fc-vilkhivtsi-10-05-2025-ukrainian-second-league-l219937&type=nhadai
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4551.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4625.png",(Nhà đài) 🔴 10/05-20:00 | Serie A | Como vs Cagliari
 http://pk79.io.vn/vachvoi/play.php?id=como-vs-cagliari-10-05-2025-serie-a-l219109&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F6491.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F79.png",(Nhà đài) 🔴 10/05-20:00 | Ukrainian First League | FC Bukovyna chernivtsi vs Metalist 1925 Kharkiv
-http://pk79.io.vn/vachvoi/play.php?id=fc-bukovyna-chernivtsi-vs-metalist-1925-kharkiv-10-05-2025-ukrainian-first-league-l219066&type=nhadai
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F858.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F857.png",(Nhà đài) 🔴 10/05-20:00 | Lithuanian A Lyga  | FK Panevezys vs Hegelmann Litauen
 http://pk79.io.vn/vachvoi/play.php?id=fk-panevezys-vs-hegelmann-litauen-10-05-2025-lithuanian-a-lyga--l219069&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F5140.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4350.png",(Nhà đài) 🔴 10/05-20:00 | Uzbekistan Super League | Kuruvchi Kokand Qoqon vs OTMK Olmaliq
-http://pk79.io.vn/vachvoi/play.php?id=kuruvchi-kokand-qoqon-vs-otmk-olmaliq-10-05-2025-uzbekistan-super-league-l219091&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3981.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3463.png",(Nhà đài) 🔴 10/05-20:00 | Azerbaijan Premier Liqa | Sabail FC vs Zira FK
-http://pk79.io.vn/vachvoi/play.php?id=sabail-fc-vs-zira-fk-10-05-2025-azerbaijan-premier-liqa-l219093&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3965.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F379.png",(Nhà đài) 🔴 10/05-20:00 | Sweden Allsvenskan | Brommapojkarna vs Halmstads
-http://pk79.io.vn/vachvoi/play.php?id=brommapojkarna-vs-halmstads-10-05-2025-sweden-allsvenskan-l219094&type=nhadai
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F72.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4602.png",(Nhà đài) 🔴 10/05-20:00 | Danish 1st Division | Kolding FC vs Esbjerg
 http://pk79.io.vn/vachvoi/play.php?id=kolding-fc-vs-esbjerg-10-05-2025-danish-1st-division-l219095&type=nhadai
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F6178.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F404.png",(Nhà đài) 🔴 10/05-20:00 | Russian National Football League | Chernomorets Novorossiysk vs Baltika Kaliningrad
 http://pk79.io.vn/vachvoi/play.php?id=chernomorets-novorossiysk-vs-baltika-kaliningrad-10-05-2025-russian-national-football-league-l219097&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F5198.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3996.png",(Nhà đài) 🔴 10/05-20:00 | Belarusian First League | FK Lida vs FC Belshina Babruisk
-http://pk79.io.vn/vachvoi/play.php?id=fk-lida-vs-fc-belshina-babruisk-10-05-2025-belarusian-first-league-l219101&type=nhadai
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4594.jpeg&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4546.gif",(Nhà đài) 🔴 10/05-20:00 | Sweden Superettan | GIF Sundsvall vs Vasteras SK FK
+http://pk79.io.vn/vachvoi/play.php?id=gif-sundsvall-vs-vasteras-sk-fk-10-05-2025-sweden-superettan-l219098&type=nhadai
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F6344.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F6345.webp",(Nhà đài) 🔴 10/05-20:00 | Finnish Ykkonen | SalPa vs JaPS
+http://pk79.io.vn/vachvoi/play.php?id=salpa-vs-japs-10-05-2025-finnish-ykkonen-l219099&type=nhadai
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F712.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F5354.png",(Nhà đài) 🔴 10/05-20:00 | Turkey Super League | Eyupspor vs Kasimpasa
 http://pk79.io.vn/vachvoi/play.php?id=eyupspor-vs-kasimpasa-10-05-2025-turkey-super-league-l219104&type=nhadai
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3461.gif&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F705.png",(Nhà đài) 🔴 10/05-20:00 | Sweden Superettan | IK Oddevold vs Orebro
@@ -3497,16 +3482,24 @@ http://pk79.io.vn/vachvoi/play.php?id=nart-cherkessk-vs-fk-rostov-2-10-05-2025-r
 http://pk79.io.vn/vachvoi/play.php?id=barkchi-hisor-vs-ravshan-kulob-10-05-2025-tajikistan-vysshaya-liga-l219115&type=nhadai
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4540.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4053.png",(Nhà đài) 🔴 10/05-20:00 | Slovenia 1.Liga | ASK Bravo Publikum vs Radomlje
 http://pk79.io.vn/vachvoi/play.php?id=ask-bravo-publikum-vs-radomlje-10-05-2025-slovenia-1.liga-l219116&type=nhadai
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F73.gif&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3462.gif",(Nhà đài) 🔴 10/05-20:00 | Sweden Superettan | Utsiktens BK vs Falkenberg
+http://pk79.io.vn/vachvoi/play.php?id=utsiktens-bk-vs-falkenberg-10-05-2025-sweden-superettan-l219118&type=nhadai
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F64.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F479.png",(Nhà đài) 🔴 10/05-20:00 | Turkey Super League | Konyaspor vs Caykur Rizespor
 http://pk79.io.vn/vachvoi/play.php?id=konyaspor-vs-caykur-rizespor-10-05-2025-turkey-super-league-l219119&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="https://vnrunning.net/static/images/teams/7318.jpeg",(Nhà đài) 🔴 10/05-20:00 | Italian Women's Serie A | Fiorentina (w) vs Roma (w)
-http://pk79.io.vn/vachvoi/play.php?id=fiorentina-(w)-vs-roma-(w)-10-05-2025-italian-women's-serie-a-l219120&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3429.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F301.png",(Nhà đài) 🔴 10/05-20:00 | Liga Portugal 2 | Oliveirense vs Maritimo
-http://pk79.io.vn/vachvoi/play.php?id=oliveirense-vs-maritimo-10-05-2025-liga-portugal-2-l219243&type=nhadai
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3715.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F307.png",(Nhà đài) 🔴 10/05-20:00 | Kazakhstan Premier League | FC Turan vs FK Atyrau
+http://pk79.io.vn/vachvoi/play.php?id=fc-turan-vs-fk-atyrau-10-05-2025-kazakhstan-premier-league-l219121&type=nhadai
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4771.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F14306.png",(Nhà đài) 🔴 10/05-20:00 | Norwegian 3.Divisjon | Kristiansund B vs Surnadal
 http://pk79.io.vn/vachvoi/play.php?id=kristiansund-b-vs-surnadal-10-05-2025-norwegian-3.divisjon-l219941&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4711.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F28589.png",(Nhà đài) 🔴 10/05-20:00 | Norwegian 3.Divisjon | Baerum SK vs Gamle Oslo
-http://pk79.io.vn/vachvoi/play.php?id=baerum-sk-vs-gamle-oslo-10-05-2025-norwegian-3.divisjon-l219942&type=nhadai
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F14312.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F6628.jpeg",(Nhà đài) 🔴 10/05-20:00 | Norwegian 3.Divisjon | Fjora vs Fana
+http://pk79.io.vn/vachvoi/play.php?id=fjora-vs-fana-10-05-2025-norwegian-3.divisjon-l219943&type=nhadai
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F14310.gif&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4578.png",(Nhà đài) 🔴 10/05-20:00 | Norwegian 3.Divisjon | Drobak-Frogn IL vs Kvik Halden
+http://pk79.io.vn/vachvoi/play.php?id=drobak-frogn-il-vs-kvik-halden-10-05-2025-norwegian-3.divisjon-l219944&type=nhadai
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F6633.jpeg&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F14318.png",(Nhà đài) 🔴 10/05-20:00 | Norwegian 3.Divisjon | Byasen Toppfot vs Melhus
+http://pk79.io.vn/vachvoi/play.php?id=byasen-toppfot-vs-melhus-10-05-2025-norwegian-3.divisjon-l219945&type=nhadai
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F6617.jpeg&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F6622.gif",(Nhà đài) 🔴 10/05-20:00 | Norwegian 3.Divisjon | Elverum vs Skjetten Fotball
+http://pk79.io.vn/vachvoi/play.php?id=elverum-vs-skjetten-fotball-10-05-2025-norwegian-3.divisjon-l219946&type=nhadai
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="",(Nhà đài) 🔴 10/05-20:00 | Norwegian 3.Divisjon | Hinna vs Vag
+http://pk79.io.vn/vachvoi/play.php?id=hinna-vs-vag-10-05-2025-norwegian-3.divisjon-l219949&type=nhadai
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F6362.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F6364.png",(Nhà đài) 🔴 10/05-20:00 | Austrian Frauen Bundesliga | Sturm Graz/Stattegg (w) vs St. Polten (w)
 http://pk79.io.vn/vachvoi/play.php?id=sturm-graz/stattegg-(w)-vs-st.-polten-(w)-10-05-2025-austrian-frauen-bundesliga-l219950&type=nhadai
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F8664.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F6690.png",(Nhà đài) 🔴 10/05-20:00 | Poland Liga 2 | Pogon Grodzisk Mazowiecki vs Zaglebie Lubin B
@@ -3523,95 +3516,97 @@ http://pk79.io.vn/vachvoi/play.php?id=union-berlin-vs-heidenheim-10-05-2025-bund
 http://pk79.io.vn/vachvoi/play.php?id=lusitania-vs-atletico-clube-purtugal-10-05-2025-portuguese-liga-3-l219952&type=nhadai
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F6642.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F28579.png",(Nhà đài) 🔴 10/05-20:30 | Norwegian 3.Divisjon | IF Floya vs Sortland IL
 http://pk79.io.vn/vachvoi/play.php?id=if-floya-vs-sortland-il-10-05-2025-norwegian-3.divisjon-l220028&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4001.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F752.png",[BLV:🗣 Sùng A Thông] 10/05-21:00 | Ngoại hạng Anh | Fulham vs Everton
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4001.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F752.png",[BLV:🗣 Sùng A Thông] 🔴 10/05-21:00 | Ngoại hạng Anh | Fulham vs Everton
 http://pk79.io.vn/vachvoi/play.php?id=fulham-vs-everton-10-05-2025-ngoai-hang-anh-l219134
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4001.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F752.png",(Nhà đài) 10/05-21:00 | Ngoại hạng Anh | Fulham vs Everton
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4001.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F752.png",(Nhà đài) 🔴 10/05-21:00 | Ngoại hạng Anh | Fulham vs Everton
 http://pk79.io.vn/vachvoi/play.php?id=fulham-vs-everton-10-05-2025-ngoai-hang-anh-l219134&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4005.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F847.png",[BLV:🗣 Sùng A Bí] 10/05-21:00 | Ngoại hạng Anh | Wolves vs Brighton Hove Albion
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4005.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F847.png",[BLV:🗣 Sùng A Bí] 🔴 10/05-21:00 | Ngoại hạng Anh | Wolves vs Brighton Hove Albion
 http://pk79.io.vn/vachvoi/play.php?id=wolves-vs-brighton-hove-albion-10-05-2025-ngoai-hang-anh-l219136
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4005.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F847.png",(Nhà đài) 10/05-21:00 | Ngoại hạng Anh | Wolves vs Brighton Hove Albion
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4005.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F847.png",(Nhà đài) 🔴 10/05-21:00 | Ngoại hạng Anh | Wolves vs Brighton Hove Albion
 http://pk79.io.vn/vachvoi/play.php?id=wolves-vs-brighton-hove-albion-10-05-2025-ngoai-hang-anh-l219136&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3585.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3129.png",[BLV:🗣 Sùng A Lúa] 10/05-21:00 | Ngoại hạng Anh | Ipswich Town vs Brentford
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3585.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3129.png",[BLV:🗣 Sùng A Lúa] 🔴 10/05-21:00 | Ngoại hạng Anh | Ipswich Town vs Brentford
 http://pk79.io.vn/vachvoi/play.php?id=ipswich-town-vs-brentford-10-05-2025-ngoai-hang-anh-l219159
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3585.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3129.png",(Nhà đài) 10/05-21:00 | Ngoại hạng Anh | Ipswich Town vs Brentford
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3585.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3129.png",(Nhà đài) 🔴 10/05-21:00 | Ngoại hạng Anh | Ipswich Town vs Brentford
 http://pk79.io.vn/vachvoi/play.php?id=ipswich-town-vs-brentford-10-05-2025-ngoai-hang-anh-l219159&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F172.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4082.png",[BLV:🗣 Sùng A Cháo] 10/05-21:00 | Ngoại hạng Anh | Southampton vs Manchester City
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F172.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4082.png",[BLV:🗣 Sùng A Cháo] 🔴 10/05-21:00 | Ngoại hạng Anh | Southampton vs Manchester City
 http://pk79.io.vn/vachvoi/play.php?id=southampton-vs-manchester-city-10-05-2025-ngoai-hang-anh-l219164
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F172.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4082.png",(Nhà đài) 10/05-21:00 | Ngoại hạng Anh | Southampton vs Manchester City
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F172.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4082.png",(Nhà đài) 🔴 10/05-21:00 | Ngoại hạng Anh | Southampton vs Manchester City
 http://pk79.io.vn/vachvoi/play.php?id=southampton-vs-manchester-city-10-05-2025-ngoai-hang-anh-l219164&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F6444.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F6446.png",(Nhà đài) 10/05-21:00 | Belarusian First League | FC Baranovichi vs (Niva Dolbizno
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F6444.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F6446.png",(Nhà đài) 🔴 10/05-21:00 | Belarusian First League | FC Baranovichi vs (Niva Dolbizno
 http://pk79.io.vn/vachvoi/play.php?id=fc-baranovichi-vs-(niva-dolbizno-10-05-2025-belarusian-first-league-l219126&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4022.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F2981.png",(Nhà đài) 10/05-21:00 | Greek Super League | Lamia vs Panserraikos
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4022.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F2981.png",(Nhà đài) 🔴 10/05-21:00 | Greek Super League | Lamia vs Panserraikos
 http://pk79.io.vn/vachvoi/play.php?id=lamia-vs-panserraikos-10-05-2025-greek-super-league-l219127&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4000.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F476.png",(Nhà đài) 10/05-21:00 | Belgium Pro League | Kortrijk vs Sint-Truidense
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4000.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F476.png",(Nhà đài) 🔴 10/05-21:00 | Belgium Pro League | Kortrijk vs Sint-Truidense
 http://pk79.io.vn/vachvoi/play.php?id=kortrijk-vs-sint-truidense-10-05-2025-belgium-pro-league-l219128&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F7371.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F6172.png",(Nhà đài) 10/05-21:00 | RUS D3A | FC Murom vs FK Kaluga
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F7371.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F6172.png",(Nhà đài) 🔴 10/05-21:00 | RUS D3A | FC Murom vs FK Kaluga
 http://pk79.io.vn/vachvoi/play.php?id=fc-murom-vs-fk-kaluga-10-05-2025-rus-d3a-l219130&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F78.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F695.png",(Nhà đài) 10/05-21:00 | Sweden Division 1 | Gefle IF vs AFC Eskilstuna
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F78.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F695.png",(Nhà đài) 🔴 10/05-21:00 | Sweden Division 1 | Gefle IF vs AFC Eskilstuna
 http://pk79.io.vn/vachvoi/play.php?id=gefle-if-vs-afc-eskilstuna-10-05-2025-sweden-division-1-l219132&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="https://vnrunning.net/static/images/teams/28550.png",(Nhà đài) 10/05-21:00 | RUS D3B | FK Sochi B vs FK Angusht Nazran
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="https://vnrunning.net/static/images/teams/28550.png",(Nhà đài) 🔴 10/05-21:00 | RUS D3B | FK Sochi B vs FK Angusht Nazran
 http://pk79.io.vn/vachvoi/play.php?id=fk-sochi-b-vs-fk-angusht-nazran-10-05-2025-rus-d3b-l219133&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F6151.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F6173.jpeg",(Nhà đài) 10/05-21:00 | RUS D3B | Metallurg Lipetsk vs Dinamo Briansk
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F6151.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F6173.jpeg",(Nhà đài) 🔴 10/05-21:00 | RUS D3B | Metallurg Lipetsk vs Dinamo Briansk
 http://pk79.io.vn/vachvoi/play.php?id=metallurg-lipetsk-vs-dinamo-briansk-10-05-2025-rus-d3b-l219137&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4352.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F455.png",(Nhà đài) 10/05-21:00 | Uzbekistan Super League | Nasaf Qarshi vs Kuruvchi Bunyodkor
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4352.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F455.png",(Nhà đài) 🔴 10/05-21:00 | Uzbekistan Super League | Nasaf Qarshi vs Kuruvchi Bunyodkor
 http://pk79.io.vn/vachvoi/play.php?id=nasaf-qarshi-vs-kuruvchi-bunyodkor-10-05-2025-uzbekistan-super-league-l219138&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3012.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3017.png",(Nhà đài) 10/05-21:00 | Finland Veikkausliiga | IFK Mariehamn vs Inter Turku
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3012.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3017.png",(Nhà đài) 🔴 10/05-21:00 | Finland Veikkausliiga | IFK Mariehamn vs Inter Turku
 http://pk79.io.vn/vachvoi/play.php?id=ifk-mariehamn-vs-inter-turku-10-05-2025-finland-veikkausliiga-l219139&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3701.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F236.png",(Nhà đài) 10/05-21:00 | Czech First League | MFK Karvina vs Hradec Kralove
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3701.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F236.png",(Nhà đài) 🔴 10/05-21:00 | Czech First League | MFK Karvina vs Hradec Kralove
 http://pk79.io.vn/vachvoi/play.php?id=mfk-karvina-vs-hradec-kralove-10-05-2025-czech-first-league-l219140&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3949.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4859.png",(Nhà đài) 10/05-21:00 | Estonian Esiliiga | FC Nomme United vs Tallinna FC Ararat TTU
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3949.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4859.png",(Nhà đài) 🔴 10/05-21:00 | Estonian Esiliiga | FC Nomme United vs Tallinna FC Ararat TTU
 http://pk79.io.vn/vachvoi/play.php?id=fc-nomme-united-vs-tallinna-fc-ararat-ttu-10-05-2025-estonian-esiliiga-l219142&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4311.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3990.png",(Nhà đài) 10/05-21:00 | Scottish Premiership | Dundee United vs Saint Mirren
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4311.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3990.png",(Nhà đài) 🔴 10/05-21:00 | Scottish Premiership | Dundee United vs Saint Mirren
 http://pk79.io.vn/vachvoi/play.php?id=dundee-united-vs-saint-mirren-10-05-2025-scottish-premiership-l219143&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F6185.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F6157.webp",(Nhà đài) 10/05-21:00 | RUS D3B | Salyut-Energia Belgorod vs Khimki (R)
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F6185.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F6157.webp",(Nhà đài) 🔴 10/05-21:00 | RUS D3B | Salyut-Energia Belgorod vs Khimki (R)
 http://pk79.io.vn/vachvoi/play.php?id=salyut-energia-belgorod-vs-khimki-(r)-10-05-2025-rus-d3b-l219144&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4007.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4013.png",(Nhà đài) 10/05-21:00 | Scottish Premiership | Kilmarnock vs Dundee
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4007.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4013.png",(Nhà đài) 🔴 10/05-21:00 | Scottish Premiership | Kilmarnock vs Dundee
 http://pk79.io.vn/vachvoi/play.php?id=kilmarnock-vs-dundee-10-05-2025-scottish-premiership-l219145&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F12498.jpeg&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F12651.gif",(Nhà đài) 10/05-21:00 | Iceland Premier League | Vestri vs Afturelding
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F12498.jpeg&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F12651.gif",(Nhà đài) 🔴 10/05-21:00 | Iceland Premier League | Vestri vs Afturelding
 http://pk79.io.vn/vachvoi/play.php?id=vestri-vs-afturelding-10-05-2025-iceland-premier-league-l219147&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F403.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4429.png",(Nhà đài) 10/05-21:00 | Russian Premier League | FK Makhachkala vs Zenit St. Petersburg
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F403.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4429.png",(Nhà đài) 🔴 10/05-21:00 | Russian Premier League | FK Makhachkala vs Zenit St. Petersburg
 http://pk79.io.vn/vachvoi/play.php?id=fk-makhachkala-vs-zenit-st.-petersburg-10-05-2025-russian-premier-league-l219148&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F16573.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F16571.png",(Nhà đài) 10/05-21:00 | RUS D3B | FC Sevastopol vs FK Astrakhan
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F16573.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F16571.png",(Nhà đài) 🔴 10/05-21:00 | RUS D3B | FC Sevastopol vs FK Astrakhan
 http://pk79.io.vn/vachvoi/play.php?id=fc-sevastopol-vs-fk-astrakhan-10-05-2025-rus-d3b-l219150&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F187.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F272.png",(Nhà đài) 10/05-21:00 | Kazakhstan Premier League | FC Astana vs Tobol Kostanai
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F187.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F272.png",(Nhà đài) 🔴 10/05-21:00 | Kazakhstan Premier League | FC Astana vs Tobol Kostanai
 http://pk79.io.vn/vachvoi/play.php?id=fc-astana-vs-tobol-kostanai-10-05-2025-kazakhstan-premier-league-l219156&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4081.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4411.png",(Nhà đài) 10/05-21:00 | Estonian Premium Liiga | Tartu JK Maag Tammeka vs Nomme JK Kalju
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4081.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4411.png",(Nhà đài) 🔴 10/05-21:00 | Estonian Premium Liiga | Tartu JK Maag Tammeka vs Nomme JK Kalju
 http://pk79.io.vn/vachvoi/play.php?id=tartu-jk-maag-tammeka-vs-nomme-jk-kalju-10-05-2025-estonian-premium-liiga-l219157&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F225.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4380.png",(Nhà đài) 10/05-21:00 | Czech First League | Baumit Jablonec vs Sigma Olomouc
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F225.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4380.png",(Nhà đài) 🔴 10/05-21:00 | Czech First League | Baumit Jablonec vs Sigma Olomouc
 http://pk79.io.vn/vachvoi/play.php?id=baumit-jablonec-vs-sigma-olomouc-10-05-2025-czech-first-league-l219160&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F473.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4375.png",(Nhà đài) 10/05-21:00 | Belgium Pro League | Beerschot Wilrijk vs Cercle Brugge
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F473.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4375.png",(Nhà đài) 🔴 10/05-21:00 | Belgium Pro League | Beerschot Wilrijk vs Cercle Brugge
 http://pk79.io.vn/vachvoi/play.php?id=beerschot-wilrijk-vs-cercle-brugge-10-05-2025-belgium-pro-league-l219161&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F6166.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F16570.png",(Nhà đài) 10/05-21:00 | RUS D3B | Druzhba Maykop vs Rubin Yalta
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F6166.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F16570.png",(Nhà đài) 🔴 10/05-21:00 | RUS D3B | Druzhba Maykop vs Rubin Yalta
 http://pk79.io.vn/vachvoi/play.php?id=druzhba-maykop-vs-rubin-yalta-10-05-2025-rus-d3b-l219163&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4077.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4533.gif",(Nhà đài) 10/05-21:00 | Greek Super League | Levadiakos vs Kallithea
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4077.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4533.gif",(Nhà đài) 🔴 10/05-21:00 | Greek Super League | Levadiakos vs Kallithea
 http://pk79.io.vn/vachvoi/play.php?id=levadiakos-vs-kallithea-10-05-2025-greek-super-league-l219165&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F25.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4270.png",(Nhà đài) 10/05-21:00 | Czech National Football League | Sigma Olomouc B vs FK MAS Taborsko
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F25.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4270.png",(Nhà đài) 🔴 10/05-21:00 | Czech National Football League | Sigma Olomouc B vs FK MAS Taborsko
 http://pk79.io.vn/vachvoi/play.php?id=sigma-olomouc-b-vs-fk-mas-taborsko-10-05-2025-czech-national-football-league-l219518&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F20456.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F20489.png",(Nhà đài) 10/05-21:00 | Euro U17 Women | Norway (w) U17 vs Austria (w) U17
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F20456.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F20489.png",(Nhà đài) 🔴 10/05-21:00 | Euro U17 Women | Norway (w) U17 vs Austria (w) U17
 http://pk79.io.vn/vachvoi/play.php?id=norway-(w)-u17-vs-austria-(w)-u17-10-05-2025-euro-u17-women-l219953&type=nhadai
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F16313.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F16094.png",(Nhà đài) 🔴 10/05-21:00 | Beach Soccer World Cup | Belarus Beach Soccer vs Senegal Beach Soccer
+http://pk79.io.vn/vachvoi/play.php?id=belarus-beach-soccer-vs-senegal-beach-soccer-10-05-2025-beach-soccer-world-cup-l220030&type=nhadai
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F8676.gif&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F11338.png",(Nhà đài) 🔴 10/05-21:00 | Poland Liga 3 | Swit Nowy Dwor Mazowiecki vs Polonia Lidzbark
+http://pk79.io.vn/vachvoi/play.php?id=swit-nowy-dwor-mazowiecki-vs-polonia-lidzbark-10-05-2025-poland-liga-3-l220039&type=nhadai
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F20459.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F26107.png",(Nhà đài) 10/05-21:00 | Euro U17 Women | Netherlands (w) U17 vs Faroe Islands (w) U17
 http://pk79.io.vn/vachvoi/play.php?id=netherlands-(w)-u17-vs-faroe-islands-(w)-u17-10-05-2025-euro-u17-women-l219954&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F16313.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F16094.png",(Nhà đài) 10/05-21:00 | Beach Soccer World Cup | Belarus Beach Soccer vs Senegal Beach Soccer
-http://pk79.io.vn/vachvoi/play.php?id=belarus-beach-soccer-vs-senegal-beach-soccer-10-05-2025-beach-soccer-world-cup-l220030&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F501.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F8077.png",(Nhà đài) 10/05-21:10 | UAE First Division | Ahli Al-Fujirah vs Masfut
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F501.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F8077.png",(Nhà đài) 🔴 10/05-21:10 | UAE First Division | Ahli Al-Fujirah vs Masfut
 http://pk79.io.vn/vachvoi/play.php?id=ahli-al-fujirah-vs-masfut-10-05-2025-uae-first-division-l219166&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4451.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F19302.png",(Nhà đài) 10/05-21:10 | UAE First Division | Al-Dhafra vs Dubai United
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4451.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F19302.png",(Nhà đài) 🔴 10/05-21:10 | UAE First Division | Al-Dhafra vs Dubai United
 http://pk79.io.vn/vachvoi/play.php?id=al-dhafra-vs-dubai-united-10-05-2025-uae-first-division-l219167&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F2925.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F2926.png",(Nhà đài) 10/05-21:10 | UAE First Division | Al-Hamriyah vs Gulf Heroes FC
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F2925.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F2926.png",(Nhà đài) 🔴 10/05-21:10 | UAE First Division | Al-Hamriyah vs Gulf Heroes FC
 http://pk79.io.vn/vachvoi/play.php?id=al-hamriyah-vs-gulf-heroes-fc-10-05-2025-uae-first-division-l219168&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="https://vnrunning.net/static/images/teams/6876.png",(Nhà đài) 10/05-21:10 | UAE First Division | Gulf United vs Al Arabi(UAE)
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="https://vnrunning.net/static/images/teams/6876.png",(Nhà đài) 🔴 10/05-21:10 | UAE First Division | Gulf United vs Al Arabi(UAE)
 http://pk79.io.vn/vachvoi/play.php?id=gulf-united-vs-al-arabi(uae)-10-05-2025-uae-first-division-l219169&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="https://vnrunning.net/static/images/teams/502.jpeg",(Nhà đài) 10/05-21:10 | UAE First Division | Al-Jazira Al-Hamra vs Al Dahra FC
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="https://vnrunning.net/static/images/teams/502.jpeg",(Nhà đài) 🔴 10/05-21:10 | UAE First Division | Al-Jazira Al-Hamra vs Al Dahra FC
 http://pk79.io.vn/vachvoi/play.php?id=al-jazira-al-hamra-vs-al-dahra-fc-10-05-2025-uae-first-division-l219170&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F499.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F495.png",(Nhà đài) 10/05-21:10 | UAE First Division | Dabba Al-Fujairah vs Hatta
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F499.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F495.png",(Nhà đài) 🔴 10/05-21:10 | UAE First Division | Dabba Al-Fujairah vs Hatta
 http://pk79.io.vn/vachvoi/play.php?id=dabba-al-fujairah-vs-hatta-10-05-2025-uae-first-division-l219171&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F105.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3693.png",[BLV:🗣 Sùng A Chày] 10/05-21:15 | La Liga | Celta Vigo vs Sevilla
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F105.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3693.png",[BLV:🗣 Sùng A Chày] 🔴 10/05-21:15 | La Liga | Celta Vigo vs Sevilla
 http://pk79.io.vn/vachvoi/play.php?id=celta-vigo-vs-sevilla-10-05-2025-la-liga-l219174
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F105.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3693.png",(Nhà đài) 10/05-21:15 | La Liga | Celta Vigo vs Sevilla
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F105.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3693.png",(Nhà đài) 🔴 10/05-21:15 | La Liga | Celta Vigo vs Sevilla
 http://pk79.io.vn/vachvoi/play.php?id=celta-vigo-vs-sevilla-10-05-2025-la-liga-l219174&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F525.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F7099.png",(Nhà đài) 10/05-21:15 | Spanish Segunda Division | Mirandes vs Castellon
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F525.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F7099.png",(Nhà đài) 🔴 10/05-21:15 | Spanish Segunda Division | Mirandes vs Castellon
 http://pk79.io.vn/vachvoi/play.php?id=mirandes-vs-castellon-10-05-2025-spanish-segunda-division-l219172&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F449.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4104.png",(Nhà đài) 10/05-21:15 | Spanish Segunda Division | Sporting Gijon vs Deportivo La Coruna
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F449.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4104.png",(Nhà đài) 🔴 10/05-21:15 | Spanish Segunda Division | Sporting Gijon vs Deportivo La Coruna
 http://pk79.io.vn/vachvoi/play.php?id=sporting-gijon-vs-deportivo-la-coruna-10-05-2025-spanish-segunda-division-l219173&type=nhadai
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F698.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3946.png",(Nhà đài) 10/05-21:30 | German 3.Liga | Ingolstadt vs SV Wehen Wiesbaden
 http://pk79.io.vn/vachvoi/play.php?id=ingolstadt-vs-sv-wehen-wiesbaden-10-05-2025-german-3.liga-l219087&type=nhadai
@@ -3629,112 +3624,8 @@ http://pk79.io.vn/vachvoi/play.php?id=rkc-waalwijk-vs-sc-heerenveen-10-05-2025-v
 http://pk79.io.vn/vachvoi/play.php?id=shirak-vs-alashkert-10-05-2025-armenian-premier-league-l219180&type=nhadai
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4849.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4862.jpeg",(Nhà đài) 10/05-21:30 | Faroe Islands Premier League | TB/FCS/Royn vs Toftir B68
 http://pk79.io.vn/vachvoi/play.php?id=tb/fcs/royn-vs-toftir-b68-10-05-2025-faroe-islands-premier-league-l220031&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4098.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F168.png",(Nhà đài) 10/05-22:00 | Ligue 2 | Paris FC vs Ajaccio
-http://pk79.io.vn/vachvoi/play.php?id=paris-fc-vs-ajaccio-10-05-2025-ligue-2-l219183&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3970.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4103.png",(Nhà đài) 10/05-22:00 | Ligue 2 | Bastia vs Caen
-http://pk79.io.vn/vachvoi/play.php?id=bastia-vs-caen-10-05-2025-ligue-2-l219185&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4035.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3956.png",(Nhà đài) 10/05-22:00 | Austrian Bundesliga | Rheindorf Altach vs Grazer AK
-http://pk79.io.vn/vachvoi/play.php?id=rheindorf-altach-vs-grazer-ak-10-05-2025-austrian-bundesliga-l219186&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F291.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4308.png",(Nhà đài) 10/05-22:00 | Russian National Football League | Neftekhimik Nizhnekamsk vs FK Sochi
-http://pk79.io.vn/vachvoi/play.php?id=neftekhimik-nizhnekamsk-vs-fk-sochi-10-05-2025-russian-national-football-league-l219188&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3643.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3641.png",(Nhà đài) 10/05-22:00 | Ligue 2 | Red Star FC 93 vs USL Dunkerque
-http://pk79.io.vn/vachvoi/play.php?id=red-star-fc-93-vs-usl-dunkerque-10-05-2025-ligue-2-l219189&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F292.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3637.png",(Nhà đài) 10/05-22:00 | Russian National Football League | Arsenal Tula vs Rodina Moskva
-http://pk79.io.vn/vachvoi/play.php?id=arsenal-tula-vs-rodina-moskva-10-05-2025-russian-national-football-league-l219190&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4101.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F167.png",(Nhà đài) 10/05-22:00 | Ligue 2 | Rodez Aveyron vs Clermont
-http://pk79.io.vn/vachvoi/play.php?id=rodez-aveyron-vs-clermont-10-05-2025-ligue-2-l219193&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F141.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3645.png",(Nhà đài) 10/05-22:00 | Austrian Bundesliga | SG Austria Klagenfurt vs WSG Swarovski Tirol
-http://pk79.io.vn/vachvoi/play.php?id=sg-austria-klagenfurt-vs-wsg-swarovski-tirol-10-05-2025-austrian-bundesliga-l219194&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3324.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4096.png",(Nhà đài) 10/05-22:00 | Ligue 2 | FC Annecy vs Grenoble
-http://pk79.io.vn/vachvoi/play.php?id=fc-annecy-vs-grenoble-10-05-2025-ligue-2-l219195&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F28973.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F6443.png",(Nhà đài) 10/05-22:00 | Belarusian First League | Uni X-Labs Minsk vs FK Orsha
-http://pk79.io.vn/vachvoi/play.php?id=uni-x-labs-minsk-vs-fk-orsha-10-05-2025-belarusian-first-league-l219196&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F132.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4033.png",(Nhà đài) 10/05-22:00 | Austrian Bundesliga | LASK Linz vs TSV Hartberg
-http://pk79.io.vn/vachvoi/play.php?id=lask-linz-vs-tsv-hartberg-10-05-2025-austrian-bundesliga-l219197&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4095.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4092.png",(Nhà đài) 10/05-22:00 | Ligue 2 | Stade Lavallois MFC vs Metz
-http://pk79.io.vn/vachvoi/play.php?id=stade-lavallois-mfc-vs-metz-10-05-2025-ligue-2-l219198&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4091.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F742.png",(Nhà đài) 10/05-22:00 | Ligue 2 | Pau FC vs Guingamp
-http://pk79.io.vn/vachvoi/play.php?id=pau-fc-vs-guingamp-10-05-2025-ligue-2-l219200&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F100.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3936.png",(Nhà đài) 10/05-22:00 | Ukrainian Premier League | Rukh Vynnyky vs Veres
-http://pk79.io.vn/vachvoi/play.php?id=rukh-vynnyky-vs-veres-10-05-2025-ukrainian-premier-league-l219201&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4425.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4089.png",(Nhà đài) 10/05-22:00 | Ligue 2 | Troyes vs Amiens
-http://pk79.io.vn/vachvoi/play.php?id=troyes-vs-amiens-10-05-2025-ligue-2-l219202&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F86.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3653.jpeg",(Nhà đài) 10/05-22:00 | Ligue 2 | Lorient vs Martigues
-http://pk79.io.vn/vachvoi/play.php?id=lorient-vs-martigues-10-05-2025-ligue-2-l219206&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3278.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3042.png",(Nhà đài) 10/05-22:00 | Latvia Virsliga | Riga FC vs Jelgava
-http://pk79.io.vn/vachvoi/play.php?id=riga-fc-vs-jelgava-10-05-2025-latvia-virsliga-l219207&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F8065.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F6659.webp",(Nhà đài) 10/05-22:00 | SVK WD1 | FC Petrzalka (w) vs Spartak Trnava (w)
-http://pk79.io.vn/vachvoi/play.php?id=fc-petrzalka-(w)-vs-spartak-trnava-(w)-10-05-2025-svk-wd1-l220020&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3548.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F240.png",(Nhà đài) 10/05-22:00 | Portuguese Liga 3 | Fafe vs Sporting CP B
-http://pk79.io.vn/vachvoi/play.php?id=fafe-vs-sporting-cp-b-10-05-2025-portuguese-liga-3-l220021&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4858.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4857.jpeg",(Nhà đài) 10/05-22:00 | Serbian Prva Liga | Indjija vs Sevojno Uzice
-http://pk79.io.vn/vachvoi/play.php?id=indjija-vs-sevojno-uzice-10-05-2025-serbian-prva-liga-l220022&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F6627.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F28600.png",(Nhà đài) 10/05-22:00 | Norwegian 3.Divisjon | Os Turn Fotball vs Lyngbo
-http://pk79.io.vn/vachvoi/play.php?id=os-turn-fotball-vs-lyngbo-10-05-2025-norwegian-3.divisjon-l220023&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F118.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3771.png",(Nhà đài) 10/05-22:15 | Uzbekistan Super League | Pakhtakor vs Buxoro FK
-http://pk79.io.vn/vachvoi/play.php?id=pakhtakor-vs-buxoro-fk-10-05-2025-uzbekistan-super-league-l219208&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3909.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F176.gif",(Nhà đài) 10/05-22:30 | Poland Ekstraklasa | Zaglebie Lubin vs Widzew lodz
-http://pk79.io.vn/vachvoi/play.php?id=zaglebie-lubin-vs-widzew-lodz-10-05-2025-poland-ekstraklasa-l219209&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3294.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F2993.png",(Nhà đài) 10/05-22:30 | Slovenia 1.Liga | NK Publikum Celje vs FC Koper
-http://pk79.io.vn/vachvoi/play.php?id=nk-publikum-celje-vs-fc-koper-10-05-2025-slovenia-1.liga-l219212&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4328.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4064.png",(Nhà đài) 10/05-22:30 | Azerbaijan Premier Liqa | Turan Tovuz vs FC Neftci Baku
-http://pk79.io.vn/vachvoi/play.php?id=turan-tovuz-vs-fc-neftci-baku-10-05-2025-azerbaijan-premier-liqa-l219213&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F6694.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4647.png",(Nhà đài) 10/05-22:30 | Poland Liga 1 | Pogon Siedlce vs Miedz Legnica
-http://pk79.io.vn/vachvoi/play.php?id=pogon-siedlce-vs-miedz-legnica-10-05-2025-poland-liga-1-l219214&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F244.gif&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F382.png",(Nhà đài) 10/05-22:30 | Sweden Allsvenskan | GAIS vs IFK Varnamo
-http://pk79.io.vn/vachvoi/play.php?id=gais-vs-ifk-varnamo-10-05-2025-sweden-allsvenskan-l219215&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F174.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F707.webp",(Nhà đài) 10/05-22:30 | Sweden Allsvenskan | IK Sirius FK vs Hacken
-http://pk79.io.vn/vachvoi/play.php?id=ik-sirius-fk-vs-hacken-10-05-2025-sweden-allsvenskan-l219217&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F494.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4076.png",(Nhà đài) 10/05-22:30 | Greek Super League | Aris Thessaloniki vs Asteras Tripolis
-http://pk79.io.vn/vachvoi/play.php?id=aris-thessaloniki-vs-asteras-tripolis-10-05-2025-greek-super-league-l219337&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F10352.webp&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4470.png",(Nhà đài) 10/05-22:30 | Portuguese Liga 3 | Amarante vs CF Os Belenenses
-http://pk79.io.vn/vachvoi/play.php?id=amarante-vs-cf-os-belenenses-10-05-2025-portuguese-liga-3-l220018&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F5704.jpeg&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F5700.png",(Nhà đài) 10/05-22:30 | San Marino Campionato di Calcio | San Giovanni vs Tre Fiori
-http://pk79.io.vn/vachvoi/play.php?id=san-giovanni-vs-tre-fiori-10-05-2025-san-marino-campionato-di-calcio-l220019&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4677.jpeg&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F405.png",(Nhà đài) 10/05-22:45 | OTP Bank Liga | MTK Hungaria vs Kecskemeti TE
-http://pk79.io.vn/vachvoi/play.php?id=mtk-hungaria-vs-kecskemeti-te-10-05-2025-otp-bank-liga-l219244&type=nhadai
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F192.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F911.png",(Nhà đài) 10/05-23:00 | Serie A | Lazio vs Juventus
 http://pk79.io.vn/vachvoi/play.php?id=lazio-vs-juventus-10-05-2025-serie-a-l219228&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4066.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4068.png",(Nhà đài) 10/05-23:00 | Slovak Super Liga | MFK Skalica vs Dukla Banska Bystrica
-http://pk79.io.vn/vachvoi/play.php?id=mfk-skalica-vs-dukla-banska-bystrica-10-05-2025-slovak-super-liga-l219218&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3735.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F378.png",(Nhà đài) 10/05-23:00 | Slovak Super Liga | Sport Podbrezova vs Slovan Bratislava
-http://pk79.io.vn/vachvoi/play.php?id=sport-podbrezova-vs-slovan-bratislava-10-05-2025-slovak-super-liga-l219219&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F303.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4591.png",(Nhà đài) 10/05-23:00 | Switzerland Super League | St. Gallen vs Winterthur
-http://pk79.io.vn/vachvoi/play.php?id=st.-gallen-vs-winterthur-10-05-2025-switzerland-super-league-l219221&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F17524.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4834.png",(Nhà đài) 10/05-23:00 | Serbian Super liga | Tekstilac vs Jedinstvo UB
-http://pk79.io.vn/vachvoi/play.php?id=tekstilac-vs-jedinstvo-ub-10-05-2025-serbian-super-liga-l219222&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3021.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F5162.jpeg",(Nhà đài) 10/05-23:00 | Finland Veikkausliiga | AC Oulu vs Gnistan Helsinki
-http://pk79.io.vn/vachvoi/play.php?id=ac-oulu-vs-gnistan-helsinki-10-05-2025-finland-veikkausliiga-l219223&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3795.gif&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F298.png",(Nhà đài) 10/05-23:00 | Switzerland Super League | Yverdon vs FC Sion
-http://pk79.io.vn/vachvoi/play.php?id=yverdon-vs-fc-sion-10-05-2025-switzerland-super-league-l219224&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F880.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3077.png",(Nhà đài) 10/05-23:00 | Turkey Super League | Trabzonspor vs Galatasaray
-http://pk79.io.vn/vachvoi/play.php?id=trabzonspor-vs-galatasaray-10-05-2025-turkey-super-league-l219225&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F471.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4313.png",(Nhà đài) 10/05-23:00 | Belarus Premier League | BATE Borisov vs Dinamo Brest
-http://pk79.io.vn/vachvoi/play.php?id=bate-borisov-vs-dinamo-brest-10-05-2025-belarus-premier-league-l219226&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F304.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F123.png",(Nhà đài) 10/05-23:00 | Switzerland Super League | FC Zurich vs Grasshopper
-http://pk79.io.vn/vachvoi/play.php?id=fc-zurich-vs-grasshopper-10-05-2025-switzerland-super-league-l219227&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4067.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3049.png",(Nhà đài) 10/05-23:00 | Slovak Super Liga | MFK Ruzomberok vs Trencin
-http://pk79.io.vn/vachvoi/play.php?id=mfk-ruzomberok-vs-trencin-10-05-2025-slovak-super-liga-l219229&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F8313.gif&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F12689.png",(Nhà đài) 10/05-23:00 | Iceland Division 1 | UMF Njardvik vs Volsungur husavik
-http://pk79.io.vn/vachvoi/play.php?id=umf-njardvik-vs-volsungur-husavik-10-05-2025-iceland-division-1-l219995&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F8326.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F8310.png",(Nhà đài) 10/05-23:00 | Iceland Division 1 | Grindavik vs Fjolnir
-http://pk79.io.vn/vachvoi/play.php?id=grindavik-vs-fjolnir-10-05-2025-iceland-division-1-l219996&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F10646.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F10645.png",(Nhà đài) 10/05-23:10 | Kuwait Premier League | Khaitan vs Al-Yarmouk
-http://pk79.io.vn/vachvoi/play.php?id=khaitan-vs-al-yarmouk-10-05-2025-kuwait-premier-league-l219997&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3319.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3097.png",(Nhà đài) 10/05-23:10 | Kuwait Premier League | Kazma vs Al-Nasar
-http://pk79.io.vn/vachvoi/play.php?id=kazma-vs-al-nasar-10-05-2025-kuwait-premier-league-l219998&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F447.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F5606.png",(Nhà đài) 10/05-23:15 | Belgium Pro League | Mechelen vs Standard Liege
-http://pk79.io.vn/vachvoi/play.php?id=mechelen-vs-standard-liege-10-05-2025-belgium-pro-league-l219312&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4150.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4021.png",(Nhà đài) 10/05-23:15 | Greek Super League | Atromitos Athens vs OFI Crete
-http://pk79.io.vn/vachvoi/play.php?id=atromitos-athens-vs-ofi-crete-10-05-2025-greek-super-league-l219340&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F28081.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F18274.png",(Nhà đài) 10/05-23:15 | Sierra Leone Premier League | Freetown City vs FC Kallon
-http://pk79.io.vn/vachvoi/play.php?id=freetown-city-vs-fc-kallon-10-05-2025-sierra-leone-premier-league-l219999&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F28002.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F18202.png",(Nhà đài) 10/05-23:15 | Sierra Leone Premier League | Old Edwardians vs Bo Rangers
-http://pk79.io.vn/vachvoi/play.php?id=old-edwardians-vs-bo-rangers-10-05-2025-sierra-leone-premier-league-l220000&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F906.jpeg&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F5355.png",(Nhà đài) 10/05-23:20 | Saudi Professional League | Al Kholood vs Al-Ettifaq
-http://pk79.io.vn/vachvoi/play.php?id=al-kholood-vs-al-ettifaq-10-05-2025-saudi-professional-league-l219313&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3137.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3327.png",(Nhà đài) 10/05-23:25 | Saudi Professional League | Al Wehda Mecca vs Al-Fateh
-http://pk79.io.vn/vachvoi/play.php?id=al-wehda-mecca-vs-al-fateh-10-05-2025-saudi-professional-league-l219314&type=nhadai
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4330.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F260.png",[BLV:🗣 Sùng A Chày] 10/05-23:30 | La Liga | Mallorca vs Real Valladolid
 http://pk79.io.vn/vachvoi/play.php?id=mallorca-vs-real-valladolid-10-05-2025-la-liga-l219315
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4330.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F260.png",(Nhà đài) 10/05-23:30 | La Liga | Mallorca vs Real Valladolid
@@ -3751,20 +3642,6 @@ http://pk79.io.vn/vachvoi/play.php?id=afc-bournemouth-vs-aston-villa-10-05-2025-
 http://pk79.io.vn/vachvoi/play.php?id=bayern-munchen-vs-borussia-monchengladbach-10-05-2025-bundesliga-l219320
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F895.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F208.png",(Nhà đài) 10/05-23:30 | Bundesliga | Bayern Munchen vs Borussia Monchengladbach
 http://pk79.io.vn/vachvoi/play.php?id=bayern-munchen-vs-borussia-monchengladbach-10-05-2025-bundesliga-l219320&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F206.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F84.png",(Nhà đài) 10/05-23:30 | Russian Premier League | CSKA Moscow vs FC Krasnodar
-http://pk79.io.vn/vachvoi/play.php?id=cska-moscow-vs-fc-krasnodar-10-05-2025-russian-premier-league-l219316&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3937.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4385.png",(Nhà đài) 10/05-23:30 | Spanish Segunda Division | Elche vs Levante
-http://pk79.io.vn/vachvoi/play.php?id=elche-vs-levante-10-05-2025-spanish-segunda-division-l219318&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4326.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F464.png",(Nhà đài) 10/05-23:30 | Spanish Segunda Division | Burgos CF vs Cordoba
-http://pk79.io.vn/vachvoi/play.php?id=burgos-cf-vs-cordoba-10-05-2025-spanish-segunda-division-l219321&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F600.gif&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F6934.gif",(Nhà đài) 10/05-23:30 | Chilean Cup | Cobreloa vs CD Copiapo S.A.
-http://pk79.io.vn/vachvoi/play.php?id=cobreloa-vs-cd-copiapo-s.a.-10-05-2025-chilean-cup-l220001&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F329.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3655.png",(Nhà đài) 10/05-23:45 | Vô địch quốc gia Hà Lan | Fortuna Sittard vs NAC Breda
-http://pk79.io.vn/vachvoi/play.php?id=fortuna-sittard-vs-nac-breda-10-05-2025-vo-dich-quoc-gia-ha-lan-l219322&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F6363.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F29234.png",(Nhà đài) 10/05-23:45 | Austrian Frauen Bundesliga | Neulengbach (w) vs LASK Linz (W)
-http://pk79.io.vn/vachvoi/play.php?id=neulengbach-(w)-vs-lask-linz-(w)-10-05-2025-austrian-frauen-bundesliga-l220002&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F7379.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F7378.png",(Nhà đài) 10/05-23:50 | United States Women's National Soccer League | Chicago Red Stars (w) vs Washington Spirit  (w)
-http://pk79.io.vn/vachvoi/play.php?id=chicago-red-stars-(w)-vs-washington-spirit--(w)-10-05-2025-united-states-women's-national-soccer-league-l219323&type=nhadai
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F814.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4541.png",(Nhà đài) 11/05-01:45 | Serie A | Empoli vs Parma
 http://pk79.io.vn/vachvoi/play.php?id=empoli-vs-parma-11-05-2025-serie-a-l219366&type=nhadai
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F365.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F516.png",[BLV:🗣 Sùng A Chày] 11/05-02:00 | Ligue 1 | Monaco vs Lyon
@@ -3884,19 +3761,3 @@ http://pk79.io.vn/xemlai/play.php?id=A4otJAn
 #EXTINF:-1 group-title="xem lại" tvg-logo="https://g7w1r.4shares.live/news/cat45.jpg",Fullmatch West Ham vs Tottenham | BLV Người Cast | 4.5.25
 http://pk79.io.vn/xemlai/play.php?id=3nBT7GK
 #EXTM3U
-#EXTINF:-1 group-title="⭐ Sự kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/05/07/10/1746587960699/df7e36f607aa_640_360.jpg", 11/05 17:00 | DP WORLD TOUR 2025 TURKISH OPEN NGÀY 4
-http://bentre5.hoangai.vn:8080/live/tv360/playvip.php?id=169
-#EXTINF:-1 group-title="⭐ Sự kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/05/09/10/1746759762421/d6c822d92407_640_360.jpg", 11/05 17:00 | HOÀNG ANH GIA LAI VS THỂ CÔNG - VIETTEL
-http://bentre5.hoangai.vn:8080/live/tv360/playvip.php?id=367
-#EXTINF:-1 group-title="⭐ Sự kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/05/09/09/1746757511373/2252031e6304_640_360.jpg", 11/05 18:00 | TRƯỜNG TƯƠI BÌNH PHƯỚC VS HUẾ
-http://bentre5.hoangai.vn:8080/live/tv360/playvip.php?id=368
-#EXTINF:-1 group-title="⭐ Sự kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/05/09/09/1746757829187/29a8aa25da89_640_360.jpg", 11/05 18:00 | TRẺ TP. HỒ CHÍ MINH VS BÀ RỊA VŨNG TÀU
-http://bentre5.hoangai.vn:8080/live/tv360/playvip.php?id=9
-#EXTINF:-1 group-title="⭐ Sự kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/05/09/09/1746759417580/e185abceaa58_640_360.jpg", 11/05 18:00 | BECAMEX BÌNH DƯƠNG VS QUẢNG NAM
-http://bentre5.hoangai.vn:8080/live/tv360/playvip.php?id=201
-#EXTINF:-1 group-title="⭐ Sự kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/05/09/09/1746759567156/f7d7035019f5_640_360.jpg", 11/05 18:00 | THÉP XANH NAM ĐỊNH VS ĐÔNG Á THANH HÓA
-http://bentre5.hoangai.vn:8080/live/tv360/playvip.php?id=194
-#EXTINF:-1 group-title="⭐ Sự kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/05/09/09/1746757937313/2a7b17325d0c_640_360.jpg", 11/05 18:00 | PHÙ ĐỔNG NINH BÌNH VS PVF-CAND
-http://bentre5.hoangai.vn:8080/live/tv360/playvip.php?id=190
-#EXTINF:-1 group-title="⭐ Sự kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/05/09/10/1746760619526/2efda274d113_640_360.png", 11/05 12:00 | ĐẤU TRƯỜNG DANH VỌNG MÙA XUÂN 2025 LIÊN QUÂN MOBILE CHUNG KẾT
-http://bentre5.hoangai.vn:8080/live/tv360/playvip.php?id=9887
