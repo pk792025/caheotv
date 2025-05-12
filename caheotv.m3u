@@ -530,7 +530,7 @@ http://bentre5.hoangai.vn:8082/sctv/get.php?id=sctv8
 http://bentre5.hoangai.vn:12345/192.168.2.41:100/stream?url=https://zenlive.onsports.vn/onplus/SCTV9/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10
 #EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/SCTV9.jpg", SCTV9 HD SV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv9
+http://bentre5.hoangai.vn:3333/get_media_link?path=https://tvmienphi.org/live-tv/xem-kenh-sctv9-truc-tuyen.html&extension=token=&n=1&request=1&location=yes
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/SCTV10.jpg", SCTV10
 http://bentre5.hoangai.vn:8082/sctv/get.php?id=sctv10
 #EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/SCTV11.jpg", SCTV11 HD
@@ -541,14 +541,14 @@ http://bentre5.hoangai.vn:8082/sctv/get.php?id=sctv12
 http://bentre5.hoangai.vn:8082/sctv/get.php?id=sctv13
 #EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/SCTV14.jpg", SCTV14 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv14
+http://bentre5.hoangai.vn:3333/get_media_link?path=https://tvmienphi.org/live-tv/xem-kenh-sctv14-truc-tuyen.html&extension=token=&n=1&request=1&location=yes
 #EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/SCTV15.jpg", SCTV15 HD
 http://bentre5.hoangai.vn:1234/stream/sctv/sctv15/master.m3u8?u=atat1996&p=fbf555dd835e1c2de5842f148e9b8c20555a316e90b63ef0947791beb24ed843
 
 
 #EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/SCTV16.jpg", SCTV16 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv16
+http://bentre5.hoangai.vn:3333/get_media_link?path=https://tvmienphi.org/live-tv/xem-kenh-sctv16-truc-tuyen.html&extension=token=&n=1&request=1&location=yes
 #EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/SCTV17.jpg", SCTV17 HD
 http://bentre5.hoangai.vn:1234/stream/sctv/sctv17/master.m3u8?u=atat1996&p=fbf555dd835e1c2de5842f148e9b8c20555a316e90b63ef0947791beb24ed843
 
@@ -1238,7 +1238,31 @@ http://khaitv.giize.com:502/stream?url=udp://@225.1.4.171:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",Vũng Tàu HD
 http://khaitv.giize.com:502/stream?url=udp://@225.1.4.172:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",Bắc Kạn HD
-http://khaitv.giize.com:502/stream?url=udp://@225.1.4.174:30120#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: UAE Pro League",12/05 21h10 Dubba Al-Husun VS Al-Wahda FC (CH) SD 1
+http://khaitv.giize.com:502/stream?url=udp://@225.1.4.174:30120#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: CAF African Youth Championship",12/05 19h00 Nigeria U20 VS Senegal U20 (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/duongtiensd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: CAF African Youth Championship",12/05 19h00 Nigeria U20 VS Senegal U20 (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/duongtienhd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: CAF African Youth Championship",12/05 19h00 Nigeria U20 VS Senegal U20 (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179939170.vipcdnlive.xyz/live/duongtiensd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: CAF African Youth Championship",12/05 19h00 Nigeria U20 VS Senegal U20 (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179939170.vipcdnlive.xyz/live/duongtienhd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: CAF African Youth Championship",12/05 19h00 Nigeria U20 VS Senegal U20 (CH) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/duongtiensd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: CAF African Youth Championship",12/05 19h00 Nigeria U20 VS Senegal U20 (CH) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/duongtienhd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: UAE Pro League",12/05 21h10 Dubba Al-Husun VS Al-Wahda FC (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://chcdn.livestreameuro.live/live/heosd1/playlist.m3u8
@@ -1310,6 +1334,70 @@ https://qtcdn.livestreameuro.live/live/bachlongmasd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://qtcdn.livestreameuro.live/live/bachlongmahd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: VĐQG Romania",12/05 22h00 Petrolul Ploiesti VS FC Otelul Galati (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/duongtiensd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: VĐQG Romania",12/05 22h00 Petrolul Ploiesti VS FC Otelul Galati (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/duongtienhd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: VĐQG Romania",12/05 22h00 Petrolul Ploiesti VS FC Otelul Galati (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179939170.vipcdnlive.xyz/live/duongtiensd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: VĐQG Romania",12/05 22h00 Petrolul Ploiesti VS FC Otelul Galati (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179939170.vipcdnlive.xyz/live/duongtienhd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: VĐQG Romania",12/05 22h00 Petrolul Ploiesti VS FC Otelul Galati (CH) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/duongtiensd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: VĐQG Romania",12/05 22h00 Petrolul Ploiesti VS FC Otelul Galati (CH) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/duongtienhd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: VĐQG Georgia",12/05 22h00 Gagra Tbilisi VS FC Kolkheti Poti (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://chcdn.livestreameuro.live/live/paosd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: VĐQG Georgia",12/05 22h00 Gagra Tbilisi VS FC Kolkheti Poti (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://chcdn.livestreameuro.live/live/paohd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: VĐQG Georgia",12/05 22h00 Gagra Tbilisi VS FC Kolkheti Poti (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/paosd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: VĐQG Georgia",12/05 22h00 Gagra Tbilisi VS FC Kolkheti Poti (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/paohd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: VĐQG Georgia",12/05 22h00 Gagra Tbilisi VS FC Kolkheti Poti (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://chcdn.livestreameuro.live/live/paosd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: VĐQG Georgia",12/05 22h00 Gagra Tbilisi VS FC Kolkheti Poti (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://chcdn.livestreameuro.live/live/paohd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Hạng Nhất Serbia",12/05 22h00 Radnik Surdulica VS FK Vozdovac Beograd (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m501nd/playlist.m3u8 
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Hạng Nhất Serbia",12/05 22h00 FK Dubocica VS Semendrija 1924 (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m502nd/playlist.m3u8 
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Hạng 2 Bulgaria",12/05 22h00 Yantra Gabrovo VS Belasitsa Petrich (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m401nd/playlist.m3u8 
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Ngoại hạng Iraq",12/05 22h00 AI Kahrabaa VS Al Qasim Sport Club (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m503nd/playlist.m3u8 
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: CAF African Youth Championship",12/05 22h00 Ghana U20 VS Ai Cập U20 (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -1334,39 +1422,35 @@ https://chcdn.livestreameuro.live/live/cosd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://chcdn.livestreameuro.live/live/cohd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: CAF African Youth Championship",12/05 22h00 Morocco U20 VS Sierra Leone U20 (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://chcdn.livestreameuro.live/live/sunsd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: CAF African Youth Championship",12/05 22h00 Morocco U20 VS Sierra Leone U20 (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://chcdn.livestreameuro.live/live/sunhd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: CAF African Youth Championship",12/05 22h00 Morocco U20 VS Sierra Leone U20 (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/sunsd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: CAF African Youth Championship",12/05 22h00 Morocco U20 VS Sierra Leone U20 (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/sunhd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: CAF African Youth Championship",12/05 22h00 Morocco U20 VS Sierra Leone U20 (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://chcdn.livestreameuro.live/live/sunsd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: CAF African Youth Championship",12/05 22h00 Morocco U20 VS Sierra Leone U20 (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://chcdn.livestreameuro.live/live/sunhd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Ngoại hạng Iraq",12/05 22h00 Diala VS Arbil (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m504nd/playlist.m3u8 
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: VĐQG Séc",12/05 22h00 Banik Ostrava B VS Opava (CH)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: VĐQG Romania",12/05 22h00 Petrolul Ploiesti VS FC Otelul Galati (CH)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: VĐQG Georgia",12/05 22h00 Gagra Tbilisi VS FC Kolkheti Poti (CH)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Hạng Nhất Serbia",12/05 22h00 Radnik Surdulica VS FK Vozdovac Beograd (CH)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Hạng Nhất Serbia",12/05 22h00 FK Dubocica VS Semendrija 1924 (CH)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Hạng 2 Bulgaria",12/05 22h00 Yantra Gabrovo VS Belasitsa Petrich (CH)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Ngoại hạng Iraq",12/05 22h00 AI Kahrabaa VS Al Qasim Sport Club (CH)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: CAF African Youth Championship",12/05 22h00 Morocco U20 VS Sierra Leone U20 (CH)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Ngoại hạng Iraq",12/05 22h00 Diala VS Arbil (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -2091,13 +2175,13 @@ http://pk79.io.vn/laykinhtv/play.php?id=PSrpjcYG
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=7YHITeDI
 #EXTM3U
-#PLAYLIST: Bún Chả TV - Cập nhật ngày 12/05/2025 21:30
+#PLAYLIST: Bún Chả TV - Cập nhật ngày 12/05/2025 21:45
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/4de0784e56b7b111063bdd301874cd54.png",12/05-19:00 | CAF African Youth Championship | Nigeria U20 vs Senegal U20
 http://pk79.io.vn/buncha/play.php?id=600147295&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/9b12aff7744422e0e85d7efd1182ba9c.png",12/05-19:00 | English U21 Professional Development League 2 | Sheffield United U21 vs Brentford U21
-http://pk79.io.vn/buncha/play.php?id=600136963&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",12/05-19:00 | International Friendly | Montenegro U16 vs North Macedonia U16
 http://pk79.io.vn/buncha/play.php?id=600136956&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/9b12aff7744422e0e85d7efd1182ba9c.png",12/05-19:00 | English U21 Professional Development League 2 | Sheffield United U21 vs Brentford U21
+http://pk79.io.vn/buncha/play.php?id=600136963&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/4de0784e56b7b111063bdd301874cd54.png",🔴 SÓNG QUỐC TẾ | 12/05-19:00 | CAF African Youth Championship | Nigeria U20 vs Senegal U20
 http://pk79.io.vn/buncha/play.php?id=600147295&type=quocte
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/8029211f07d9d15d9dc74f9c4cf70366.png",12/05-20:00 | ZAN CUP | Kmka vs Mafunzo FC
@@ -2108,14 +2192,16 @@ http://pk79.io.vn/buncha/play.php?id=600136970&type=1
 http://pk79.io.vn/buncha/play.php?id=600136977&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/c0629bb63c1258a3d2fc887493124f85.png",12/05-20:00 | Tanzanian Premier League | Tanzania Prisons vs Coastal Union
 http://pk79.io.vn/buncha/play.php?id=600124279&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/00b345a41452a41eaca4af86157771ff.png",12/05-20:00 | Rwandan National League | Gorilla FC vs Etincelles
+http://pk79.io.vn/buncha/play.php?id=600120695&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/7f608d54aa96242c120f9a52493058a2.png",12/05-20:00 | Turkish Second League | Belediye Vanspor vs Aksarayspor
 http://pk79.io.vn/buncha/play.php?id=600156066&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/7f608d54aa96242c120f9a52493058a2.png",12/05-20:00 | Turkish Second League | Altinordu vs GMG Kastamonuspor
 http://pk79.io.vn/buncha/play.php?id=600156073&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/6750264b5e27a1158257bc1210d46e9e.png",12/05-20:00 | Norwegian 2.Divisjon | Brann 2 vs Flekkeroy IL
-http://pk79.io.vn/buncha/play.php?id=600110853&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/8029211f07d9d15d9dc74f9c4cf70366.png",12/05-20:00 | ZAN CUP | JKU FC vs Kipanga FC
 http://pk79.io.vn/buncha/play.php?id=600156122&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/6750264b5e27a1158257bc1210d46e9e.png",12/05-20:00 | Norwegian 2.Divisjon | Brann 2 vs Flekkeroy IL
+http://pk79.io.vn/buncha/play.php?id=600110853&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/6750264b5e27a1158257bc1210d46e9e.png",🔴 SÓNG QUỐC TẾ | 12/05-20:00 | Norwegian 2.Divisjon | Brann 2 vs Flekkeroy IL
 http://pk79.io.vn/buncha/play.php?id=600110853&type=quocte
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/1cbb669658d89e1339741b562ecca30b.png",12/05-20:30 | Montenegro U19 League | FK Sutjeska Niksic U19 vs OFK Petrovac U19
@@ -2138,58 +2224,56 @@ http://pk79.io.vn/buncha/play.php?id=600124314&type=quocte
 http://pk79.io.vn/buncha/play.php?id=600124321&type=quocte
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/20add0f0000a914f2e9179af8b4ce8bc.png",🔴 12/05-22:00 | Georgia Erovnuli Liga | Gagra Tbilisi vs FC Kolkheti Poti
 http://pk79.io.vn/buncha/play.php?id=600134233&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/275fbebeca574500a79c9ad931e49d37.png",12/05-22:00 | Romanian Liga I | Petrolul Ploiesti vs FC Otelul Galati
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/275fbebeca574500a79c9ad931e49d37.png",🔴 12/05-22:00 | Romanian Liga I | Petrolul Ploiesti vs FC Otelul Galati
 http://pk79.io.vn/buncha/play.php?id=600124342&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/24a57747bac38f002dd68b574b39d730.png",🔴 12/05-22:00 | Belarusian Premier League | Naftan Novopolock vs FC Torpedo Zhodino
 http://pk79.io.vn/buncha/play.php?id=600113849&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/3efe60807b6c6f5268618cd368d3a0be.png",12/05-22:00 | Ghana Division 1 | Techiman Liberty Youth vs Techiman Heroes
-http://pk79.io.vn/buncha/play.php?id=600113597&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/1411ace04a4874f079a34f023a70c2d1.png",12/05-22:00 | Ethiopia Premier League | Ethio Electric FC vs Sidama Bunna
-http://pk79.io.vn/buncha/play.php?id=600124335&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/479457ed962ded49638d64a03eb39b6e.png",12/05-22:00 | Norwegian 3.Divisjon | Fredrikstad B vs Sparta Sarpsborg B
-http://pk79.io.vn/buncha/play.php?id=600112610&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/14c0fe418966f38de7fb573148830ed6.png",12/05-22:00 | Serbian Prva Liga | Mladost Novi Sad vs FK Vrsac
-http://pk79.io.vn/buncha/play.php?id=600112820&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/4de0784e56b7b111063bdd301874cd54.png",12/05-22:00 | CAF African Youth Championship | Ghana U20 vs Egypt U20
-http://pk79.io.vn/buncha/play.php?id=600147337&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/4de0784e56b7b111063bdd301874cd54.png",12/05-22:00 | CAF African Youth Championship | Morocco U20 vs Sierra Leone U20
 http://pk79.io.vn/buncha/play.php?id=600147344&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/0f71e47cbe82fa3b3fbab15a5a015918.png",12/05-22:00 | Slovenia 2.Liga | Jadran Dekani vs Triglav Gorenjska
 http://pk79.io.vn/buncha/play.php?id=600121451&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/0504b24f98f8c083439816864fcf485c.png",12/05-22:00 | Iraq Stars League | Diala vs Erbil SC
-http://pk79.io.vn/buncha/play.php?id=600136991&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/0504b24f98f8c083439816864fcf485c.png",12/05-22:00 | Iraq Stars League | Al-Kahrbaa Club vs Al Qasim SC
-http://pk79.io.vn/buncha/play.php?id=600136984&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/78605a8e3a434c7e3dee03dca88e7173.png",12/05-22:00 | Nigeria Women's Football League | Rivers Angels (w) vs Edo Queens (w)
-http://pk79.io.vn/buncha/play.php?id=600147351&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/89f869f2ec7f8e424d5b0abadc7778e4.png",12/05-22:00 | Bulgarian Second League | Fratria vs CSKA 1948 Sofia II
-http://pk79.io.vn/buncha/play.php?id=600114276&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/89f869f2ec7f8e424d5b0abadc7778e4.png",12/05-22:00 | Bulgarian Second League | Yantra Gabrovo vs Belasitsa Petrich
-http://pk79.io.vn/buncha/play.php?id=600114325&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/529b2a49c763bc4349fdf9b0f94742f7.png",12/05-22:00 | Czech National Football League | Banik Ostrava B vs Opava
-http://pk79.io.vn/buncha/play.php?id=600113373&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/14c0fe418966f38de7fb573148830ed6.png",12/05-22:00 | Serbian Prva Liga | Mladost Novi Sad vs FK Vrsac
+http://pk79.io.vn/buncha/play.php?id=600112820&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/479457ed962ded49638d64a03eb39b6e.png",12/05-22:00 | Norwegian 3.Divisjon | Fredrikstad B vs Sparta Sarpsborg B
+http://pk79.io.vn/buncha/play.php?id=600112610&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/14c0fe418966f38de7fb573148830ed6.png",12/05-22:00 | Serbian Prva Liga | Radnik Surdulica vs FK Vozdovac Beograd
 http://pk79.io.vn/buncha/play.php?id=600112827&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/1411ace04a4874f079a34f023a70c2d1.png",12/05-22:00 | Ethiopia Premier League | Ethio Electric FC vs Sidama Bunna
+http://pk79.io.vn/buncha/play.php?id=600124335&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/4de0784e56b7b111063bdd301874cd54.png",12/05-22:00 | CAF African Youth Championship | Ghana U20 vs Egypt U20
+http://pk79.io.vn/buncha/play.php?id=600147337&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/78605a8e3a434c7e3dee03dca88e7173.png",12/05-22:00 | Nigeria Women's Football League | Rivers Angels (w) vs Edo Queens (w)
+http://pk79.io.vn/buncha/play.php?id=600147351&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/0504b24f98f8c083439816864fcf485c.png",12/05-22:00 | Iraq Stars League | Diala vs Erbil SC
+http://pk79.io.vn/buncha/play.php?id=600136991&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/14c0fe418966f38de7fb573148830ed6.png",12/05-22:00 | Serbian Prva Liga | FK Dubocica vs Semendrija 1924
 http://pk79.io.vn/buncha/play.php?id=600112834&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/529b2a49c763bc4349fdf9b0f94742f7.png",12/05-22:00 | Czech National Football League | Banik Ostrava B vs Opava
+http://pk79.io.vn/buncha/play.php?id=600113373&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/89f869f2ec7f8e424d5b0abadc7778e4.png",12/05-22:00 | Bulgarian Second League | Yantra Gabrovo vs Belasitsa Petrich
+http://pk79.io.vn/buncha/play.php?id=600114325&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/0504b24f98f8c083439816864fcf485c.png",12/05-22:00 | Iraq Stars League | Al-Kahrbaa Club vs Al Qasim SC
+http://pk79.io.vn/buncha/play.php?id=600136984&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/89f869f2ec7f8e424d5b0abadc7778e4.png",12/05-22:00 | Bulgarian Second League | Fratria vs CSKA 1948 Sofia II
+http://pk79.io.vn/buncha/play.php?id=600114276&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/3efe60807b6c6f5268618cd368d3a0be.png",12/05-22:00 | Ghana Division 1 | Techiman Liberty Youth vs Techiman Heroes
+http://pk79.io.vn/buncha/play.php?id=600113597&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/ed9527ee5356b459f42be9e30c625bcc.jpg",🔴 12/05-22:00 | Rome ATP 1000 | J. Sinner vs J. De Jong
 http://pk79.io.vn/buncha/play.php?id=600156054&type=27
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/cdd6191895b769a73d61158e4116ef5e.png",12/05-22:30 | Iran Azadegan League | Mes Kerman vs Saipa
-http://pk79.io.vn/buncha/play.php?id=600137019&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/c0629bb63c1258a3d2fc887493124f85.png",12/05-22:30 | Tanzanian Premier League | Kagera Sugar vs Mashujaa FC
 http://pk79.io.vn/buncha/play.php?id=600124349&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/cdd6191895b769a73d61158e4116ef5e.png",12/05-22:30 | Iran Azadegan League | Mes Soongoun Varzaghan vs Naft Gachsaran
-http://pk79.io.vn/buncha/play.php?id=600137026&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/cdd6191895b769a73d61158e4116ef5e.png",12/05-22:30 | Iran Azadegan League | Niroye Zamini vs Naft Masjed Soleyman FC
 http://pk79.io.vn/buncha/play.php?id=600137033&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/cdd6191895b769a73d61158e4116ef5e.png",12/05-22:30 | Iran Azadegan League | Naft Bandar Abbas vs Shahr Raz FC
-http://pk79.io.vn/buncha/play.php?id=600137047&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/ebaaa1dd253d35d64b79237ac20b1d38.png",12/05-22:30 | Finnish Ykkonen | FC Vaajakoski vs PEPO Lappeenranta
-http://pk79.io.vn/buncha/play.php?id=600124356&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/cdd6191895b769a73d61158e4116ef5e.png",12/05-22:30 | Iran Azadegan League | Mes Soongoun Varzaghan vs Naft Gachsaran
+http://pk79.io.vn/buncha/play.php?id=600137026&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/cdd6191895b769a73d61158e4116ef5e.png",12/05-22:30 | Iran Azadegan League | Fajr Sepasi vs Damash Gilan FC
+http://pk79.io.vn/buncha/play.php?id=600137012&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/cdd6191895b769a73d61158e4116ef5e.png",12/05-22:30 | Iran Azadegan League | Mes Kerman vs Saipa
+http://pk79.io.vn/buncha/play.php?id=600137019&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/ebaaa1dd253d35d64b79237ac20b1d38.png",12/05-22:30 | Finnish Ykkonen | Jakobstads Bollklubb vs Narpes Kraft
 http://pk79.io.vn/buncha/play.php?id=600124363&type=1
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/cdd6191895b769a73d61158e4116ef5e.png",12/05-22:30 | Iran Azadegan League | Sanat-Naft vs Paykan
-http://pk79.io.vn/buncha/play.php?id=600137054&type=1
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/cdd6191895b769a73d61158e4116ef5e.png",12/05-22:30 | Iran Azadegan League | Be'sat Kermanshah FC vs Pars Jonoubi Jam
+http://pk79.io.vn/buncha/play.php?id=600137005&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/20add0f0000a914f2e9179af8b4ce8bc.png",12/05-23:00 | Georgia Erovnuli Liga | FC Telavi vs Dila Gori
 http://pk79.io.vn/buncha/play.php?id=600134247&type=1
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/b247c26e45a61b6eaaab421c3bad22c8.png",12/05-23:00 | Finnish Veikkausliiga | SJK Seinajoen vs Vaasa VPS
@@ -2206,18 +2290,20 @@ http://pk79.io.vn/buncha/play.php?id=600125679&type=1
 http://pk79.io.vn/buncha/play.php?id=600146772&type=20
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-08:00 | TOYOTA Thailand Open 2025 | Ratchapol MAKKASASITHORN vs Surasit ARIYABARANEEKUL
 http://pk79.io.vn/buncha/play.php?id=600156138&type=13
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-08:00 | TOYOTA Thailand Open 2025 | Phuttimeth SEMKUNTA vs Sittisak NADEE
-http://pk79.io.vn/buncha/play.php?id=600156145&type=13
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-08:00 | TOYOTA Thailand Open 2025 | CHEN Zhi Ray vs Zhi-Wei HE
+http://pk79.io.vn/buncha/play.php?id=600156404&type=13
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-08:00 | TOYOTA Thailand Open 2025 | Bobby SETIABUDI vs Kitipat KARNNITHIWAT
 http://pk79.io.vn/buncha/play.php?id=600156152&type=13
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-08:50 | TOYOTA Thailand Open 2025 | CHANG Ko-Chi vs Nontakorn THONG-ON
-http://pk79.io.vn/buncha/play.php?id=600156411&type=13
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-08:50 | TOYOTA Thailand Open 2025 | Mohit JAGLAN vs CHAN Yin Chak
-http://pk79.io.vn/buncha/play.php?id=600156173&type=13
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-08:50 | TOYOTA Thailand Open 2025 | Jonathan Bing Tsan LAI vs Supak JOMKOH
-http://pk79.io.vn/buncha/play.php?id=600156166&type=13
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-08:00 | TOYOTA Thailand Open 2025 | Phuttimeth SEMKUNTA vs Sittisak NADEE
+http://pk79.io.vn/buncha/play.php?id=600156145&type=13
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-08:50 | TOYOTA Thailand Open 2025 | Vichayapong KANJANAKEEREEWONG vs Vichayapong KANJANAKEEREEWONG
 http://pk79.io.vn/buncha/play.php?id=600156159&type=13
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-08:50 | TOYOTA Thailand Open 2025 | Jonathan Bing Tsan LAI vs Supak JOMKOH
+http://pk79.io.vn/buncha/play.php?id=600156166&type=13
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-08:50 | TOYOTA Thailand Open 2025 | Mohit JAGLAN vs CHAN Yin Chak
+http://pk79.io.vn/buncha/play.php?id=600156173&type=13
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-08:50 | TOYOTA Thailand Open 2025 | CHANG Ko-Chi vs Nontakorn THONG-ON
+http://pk79.io.vn/buncha/play.php?id=600156411&type=13
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/4bb50b9bd9ddc103686037fc5e3c7a09.png",13/05-09:00 | NBA | Golden State Warriors vs Minnesota Timberwolves
 http://pk79.io.vn/buncha/play.php?id=600146779&type=20
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-09:40 | TOYOTA Thailand Open 2025 | CHEN Su Yu vs Thamonwan NITHIITTIKRAI
@@ -2226,88 +2312,106 @@ http://pk79.io.vn/buncha/play.php?id=600156180&type=13
 http://pk79.io.vn/buncha/play.php?id=600156187&type=13
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-09:40 | TOYOTA Thailand Open 2025 | HAN Qian Xi vs Rachel CHAN
 http://pk79.io.vn/buncha/play.php?id=600156194&type=13
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-09:40 | TOYOTA Thailand Open 2025 | HUANG Yu-Hsun vs HUANG Ching Ping
+http://pk79.io.vn/buncha/play.php?id=600156418&type=13
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-10:30 | TOYOTA Thailand Open 2025 | HUNG Yi-Ting vs Asuka TAKAHASHI
 http://pk79.io.vn/buncha/play.php?id=600156201&type=13
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-10:30 | TOYOTA Thailand Open 2025 | Pitchamon OPATNIPUTH vs WU Luo Yu
 http://pk79.io.vn/buncha/play.php?id=600156208&type=13
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-10:30 | TOYOTA Thailand Open 2025 | Saloni Samirbhai MEHTA vs Tidapron KLEEBYEESUN
 http://pk79.io.vn/buncha/play.php?id=600156215&type=13
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-10:30 | TOYOTA Thailand Open 2025 | KISONA Selvaduray vs Karupathevan LETSHANAA
+http://pk79.io.vn/buncha/play.php?id=600156425&type=13
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-11:20 | TOYOTA Thailand Open 2025 | Thipchira CHAIWICHITWORAKHUN vs Pichamon PHATCHARAPHISUTSIN
 http://pk79.io.vn/buncha/play.php?id=600156222&type=13
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-11:20 | TOYOTA Thailand Open 2025 | Pharanyu KAOSAMAANG vs Ratchapol MAKKASASITHORN
-http://pk79.io.vn/buncha/play.php?id=600156229&type=13
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-11:20 | TOYOTA Thailand Open 2025 | Narut SAENGKHAM vs Zhi-Wei HE
+http://pk79.io.vn/buncha/play.php?id=600156432&type=13
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-11:20 | TOYOTA Thailand Open 2025 | Phattharin AIAMVAREESRISAKUL vs Fungfa KORPTHAMMAKIT
 http://pk79.io.vn/buncha/play.php?id=600156236&type=13
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-11:20 | TOYOTA Thailand Open 2025 | Pharanyu KAOSAMAANG vs Ratchapol MAKKASASITHORN
+http://pk79.io.vn/buncha/play.php?id=600156229&type=13
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-12:00 | TOYOTA Thailand Open 2025 | HUANG Yu Kai vs Riku HATANO
+http://pk79.io.vn/buncha/play.php?id=600156264&type=13
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-12:00 | TOYOTA Thailand Open 2025 | Nathida BURAMART vs Pranpriya PANNARAI
+http://pk79.io.vn/buncha/play.php?id=600156446&type=13
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/categories/2025/03/21/bf9996e4342a971138831f254bb10573.jpg",13/05-12:00 | Cầu Lông | TOYOTA Thailand Open 2025
 http://pk79.io.vn/buncha/play.php?id=600156005&type=13
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-12:00 | TOYOTA Thailand Open 2025 | Koo TAKAHASHI vs HUANG Ping-Hsien
 http://pk79.io.vn/buncha/play.php?id=600156278&type=13
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-12:00 | TOYOTA Thailand Open 2025 | Sholeh AIDIL vs Sathish Kumar KARUNAKARAN
 http://pk79.io.vn/buncha/play.php?id=600156271&type=13
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-12:00 | TOYOTA Thailand Open 2025 | HUANG Yu Kai vs Riku HATANO
-http://pk79.io.vn/buncha/play.php?id=600156264&type=13
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-12:10 | TOYOTA Thailand Open 2025 | Panitchaphon TEERARATSAKUL vs Shogo OGAWA
+http://pk79.io.vn/buncha/play.php?id=600156439&type=13
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-12:10 | TOYOTA Thailand Open 2025 | Jonathan Bing Tsan LAI vs Keith Mark EDISON
 http://pk79.io.vn/buncha/play.php?id=600156257&type=13
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-12:10 | TOYOTA Thailand Open 2025 | Vichayapong KANJANAKEEREEWONG vs CHOI Sol Gyu
-http://pk79.io.vn/buncha/play.php?id=600156243&type=13
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-12:10 | TOYOTA Thailand Open 2025 | SUNG Yi-Hsuan vs Huzwaney MOMIN
 http://pk79.io.vn/buncha/play.php?id=600156250&type=13
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-12:10 | TOYOTA Thailand Open 2025 | Vichayapong KANJANAKEEREEWONG vs CHOI Sol Gyu
+http://pk79.io.vn/buncha/play.php?id=600156243&type=13
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-12:50 | TOYOTA Thailand Open 2025 | Joakim OLDORFF vs Ayush SHETTY
+http://pk79.io.vn/buncha/play.php?id=600156292&type=13
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-12:50 | TOYOTA Thailand Open 2025 | S.Sankar Muthusamy SUBRAMANIAN vs KIDAMBI Srikanth
 http://pk79.io.vn/buncha/play.php?id=600156299&type=13
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-12:50 | TOYOTA Thailand Open 2025 | Justin Hoh vs Julien CARRAGGI
 http://pk79.io.vn/buncha/play.php?id=600156285&type=13
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-12:50 | TOYOTA Thailand Open 2025 | Joakim OLDORFF vs Ayush SHETTY
-http://pk79.io.vn/buncha/play.php?id=600156292&type=13
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-12:50 | TOYOTA Thailand Open 2025 | Tharun MANNEPALLI vs KUO Kuan Lin
+http://pk79.io.vn/buncha/play.php?id=600156453&type=13
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-13:40 | TOYOTA Thailand Open 2025 | KENG Shu Liang vs LI Wen Mei
+http://pk79.io.vn/buncha/play.php?id=600156460&type=13
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-13:40 | TOYOTA Thailand Open 2025 | Kanisorn ASSAWASAKULDET vs chanyapat CHARTWEERACHAISRI
 http://pk79.io.vn/buncha/play.php?id=600156306&type=13
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-13:40 | TOYOTA Thailand Open 2025 | Rui HIROKAMI vs Sunisa LEKJURA
 http://pk79.io.vn/buncha/play.php?id=600156320&type=13
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-13:40 | TOYOTA Thailand Open 2025 | Nutnicha JATUPANAPORN vs Thitiwarada BUAKAEW
 http://pk79.io.vn/buncha/play.php?id=600156313&type=13
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-15:20 | TOYOTA Thailand Open 2025 | Thanawin MADEE vs Pongsakorn THONGKHAM
-http://pk79.io.vn/buncha/play.php?id=600156334&type=13
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-14:30 | TOYOTA Thailand Open 2025 | Eng Keat Wesley KOH vs Neuaduang MANGKORNLOI
+http://pk79.io.vn/buncha/play.php?id=600156467&type=13
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-15:20 | TOYOTA Thailand Open 2025 | CHIA Weijie vs LU Ching Yao
 http://pk79.io.vn/buncha/play.php?id=600156341&type=13
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-16:00 | TOYOTA Thailand Open 2025 | JIANG Zhen Bang vs Adnan MAULANA
-http://pk79.io.vn/buncha/play.php?id=600156348&type=13
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-16:00 | TOYOTA Thailand Open 2025 | TANG Chun Man vs Pakkapon TEERARATSAKUL
-http://pk79.io.vn/buncha/play.php?id=600156355&type=13
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-15:20 | TOYOTA Thailand Open 2025 | Thanawin MADEE vs Pongsakorn THONGKHAM
+http://pk79.io.vn/buncha/play.php?id=600156334&type=13
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-16:00 | TOYOTA Thailand Open 2025 | HEE Yong Kai Terry vs GAO Jia Xuan
 http://pk79.io.vn/buncha/play.php?id=600156362&type=13
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-16:50 | TOYOTA Thailand Open 2025 | Phuwanat HORBANLUEKIT vs WONG Tien Ci
-http://pk79.io.vn/buncha/play.php?id=600156369&type=13
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-16:00 | TOYOTA Thailand Open 2025 | TANG Chun Man vs Pakkapon TEERARATSAKUL
+http://pk79.io.vn/buncha/play.php?id=600156355&type=13
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-16:00 | TOYOTA Thailand Open 2025 | JIANG Zhen Bang vs Adnan MAULANA
+http://pk79.io.vn/buncha/play.php?id=600156348&type=13
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-16:00 | TOYOTA Thailand Open 2025 | LIU Kuang Heng vs Marwan FAZA
+http://pk79.io.vn/buncha/play.php?id=600156474&type=13
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-16:50 | TOYOTA Thailand Open 2025 | Amri SYAHNAWI vs Hiroki NISHI
 http://pk79.io.vn/buncha/play.php?id=600156376&type=13
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-16:50 | TOYOTA Thailand Open 2025 | Verrell Yustin MULIA vs Hiroki MIDORIKAWA
 http://pk79.io.vn/buncha/play.php?id=600156383&type=13
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-16:50 | TOYOTA Thailand Open 2025 | Phuwanat HORBANLUEKIT vs WONG Tien Ci
+http://pk79.io.vn/buncha/play.php?id=600156369&type=13
+#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-16:50 | TOYOTA Thailand Open 2025 | LUI Chun Wai vs PO Li-Wei
+http://pk79.io.vn/buncha/play.php?id=600156481&type=13
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-17:40 | TOYOTA Thailand Open 2025 | YE Hong Wei vs FENG Yan Zhe
 http://pk79.io.vn/buncha/play.php?id=600156390&type=13
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",13/05-17:40 | TOYOTA Thailand Open 2025 | ZHU Yi Jun vs Yuichi SHIMOGAMI
 http://pk79.io.vn/buncha/play.php?id=600156397&type=13
-#EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/7c0aad771375cf228e8e76da72d17e93.png",14/05-14:30 | TOYOTA Thailand Open 2025 | CHEN Xu Jun vs Tori AIZAWA
-http://pk79.io.vn/buncha/play.php?id=600156327&type=13
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/5e8468d2571ba27c635555405a3f26d6.png",14/05-15:00 | LCK 2025 LMHT | BFX vs NS
 http://pk79.io.vn/buncha/play.php?id=599996223&type=36
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://img.thesports.com/football/competition/35e5286e9344ce4b09525c4cdf149cce.png",SÓNG QUỐC TẾ | 14/05-16:30 | Australia Queensland State Women's League | Gold Coast city (w) vs North Lakes United (W)
 http://pk79.io.vn/buncha/play.php?id=600122389&type=quocte
 #EXTINF:-1 group-title="Bún Chả TV" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/5e8468d2571ba27c635555405a3f26d6.png",14/05-17:00 | LCK 2025 LMHT | DRX vs DK
 http://pk79.io.vn/buncha/play.php?id=599996230&type=36
-# Tổng số trận đấu: 100
-# Tạo tự động lúc 12/05/2025 21:30:13
+# Tổng số trận đấu: 110
+# Tạo tự động lúc 12/05/2025 21:45:16
 #EXTM3U x-tvg-url="http://pk79.x10.mx/bongda/vebo.php" refresh="3600"
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/4de0784e56b7b111063bdd301874cd54.png" tvg-chno="PaD5ey1" catchup="default" catchup-source="?playbackstart={utc}",🔴 12/05-19:00 | Africa U20 Cup of Nations | Nigeria U20 VS Senegal U20 (Updated: 2025-05-12 10:20:02)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/4de0784e56b7b111063bdd301874cd54.png" tvg-chno="PaD5ey1" catchup="default" catchup-source="?playbackstart={utc}",🔴 12/05-19:00 | Africa U20 Cup of Nations | Nigeria U20 VS Senegal U20 (Updated: 2025-05-12 10:40:10)
 http://pk79.io.vn/vebo/play.php?id=PaD5ey1
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/63ca729248267615f4b039277e8e92b4.png" tvg-chno="F0GZyAL" catchup="default" catchup-source="?playbackstart={utc}",🔴 12/05-21:10 | UAE Pro League | Dubba Al-Husun VS Al Wehda(UAE) (Updated: 2025-05-12 10:20:02)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/63ca729248267615f4b039277e8e92b4.png" tvg-chno="F0GZyAL" catchup="default" catchup-source="?playbackstart={utc}",🔴 12/05-21:10 | UAE Pro League | Dubba Al-Husun VS Al Wehda(UAE) (Updated: 2025-05-12 10:40:10)
 http://pk79.io.vn/vebo/play.php?id=F0GZyAL
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/baa0310d59a97af3f08bab0e35204cc7.png" tvg-chno="Yk1hKtT" catchup="default" catchup-source="?playbackstart={utc}",12/05-22:00 | Romanian Liga I | Petrolul Ploiesti VS FC Otelul Galati (Updated: 2025-05-12 10:20:02)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/baa0310d59a97af3f08bab0e35204cc7.png" tvg-chno="Yk1hKtT" catchup="default" catchup-source="?playbackstart={utc}",12/05-22:00 | Romanian Liga I | Petrolul Ploiesti VS FC Otelul Galati (Updated: 2025-05-12 10:40:10)
 http://pk79.io.vn/vebo/play.php?id=Yk1hKtT
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/4de0784e56b7b111063bdd301874cd54.png" tvg-chno="IlUnwbP" catchup="default" catchup-source="?playbackstart={utc}",12/05-22:00 | Africa U20 Cup of Nations | Ghana U20 VS Egypt U20 (Updated: 2025-05-12 10:20:02)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/4de0784e56b7b111063bdd301874cd54.png" tvg-chno="IlUnwbP" catchup="default" catchup-source="?playbackstart={utc}",12/05-22:00 | Africa U20 Cup of Nations | Ghana U20 VS Egypt U20 (Updated: 2025-05-12 10:40:10)
 http://pk79.io.vn/vebo/play.php?id=IlUnwbP
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/4de0784e56b7b111063bdd301874cd54.png" tvg-chno="5e0Hqh4" catchup="default" catchup-source="?playbackstart={utc}",12/05-22:00 | Africa U20 Cup of Nations | Morocco U20 VS Sierra Leone U20 (Updated: 2025-05-12 10:20:02)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/4de0784e56b7b111063bdd301874cd54.png" tvg-chno="5e0Hqh4" catchup="default" catchup-source="?playbackstart={utc}",12/05-22:00 | Africa U20 Cup of Nations | Morocco U20 VS Sierra Leone U20 (Updated: 2025-05-12 10:40:10)
 http://pk79.io.vn/vebo/play.php?id=5e0Hqh4
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png" tvg-chno="N0m1ixw" catchup="default" catchup-source="?playbackstart={utc}",12/05-23:05 | Saudi Professional League | Al Hilal VS Al-Orubah (Updated: 2025-05-12 10:20:02)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png" tvg-chno="N0m1ixw" catchup="default" catchup-source="?playbackstart={utc}",12/05-23:05 | Saudi Professional League | Al Hilal VS Al-Orubah (Updated: 2025-05-12 10:40:10)
 http://pk79.io.vn/vebo/play.php?id=N0m1ixw
-#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" tvg-chno="CGoJJOQ" catchup="default" catchup-source="?playbackstart={utc}",12/05-23:30 | Serie A | Venezia VS Fiorentina (Updated: 2025-05-12 10:20:02)
+#EXTINF:-1 group-title="vebo" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" tvg-chno="CGoJJOQ" catchup="default" catchup-source="?playbackstart={utc}",12/05-23:30 | Serie A | Venezia VS Fiorentina (Updated: 2025-05-12 10:40:10)
 http://pk79.io.vn/vebo/play.php?id=CGoJJOQ
 #EXTM3U
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F3466%2F1hcrek401ra.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F4083%2F1gqe5zh6q92e.png%3Fwin007%3Dsell", 🔴 12/05-21:10 | Dubba Al-Husun vs Al Wahda(UAE) | BLV HOẮC ĐÔ
