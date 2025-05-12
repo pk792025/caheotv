@@ -516,6 +516,8 @@ http://bentre5.hoangai.vn:8082/sctv/get.php?id=sctv2
 #EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/SCTV3.jpg", SCTV3 HD
 http://bentre5.hoangai.vn:8082/sctv/get.php?id=sctv3
 #EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/SCTV4.jpg", SCTV4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
 http://khaitv.giize.com:8080/tvmienphi/get.php?id=sctv4
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/SCTV5.jpg", SCTV5 HD - SCJ
 http://bentre5.hoangai.vn:8082/sctv/get.php?id=sctv5
@@ -527,6 +529,8 @@ http://bentre5.hoangai.vn:8082/sctv/get.php?id=sctv7
 #EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/SCTV8.jpg", SCTV8 HD
 http://bentre5.hoangai.vn:8082/sctv/get.php?id=sctv8
 #EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/SCTV9.jpg", SCTV9 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
 http://bentre5.hoangai.vn:12345/192.168.2.41:100/stream?url=https://zenlive.onsports.vn/onplus/SCTV9/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10
 #EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/SCTV9.jpg", SCTV9 HD SV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 
@@ -1820,9 +1824,9 @@ http://pk79.io.vn/laykinhtv/play.php?id=eFs31hRF
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/e1e3b1cf7d699effd7e411de04d89189.png", 12/05 21:10 | UAE Pro League | Baniyas Club VS Khor Fakkan SSC 🔴
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=vbxwsA4v
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/5edae2b7b8f5eef8c1a6ee1b46118eae.png", 12/05 19:30 | Ngoại hạng Ukraina | FC Inhulets Petrove VS FC Livyi Bereh
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/529b2a49c763bc4349fdf9b0f94742f7.png", 12/05 22:00 | Czech National Football League | Banik Ostrava B VS Opava
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-http://pk79.io.vn/laykinhtv/play.php?id=eU7aPq8P
+http://pk79.io.vn/laykinhtv/play.php?id=g7RJ0Fxj
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/24a57747bac38f002dd68b574b39d730.png", 12/05 22:00 | Ngoại hạng Belarus | Naftan Novopolock VS FC Torpedo Zhodino
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=osLULQbW
@@ -1964,6 +1968,12 @@ http://pk79.io.vn/laykinhtv/play.php?id=9errnTJW
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/09444e4eb2bee58fa8773c8f47267fcb.png", 13/05 20:15 | Qatar Prince Cup | Al Rayyan VS Al Duhail
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=yA2uK96h
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/09444e4eb2bee58fa8773c8f47267fcb.png", 13/05 20:15 | Qatar Prince Cup | Al-Ahli Doha VS Al Shahaniya
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+http://pk79.io.vn/laykinhtv/play.php?id=txd2yrgi
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/09444e4eb2bee58fa8773c8f47267fcb.png", 13/05 20:15 | Qatar Prince Cup | Umm Salal VS Al Shamal
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+http://pk79.io.vn/laykinhtv/play.php?id=3mR9fsss
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/c0e3d4d8939af75629435259bdae95bd.png", 13/05 21:00 | Ngoại hạng Ai Cập | Ceramica Cleopatra FC VS Al Ahly FC
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=4wGr8ajX
@@ -1976,9 +1986,6 @@ http://pk79.io.vn/laykinhtv/play.php?id=LXP5LtFk
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/e1e3b1cf7d699effd7e411de04d89189.png", 13/05 21:10 | UAE Pro League | Al Orooba(UAE) VS Al-Wasl SC
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=kraE1LWG
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/09444e4eb2bee58fa8773c8f47267fcb.png", 13/05 21:15 | Qatar Prince Cup | Al-Ahli Doha VS Al Shahaniya
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-http://pk79.io.vn/laykinhtv/play.php?id=txd2yrgi
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png", 13/05 21:45 | VĐQG Bulgaria | Cherno More Varna VS Ludogorets Razgrad
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=Lw3WzKrh
@@ -2009,9 +2016,6 @@ http://pk79.io.vn/laykinhtv/play.php?id=0MhfVRPq
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/5e1b2629744b07c53f6d6c032475078a.png", 14/05 00:00 | Spanish La Liga | Real Valladolid CF VS Girona FC
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=Lm7dngVD
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/09444e4eb2bee58fa8773c8f47267fcb.png", 14/05 00:15 | Qatar Prince Cup | Umm Salal VS Al Shamal
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-http://pk79.io.vn/laykinhtv/play.php?id=3mR9fsss
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/5e1b2629744b07c53f6d6c032475078a.png", 14/05 01:00 | Spanish La Liga | Real Sociedad VS RC Celta
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 http://pk79.io.vn/laykinhtv/play.php?id=g7KXiuXy
@@ -2687,7 +2691,7 @@ http://khaitv.giize.com:8080/thapcam/proxy.php?url=&referer=https://tructiep1.ga
 #EXTINF:-1 group-title="gavang" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd3b975ee560a1b9b244b8247ebb2f1cf%2Fimage%2Fsmall&m2=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff28104ca4974d6796f1da29a751ed375%2Fimage%2Fsmall", 13/05-08:00 | Mexico Liga MX Femenil | Club America (w) - Pachuca (w)
 http://khaitv.giize.com:8080/thapcam/proxy.php?url=&referer=https://tructiep1.gavang4.uk/
 #EXTM3U
-# Cập nhật lúc: 2025-05-12 10:25:09
+# Cập nhật lúc: 2025-05-12 10:50:07
 #EXTM3U
 #EXTINF:-1 group-title="highlight" tvg-logo="https://g7w1r.4shares.live/images/20250511-LIV-ARS-2%20(2).jpg",Highlights Liverpool vs Arsenal | BLV Trâu Gác Bếp | 12.05.25
 http://pk79.io.vn/xemlai/play.php?id=cSL3Gkk
