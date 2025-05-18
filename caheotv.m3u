@@ -1,7 +1,9 @@
 #EXTM3U
 #EXTM3U url-tvg="https://lichphatsong.xyz/schedule/epg.xml"
 #EXTINF:0 group-title="🔴|NGOẠI HẠNG ANH" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png",NGOẠI HẠNG ANH
-http://pk79.io.vn/play.php?id=2512539
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m102nd/playlist.m3u8
 #EXTINF:0 group-title="🔴|NGOẠI HẠNG ANH" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png",NGOẠI HẠNG ANH sv2
 http://pk79.io.vn/play.php?id=2512539
 #EXTINF:0 group-title="🔴|NGOẠI HẠNG ANH" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png",NGOẠI HẠNG ANH
@@ -15,7 +17,7 @@ http://bentre5.hoangai.vn:1234/stream/sctv/kaction/master.m3u8?u=atat1996&p=fbf5
 #EXTINF:0 group-title="🔴|NGOẠI HẠNG ANH" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", NGOẠI HẠNG ANH NHÀ ĐÀI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m103nd/playlist.m3u8
+https://ckcdn.livestreameuro.live/live/m102nd/playlist.m3u8
 
 
 
@@ -2291,7 +2293,7 @@ http://khaitv.giize.com:502/stream?url=https%3A%2F%2Flive.rapid-api.icu%2Flive%2
 #EXTINF:-1 group-title="gavang" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fdf0a03caca12ab56fb72e47a6501409c%2Fimage%2Fsmall&m2=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8cea83e71494928de3ba9b45ffc3f97e%2Fimage%2Fsmall", 19/05-00:00 | Spanish La Liga | Atletico Madrid - Real Betis
 http://khaitv.giize.com:502/stream?url=https%3A%2F%2Flive.rapid-api.icu%2Flive%2F874c69e3c0754ec1baaf44f35f1ccb42%2Fplaylist.m3u8&referer=https://tructiep1.gavang4.uk/
 #EXTM3U
-# Cập nhật lúc: 2025-05-18 11:00:08
+# Cập nhật lúc: 2025-05-18 11:25:06
 #EXTINF:-1 group-title="OnPLus Live 🔴" tvg-logo="https://imgvlive.vtvcab.vn/720X405/e1962065-19c9-4dd7-9534-74cf7c0e1f2f.jpg", 🔴 18/05-13:00 | Ngày 1 I Geneva Open 2025
 http://bentre5.hoangai.vn:8082/onplus/play2.php?id=onsport3
 #EXTINF:-1 group-title="OnPLus Live 🔴" tvg-logo="https://imgvlive.vtvcab.vn/720X405/5a95cb26-5c5e-4d99-b486-ab7a13088359.jpg", 🔴 18/05-15:30 | Ngày 1 I Hamburg Open 2025
@@ -2300,6 +2302,8 @@ http://bentre5.hoangai.vn:8082/onplus/play2.php?id=onsport9
 http://bentre5.hoangai.vn:8082/onplus/play2.php?id=onsport4
 #EXTINF:-1 group-title="OnPLus Live 🔴" tvg-logo="https://imgvlive.vtvcab.vn/720X405/f27bd831-9eb3-40cb-8568-54a02896fd8d.jpg", 18/05-21:40 | Hellas Verona vs Como
 http://bentre5.hoangai.vn:8082/onplus/play2.php?id=onsport3
+#EXTINF:-1 group-title="OnPLus Live 🔴" tvg-logo="https://imgvlive.vtvcab.vn/720X405/36fb2d44-7caf-4f3e-9ac1-1be1664c47fb.jpg", 18/05-21:40 | Juventus vs Udinese
+http://bentre5.hoangai.vn:8082/onplus/play2.php?id=onsport10
 #EXTM3U
 #EXTINF:-1 group-title="highlight" tvg-logo="https://g7w1r.4shares.live/news/my175.jpg",Highlights Crystal Palace vs Man City | BLV Mỳ Tôm | 17.5.25
 http://pk79.io.vn/xemlai/play.php?id=71i7xx2
