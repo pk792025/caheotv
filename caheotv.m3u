@@ -736,53 +736,31 @@ http://bentre5.hoangai.vn:12345/192.168.2.41:100/stream?url=https://zenlive.onsp
 
 
 #EXTINF:0 group-title="clip tv vtv" catchup="default" catchup-days="2" catchup-source="http://bentre5.hoangai.vn:8082/vtvgo/get.php?id=1&start=${start}&end=${end}&offset=${offset}" ,VTV1 HD
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cliptv.vn/
-https://pk79.io.vn/cliptv/vclip.php?id=vtv1-hd
+http://bentre5.hoangai.vn:8080/mytv/mytv.php?id=210
 #EXTINF:0 group-title="clip tv vtv" catchup="default" catchup-days="2" catchup-source="http://bentre5.hoangai.vn:8082/vtvgo/get.php?id=2&start=${start}&end=${end}&offset=${offset}" ,VTV2 HD
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cliptv.vn/
-https://pk79.io.vn/cliptv/vclip.php?id=vtv2-hd
+http://bentre5.hoangai.vn:8080/mytv/mytv.php?id=377
 #EXTINF:0 group-title="clip tv vtv" catchup="default" catchup-days="2" catchup-source="http://bentre5.hoangai.vn:8082/vtvgo/get.php?id=3&start=${start}&end=${end}&offset=${offset}" ,VTV3 HD
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cliptv.vn/
-https://pk79.io.vn/cliptv/vclip.php?id=vtv3-hd
+http://bentre5.hoangai.vn:8080/mytv/mytv.php?id=211
 #EXTINF:0 group-title="clip tv vtv" catchup="default" catchup-days="2" catchup-source="http://bentre5.hoangai.vn:8082/vtvgo/get.php?id=4&start=${start}&end=${end}&offset=${offset}" ,VTV4 HD
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cliptv.vn/
-https://pk79.io.vn/cliptv/vclip.php?id=vtv4-hd
+http://bentre5.hoangai.vn:8080/mytv/mytv.php?id=378
 #EXTINF:0 group-title="clip tv vtv" catchup="default" catchup-days="2" catchup-source="http://bentre5.hoangai.vn:8082/vtvgo/get.php?id=5&start=${start}&end=${end}&offset=${offset}" ,VTV5 HD
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cliptv.vn/
-https://pk79.io.vn/cliptv/vclip.php?id=vtv5-hd
+http://bentre5.hoangai.vn:8080/mytv/mytv.php?id=379
 #EXTINF:0 group-title="clip tv vtv" catchup="default" catchup-days="2" catchup-source="http://bentre5.hoangai.vn:8082/vtvgo/get.php?id=6&start=${start}&end=${end}&offset=${offset}" ,VTV Cần Thơ
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cliptv.vn/
-https://pk79.io.vn/cliptv/vclip.php?id=vtv-can-tho
+http://bentre5.hoangai.vn:8080/mytv/mytv.php?id=212
 #EXTINF:0 group-title="clip tv vtv",Quốc Hội
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cliptv.vn/
 https://pk79.io.vn/cliptv/vclip.php?id=quoc-hoi
 #EXTINF:0 group-title="clip tv vtv" catchup="default" catchup-days="2" catchup-source="http://bentre5.hoangai.vn:8082/vtvgo/get.php?id=16&start=${start}&end=${end}&offset=${offset}" ,VTV5 Tây Nguyên
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cliptv.vn/
-https://pk79.io.vn/cliptv/vclip.php?id=vtv5-tay-nguyen
+http://bentre5.hoangai.vn:8080/mytv/mytv.php?id=642
 #EXTINF:0 group-title="clip tv vtv" catchup="default" catchup-days="2" catchup-source="http://bentre5.hoangai.vn:8082/vtvgo/get.php?id=7&start=${start}&end=${end}&offset=${offset}" ,VTV5 Tây Nam Bộ
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cliptv.vn/
-https://pk79.io.vn/cliptv/vclip.php?id=vtv5-tay-nam-bo
+http://bentre5.hoangai.vn:8080/mytv/mytv.php?id=615
 #EXTINF:0 group-title="clip tv vtv" catchup="default" catchup-days="2" catchup-source="http://bentre5.hoangai.vn:8082/vtvgo/get.php?id=27&start=${start}&end=${end}&offset=${offset}" ,VTV7 HD
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cliptv.vn/
-https://pk79.io.vn/cliptv/vclip.php?id=vtv7-hd
+http://bentre5.hoangai.vn:8080/mytv/mytv.php?id=459
 #EXTINF:0 group-title="clip tv vtv" catchup="default" catchup-days="2" catchup-source="http://bentre5.hoangai.vn:8082/vtvgo/get.php?id=36&start=${start}&end=${end}&offset=${offset}" ,VTV8 HD
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cliptv.vn/
-https://pk79.io.vn/cliptv/vclip.php?id=vtv8-hd
+http://bentre5.hoangai.vn:8080/mytv/mytv.php?id=380
 #EXTINF:0 group-title="clip tv vtv" catchup="default" catchup-days="2" catchup-source="http://bentre5.hoangai.vn:8082/vtvgo/get.php?id=39&start=${start}&end=${end}&offset=${offset}" ,VTV9 HD
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cliptv.vn/
-https://pk79.io.vn/cliptv/vclip.php?id=vtv9-hd
+http://bentre5.hoangai.vn:8080/mytv/mytv.php?id=381
 
 
 #EXTINF:0 group-title="CLIPTV",HTV Thể Thao HD
@@ -2245,9 +2223,9 @@ http://khaitv.giize.com:8080/luongson/play.php?id=a2f6628e-3075-4bd0-9053-b64073
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F33%2F1h746a4jfr1p.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577479190.png%3Fwin007%3Dsell", 22/05-02:00 | Tottenham Hotspur vs Manchester United | BLV LƯU BỊ
 http://khaitv.giize.com:8080/luongson/play.php?id=e622690a-62e6-4aa4-9e55-a96eb59919d4
 #EXTINF:-1 group-title="gavang" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1f3e9caeece114b83a1eeaa728337c5c%2Fimage%2Fsmall&m2=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F01fd4983e73849eaf385a4efef3423ed%2Fimage%2Fsmall", 20/05-21:10 | United Arab Emirates Adnoc Pro-League | Al-Wasl SC - Baniyas Club
-http://khaitv.giize.com:502/stream?url=&referer=https://tructiep1.gavang4.uk/
+http://khaitv.giize.com:502/stream?url=https%3A%2F%2Flive.rapid-api.icu%2Flive%2F3a353ab7407c6479932ec7e612525251%2Fplaylist.m3u8&referer=https://tructiep1.gavang4.uk/
 #EXTINF:-1 group-title="gavang" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4c8c67670ebc0d8caad47e72aa5e781b%2Fimage%2Fsmall&m2=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8ee51e594a8d8f3885c75df3dca46d74%2Fimage%2Fsmall", 20/05-22:00 | Finnish Veikkausliiga | HJK Helsinki - SJK Seinajoen
-http://khaitv.giize.com:502/stream?url=&referer=https://tructiep1.gavang4.uk/
+http://khaitv.giize.com:502/stream?url=https%3A%2F%2Flive.rapid-api.icu%2Flive%2F3b4e9ab19d12ee20f983cc46afd405d1%2Fplaylist.m3u8&referer=https://tructiep1.gavang4.uk/
 #EXTINF:-1 group-title="gavang" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fdca32750bc6af8bc6bd956f46e98fba5%2Fimage%2Fsmall&m2=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb0389fd325fe3c253153bd93bae3b0a4%2Fimage%2Fsmall", 20/05-23:00 | Saudi Professional League | Al-Qadsiah - Al-Orubah
 http://khaitv.giize.com:502/stream?url=&referer=https://tructiep1.gavang4.uk/
 #EXTINF:-1 group-title="gavang" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F872c2925a38be90c1c64553ea02d47d2%2Fimage%2Fsmall&m2=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0860b34d33b58794dadec7cb30b63b25%2Fimage%2Fsmall", 21/05-00:00 | United Arab Emirates Adnoc Pro-League | Shabab AlAhli - Dibba Al-Hisn
@@ -2346,12 +2324,18 @@ http://pk79.io.vn/cakeo/play.php?id=xxw4ms8mx3
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FnmMrliZg-276dkaCq.png&m2=https%3A%2F%2Fimg.thesports.com%2Fbasketball%2Fteam%2F78cae1e21ed54494ed05a03fa3b9a22f.png",20:00 23/05 | Bóng rổ Indonesia | Amartha Hangtuah vs Prawira Bandung
 http://pk79.io.vn/cakeo/play.php?id=ocea1h9ryi
 #EXTM3U
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3149.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3656.png",[BLV:🗣︎Sùng A Lúa] 🔴 20/05-21:10 | UAE Pro League | Al-Wasl vs Banni Yas
+http://khaitv.giize.com:8080/vachvoi/play.php?id=al-wasl-vs-banni-yas-20-05-2025-uae-pro-league-l221676
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3149.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3656.png",(Nhà đài) 🔴 20/05-21:10 | UAE Pro League | Al-Wasl vs Banni Yas
+http://khaitv.giize.com:8080/vachvoi/play.php?id=al-wasl-vs-banni-yas-20-05-2025-uae-pro-league-l221676&type=nhadai
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4888.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F15081.png",(Nhà đài) 🔴 20/05-20:00 | Georgia Erovnuli Liga 2 | (Nhà đài) FC Sioni Bolnisi vs FC Metalurgi Rustavi
 http://khaitv.giize.com:8080/vachvoi/play.php?id=fc-sioni-bolnisi-vs-fc-metalurgi-rustavi-20-05-2025-georgia-erovnuli-liga-2-l221982&type=nhadai
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F17860.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F11817.png",(Nhà đài) 🔴 20/05-20:00 | Lebanese Premier League | (Nhà đài) Riyadi Abbasiya vs Al Bourj FC
 http://khaitv.giize.com:8080/vachvoi/play.php?id=riyadi-abbasiya-vs-al-bourj-fc-20-05-2025-lebanese-premier-league-l221983&type=nhadai
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="https://vnrunning.net/static/images/teams/3910.png",(Nhà đài) 🔴 20/05-20:00 | Uzbekistan Cup | (Nhà đài) Sogdiana Jizak vs Xorazm FA
 http://khaitv.giize.com:8080/vachvoi/play.php?id=sogdiana-jizak-vs-xorazm-fa-20-05-2025-uzbekistan-cup-l221827&type=nhadai
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F17341.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F7092.png",(Nhà đài) 🔴 20/05-21:00 | Portugal Taca Revelacao U23 | (Nhà đài) Torreense U23 vs Gil Vicente U23
+http://khaitv.giize.com:8080/vachvoi/play.php?id=torreense-u23-vs-gil-vicente-u23-20-05-2025-portugal-taca-revelacao-u23-l221831&type=nhadai
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4349.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4005.png",[BLV:🗣︎Sùng A Bí] 21/05-02:00 | Ngoại hạng Anh | Crystal Palace vs Wolves
 http://khaitv.giize.com:8080/vachvoi/play.php?id=crystal-palace-vs-wolves-21-05-2025-ngoai-hang-anh-l221752
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4349.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4005.png",(Nhà đài) 21/05-02:00 | Ngoại hạng Anh | Crystal Palace vs Wolves
@@ -2360,10 +2344,6 @@ http://khaitv.giize.com:8080/vachvoi/play.php?id=crystal-palace-vs-wolves-21-05-
 http://khaitv.giize.com:8080/vachvoi/play.php?id=manchester-city-vs-afc-bournemouth-21-05-2025-ngoai-hang-anh-l221753
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4082.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F28511.png",(Nhà đài) 21/05-02:00 | Ngoại hạng Anh | Manchester City vs AFC Bournemouth
 http://khaitv.giize.com:8080/vachvoi/play.php?id=manchester-city-vs-afc-bournemouth-21-05-2025-ngoai-hang-anh-l221753&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3149.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3656.png",[BLV:🗣︎Sùng A Lúa] 20/05-21:10 | UAE Pro League | Al-Wasl vs Banni Yas
-http://khaitv.giize.com:8080/vachvoi/play.php?id=al-wasl-vs-banni-yas-20-05-2025-uae-pro-league-l221676
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3149.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3656.png",(Nhà đài) 20/05-21:10 | UAE Pro League | Al-Wasl vs Banni Yas
-http://khaitv.giize.com:8080/vachvoi/play.php?id=al-wasl-vs-banni-yas-20-05-2025-uae-pro-league-l221676&type=nhadai
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="https://vnrunning.net/static/images/teams/735.jpeg",[BLV:🗣︎Sùng A Thông] 20/05-23:00 | Saudi Professional League | Al-Qadasiya vs Al-Orubah
 http://khaitv.giize.com:8080/vachvoi/play.php?id=al-qadasiya-vs-al-orubah-20-05-2025-saudi-professional-league-l221745
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="https://vnrunning.net/static/images/teams/735.jpeg",(Nhà đài) 20/05-23:00 | Saudi Professional League | Al-Qadasiya vs Al-Orubah
@@ -2380,14 +2360,14 @@ http://khaitv.giize.com:8080/vachvoi/play.php?id=al-shabab(ksa)-vs-al-ittihad-21
 http://khaitv.giize.com:8080/vachvoi/play.php?id=river-plate-vs-ca-platense-21-05-2025-argentine-division-1-l221756
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F930.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F629.png",(Nhà đài) 21/05-06:30 | Argentine Division 1 | River Plate vs CA Platense
 http://khaitv.giize.com:8080/vachvoi/play.php?id=river-plate-vs-ca-platense-21-05-2025-argentine-division-1-l221756&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4203.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4775.png",[BLV:🗣︎Sùng A Thông] 21/05-07:30 | Copa do Brazil | Gremio (RS) vs Centro Sportivo Alagoano
-http://khaitv.giize.com:8080/vachvoi/play.php?id=gremio-(rs)-vs-centro-sportivo-alagoano-21-05-2025-copa-do-brazil-l221847
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4203.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4775.png",(Nhà đài) 21/05-07:30 | Copa do Brazil | Gremio (RS) vs Centro Sportivo Alagoano
-http://khaitv.giize.com:8080/vachvoi/play.php?id=gremio-(rs)-vs-centro-sportivo-alagoano-21-05-2025-copa-do-brazil-l221847&type=nhadai
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3170.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3344.png",[BLV:🗣︎Sùng A Lúa] 21/05-07:30 | Copa do Brazil | Nautico (PE) vs Sao Paulo
 http://khaitv.giize.com:8080/vachvoi/play.php?id=nautico-(pe)-vs-sao-paulo-21-05-2025-copa-do-brazil-l221846
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3170.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3344.png",(Nhà đài) 21/05-07:30 | Copa do Brazil | Nautico (PE) vs Sao Paulo
 http://khaitv.giize.com:8080/vachvoi/play.php?id=nautico-(pe)-vs-sao-paulo-21-05-2025-copa-do-brazil-l221846&type=nhadai
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4203.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4775.png",[BLV:🗣︎Sùng A Thông] 21/05-07:30 | Copa do Brazil | Gremio (RS) vs Centro Sportivo Alagoano
+http://khaitv.giize.com:8080/vachvoi/play.php?id=gremio-(rs)-vs-centro-sportivo-alagoano-21-05-2025-copa-do-brazil-l221847
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4203.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4775.png",(Nhà đài) 21/05-07:30 | Copa do Brazil | Gremio (RS) vs Centro Sportivo Alagoano
+http://khaitv.giize.com:8080/vachvoi/play.php?id=gremio-(rs)-vs-centro-sportivo-alagoano-21-05-2025-copa-do-brazil-l221847&type=nhadai
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F13337.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F12001.png",[BLV:🗣︎Sùng A Chày] 21/05-14:00 | Chinese FA Cup | Shenzhen Youth vs Dalian Duxing Football Club
 http://khaitv.giize.com:8080/vachvoi/play.php?id=shenzhen-youth-vs-dalian-duxing-football-club-21-05-2025-chinese-fa-cup-l221757
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F13337.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F12001.png",(Nhà đài) 21/05-14:00 | Chinese FA Cup | Shenzhen Youth vs Dalian Duxing Football Club
@@ -2436,8 +2416,10 @@ http://khaitv.giize.com:8080/vachvoi/play.php?id=al-muharraq-vs-east-riffa-21-05
 http://khaitv.giize.com:8080/vachvoi/play.php?id=al-nassr(ksa)-vs-al-khaleej-club-21-05-2025-saudi-professional-league-l221962
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F29394.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3328.png",(Nhà đài) 21/05-23:10 | Saudi Professional League | Al-Nassr(KSA) vs Al Khaleej Club
 http://khaitv.giize.com:8080/vachvoi/play.php?id=al-nassr(ksa)-vs-al-khaleej-club-21-05-2025-saudi-professional-league-l221962&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F6711.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F14145.png",(Nhà đài) 20/05-21:00 | Giao hữu quốc tế | (Nhà đài) Argentina U17 vs Qatar U17
-http://khaitv.giize.com:8080/vachvoi/play.php?id=argentina-u17-vs-qatar-u17-20-05-2025-giao-huu-quoc-te-l221984&type=nhadai
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="https://vnrunning.net/static/images/teams/4900.png",(Nhà đài) 20/05-21:30 | Giao hữu quốc tế | (Nhà đài) Switzerland U16 vs Guatemala U16
+http://khaitv.giize.com:8080/vachvoi/play.php?id=switzerland-u16-vs-guatemala-u16-20-05-2025-giao-huu-quoc-te-l221987&type=nhadai
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4408.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4048.png",(Nhà đài) 20/05-21:45 | Bulgarian First League | (Nhà đài) FC Hebar Pazardzhik vs Botev Vratsa
+http://khaitv.giize.com:8080/vachvoi/play.php?id=fc-hebar-pazardzhik-vs-botev-vratsa-20-05-2025-bulgarian-first-league-l221026&type=nhadai
 #EXTM3U
 #EXTINF:-1 group-title="Game Show" tvg-logo="https://static3.thvli.vn/assets/thumbnail/2025/05/06/v8itgsn1_ThumbTHVLi-(408x230)-BienHoaBatNgo2025.jpg", Biến Hóa Bất Ngờ 2025
 http://khaitv.giize.com:3333/get_media_link?path=https://thvli.vn/detail/bien-hoa-bat-ngo-2025&extension=m3u8&location=yes
