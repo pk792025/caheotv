@@ -747,10 +747,8 @@ http://bentre5.hoangai.vn:8080/mytv/mytv.php?id=378
 http://bentre5.hoangai.vn:8080/mytv/mytv.php?id=379
 #EXTINF:0 group-title="clip tv vtv" catchup="default" catchup-days="2" catchup-source="http://bentre5.hoangai.vn:8082/vtvgo/get.php?id=6&start=${start}&end=${end}&offset=${offset}" ,VTV Cần Thơ
 http://bentre5.hoangai.vn:8080/mytv/mytv.php?id=212
-#EXTINF:0 group-title="clip tv vtv",Quốc Hội
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cliptv.vn/
-https://pk79.io.vn/cliptv/vclip.php?id=quoc-hoi
+#EXTINF:0 group-title="clip tv vtv",Quốc Phòng VN
+http://bentre5.hoangai.vn:8080/mytv/mytv.php?id=227
 #EXTINF:0 group-title="clip tv vtv" catchup="default" catchup-days="2" catchup-source="http://bentre5.hoangai.vn:8082/vtvgo/get.php?id=16&start=${start}&end=${end}&offset=${offset}" ,VTV5 Tây Nguyên
 http://bentre5.hoangai.vn:8080/mytv/mytv.php?id=642
 #EXTINF:0 group-title="clip tv vtv" catchup="default" catchup-days="2" catchup-source="http://bentre5.hoangai.vn:8082/vtvgo/get.php?id=7&start=${start}&end=${end}&offset=${offset}" ,VTV5 Tây Nam Bộ
@@ -764,9 +762,7 @@ http://bentre5.hoangai.vn:8080/mytv/mytv.php?id=381
 
 
 #EXTINF:0 group-title="CLIPTV",HTV Thể Thao HD
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cliptv.vn/
-https://pk79.io.vn/cliptv/vclip.php?id=htv-the-thao-hd
+http://bentre5.hoangai.vn:8080/mytv/mytv.php?id=18
 
 
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/60237478-0dc1-4480-a050-b2a84e4b9b69.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab18-on-sports-news/${start}/${offset}", ON Sports News (ON PLUS) 
@@ -1665,15 +1661,13 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
 #EXTM3U
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/57920ff59333c93f50109a187ab695a2.png", 20/05-19:00 | Armenian First League | Pyunik B VS Urartu II 🔴
-http://khaitv.giize.com:8080/laykinhtv/play.php?id=4vvElaUV
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/cfe07c7a207617d6b8bd67b612db6997.png", 20/05-20:00 | Uzbekistan Cup | Sogdiana Jizak VS Xorazm FA 🔴
 http://khaitv.giize.com:8080/laykinhtv/play.php?id=iiQRg8jR
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/e02bafe2eecacc9e23c435c0160efa51.png", 20/05-20:00 | Lebanese Premier League | Al Riyadi Al Abbasiyah VS Bourj SC 🔴
 http://khaitv.giize.com:8080/laykinhtv/play.php?id=spQc5JPc
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/3d5cb5659b0c7399db335e2b786fb406.png", 20/05-21:00 | Portugal Taca Revelacao U23 | Torreense U23 VS Gil Vicente U23
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/3d5cb5659b0c7399db335e2b786fb406.png", 20/05-21:00 | Portugal Taca Revelacao U23 | Torreense U23 VS Gil Vicente U23 🔴
 http://khaitv.giize.com:8080/laykinhtv/play.php?id=hMB6pdRw
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/e1e3b1cf7d699effd7e411de04d89189.png", 20/05-21:10 | UAE Pro League | Al-Wasl SC VS Baniyas Club
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/e1e3b1cf7d699effd7e411de04d89189.png", 20/05-21:10 | UAE Pro League | Al-Wasl SC VS Baniyas Club 🔴
 http://khaitv.giize.com:8080/laykinhtv/play.php?id=rgePokK0
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png", 20/05-21:45 | VĐQG Bulgaria | FC Hebar Pazardzhik VS Botev Vratsa
 http://khaitv.giize.com:8080/laykinhtv/play.php?id=qZRYlsa9
@@ -1697,8 +1691,6 @@ http://khaitv.giize.com:8080/laykinhtv/play.php?id=kXbOsnFM
 http://khaitv.giize.com:8080/laykinhtv/play.php?id=ciIl8Uwk
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/e5eb78a8955acd3d6ab7badb1bace986.png", 20/05-23:00 | Cúp Na Uy | Egersunds IK VS Sarpsborg 08
 http://khaitv.giize.com:8080/laykinhtv/play.php?id=yRq2ZKBP
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/e5eb78a8955acd3d6ab7badb1bace986.png", 20/05-23:00 | Cúp Na Uy | Aalesund FK VS Ham-Kam
-http://khaitv.giize.com:8080/laykinhtv/play.php?id=NAyQmfvA
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/8b8af0306472b55b13a3d9164ceaba74.png", 20/05-23:00 | UEFA European U17 | England U17 VS Belgium U17
 http://khaitv.giize.com:8080/laykinhtv/play.php?id=cVs6O3AG
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/0803d9954ca93b6cbd4402cf46600370.png", 20/05-23:00 | Ngoại Hạng Bahrain  | Najma Manama VS Sitra
@@ -2241,7 +2233,7 @@ http://khaitv.giize.com:502/stream?url=&referer=https://tructiep1.gavang4.uk/
 #EXTINF:-1 group-title="gavang" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F94a12ba18e275e878ec171ea5e761bd7%2Fimage%2Fsmall&m2=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F3bfaee9d695be42548a527518b0e5a63%2Fimage%2Fsmall", 21/05-07:30 | Brazilian Cup | Nautico (PE) - Sao Paulo
 http://khaitv.giize.com:502/stream?url=&referer=https://tructiep1.gavang4.uk/
 #EXTM3U
-# Cập nhật lúc: 2025-05-20 10:00:07
+# Cập nhật lúc: 2025-05-20 10:25:06
 #EXTINF:-1 group-title="OnPLus Live 🔴" tvg-logo="https://imgvlive.vtvcab.vn/720X405/3cda7748-ffe8-4894-a3cb-1160ec47a6c0.jpg", 🔴 20/05-12:30 | Ngày 3 I Geneva Open 2025
 http://bentre5.hoangai.vn:8082/onplus/play2.php?id=onsport3
 #EXTINF:-1 group-title="OnPLus Live 🔴" tvg-logo="https://imgvlive.vtvcab.vn/720X405/e2dce657-d0c0-4494-8e7f-d81401153f2b.jpg", 🔴 20/05-16:00 | UTC vs HUST
