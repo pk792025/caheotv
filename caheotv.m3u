@@ -42,6 +42,19 @@ http://bentre5.hoangai.vn:1234/stream/sctv/sctv17/master.m3u8?u=atat1996&p=fbf55
 #EXTINF:0 group-title="🔴|GIẢI QUỐC GIA TÂY BAN NHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/SCTV22.jpg",GIẢI TÂY BAN NHA
 http://bentre5.hoangai.vn:1234/stream/sctv/sctv22/master.m3u8?u=atat1996&p=fbf555dd835e1c2de5842f148e9b8c20555a316e90b63ef0947791beb24ed843
 
+#EXTINF:-1 group-title="⭐ Sự kiện CHUNG KẾT C1 CHÂU ÂU" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/05/29/10/1748490063402/9384d10c72ea_640_360.jpg", 01/06 02:00 | PSG VS INTER MILAN
+http://bentre5.hoangai.vn:8080/live/tv360/ios/get1.php?id=2554
+#EXTINF:-1 group-title="⭐ Sự kiện CHUNG KẾT C1 CHÂU ÂU" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/05/29/10/1748490063402/9384d10c72ea_640_360.jpg", 01/06 02:00 | PSG VS INTER MILAN
+http://bentre5.hoangai.vn:8080/live/tv360/playvip.php?id=198
+#EXTINF:-1 group-title="⭐ Sự kiện CHUNG KẾT C1 CHÂU ÂU" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/05/29/10/1748490063402/9384d10c72ea_640_360.jpg", 01/06 02:00 | PSG VS INTER MILAN
+http://khaitv.giize.com:8080/tvmienphi/get360.php?id=2554
+#EXTINF:-1 group-title="⭐ Sự kiện CHUNG KẾT C1 CHÂU ÂU" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/05/29/10/1748490063402/9384d10c72ea_640_360.jpg", 01/06 02:00 | PSG VS INTER MILAN
+http://khaitv.giize.com:8080/tvmienphi/getv.php?id=2554
+#EXTINF:-1 group-title="⭐ Sự kiện CHUNG KẾT C1 CHÂU ÂU" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/05/29/10/1748490063402/9384d10c72ea_640_360.jpg", 01/06 02:00 | PSG VS INTER MILAN
+http://khaitv.giize.com:8080/get/tv360.php?id1=220&id2=198
+#EXTINF:-1 group-title="⭐ Sự kiện CHUNG KẾT C1 CHÂU ÂU" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/05/29/10/1748490063402/9384d10c72ea_640_360.jpg", 01/06 02:00 | PSG VS INTER MILAN
+http://bentre5.hoangai.vn:12345/192.168.2.41:100/stream?url=https://zenlive.onsports.vn/onplus/BONGDA_HD/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10
+
 
 
 #EXTINF:0 group-title="🔴|C1 CHÂU ÂU" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189720461/dc4ee8910c25_640_360.png",C1 CHÂU ÂU
@@ -1196,15 +1209,35 @@ https://chcdn.livestreameuro.live/live/tichhd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m504nd/playlist.m3u8 
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giao Hữu Quốc Tế",30/05 17h00 Hàn Quốc (W) VS Colombia (W) (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179939170.vipcdnlive.xyz/live/phusd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giao Hữu Quốc Tế",30/05 17h00 Hàn Quốc (W) VS Colombia (W) (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179939170.vipcdnlive.xyz/live/phuhd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giao Hữu Quốc Tế",30/05 17h00 Hàn Quốc (W) VS Colombia (W) (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/phusd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giao Hữu Quốc Tế",30/05 17h00 Hàn Quốc (W) VS Colombia (W) (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/phuhd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giao Hữu Quốc Tế",30/05 17h00 Hàn Quốc (W) VS Colombia (W) (CH) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/phusd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giao Hữu Quốc Tế",30/05 17h00 Hàn Quốc (W) VS Colombia (W) (CH) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/phuhd1.flv
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Ngoại Hạng Nữ Úc New South Wales",30/05 17h00 Newcastle Olympic FC (w) VS Maitland FC (w) (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m401nd/playlist.m3u8 
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giao Hữu Quốc Tế",30/05 17h00 Australia (W) VS Argentina (W) (CH)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giao Hữu Quốc Tế",30/05 17h00 Hàn Quốc (W) VS Colombia (W) (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -1901,14 +1934,14 @@ http://khaitv.giize.com:8080/vachvoi/play.php?id=broadmeadow-magic-reserves-vs-n
 http://khaitv.giize.com:8080/vachvoi/play.php?id=gungahlin-united-vs-tuggeranong-united-30-05-2025-australia-national-premier-leagues-capital-football-1-l223689&type=nhadai
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F6705.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F5236.png",(Nhà đài) 🔴 30/05-15:45 | South Australia Women's Premier League | (Nhà đài) Adelaide City (w) vs Adelaide University (w)
 http://khaitv.giize.com:8080/vachvoi/play.php?id=adelaide-city-(w)-vs-adelaide-university-(w)-30-05-2025-south-australia-women's-premier-league-l223659&type=nhadai
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F6492.webp&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F17283.png",(Nhà đài) 🔴 30/05-16:00 | Ukrainian Second League | (Nhà đài) FC Chernigiv vs Skala 1911 Stryi
+http://khaitv.giize.com:8080/vachvoi/play.php?id=fc-chernigiv-vs-skala-1911-stryi-30-05-2025-ukrainian-second-league-l223678&type=nhadai
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F28798.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F13561.png",(Nhà đài) 🔴 30/05-16:00 | Chinese Champions League | (Nhà đài) Wuhan Juxing Shanyao vs Changle Jingangtui Football Club
+http://khaitv.giize.com:8080/vachvoi/play.php?id=wuhan-juxing-shanyao-vs-changle-jingangtui-football-club-30-05-2025-chinese-champions-league-l223681&type=nhadai
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="",(Nhà đài) 🔴 30/05-16:00 | Myanmar U21 League | (Nhà đài) Shan Utd U21 vs Dagon FC U21
 http://khaitv.giize.com:8080/vachvoi/play.php?id=shan-utd-u21-vs-dagon-fc-u21-30-05-2025-myanmar-u21-league-l223683&type=nhadai
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="",(Nhà đài) 🔴 30/05-16:00 | Myanmar U21 League | (Nhà đài) Ayeyawady Utd U21 vs Yamanya United U21
 http://khaitv.giize.com:8080/vachvoi/play.php?id=ayeyawady-utd-u21-vs-yamanya-united-u21-30-05-2025-myanmar-u21-league-l223685&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F28798.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F13561.png",(Nhà đài) 🔴 30/05-16:00 | Chinese Champions League | (Nhà đài) Wuhan Juxing Shanyao vs Changle Jingangtui Football Club
-http://khaitv.giize.com:8080/vachvoi/play.php?id=wuhan-juxing-shanyao-vs-changle-jingangtui-football-club-30-05-2025-chinese-champions-league-l223681&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F6492.webp&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F17283.png",(Nhà đài) 🔴 30/05-16:00 | Ukrainian Second League | (Nhà đài) FC Chernigiv vs Skala 1911 Stryi
-http://khaitv.giize.com:8080/vachvoi/play.php?id=fc-chernigiv-vs-skala-1911-stryi-30-05-2025-ukrainian-second-league-l223678&type=nhadai
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F15160.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F394.png",[BLV:🗣︎Sùng A Thông] 30/05-19:00 | Giao hữu | Hong Kong vs Manchester United
 http://khaitv.giize.com:8080/vachvoi/play.php?id=hong-kong-vs-manchester-united-30-05-2025-giao-huu-l223429
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F15160.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F394.png",(Nhà đài) 30/05-19:00 | Giao hữu | Hong Kong vs Manchester United
@@ -1933,8 +1966,14 @@ http://khaitv.giize.com:8080/vachvoi/play.php?id=al-ittihad-vs-al-qadisiya-31-05
 http://khaitv.giize.com:8080/vachvoi/play.php?id=vancouver-fc-vs-atl.-ottawa-31-05-2025-canadian-championship-l223830
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F8295.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F8291.png",(Nhà đài) 31/05-09:00 | Canadian Championship | Vancouver FC vs Atl. Ottawa
 http://khaitv.giize.com:8080/vachvoi/play.php?id=vancouver-fc-vs-atl.-ottawa-31-05-2025-canadian-championship-l223830&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F5033.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3888.png",(Nhà đài) 30/05-16:45 | National Premier Leagues Victoria | (Nhà đài) Dandenong City SC vs Dandenong Thunder
-http://khaitv.giize.com:8080/vachvoi/play.php?id=dandenong-city-sc-vs-dandenong-thunder-30-05-2025-national-premier-leagues-victoria-l223690&type=nhadai
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4695.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F19888.png",(Nhà đài) 30/05-17:00 | Giao hữu quốc tế | (Nhà đài) Germany (w) U19 vs England (w) U19
+http://khaitv.giize.com:8080/vachvoi/play.php?id=germany-(w)-u19-vs-england-(w)-u19-30-05-2025-giao-huu-quoc-te-l223817&type=nhadai
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="https://vnrunning.net/static/images/teams/21046.png",(Nhà đài) 30/05-17:00 | International Friendly | (Nhà đài) Australia Women vs Argentina Women
+http://khaitv.giize.com:8080/vachvoi/play.php?id=australia-women-vs-argentina-women-30-05-2025-international-friendly-l223697&type=nhadai
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4496.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3803.png",(Nhà đài) 30/05-17:00 | Australia Northern New South Wales Premier League | (Nhà đài) Broadmeadow Magic vs New Lambton FC
+http://khaitv.giize.com:8080/vachvoi/play.php?id=broadmeadow-magic-vs-new-lambton-fc-30-05-2025-australia-northern-new-south-wales-premier-league-l223696&type=nhadai
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3827.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3832.png",(Nhà đài) 30/05-17:00 | South Australia National Premier Leagues | (Nhà đài) Metrostars SC vs Campbelltown City SC
+http://khaitv.giize.com:8080/vachvoi/play.php?id=metrostars-sc-vs-campbelltown-city-sc-30-05-2025-south-australia-national-premier-leagues-l223695&type=nhadai
 #EXTM3U
 #EXTINF:-1 group-title="Game Show" tvg-logo="https://static3.thvli.vn/assets/thumbnail/2025/05/29/2kufmpyv_Thumb_THVLi66126757e0006576fb07d6f1b79be002.jpg", Giai Điệu Ước Mơ
 http://khaitv.giize.com:3333/get_media_link?path=https://thvli.vn/detail/giai-dieu-uoc-mo&extension=m3u8&location=yes
