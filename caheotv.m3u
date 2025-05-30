@@ -504,7 +504,7 @@ http://bentre5.hoangai.vn:7000/stream_media?id=sctvonline.vn/detail/htv9-c6c29fc
 #EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/THVL1.jpg",Vĩnh Long 1
 http://khaitv.giize.com:8080/thapcam/proxy.php?url=https%3A%2F%2Fe2.endpoint.cdn.sctvonline.vn%2Fcdn-secure%2Fv1%2Fsctvonline%2F2%2FYxWhkFjshI9cuFCIDD-t3A%2F1748710800%2Fanonymous%2Flive%2Fhls%2Fthvl1%2F01.m3u8&referer=https%3A%2F%2Fsctvonline.vn%2F
 #EXTINF:0 group-title="SCTV" tvg-logo="https://i.ytimg.com/vi/0W7Nvg-dQjY/maxresdefault.jpg",Vĩnh Long 2
-http://khaitv.giize.com:8080/tvmienphi/get360.php?id=26
+https://freem3u.xyz/api/live/play.json?vl=thvl2-hd
 #EXTINF:0 group-title="SCTV" tvg-logo="https://i.ytimg.com/vi/4jr8Y13NSME/maxresdefault.jpg",VTV 3
 http://bentre5.hoangai.vn:7000/stream_media?id=sctvonline.vn/detail/vtv3-hd-d605e3bf
 #EXTINF:0 group-title="SCTV" tvg-logo="https://i.ytimg.com/vi/hWt5JN_B66Y/maxresdefault.jpg",VTV 7
@@ -576,11 +576,11 @@ http://bentre5.hoangai.vn:7000/stream_media?id=sctvonline.vn/detail/htv7-9663450
 #EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/SCTV1HD.jpg",SCTV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
-http://bentre5.hoangai.vn:7000/stream_media?id=sctvonline.vn/detail/sctv1-hd-7f2aafec
+https://freem3u.xyz/api/live/play.json?sid=sctv1
 #EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/SCTV2.jpg",SCTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
-http://bentre5.hoangai.vn:7000/stream_media?id=sctvonline.vn/detail/sctv2-57c3884d
+https://freem3u.xyz/api/live/play.json?sid=sctv2
 #EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/SCTV3.jpg",SCTV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
@@ -590,11 +590,17 @@ http://bentre5.hoangai.vn:8082/sctv/get.php?id=sctv3
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
 http://khaitv.giize.com:8080/tvmienphi/get.php?id=sctv5
 #EXTINF:0 group-title="SCTV" tvg-logo="https://i.ytimg.com/vi/lak883WKa3s/hq720.jpg",VTV 5
-http://bentre5.hoangai.vn:7000/stream_media?id=sctvonline.vn/detail/vtv5-truyen-hinh-dan-toc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://freem3u.xyz/api/live/play.json?sid=vtv5
 #EXTINF:0 group-title="SCTV" tvg-logo="https://i.ytimg.com/vi/LkeoKNW8YlU/hq720.jpg",VTV 5 Tây Nam Bộ
-http://bentre5.hoangai.vn:7000/stream_media?id=sctvonline.vn/detail/vtv5-tay-nam-bo-tieng-dan-toc-khu-vuc-tay-nam-bo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://freem3u.xyz/api/live/play.json?sid=vtv5tnb
 #EXTINF:0 group-title="SCTV" tvg-logo="https://i.ytimg.com/vi/u3oLNrB_WDM/maxresdefault.jpg",VTV 6 VTV Cần Thơ
-http://bentre5.hoangai.vn:12345/192.168.2.41:100/stream?url=https://zenlive.onsports.vn/onplus/VTV6_HD/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://freem3u.xyz/api/live/play.json?sid=vtvcantho
 #EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/SCTV15.jpg",SCTV 15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
@@ -1593,9 +1599,7 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
 #EXTM3U
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/ca9c267dad0305d1a6308d2a0cf1c39c.jpg", 31/05-03:00 | CONCACAF U20 Women's Championship | Costa Rica (w) U20 VS Puerto Rico (w) U20
-http://khaitv.giize.com:8080/laykinhtv/play.php?id=rPEvABO8
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/6813ba1ebe40c6bc7bb1b081d916a1a6.png", 31/05-05:00 | Hạng 2 Brazil | Vila Nova VS Gremio Novorizontino
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/6813ba1ebe40c6bc7bb1b081d916a1a6.png", 31/05-05:00 | Hạng 2 Brazil | Vila Nova VS Gremio Novorizontino 🔴
 http://khaitv.giize.com:8080/laykinhtv/play.php?id=AgCgUquZ
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/5877c73c98324f831f2a5c8168403bda.png", 31/05-06:00 | Ecuadorian  Cup | UD Ibarra VS San Antonio(ECU)
 http://khaitv.giize.com:8080/laykinhtv/play.php?id=z8TH9EJ1
@@ -1999,15 +2003,17 @@ http://khaitv.giize.com:8080/luongson/play.php?id=77957a8e-ec87-4901-b9a4-f1cebb
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871185439.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F16486899691.png%3Fwin007%3Dsell", 01/06-02:00 | Paris Saint Germain (PSG) vs Inter Milan | BLV SÁCH SIÊU
 http://khaitv.giize.com:8080/luongson/play.php?id=f85eff8e-6cdc-4422-988e-ca945393d323
 #EXTM3U
-# Cập nhật lúc: 2025-05-30 18:00:10
-#EXTINF:-1 group-title="OnPLus Live 🔴" tvg-logo="https://imgvlive.vtvcab.vn/720X405/f782d642-0ced-4a4d-bad1-8e468b547b2e.jpg", 🔴 30/05-12:00 | Roland Garros 2025 | Feed 5
-http://bentre5.hoangai.vn:8082/onplus/play2.php?id=onsport8
-#EXTINF:-1 group-title="OnPLus Live 🔴" tvg-logo="https://imgvlive.vtvcab.vn/720X405/1c3a464e-f864-4e7e-ab37-99676c7be27e.jpg", 🔴 30/05-12:00 | Roland Garros 2025 | Feed 3
-http://bentre5.hoangai.vn:8082/onplus/play2.php?id=onsport2
+# Cập nhật lúc: 2025-05-30 18:25:06
 #EXTINF:-1 group-title="OnPLus Live 🔴" tvg-logo="https://imgvlive.vtvcab.vn/720X405/b4644320-8744-4586-9850-7006fa7fa6dc.jpg", 🔴 30/05-12:00 | Roland Garros 2025 | Feed 4
 http://bentre5.hoangai.vn:8082/onplus/play2.php?id=onsport4
+#EXTINF:-1 group-title="OnPLus Live 🔴" tvg-logo="https://imgvlive.vtvcab.vn/720X405/1c3a464e-f864-4e7e-ab37-99676c7be27e.jpg", 🔴 30/05-12:00 | Roland Garros 2025 | Feed 3
+http://bentre5.hoangai.vn:8082/onplus/play2.php?id=onsport2
+#EXTINF:-1 group-title="OnPLus Live 🔴" tvg-logo="https://imgvlive.vtvcab.vn/720X405/f782d642-0ced-4a4d-bad1-8e468b547b2e.jpg", 🔴 30/05-12:00 | Roland Garros 2025 | Feed 5
+http://bentre5.hoangai.vn:8082/onplus/play2.php?id=onsport8
 #EXTINF:-1 group-title="OnPLus Live 🔴" tvg-logo="https://imgvlive.vtvcab.vn/720X405/ed64e771-09cf-4ea8-8c5e-ea4f558d8fda.jpg", 🔴 30/05-13:00 | Roland Garros 2025 | Feed 6
 http://bentre5.hoangai.vn:8082/onplus/play2.php?id=onsport3
+#EXTINF:-1 group-title="OnPLus Live 🔴" tvg-logo="https://imgvlive.vtvcab.vn/720X405/21ec6a14-ad16-4a58-aaea-5a23d68f1b84.jpg", 31/05-08:55 | KT vs DRX
+http://bentre5.hoangai.vn:8082/onplus/play2.php?id=onsport9
 #EXTM3U
 # Cập nhật lúc: 05:00:06 31/05/2025
 # Tổng số trận: 35
