@@ -572,15 +572,11 @@ http://khaitv.giize.com:8080/thapcam/proxy.php?url=https%3A%2F%2Ffreem3u.xyz%2Fa
 #EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/ANTVHD.jpg",Công an nhân dân
 http://khaitv.giize.com:8080/tvmienphi/get360.php?id=20
 #EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/HTV7HD.jpg",HTV 7
-http://bentre5.hoangai.vn:7000/stream_media?id=sctvonline.vn/detail/htv7-96634500
+http://bentre5.hoangai.vn:8080/mytv/mytv.php?id=128
 #EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/SCTV1HD.jpg",SCTV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-#EXTVLCOPT:http-referrer=https://sctvonline.vn/
-https://freem3u.xyz/api/live/play.json?sid=sctv1
+http://khaitv.giize.com:8080/thapcam/proxy.php?url=https%3A%2F%2Ffreem3u.xyz%2Fapi%2Flive%2Fplay.m3u8%3Fmid%3D769&referer=https%3A%2F%2Fmytv.com.vn%2F
 #EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/SCTV2.jpg",SCTV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-#EXTVLCOPT:http-referrer=https://sctvonline.vn/
-https://freem3u.xyz/api/live/play.json?sid=sctv2
+http://khaitv.giize.com:8080/thapcam/proxy.php?url=https%3A%2F%2Ffreem3u.xyz%2Fapi%2Flive%2Fplay.m3u8%3Fmid%3D772&referer=https%3A%2F%2Fmytv.com.vn%2F
 #EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/SCTV3.jpg",SCTV 3
 http://khaitv.giize.com:8080/thapcam/proxy.php?url=https%3A%2F%2Fe8.endpoint.cdn.sctvonline.vn%2Fcdn-secure%2Fv1%2Fsctvonline%2F2%2FBPYkleJctmgJ_o1qpyPLaQ%2F1748710800%2Fanonymous%2Flive%2Fhls%2Fsctv3%2Findex.m3u8&referer=https%3A%2F%2Fsctvonline.vn%2F
 #EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/SCTV5.jpg",SCTV 5
@@ -1571,9 +1567,9 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTM3U
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/6813ba1ebe40c6bc7bb1b081d916a1a6.png", 31/05-05:00 | Hạng 2 Brazil | Vila Nova VS Gremio Novorizontino 🔴
 http://khaitv.giize.com:8080/laykinhtv/play.php?id=AgCgUquZ
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/5877c73c98324f831f2a5c8168403bda.png", 31/05-06:00 | Ecuadorian  Cup | UD Ibarra VS San Antonio(ECU)
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/5877c73c98324f831f2a5c8168403bda.png", 31/05-06:00 | Ecuadorian  Cup | UD Ibarra VS San Antonio(ECU) 🔴
 http://khaitv.giize.com:8080/laykinhtv/play.php?id=z8TH9EJ1
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/9f78213cf535a1c2a63de67b0673d599.png", 31/05-06:00 | United States Women's Premier League | Reading United (W) VS Pennsylvania (w)
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/9f78213cf535a1c2a63de67b0673d599.png", 31/05-06:00 | United States Women's Premier League | Reading United (W) VS Pennsylvania (w) 🔴
 http://khaitv.giize.com:8080/laykinhtv/play.php?id=AIP3JGju
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/competition/f23575dd4d4702fcf2b82434dd4303f1.png", 31/05-07:00 | VĐQG Ecuador | Macara VS Manta FC
 http://khaitv.giize.com:8080/laykinhtv/play.php?id=Q1wYUBqD
@@ -1973,7 +1969,7 @@ http://khaitv.giize.com:8080/luongson/play.php?id=c33fdb85-fe01-4e1b-a3a9-423b51
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871185439.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F16486899691.png%3Fwin007%3Dsell", 01/06-02:00 | Paris Saint Germain (PSG) vs Inter Milan | BLV SÁCH SIÊU
 http://khaitv.giize.com:8080/luongson/play.php?id=f85eff8e-6cdc-4422-988e-ca945393d323
 #EXTM3U
-# Cập nhật lúc: 2025-05-30 19:00:10
+# Cập nhật lúc: 2025-05-30 19:25:06
 #EXTINF:-1 group-title="OnPLus Live 🔴" tvg-logo="https://imgvlive.vtvcab.vn/720X405/b4644320-8744-4586-9850-7006fa7fa6dc.jpg", 🔴 30/05-12:00 | Roland Garros 2025 | Feed 4
 http://bentre5.hoangai.vn:8082/onplus/play2.php?id=onsport4
 #EXTINF:-1 group-title="OnPLus Live 🔴" tvg-logo="https://imgvlive.vtvcab.vn/720X405/1c3a464e-f864-4e7e-ab37-99676c7be27e.jpg", 🔴 30/05-12:00 | Roland Garros 2025 | Feed 3
@@ -2316,7 +2312,3 @@ http://khaitv.giize.com:8080/vebo/playxemlai.php?id=YfI1CWi
 #EXTINF:-1 group-title="🔄 Highlight & phát lại (90p)" tvg-logo="https://g7w1r.4shares.live/news/tot170525.jpg", 17/05 |Fullmatch Aston Villa vs Tottenham Hotspur | BLV Bánh Cuốn
 http://khaitv.giize.com:8080/vebo/playxemlai.php?id=RLCsAeH
 #EXTM3U
-#EXTINF:-1 group-title="⭐ Sự kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/05/28/17/174842813576/0748fa0a94c5_640_360.jpg", 02/06 01:00 | PGA TOUR 2025 THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY NGÀY 4
-http://bentre5.hoangai.vn:8080/live/tv360/playvip.php?id=169
-#EXTINF:-1 group-title="⭐ Sự kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/05/29/10/1748490063402/9384d10c72ea_640_360.jpg", 01/06 02:00 | PSG VS INTER MILAN
-http://bentre5.hoangai.vn:8080/live/tv360/playvip.php?id=198
