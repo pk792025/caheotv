@@ -17,7 +17,8 @@ http://bentre5.hoangai.vn:12345/192.168.2.41:100/stream?url=https://zenlive.onsp
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m102nd/playlist.m3u8
 
-
+#EXTINF:0 group-title="🔴|BÓNG CHUYỀN" tvg-logo="https://onplus.com.vn/logo/logo_tet.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", BÓNG CHUYỀN
+http://khaitv.giize.com:8080/tvmienphi/geto.php?id=bongchuyen
 
 
 #EXTINF:0 group-title="🔴|GIẢI QUỐC GIA Ý + ĐỨC" tvg-logo="https://imgvlive.vtvcab.vn/720X405/5145995d-794d-4329-a44b-d8caffdceb40.jpg",GIẢI Ý + ĐỨC
