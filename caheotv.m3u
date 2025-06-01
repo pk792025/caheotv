@@ -36,11 +36,12 @@ http://bentre5.hoangai.vn:12345/192.168.2.41:100/stream?url=https://zenlive.onsp
 
 
 #EXTINF:0 group-title="🔴|GIẢI QUỐC GIA TÂY BAN NHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/SCTV15.jpg",GIẢI TÂY BAN NHA
-http://bentre5.hoangai.vn:1234/stream/sctv/sctv15/master.m3u8?u=atat1996&p=fbf555dd835e1c2de5842f148e9b8c20555a316e90b63ef0947791beb24ed843
+http://khaitv.giize.com:8080/thapcam/proxy.php?url=https%3A%2F%2Ffreem3u.xyz%2Fapi%2Flive%2Fplay.m3u8%3Fmid%3D823&referer=https%3A%2F%2Fmytv.com.vn%2F
 #EXTINF:0 group-title="🔴|GIẢI QUỐC GIA TÂY BAN NHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/SCTV17.jpg",GIẢI TÂY BAN NHA
-http://bentre5.hoangai.vn:1234/stream/sctv/sctv17/master.m3u8?u=atat1996&p=fbf555dd835e1c2de5842f148e9b8c20555a316e90b63ef0947791beb24ed843
+http://khaitv.giize.com:8080/thapcam/proxy.php?url=https%3A%2F%2Ffreem3u.xyz%2Fapi%2Flive%2Fplay.m3u8%3Fmid%3D826&referer=https%3A%2F%2Fmytv.com.vn%2F
 #EXTINF:0 group-title="🔴|GIẢI QUỐC GIA TÂY BAN NHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/SCTV22.jpg",GIẢI TÂY BAN NHA
-http://bentre5.hoangai.vn:1234/stream/sctv/sctv22/master.m3u8?u=atat1996&p=fbf555dd835e1c2de5842f148e9b8c20555a316e90b63ef0947791beb24ed843
+http://khaitv.giize.com:8080/thapcam/proxy.php?url=https%3A%2F%2Ffreem3u.xyz%2Fapi%2Flive%2Fplay.m3u8%3Fmid%3D829&referer=https%3A%2F%2Fmytv.com.vn%2F
+
 
 #EXTINF:-1 group-title="⭐ Sự kiện CHUNG KẾT C1 CHÂU ÂU" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/05/29/10/1748490063402/9384d10c72ea_640_360.jpg", 01/06 02:00 | PSG VS INTER MILAN sv1
 http://khaitv.giize.com:8080/tvmienphi/get360.php?id=2554
@@ -396,9 +397,7 @@ http://khaitv.giize.com:8080/tvmienphi/get360.php?id=9
 #EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/HTV9HD.jpg",HTV 9
 http://bentre5.hoangai.vn:8080/mytv/mytv.php?id=190
 #EXTINF:0 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/THVL1.jpg",Vĩnh Long 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://sctvonline.vn/
-http://khaitv.giize.com:8080/tvmienphi/sctv.php?id=thvl1
+http://khaitv.giize.com:8080/tvmienphi/get360.php?id=25
 #EXTINF:0 group-title="SCTV" tvg-logo="https://i.ytimg.com/vi/0W7Nvg-dQjY/maxresdefault.jpg",Vĩnh Long 2
 http://khaitv.giize.com:8080/tvmienphi/get360.php?id=26
 #EXTINF:0 group-title="SCTV" tvg-logo="https://i.ytimg.com/vi/4jr8Y13NSME/maxresdefault.jpg",VTV 3
@@ -1040,11 +1039,7 @@ http://khaitv.giize.com:502/stream?url=udp://@225.1.4.171:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",Vũng Tàu HD
 http://khaitv.giize.com:502/stream?url=udp://@225.1.4.172:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",Bắc Kạn HD
-http://khaitv.giize.com:502/stream?url=udp://@225.1.4.174:30120#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Hạng 2 Mexico",01/06 08h00 Club Chivas Tapatio VS Leones Negros (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m303nd/playlist.m3u8 
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Major League Soccer",01/06 09h30 San Diego FC VS Austin FC (CH) SD 1
+http://khaitv.giize.com:502/stream?url=udp://@225.1.4.174:30120#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Major League Soccer",01/06 09h30 San Diego FC VS Austin FC (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179245845.cdnfree.pro/live/sunsd2/playlist.m3u8
