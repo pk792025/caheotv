@@ -19,8 +19,14 @@ https://ckcdn.livestreameuro.live/live/m102nd/playlist.m3u8
 
 #EXTINF:0 group-title="🔴|BÓNG CHUYỀN" tvg-logo="https://onplus.com.vn/logo/logo_tet.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", BÓNG CHUYỀN
 http://khaitv.giize.com:8080/tvmienphi/geto.php?id=bongchuyen
-#EXTINF:0 group-title="🔴|BÓNG ĐÁ ĐỨC" tvg-logo="https://stimg.onlive.vn/LOGO/bu/bundesliga/bundesliga.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", BÓNG CHUYỀN
+#EXTINF:0 group-title="🔴|BÓNG ĐÁ ĐỨC" tvg-logo="https://stimg.onlive.vn/LOGO/bu/bundesliga/bundesliga.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", BÓNG ĐÁ ĐỨC
 http://khaitv.giize.com:8080/tvmienphi/geto.php?id=bundesliga
+#EXTINF:0 group-title="🔴|BÓNG ĐÁ PHÁP" tvg-logo="https://cdn-01.onlive.vn/category_img/2023/11/20/1620655b302aa410b.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", BÓNG ĐÁ PHÁP
+http://khaitv.giize.com:8080/tvmienphi/geto.php?id=ligue1
+#EXTINF:0 group-title="🔴|BÓNG ĐÁ Ý" tvg-logo="https://stimg.onlive.vn/LOGO/se/seriea/seriea.jpg?dummy=80316355" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", BÓNG ĐÁ Ý
+http://khaitv.giize.com:8080/tvmienphi/geto.php?id=seriea
+#EXTINF:0 group-title="🔴|VÕ THUẬT" tvg-logo="https://cdn-01.onlive.vn/category_img/2023/06/15/1686817673.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", VÕ THUẬT
+http://khaitv.giize.com:8080/tvmienphi/geto.php?id=vothuatvn&retry=1
 
 #EXTINF:0 group-title="🔴|GIẢI QUỐC GIA Ý + ĐỨC" tvg-logo="https://imgvlive.vtvcab.vn/720X405/5145995d-794d-4329-a44b-d8caffdceb40.jpg",GIẢI Ý + ĐỨC
 http://bentre5.hoangai.vn:12345/192.168.2.41:100/stream?url=https://zenlive.onsports.vn/onplus/BONGDA_HD/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10
