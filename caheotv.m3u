@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTM3U url-tvg="https://lichphatsong.xyz/schedule/epg.xml"
 #EXTINF:0 group-title="🔴|SỰ KIỆN VÒNG LOẠI ASIAN CUP" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/06/09/bg_1749438125715.jpg?w=910",FPT 
-http://khaitv.giize.com:502/stream?url=http://14.247.58.26:4022/udp/225.1.1.30:30120
+http://khaitv.giize.com:502/stream?url=udp://@225.1.1.30:30120
 #EXTINF:0 group-title="🔴|SỰ KIỆN VÒNG LOẠI ASIAN CUP" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/06/09/bg_1749438125715.jpg?w=910",VTV5 FPT 
 https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b1000000.m3u8
 #EXTINF:0 group-title="🔴|SỰ KIỆN VÒNG LOẠI ASIAN CUP" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/06/09/bg_1749438125715.jpg?w=910",YOUTUBE FPT 
@@ -9,6 +9,9 @@ https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b1000000.m3u8
 #EXTINF:0 group-title="🔴|SỰ KIỆN VÒNG LOẠI ASIAN CUP" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/06/09/bg_1749438125715.jpg?w=910",VTV5 VTVCAB ON 
 http://bentre5.hoangai.vn:12345/192.168.2.41:100/stream?url=https://cdnet-cdn-01.onsports.vn/onplus/VTV5_HD/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10
 
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/yaHJpNI5tJY/hqdefault.jpg?v=684809b4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAG9AAgG6VEQJden8YUYmD3FYr9fA" group-title="YOUTUBE K+",[TRỰC TIẾP] HÀN QUỐC - KUWAIT | BẢNG B VÒNG LOẠI CHÂU Á AFC - ĐƯỜNG TỚI 26 | 10/6
+http://khaitv.giize.com:8083/get?id=yaHJpNI5tJY
 #EXTINF:0 group-title="🔴|SỰ KIỆN MYTV" tvg-logo="https://mytv.com.vn/img/MyTV_large_logo.png",SK1
 http://bentre5.hoangai.vn:8080/mytv/mytv.php?id=754
 #EXTINF:0 group-title="🔴|SỰ KIỆN MYTV" tvg-logo="https://mytv.com.vn/img/MyTV_large_logo.png",SK2
