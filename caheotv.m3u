@@ -19,7 +19,7 @@ http://khaitv.giize.com:8083/get?id=hr5MkDi8dVs
 
 
 #EXTINF:0 group-title="🔴|SỰ KIỆN MYTV" tvg-logo="https://mytv.com.vn/img/MyTV_large_logo.png",SK1
-http://bentre5.hoangai.vn:8080/mytv/mytv.php?id=754
+http://bentre5.hoangai.vn:502/stream?url=https://s2129132.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv707&q=hd&deviceType=127&userId=32135547&deviceId=&type=tv&p=0&zn=netott&rkey=32135547AlvdfnB3&ctl=9.38&hc=ctl10&sl=6&drmsrv=ctl10.mytvnet.vn&naddr=113.171.129.132&pkg=pkg31.hni&profiles=sd&&bsd=5500000&location=NA&rbk=17216246243&pnode=172.16.237.68&isp=all&nguyenhoangai=admin
 #EXTINF:0 group-title="🔴|SỰ KIỆN MYTV" tvg-logo="https://mytv.com.vn/img/MyTV_large_logo.png",SK2
 http://bentre5.hoangai.vn:8080/mytv/mytv.php?id=736
 #EXTINF:0 group-title="🔴|SỰ KIỆN MYTV" tvg-logo="https://mytv.com.vn/img/MyTV_large_logo.png",SK3
@@ -305,11 +305,11 @@ http://khaitv.giize.com:8080/tvmienphi/get360.php?id=8
 
 
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/SCTV1HD.jpg", SCTV1 HD
-http://khaitv.giize.com:8080/tvmienphi/getsctv.php?id=sctv1hd
+http://khaitv.giize.com:8080/sctv/sctv.php?id=sctv1
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/SCTV1HD.jpg", SCTV1 HD sv2
 http://khaitv.giize.com:8080/thapcam/proxy.php?url=https%3A%2F%2Ffreem3u.xyz%2Fapi%2Flive%2Fplay.m3u8%3Fmid%3D769&referer=https%3A%2F%2Fmytv.com.vn%2F
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV2TODAYTV.jpg", SCTV2 HD - TODAY TV
-http://bentre5.hoangai.vn:8082/sctv/get.php?id=sctv2
+http://khaitv.giize.com:8080/sctv/sctv.php?id=sctv2
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV2TODAYTV.jpg", SCTV2 HD - TODAY TV sv2
 http://khaitv.giize.com:8080/thapcam/proxy.php?url=https%3A%2F%2Ffreem3u.xyz%2Fapi%2Flive%2Fplay.m3u8%3Fmid%3D772&referer=https%3A%2F%2Fmytv.com.vn%2F
 #EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/SCTV3.jpg", SCTV3 HD
@@ -1883,97 +1883,81 @@ http://khaitv.giize.com:8080/luongson/play.php?id=454779620
 #EXTINF:-1 group-title="OnPLus Live 🔴" tvg-logo="https://imgvlive.vtvcab.vn/720X405/6446c3aa-4740-402c-b7ca-196da96e275a.jpg", 26/06-09:00 | Vòng Swiss APL 2025
 http://bentre5.hoangai.vn:8082/onplus/play2.php?id=onsport7
 #EXTM3U
-# Cập nhật lúc: 00:14:10 26/06/2025
-# Tổng số trận: 50
+# Cập nhật lúc: 06:12:09 26/06/2025
+# Tổng số trận: 42
 
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F3b19cae478679881554914e45d318742.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F932090784a693acf21c043cd96b56740.png",🔴LIVE 22:30 25/06 | International Club Friendly | CSKA Sofia Shkendija Tetovo
-http://khaitv.giize.com:8080/cakeo/play.php?id=ep31rhgmnl
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F17e3cb55af2ada9d234099c573f8a81e.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F8f6a96375a4c1fb7540460af4bd51c27.png",🔴LIVE 22:30 25/06 | Iraq Premier League | Al Zawraa Al-Mina'a SC
-http://khaitv.giize.com:8080/cakeo/play.php?id=41kfdk5nnm
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F34fabeac8e7d697d7d8537513e0366e9.png&m2=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F1bc3345851a6b5df655bec0e30ee8c75.png",⭐Tâm điểm⭐ 🔴LIVE 22:40 25/06 | ATP250 Eastbourne Open | Daniel Evans Tommy Paul
-http://khaitv.giize.com:8080/cakeo/play.php?id=bqb4nhot3a
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F5ce6a09428f62fa1d431fbee9a18322a.png&m2=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F26bb98536c76b677423b6c85d6fd1d40.png",🔴LIVE 22:50 25/06 | WTA250 Eastbourne Open | Dayana Yastremska Francesca Jones
-http://khaitv.giize.com:8080/cakeo/play.php?id=b34rgjw7is
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F81b70b4f4179ca979f173ceae24222c4.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F066236dc007de501d84a4a146f7597a9.png",⭐Tâm điểm⭐ 🔴LIVE 23:00 25/06 | Latvia Virsliga | Tukums-2000 FK Liepaja
-http://khaitv.giize.com:8080/cakeo/play.php?id=4frs1dm2h3
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fg7w1r.4shares.live%2Fteams%2FC%25E1%25BB%259D%2520qu%25E1%25BB%2591c%2520gia%2Fengland1.png&m2=https%3A%2F%2Fg7w1r.4shares.live%2Fteams%2FC%25E1%25BB%259D%2520qu%25E1%25BB%2591c%2520gia%2FNetherlands.png",⭐Tâm điểm⭐ 🔴LIVE 23:00 25/06 | Euro U21 | England U21 Netherlands U21
-http://khaitv.giize.com:8080/cakeo/play.php?id=d6865sws0x
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F3cd0dc57966a8b1f8536dd0016179664.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fca6076e611bfccd9939f3a2121ad0e48.png",🔴LIVE 23:00 25/06 | International Club Friendly | Ludogorets Razgrad Legia Warszawa
-http://khaitv.giize.com:8080/cakeo/play.php?id=a9ino1slvi
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F3a52398498773a8ed0006583046d8050.png&m2=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FM7tjeMh5-0EjiJh2K.png",🔴LIVE 23:00 25/06 | Iraq Premier League | Erbil SC Duhok SC
-http://khaitv.giize.com:8080/cakeo/play.php?id=aijz66bayb
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F7a2eadc57b3a330eda4b7189352ce344.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F97b182dc35a57e1fbfce5ab2382fe317.png",🔴LIVE 23:00 25/06 | Norwegian SAS Braathens Cup | Rosenborg Sarpsborg 08
-http://khaitv.giize.com:8080/cakeo/play.php?id=ec7a9w9v1c
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Ff46fa570a21dc0f62e327d211a98ebaa.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F78581e2ef61df4a79eb3b24254665b88.png",🔴LIVE 23:00 25/06 | Norwegian SAS Braathens Cup | Lillestrom KFUM Oslo
-http://khaitv.giize.com:8080/cakeo/play.php?id=43antnd0yr
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=&m2=",🔴LIVE 23:00 25/06 | UEFA Regions Cup | Hradec Kralove Region (Am) Vojvodina Region
-http://khaitv.giize.com:8080/cakeo/play.php?id=0m9b2pg2f8
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F42a4751f74045f134da6d2125b4a4eaa.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F44f50c40747300086bedc24981fb21f2.png",🔴LIVE 23:00 25/06 | Norwegian SAS Braathens Cup | Stabaek Kristiansund BK
-http://khaitv.giize.com:8080/cakeo/play.php?id=q1tj50n948
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=&m2=",🔴LIVE 23:00 25/06 | UEFA Regions Cup | Lansi-Vantaan Ylpeys Vaud Canton
-http://khaitv.giize.com:8080/cakeo/play.php?id=ci0k4z4wmi
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fb325fe2175ad9945e648dbb016b1756c.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F7ddeb762b81e7575623341d01c90d478.png",🔴LIVE 23:00 25/06 | Lithuanian A Lyga | Siauliai Suduva
-http://khaitv.giize.com:8080/cakeo/play.php?id=tyutptl2ng
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F6ac791d55849be61801c6c1827b52811.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F2fa0840e0cb77fd66f104fa932302a72.png",🔴LIVE 23:00 25/06 | Norwegian SAS Braathens Cup | Aalesund FK Viking
-http://khaitv.giize.com:8080/cakeo/play.php?id=mp19tsg4o3
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fefe167b92d0d9687486c2e446cf12967.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F09241d6b63768402a7784315be67338f.png",🔴LIVE 23:00 25/06 | Lithuanian A Lyga | Dziugas Telsiai FK Riteriai
-http://khaitv.giize.com:8080/cakeo/play.php?id=3ohkorvck6
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F4d46139ab0962d527c196269928f34e8.png&m2=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2Fb291acc56b717666d73c12be8e500413.png",⭐Tâm điểm⭐ 🔴LIVE 23:00 25/06 | ATP250 Mallorca Open | Bernard Tomic Roberto Bautista Agut
-http://khaitv.giize.com:8080/cakeo/play.php?id=0na70axzzi
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Feea20d9c0403535690e0caf7059a91f0.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Ff5d0b3f174168088f64f65b47af718fa.png",🔴LIVE 23:10 25/06 | International Club Friendly | Radomlje Arges
-http://khaitv.giize.com:8080/cakeo/play.php?id=n50219dcip
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fg7w1r.4shares.live%2Fteams%2FC%25E1%25BB%259D%2520qu%25E1%25BB%2591c%2520gia%2Fbulgaria.png&m2=https%3A%2F%2Fimg.thesports.com%2Fvolleyball%2Fteam%2Fb337fa1acec0642f9ded3da29456d58a.png",⭐Tâm điểm⭐ 🔴LIVE 23:30 25/06 | Volleyball Nations League | Bulgaria Japan
-http://khaitv.giize.com:8080/cakeo/play.php?id=7j5p7ggiro
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F6b6b7a5d520cc7de3f9e810197013252.png&m2=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F647c899264ebc5da8bfb1d830c60ffdc.png",⭐Tâm điểm⭐ 🔴LIVE 23:55 25/06 | WTA500 Bad Homburg Open | Mirra Andreeva Clara Tauson
-http://khaitv.giize.com:8080/cakeo/play.php?id=1q7t0gnifv
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F8ff59b3d46d49af66b8e61fe7ea32ef0.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fe3c9a7659e88c4b690b59f09252eec37.png",🔴LIVE 00:00 26/06 | Sweden Division 1 | Hammarby TFF Assyriska United IK
-http://khaitv.giize.com:8080/cakeo/play.php?id=gy2st0ry1u
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F33267e5dc58fad346e92471c43fcccdc.gif&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fafd42bc09f8a3f97a4ab60dcfb991e89.png",🔴LIVE 00:00 26/06 | Sweden Division 1 | Enkoping Vasalunds IF
-http://khaitv.giize.com:8080/cakeo/play.php?id=zgiiw208xc
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fcc11b2930de16dcd482c4fb976115899.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fa4087593839b70794341232e84cbc1b6.png",🔴LIVE 00:00 26/06 | Sierra Leone Premier League | Abacha City Old Edwardians
-http://khaitv.giize.com:8080/cakeo/play.php?id=3co9pd02k0
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F00fe597c07689632b7c7c3203b538c7d.png&m2=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F817bb3e0f0a60a3e04e82bcf0324d51c.png",⭐Tâm điểm⭐ 🔴LIVE 00:30 26/06 | ATP250 Eastbourne Open | Taylor Fritz Joao Fonseca
-http://khaitv.giize.com:8080/cakeo/play.php?id=1dfjrxlkkd
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fg7w1r.4shares.live%2Fteams%2FC%25E1%25BB%259D%2520qu%25E1%25BB%2591c%2520gia%2Fitaly%281%29.png&m2=https%3A%2F%2Fg7w1r.4shares.live%2Fteams%2FC%25E1%25BB%259D%2520qu%25E1%25BB%2591c%2520gia%2Fpoland.png",⭐Tâm điểm⭐ 🔴LIVE 00:30 26/06 | Volleyball Nations League | Italy Poland
-http://khaitv.giize.com:8080/cakeo/play.php?id=wjl2bdm7wn
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fg7w1r.4shares.live%2Fteams%2FC%25E1%25BB%259D%2520qu%25E1%25BB%2591c%2520gia%2Fserbia1.png&m2=https%3A%2F%2Fg7w1r.4shares.live%2Fteams%2FC%25E1%25BB%259D%2520qu%25E1%25BB%2591c%2520gia%2Firan1.png",⭐Tâm điểm⭐ 🔴LIVE 01:00 26/06 | Volleyball Nations League | Serbia Iran
-http://khaitv.giize.com:8080/cakeo/play.php?id=a9o5lyi8au
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fg7w1r.4shares.live%2Fteams%2FC%25E1%25BB%259D%2520qu%25E1%25BB%2591c%2520gia%2Fgermany1.png&m2=https%3A%2F%2Fg7w1r.4shares.live%2Fteams%2FC%25E1%25BB%259D%2520qu%25E1%25BB%2591c%2520gia%2Ffrance%281%29.png",⭐Tâm điểm⭐ 🔴LIVE 02:00 26/06 | Euro U21 | Germany U21 France U21
-http://khaitv.giize.com:8080/cakeo/play.php?id=kee0rxxmns
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F6c015e32282b2b1d56b630dff7f96503.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fa6bce9adfac7903426bed2b253991a18.png",⭐Tâm điểm⭐ 🔴LIVE 02:00 26/06 | FIFA Club World Cup | Mamelodi Sundowns Fluminense RJ
-http://khaitv.giize.com:8080/cakeo/play.php?id=wy8rmnxbwy
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fbbfacbdbe67705172c6414d7e9c21b58.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Ffe07fb888ebcb282192332cb8aed21b1.png",⭐Tâm điểm⭐ 🔴LIVE 02:00 26/06 | FIFA Club World Cup | Borussia Dortmund Ulsan HD FC
-http://khaitv.giize.com:8080/cakeo/play.php?id=rps0oeo7fa
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fg7w1r.4shares.live%2Fteams%2FC%25E1%25BB%259D%2520qu%25E1%25BB%2591c%2520gia%2Fcanada.png&m2=https%3A%2F%2Fg7w1r.4shares.live%2Fteams%2FC%25E1%25BB%259D%2520qu%25E1%25BB%2591c%2520gia%2Fbrazil.png",⭐Tâm điểm⭐ 04:00 26/06 | Volleyball Nations League | Canada Brazil
-http://khaitv.giize.com:8080/cakeo/play.php?id=xa1pif896b
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fg7w1r.4shares.live%2Fteams%2FC%25E1%25BB%259D%2520qu%25E1%25BB%2591c%2520gia%2Fchina.png&m2=https%3A%2F%2Fg7w1r.4shares.live%2Fteams%2FC%25E1%25BB%259D%2520qu%25E1%25BB%2591c%2520gia%2Fusa.png",⭐Tâm điểm⭐ 07:30 26/06 | Volleyball Nations League | China USA
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fefb322615dcf7cb51dc6c75a79d38d32.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F8f4c8b7e2cd333ab2e32d65bcbd3c7ff.png",🔴LIVE 05:00 26/06 | USL Championship | Loudoun United Louisville City FC
+http://khaitv.giize.com:8080/cakeo/play.php?id=sektwd6e2j
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F49d7d1860f0dc2bfcb95ea0fe787c98b.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fedc4f37199d6b18a70915aad418bb822.png",🔴LIVE 05:00 26/06 | Brazilian Sao Paulo Cup | Linense(BRA) Monte Azul SP
+http://khaitv.giize.com:8080/cakeo/play.php?id=7dlc4hppq8
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F8a98d79cf69a2e89fa759a80c739f752.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F9e3598881c315c2d4efc27d2fcf87451.png",🔴LIVE 05:00 26/06 | Venezuela Cup | Zamora Barinas Maritimo de La Guaira
+http://khaitv.giize.com:8080/cakeo/play.php?id=g81vvw7bfe
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fec2ed16825c0bf497854333615c4e2af.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F0a5c92442f6e5455a39aa367c7416a6b.png",🔴LIVE 05:00 26/06 | Bolivian Copa LFPB | Club Aurora San Jose de Oruro
+http://khaitv.giize.com:8080/cakeo/play.php?id=ce0zbcpgic
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Ff27def70c33a01d8be3e88b9da399e5f.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fd85b4da177906440b0b1616aff569914.png",🔴LIVE 06:00 26/06 | MLS Next PL | Orlando City B Toronto FC II
+http://khaitv.giize.com:8080/cakeo/play.php?id=35pdnxzl62
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fc546591ee334f23d5d2a1722a9750fb5.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F5d3d6622bf84c648d439e68dd075e9fa.png",🔴LIVE 06:00 26/06 | MLS Next PL | International Miami B Chicago flame B
+http://khaitv.giize.com:8080/cakeo/play.php?id=3qjnwd9gsj
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F9123cd7cc8916c720250a4da6b14801f.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F1d14acf20b6647d3bf1f70959a875c8f.png",⭐Tâm điểm⭐ 🔴LIVE 06:30 26/06 | Major League Soccer | Montreal Impact FC Cincinnati
+http://khaitv.giize.com:8080/cakeo/play.php?id=oafyptf7tv
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F929fe1b737e458218cbe8ce00a55a05c.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F574f1ee560e8835e605176cac36a87db.png",⭐Tâm điểm⭐ 🔴LIVE 07:30 26/06 | Major League Soccer | Chicago Fire Philadelphia Union
+http://khaitv.giize.com:8080/cakeo/play.php?id=md6c43xbrb
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fg7w1r.4shares.live%2Fteams%2FC%25E1%25BB%259D%2520qu%25E1%25BB%2591c%2520gia%2Fchina.png&m2=https%3A%2F%2Fg7w1r.4shares.live%2Fteams%2FC%25E1%25BB%259D%2520qu%25E1%25BB%2591c%2520gia%2Fusa.png",⭐Tâm điểm⭐ 🔴LIVE 07:30 26/06 | Volleyball Nations League | China USA
 http://khaitv.giize.com:8080/cakeo/play.php?id=fvz91a2y2r
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Faa2245702c40f77799a5ad4b119581a8.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fc7aa5e458bdcad0051f6786ff93c48ed.png",⭐Tâm điểm⭐ 🔴LIVE 08:00 26/06 | FIFA Club World Cup | Inter Milan River Plate
+http://khaitv.giize.com:8080/cakeo/play.php?id=fs5n60mbcj
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Facc91add74b2c86a68722836835bcf3c.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F9abd1e86ec5852bad0225a527fdd7b1e.png",⭐Tâm điểm⭐ 🔴LIVE 08:00 26/06 | FIFA Club World Cup | Urawa Red Diamonds Monterrey
+http://khaitv.giize.com:8080/cakeo/play.php?id=yq8fl6a4ut
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fbasketball%2Fteam%2F380d81d4050b81debf9a5500239e96d0.png&m2=https%3A%2F%2Fimg.thesports.com%2Fbasketball%2Fteam%2F67cf5b4cfacab3792d2fde73e0af4ac0.png",⭐Tâm điểm⭐ 09:00 26/06 | WNBA | Golden State Valkyries New York Liberty
 http://khaitv.giize.com:8080/cakeo/play.php?id=ehv1aryhzp
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fbasketball%2Fteam%2Fce8ab1125fdb3fdbd8c09dba8c437c49.png&m2=https%3A%2F%2Fimg.thesports.com%2Fbasketball%2Fteam%2F616c37f8e35a1c33a4766dbc86c0ca3a.png",⭐Tâm điểm⭐ 09:00 26/06 | WNBA | Las Vegas Aces Connecticut Sun
 http://khaitv.giize.com:8080/cakeo/play.php?id=oxec0xezot
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F527dcdb6260004a2c8f61fae9345f133.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F4431a6b60ebf9369297717921a290687.png",⭐Tâm điểm⭐ 09:30 26/06 | Major League Soccer | Vancouver Whitecaps San Diego FC
+http://khaitv.giize.com:8080/cakeo/play.php?id=ar7igqqp3f
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fbasketball%2Fteam%2F5906bdeda0213116507e89a4897cc904.png&m2=https%3A%2F%2Fimg.thesports.com%2Fbasketball%2Fteam%2F8f06ac7835bf0ddf790691efc2d39aab.png",⭐Tâm điểm⭐ 14:00 26/06 | Bóng rổ New Zealand | Franklin Bulls Manawatu Jets
 http://khaitv.giize.com:8080/cakeo/play.php?id=t0p2b60uso
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fg7w1r.4shares.live%2Fteams%2FC%25E1%25BB%259D%2520qu%25E1%25BB%2591c%2520gia%2Firaq.png&m2=https%3A%2F%2Fg7w1r.4shares.live%2Fteams%2FC%25E1%25BB%259D%2520qu%25E1%25BB%2591c%2520gia%2FMongolia.png",⭐Tâm điểm⭐ 16:00 26/06 | AFC Women’s Asian Cup | Iraq (w) Mongolia (w)
+http://khaitv.giize.com:8080/cakeo/play.php?id=k4u54d37r6
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F239365bbcc2b24054331611a5d8a7a33.png&m2=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2Fc2b07f8cc8ec43846a2636202da1bf1f.png",16:30 26/06 | WTA500 Bad Homburg Open | Beatriz Haddad Maia Jasmine Paolini
 http://khaitv.giize.com:8080/cakeo/play.php?id=v3vgew6f6b
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F7860bd1cc0b69275e51f2bf5f8a2177d.png&m2=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F1a7591c2e584ee248ed7ec3e3181adf2.png",17:00 26/06 | ATP250 Eastbourne Open | Jakub Mensik Alejandro Davidovich Fokina
-http://khaitv.giize.com:8080/cakeo/play.php?id=4188qotrx9
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=&m2=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F36a5d96bdf5c18e29342e08603e052fc.png",17:00 26/06 | ATP250 Eastbourne Open | Qf1 Marcos Giron
-http://khaitv.giize.com:8080/cakeo/play.php?id=m6znzv1t87
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F88630385ae83570bba5e555bb8cf4290.png&m2=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F5f52d1acff52a1a6498299eed3e3a452.png",17:00 26/06 | ATP250 Eastbourne Open | Billy Harris Ugo Humbert
 http://khaitv.giize.com:8080/cakeo/play.php?id=mic8ewblc7
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F0dca575777aa5916970b07baaa9517d7.png&m2=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F5f10d2e029bdf6ff25acbb58765baa6c.png",17:40 26/06 | WTA500 Bad Homburg Open | Ekaterina Alexandrova Iga Swiatek
 http://khaitv.giize.com:8080/cakeo/play.php?id=nlgp3bpoqm
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F00fe597c07689632b7c7c3203b538c7d.png&m2=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F817bb3e0f0a60a3e04e82bcf0324d51c.png",⭐Tâm điểm⭐ 18:10 26/06 | ATP250 Eastbourne Open | Taylor Fritz Joao Fonseca
+http://khaitv.giize.com:8080/cakeo/play.php?id=1dfjrxlkkd
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F2b6b10f066c7cca4052d229ec17ebaf7.png&m2=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F34fabeac8e7d697d7d8537513e0366e9.png",18:30 26/06 | ATP250 Eastbourne Open | Jenson Brooksby Daniel Evans
+http://khaitv.giize.com:8080/cakeo/play.php?id=uk2sbvqho5
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fg7w1r.4shares.live%2Fteams%2FC%25E1%25BB%259D%2520qu%25E1%25BB%2591c%2520gia%2Ffrance%281%29.png&m2=https%3A%2F%2Fimg.thesports.com%2Fvolleyball%2Fteam%2Fb337fa1acec0642f9ded3da29456d58a.png",⭐Tâm điểm⭐ 19:00 26/06 | Volleyball Nations League | France Japan
+http://khaitv.giize.com:8080/cakeo/play.php?id=41n15bryji
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fbasketball%2Fteam%2F78cae1e21ed54494ed05a03fa3b9a22f.png&m2=https%3A%2F%2Fimg.thesports.com%2Fbasketball%2Fteam%2F099d9e16bc5fff2dcbbeb97b340e5648.png",⭐Tâm điểm⭐ 20:00 26/06 | Bóng rổ Indonesia | Prawira Bandung Satria Muda BritAma
+http://khaitv.giize.com:8080/cakeo/play.php?id=29m1kkpy0o
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F7860bd1cc0b69275e51f2bf5f8a2177d.png&m2=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F1a7591c2e584ee248ed7ec3e3181adf2.png",20:30 26/06 | ATP250 Eastbourne Open | Jakub Mensik Alejandro Davidovich Fokina
+http://khaitv.giize.com:8080/cakeo/play.php?id=4188qotrx9
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F11262b447b60c71a28aced74c97488b4.png&m2=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F41ad6d90f82068c5fccacb33a17a9ab5.png",21:00 26/06 | WTA500 Bad Homburg Open | Jessica Pegula Emma Navarro
 http://khaitv.giize.com:8080/cakeo/play.php?id=gtrxi9muuz
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=&m2=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F7daa1d983ed81aee39c56845f5d73daa.png",22:30 26/06 | WTA500 Bad Homburg Open | Qf3 Linda Noskova
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fg7w1r.4shares.live%2Fteams%2FC%25E1%25BB%259D%2520qu%25E1%25BB%2591c%2520gia%2FNetherlands.png&m2=https%3A%2F%2Fg7w1r.4shares.live%2Fteams%2FC%25E1%25BB%259D%2520qu%25E1%25BB%2591c%2520gia%2Fgermany1.png",⭐Tâm điểm⭐ 21:30 26/06 | Volleyball Nations League | Netherlands Germany
+http://khaitv.giize.com:8080/cakeo/play.php?id=i4gsvqjoo3
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=&m2=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F36a5d96bdf5c18e29342e08603e052fc.png",21:40 26/06 | ATP250 Eastbourne Open | Qf1 Marcos Giron
+http://khaitv.giize.com:8080/cakeo/play.php?id=m6znzv1t87
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fg7w1r.4shares.live%2Fteams%2FC%25E1%25BB%259D%2520qu%25E1%25BB%2591c%2520gia%2Fturkey1.png&m2=https%3A%2F%2Fg7w1r.4shares.live%2Fteams%2FC%25E1%25BB%259D%2520qu%25E1%25BB%2591c%2520gia%2Fukaraine.png",⭐Tâm điểm⭐ 22:30 26/06 | Volleyball Nations League | Turkey Ukraine
+http://khaitv.giize.com:8080/cakeo/play.php?id=boamwwyllk
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F6b6b7a5d520cc7de3f9e810197013252.png&m2=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F7daa1d983ed81aee39c56845f5d73daa.png",22:30 26/06 | WTA500 Bad Homburg Open | Mirra Andreeva Linda Noskova
 http://khaitv.giize.com:8080/cakeo/play.php?id=ojopg03uep
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fvolleyball%2Fteam%2Fe06981e59f9e935ce3e036555128be6a.png&m2=https%3A%2F%2Fimg.thesports.com%2Fvolleyball%2Fteam%2Fe4c6d60341cd022b36dcc56e47238f8d.png",⭐Tâm điểm⭐ 01:00 27/06 | Volleyball Nations League | Serbia Cuba
+http://khaitv.giize.com:8080/cakeo/play.php?id=trsnpk48nu
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fvolleyball%2Fteam%2Fe7e2f129e88b4c2901b35a38e7dd2ea9.png&m2=https%3A%2F%2Fimg.thesports.com%2Fvolleyball%2Fteam%2Fda0f5c2d7a7ced93056baddc54135a74.png",⭐Tâm điểm⭐ 04:00 27/06 | Volleyball Nations League | Brazil China
+http://khaitv.giize.com:8080/cakeo/play.php?id=lmtac5ah64
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fbasketball%2Fteam%2F5682b443934d64c12f41e5abfc6e2f8a.png&m2=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FY7fbrXg5-QDgyRBqE.png",14:30 27/06 | Bóng rổ New Zealand | Otago Nuggets Whai
 http://khaitv.giize.com:8080/cakeo/play.php?id=ed1xrhtg6k
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=&m2=",16:00 27/06 | WTA500 Bad Homburg Open | Wqf1 Wqf2
 http://khaitv.giize.com:8080/cakeo/play.php?id=7q1nk4dlrf
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=&m2=",16:00 27/06 | WTA500 Bad Homburg Open | Wqf3 Wqf4
+http://khaitv.giize.com:8080/cakeo/play.php?id=puw4txzd7t
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=&m2=",17:00 27/06 | ATP250 Eastbourne Open | Wqf3 Wqf4
 http://khaitv.giize.com:8080/cakeo/play.php?id=uw46gdsktf
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=&m2=",17:00 27/06 | ATP250 Eastbourne Open | Wqf1 Wqf2
+http://khaitv.giize.com:8080/cakeo/play.php?id=ao94zxxfi0
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fbasketball%2Fteam%2F4ad56c57b7214942a503892b9f111d6e.png&m2=https%3A%2F%2Fimg.thesports.com%2Fbasketball%2Fteam%2Fd4794ddb59d1ec0535908f30c7e816eb.png",11:30 28/06 | Bóng rổ New Zealand | Bay Hawks Wellington Saints
 http://khaitv.giize.com:8080/cakeo/play.php?id=w3ymgx1spp
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fbasketball%2Fteam%2F12e9ecb23853b22284862b0002431e14.png&m2=https%3A%2F%2Fimg.thesports.com%2Fbasketball%2Fteam%2F8f06ac7835bf0ddf790691efc2d39aab.png",14:30 28/06 | Bóng rổ New Zealand | Auckland Tuatara Manawatu Jets
