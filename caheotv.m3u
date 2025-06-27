@@ -2382,42 +2382,68 @@ http://khaitv.giize.com:8080/laykinhtv/play.php?id=gkozh9pmy9
 http://khaitv.giize.com:8080/laykinhtv/play.php?id=ix55uug6dv
 #EXTM3U
 #EXTM3U
-#EXTINF:0 group-title="TV" tvg-logo="https://cdn-vn.iof.vn/TV/VTV4.png", VTV4_HD
+#EXTINF:0 group-title="VTV4" tvg-logo="https://cdn-vn.iof.vn/TV/VTV4.png", VTV4_HD
 https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b1800000.m3u8
-#EXTINF:0 group-title="TV" tvg-logo="https://cdn-vn.iof.vn/TV/VTV-NAMBO.png", VTV5_TAY_NAM_BO
-https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="TV" tvg-logo="https://cdn-vn.iof.vn/TV/VINH_LONG_4.png", VINH_LONG_4_HD
+#EXTINF:0 group-title="VTV Cần Thơ" tvg-logo="https://cdn-vn.iof.vn/TV/VTV_CANTHO.png", VTV_CAN_THO
+https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b1800000.m3u8
+#EXTINF:0 group-title="Vĩnh Long 2" tvg-logo="https://cdn-vn.iof.vn/TV/VINH_LONG_2.png", VINH_LONG_2
+https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="Vĩnh Long 4" tvg-logo="https://cdn-vn.iof.vn/TV/VINH_LONG_4.png", VINH_LONG_4_HD
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b1800000.m3u8
-#EXTINF:0 group-title="TV" tvg-logo="https://cdn-vn.iof.vn/TV/HTVC_GIA_DINH.png", HTVC_GIA_DINH
-https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="TV" tvg-logo="https://cdn-vn.iof.vn/TV/HTVC-Phim-logo.png", HTVC_PHIM
-https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist_b1800000.m3u8
-#EXTINF:0 group-title="TV" tvg-logo="https://cdn-vn.iof.vn/TV/HTVC-PLUS.png", HTVC_PLUS
-https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="TV" tvg-logo="https://cdn-vn.iof.vn/TV/HA_NOI_2.PNG", HANOITV_2
-https://live.fptplay53.net/fnxhd2/hanoitv2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="TV" tvg-logo="https://cdn-vn.iof.vn/TV/BEN_TRE.png", BEN_TRE
+#EXTINF:0 group-title="HTV1" tvg-logo="https://cdn-vn.iof.vn/TV/HTV1.png", HTV1
+https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="HTV2" tvg-logo="https://cdn-vn.iof.vn/TV/HTV2.png", HTV2
+https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="HTV3" tvg-logo="https://cdn-vn.iof.vn/TV/HTV3.png", HTV3
+https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="HTVC Ca Nhạc" tvg-logo="https://cdn-vn.iof.vn/TV/HTVC_CA_NHAC.png", HTVC_CA_NHAC
+https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="HTVC Phụ Nữ" tvg-logo="https://cdn-vn.iof.vn/TV/HTVC_PHU_NU.png", HTVC_PHU_NU
+https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="HTVC Thể Thao" tvg-logo="https://cdn-vn.iof.vn/TV/HTV-THETHAO.png", HTVC_THE_THAO
+https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="Bến Tre" tvg-logo="https://cdn-vn.iof.vn/TV/BEN_TRE.png", BEN_TRE
 https://live.fptplay53.net/epzsd1/bentre_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="TV" tvg-logo="https://cdn-vn.iof.vn/TV/DONG_NAI_2.png", DONG_NAI_2
-https://live.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="TV" tvg-logo="https://cdn-vn.iof.vn/TV/VUNG_TAU.png", BA_RIA_VUNG_TAU
-https://live.fptplay53.net/epzsd1/bariavungtau_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="TV" tvg-logo="https://cdn-vn.iof.vn/TV/BINH_DINH.png", BINH_DINH
-https://live.fptplay53.net/epzsd1/binhdinh_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="TV" tvg-logo="https://cdn-vn.iof.vn/TV/QUAN_NAM.png", QUANG_NAM
+#EXTINF:0 group-title="Long An" tvg-logo="https://cdn-vn.iof.vn/TV/LONG_AN.png", LONG_AN
+https://live.fptplay53.net/epzsd1/longan_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="Đồng Tháp" tvg-logo="https://cdn-vn.iof.vn/TV/DONG_THAP.png", DONG_THAP
+https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b1800000.m3u8
+#EXTINF:0 group-title="Đồng Nai 1" tvg-logo="https://cdn-vn.iof.vn/TV/DONG_NAI_1.png", DONG_NAI_1
+https://live.fptplay53.net/epzsd1/dongnai1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="Đắk Lắk" tvg-logo="https://cdn-vn.iof.vn/TV/DAKLAK.png", DAK_LAK
+https://live.fptplay53.net/epzsd1/daklak_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="Ninh Thuận" tvg-logo="https://cdn-vn.iof.vn/TV/NINH_THUAN.png", NINH_THUAN
+https://live.fptplay53.net/epzsd1/ninhthuan_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="Khánh Hòa" tvg-logo="https://cdn-vn.iof.vn/TV/KHANH_HOA.png", KHANH_HOA
+https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="Quảng Nam" tvg-logo="https://cdn-vn.iof.vn/TV/QUAN_NAM.png", QUANG_NAM
 https://live.fptplay53.net/epzsd1/quangnam_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="TV" tvg-logo="https://cdn-vn.iof.vn/TV/DaNangTV1_HD.png", DA_NANG_1
-https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="TV" tvg-logo="https://cdn-vn.iof.vn/TV/BAC_NINH.png", BAC_NINH
+#EXTINF:0 group-title="Quảng Trị" tvg-logo="https://cdn-vn.iof.vn/TV/QUAN_TRI.png", QUANG_TRI
+https://live.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="Thanh Hóa" tvg-logo="https://cdn-vn.iof.vn/TV/THANH_HOA.png", THANH_HOA
+https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="Quảng Ninh 1" tvg-logo="https://cdn-vn.iof.vn/TV/QUAN_NINH_1.png", QUANG_NINH_1
+https://live.fptplay53.net/fnxsd1/quangninh1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="Thái Bình" tvg-logo="https://cdn-vn.iof.vn/TV/THAI_BINH.png", THAI_BINH
+https://live.fptplay53.net/fnxsd1/thaibinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="Ninh Bình" tvg-logo="https://cdn-vn.iof.vn/TV/NINH_BINH.png", NINH_BINH
+https://live.fptplay53.net/fnxsd1/ninhbinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="Hải Dương" tvg-logo="https://cdn-vn.iof.vn/TV/HAI_DUONG.png", HAI_DUONG
+https://live.fptplay53.net/fnxsd1/haiduong_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="Bắc Ninh" tvg-logo="https://cdn-vn.iof.vn/TV/BAC_NINH.png", BAC_NINH
 https://live.fptplay53.net/fnxsd1/bacninh_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="TV" tvg-logo="https://cdn-vn.iof.vn/TV/LANG_SON.png", LANG_SON
+#EXTINF:0 group-title="Yên Bái" tvg-logo="https://cdn-vn.iof.vn/TV/YEN_BAI.png", YEN_BAI
+https://live.fptplay53.net/fnxsd1/yenbai_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="Lạng Sơn" tvg-logo="https://cdn-vn.iof.vn/TV/LANG_SON.png", LANG_SON
 https://live.fptplay53.net/fnxsd1/langson_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="TV" tvg-logo="https://cdn-vn.iof.vn/TV/CAO_BANG.png", CAO_BANG
-https://live.fptplay53.net/fnxsd1/caobang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="TV" tvg-logo="https://cdn-vn.iof.vn/TV/SON_LA.png", SON_LA
-https://live.fptplay53.net/fnxsd1/sonla_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="TV" tvg-logo="https://cdn-vn.iof.vn/TV/KIX.png", KIX
-https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="Hòa Bình" tvg-logo="https://cdn-vn.iof.vn/TV/HOA_BINH.png", HOA_BINH
+https://live.fptplay53.net/fnxsd1/hoabinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="Outdoor Channel" tvg-logo="https://cdn-vn.iof.vn/TV/Outdoor_Channel.png", OUTDOOR_CHANNEL
+https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="Arirang" tvg-logo="https://cdn-vn.iof.vn/TV/Arirang.png", ARIRANG
+https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="Nhk World" tvg-logo="https://cdn-vn.iof.vn/TV/NHK.png", NHK_WORLD_HD
+https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b2500000.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="K+",K+1 HD
 http://sg.hoangai.vn:8000/mac/cover.php?host=https%3A%2F%2Flive.hoangai.vn&mac=00:1A:79:CC:6A:3C&id=2512539&token=noIOxCKK_xFxqjtWZ19EZkvh6ZpXXaxqYJkg_LTm4qcppCvfNfKXY-RkGsJ0kiO-sVm7O0jzlsS218D1pM5Fhg
