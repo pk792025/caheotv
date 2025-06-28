@@ -322,10 +322,11 @@ http://khaitv.giize.com:8080/mytv/get.php?id=778
 #EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/SCTV4.jpg", SCTV4 HD sv2
 http://khaitv.giize.com:8080/mytv/get.php?id=778
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/SCTV5.jpg", SCTV5 HD - SCJ
-http://khaitv.giize.com:8080/mytv/get.php?id=781
+http://khaitv.giize.com:8080/sctv/sctv.php?id=sctv5
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/SCTV6.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6 HD
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
-
+#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/SCTV6.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6 HD sv2
+http://khaitv.giize.com:8080/mytv/get.php?id=781
 #EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SCTV7.jpg", SCTV7 HD
 http://khaitv.giize.com:8080/sctv/sctv.php?id=sctv7
 #EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SCTV7.jpg", SCTV7 HD sv2
@@ -342,7 +343,7 @@ http://khaitv.giize.com:8080/mytv/get.php?id=790
 #EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/SCTV9.jpg", SCTV9 HD SV3
 http://khaitv.giize.com:8080/mytv/get.php?id=790
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/SCTV10.jpg", SCTV10
-http://khaitv.giize.com:8080/mytv/get.php?id=793
+http://khaitv.giize.com:8080/sctv/sctv.php?id=sctv10
 #EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/SCTV11.jpg", SCTV11 HD
 http://khaitv.giize.com:8080/sctv/sctv.php?id=sctv11
 #EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/SCTV11.jpg", SCTV11 HD sv2
@@ -2709,6 +2710,12 @@ https://live.fptplay53.net/epzsport/thethao09_vhls.smil/chunklist_b5500000.m3u8
 https://live.fptplay53.net/epzsport/thethao11_vhls.smil/chunklist_b5500000.m3u8
 #EXTINF:0 group-title="TV Miễn Phí" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 15
 https://live.fptplay53.net/fnxch1/thethao15_mx.smil/chunklist_b6000000.m3u8
+#EXTINF:0 group-title="TV Miễn Phí" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/SCTV1HD.jpg", SCTV
+http://khaitv.giize.com:8080/sctv/sctv.php?id=sctv1
+#EXTINF:0 group-title="TV Miễn Phí" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/SCTV1HD.jpg", SCTV
+http://khaitv.giize.com:8080/mytv/get.php?id=769
+#EXTINF:0 group-title="TV Miễn Phí" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV2TODAYTV.jpg", SCTV
+http://khaitv.giize.com:8080/sctv/sctv.php?id=sctv2
 #EXTM3U
 #EXTINF:-1 group-title="K+",K+1 HD
 http://sg.hoangai.vn:8000/mac/cover.php?host=https%3A%2F%2Flive.hoangai.vn&mac=00:1A:79:CC:6A:3C&id=2512539&token=noIOxCKK_xFxqjtWZ19EZkvh6ZpXXaxqYJkg_LTm4qcppCvfNfKXY-RkGsJ0kiO-sVm7O0jzlsS218D1pM5Fhg
