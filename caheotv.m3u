@@ -19,24 +19,23 @@ http://khaitv.giize.com:8083/get?id=hr5MkDi8dVs
 
 
 #EXTINF:0 group-title="🔴|SỰ KIỆN MYTV" tvg-logo="https://mytv.com.vn/img/MyTV_large_logo.png",SK1
-http://bentre5.hoangai.vn:502/stream?url=http://192.168.2.41:8082/dyrectp/mytv/m3u8/play1.php?id=754&nguyenhoangai=admin
+http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc/play1.php?id=754
 #EXTINF:0 group-title="🔴|SỰ KIỆN MYTV" tvg-logo="https://mytv.com.vn/img/MyTV_large_logo.png",SK2
-http://bentre5.hoangai.vn:502/stream?url=http://192.168.2.41:8082/dyrectp/mytv/m3u8/play1.php?id=736&nguyenhoangai=admin
+http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc/play1.php?id=736
 #EXTINF:0 group-title="🔴|SỰ KIỆN MYTV" tvg-logo="https://mytv.com.vn/img/MyTV_large_logo.png",SK3
-http://bentre5.hoangai.vn:502/stream?url=http://192.168.2.41:8082/dyrectp/mytv/m3u8/play1.php?id=763&nguyenhoangai=admin
+http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc/play1.php?id=763
 #EXTINF:0 group-title="🔴|SỰ KIỆN MYTV" tvg-logo="https://mytv.com.vn/img/MyTV_large_logo.png",SK4
-http://bentre5.hoangai.vn:502/stream?url=http://192.168.2.41:8082/dyrectp/mytv/m3u8/play1.php?id=757&nguyenhoangai=admin
+http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc/play1.php?id=757
 #EXTINF:0 group-title="🔴|SỰ KIỆN MYTV" tvg-logo="https://mytv.com.vn/img/MyTV_large_logo.png",SK5
-http://bentre5.hoangai.vn:502/stream?url=http://192.168.2.41:8082/dyrectp/mytv/m3u8/play1.php?id=670&nguyenhoangai=admin0
+http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc/play1.php?id=670
 #EXTINF:0 group-title="🔴|SỰ KIỆN MYTV" tvg-logo="https://mytv.com.vn/img/MyTV_large_logo.png",SK6
-http://bentre5.hoangai.vn:502/stream?url=http://192.168.2.41:8082/dyrectp/mytv/m3u8/play1.php?id=449&nguyenhoangai=admin
+http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc/play1.php?id=449
 #EXTINF:0 group-title="🔴|SỰ KIỆN MYTV" tvg-logo="https://mytv.com.vn/img/MyTV_large_logo.png",SK7
-http://bentre5.hoangai.vn:502/stream?url=http://192.168.2.41:8082/dyrectp/mytv/m3u8/play1.php?id=447&nguyenhoangai=admin
+http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc/play1.php?id=447
 #EXTINF:0 group-title="🔴|SỰ KIỆN MYTV" tvg-logo="https://mytv.com.vn/img/MyTV_large_logo.png",SK8
-http://bentre5.hoangai.vn:502/stream?url=http://192.168.2.41:8082/dyrectp/mytv/m3u8/play1.php?id=349&nguyenhoangai=admin
+http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc/play1.php?id=349
 #EXTINF:0 group-title="🔴|SỰ KIỆN MYTV" tvg-logo="https://mytv.com.vn/img/MyTV_large_logo.png",SK9
-http://bentre5.hoangai.vn:502/stream?url=http://192.168.2.41:8082/dyrectp/mytv/m3u8/play1.php?id=267&nguyenhoangai=admin
-
+http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc/play1.php?id=267
 
 #EXTINF:0 group-title="🔴|BÓNG CHUYỀN" tvg-logo="https://onplus.com.vn/logo/logo_tet.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", BÓNG CHUYỀN
 http://khaitv.giize.com:8080/tvmienphi/geto.php?id=bongchuyen
@@ -2461,7 +2460,6 @@ http://khaitv.giize.com:8080/laykinhtv/play.php?id=h0odqr2em5
 http://khaitv.giize.com:8080/laykinhtv/play.php?id=658zo1nmww
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/e8f4f7cf3e478dc09cb52b7665a95e08.png", 17/07-01:30 | Giao Hữu Câu Lạc Bộ | Walsall VS Aston Villa
 http://khaitv.giize.com:8080/laykinhtv/play.php?id=qr4nnkafpc
-#EXTM3U
 #EXTM3U
 #EXTINF:0 group-title="TV Miễn Phí" tvg-logo="https://cdn-vn.iof.vn/TV/HTV1.png", HTV1
 https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist_b2500000.m3u8
