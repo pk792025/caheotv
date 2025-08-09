@@ -38,15 +38,15 @@ http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc/play.php?id=349
 http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc/play.php?id=267
 
 #EXTINF:0 group-title="🔴|BÓNG CHUYỀN" tvg-logo="https://onplus.com.vn/logo/logo_tet.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", BÓNG CHUYỀN
-http://khaitv.giize.com:8080/tvmienphi/geto.php?id=bongchuyen
+http://khaitv.giize.com:8080/onlive/play.php?id=bongchuyen
 #EXTINF:0 group-title="🔴|BÓNG ĐÁ ĐỨC" tvg-logo="https://stimg.onlive.vn/LOGO/bu/bundesliga/bundesliga.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", BÓNG ĐÁ ĐỨC
-http://khaitv.giize.com:8080/tvmienphi/geto.php?id=bundesliga
+http://khaitv.giize.com:8080/onlive/play.php?id=bundesliga
 #EXTINF:0 group-title="🔴|BÓNG ĐÁ PHÁP" tvg-logo="https://cdn-01.onlive.vn/category_img/2023/11/20/1620655b302aa410b.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", BÓNG ĐÁ PHÁP
-http://khaitv.giize.com:8080/tvmienphi/geto.php?id=ligue1
+http://khaitv.giize.com:8080/onlive/play.php?id=ligue1
 #EXTINF:0 group-title="🔴|BÓNG ĐÁ Ý" tvg-logo="https://stimg.onlive.vn/LOGO/se/seriea/seriea.jpg?dummy=80316355" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", BÓNG ĐÁ Ý
-http://khaitv.giize.com:8080/tvmienphi/geto.php?id=seriea
+http://khaitv.giize.com:8080/onlive/play.php?id=seriea
 #EXTINF:0 group-title="🔴|VÕ THUẬT" tvg-logo="https://cdn-01.onlive.vn/category_img/2023/06/15/1686817673.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", VÕ THUẬT
-http://khaitv.giize.com:8080/tvmienphi/geto.php?id=vothuatvn&retry=1
+http://khaitv.giize.com:8080/onlive/play.php?id=vothuatvn&retry=1
 
 #EXTINF:0 group-title="🔴|GIẢI QUỐC GIA Ý + ĐỨC" tvg-logo="https://imgvlive.vtvcab.vn/720X405/5145995d-794d-4329-a44b-d8caffdceb40.jpg",GIẢI Ý + ĐỨC
 http://bentre5.hoangai.vn:12346/192.168.2.41:100/stream?url=https://cdnet-cdn-01.onsports.vn/onplus/BONGDA_HD/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10&token=aismile
@@ -558,11 +558,11 @@ http://bentre5.hoangai.vn:12346/192.168.2.41:100/stream?url=https://cdnet-cdn-01
 #EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/01/03/16/1704275031605/a72d5eab8255_640_360.png", K+ACTION HD
 http://bentre5.hoangai.vn:12346/192.168.2.41:100/stream?url=https://cdnet-cdn-01.onsports.vn/onplus/K_LIFE_7777/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10&token=aismile
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png", K+SPORT1 HD
-http://hado.duckdns.org:4022/udp/232.84.1.98:8562
+http://113.175.111.46:8182/udp/232.84.1.98:8562
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/01/14/1677655028546/6226fc34a55f_640_360.png", K+SPORT2 HD
-http://hado.duckdns.org:4022/udp/232.84.1.131:10368
+http://113.175.111.46:8182/udp/232.84.1.131:10368
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2022/10/22/18/1666437081424/cbd3f3af84ba_640_360.png", K+KIDS HD
-http://hado.duckdns.org:4022/udp/232.84.3.43:11794
+http://113.175.111.46:8182/udp/232.84.3.43:11794
 
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/01/04/1680297664931/fb287ae7a7ad_640_360.png", K+CINE SD
@@ -570,19 +570,19 @@ http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc/play0.php?id=228
 #EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/01/03/16/1704275031605/a72d5eab8255_640_360.png", K+ACTION SD
 http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc/play0.php?id=195
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png", K+SPORT1 SD
-http://hado.duckdns.org:4022/udp/232.84.1.98:8562
+http://113.175.111.46:8182/udp/232.84.1.98:8562
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png", K+SPORT1 tvmp (phát khi có trận)
-http://hado.duckdns.org:4022/udp/232.84.1.98:8562
+http://113.175.111.46:8182/udp/232.84.1.98:8562
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png", K+SPORT1 sv2 tvmp (phát khi có trận)
-http://hado.duckdns.org:4022/udp/232.84.1.98:8562
+http://113.175.111.46:8182/udp/232.84.1.98:8562
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png", K+SPORT2  tvmp (phát khi có trận)
-http://hado.duckdns.org:4022/udp/232.84.1.98:8562
+http://113.175.111.46:8182/udp/232.84.1.98:8562
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png", K+SPORT2 sv2 tvmp (phát khi có trận)
-http://hado.duckdns.org:4022/232.84.1.98:8562
+http://113.175.111.46:8182/232.84.1.98:8562
 #EXTINF:-1 tvg-id="kkids" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png", K+KIDS TVMP 
-http://hado.duckdns.org:4022/udp/232.84.3.43:11794
+http://113.175.111.46:8182/udp/232.84.3.43:11794
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/01/14/1677655028546/6226fc34a55f_640_360.png", K+SPORT2 SD
-http://hado.duckdns.org:4022/udp/232.84.1.131:10368
+http://113.175.111.46:8182/udp/232.84.1.131:10368
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/01/04/1680297664931/fb287ae7a7ad_640_360.png", K+CINE SCTV
 http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc/play0.php?id=228
 #EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/01/03/16/1704275031605/a72d5eab8255_640_360.png", K+ACTION SD
@@ -2831,3 +2831,5 @@ http://bentre5.hoangai.vn:8080/live/tv360/m3u8.php?link=2&id2=201
 http://bentre5.hoangai.vn:8080/live/tv360/m3u8.php?link=2&id2=289
 #EXTINF:-1 group-title="⭐ Sự kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/08/08/10/1754623347845/b78844cb7a70_640_360.jpg", 09/08 20:10 | Cầu truyền hình trực tiếp chương trình chính luận nghệ thuật: Dưới cờ vinh quang
 http://bentre5.hoangai.vn:8080/live/tv360/m3u8.php?link=3&id2=141
+#EXTINF:-1 group-title="⭐ Sự kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/08/08/17/1754647429463/d8f439140cc8_640_360.jpg", 12/08 19:30 | Indonesia vs Campuchia
+http://bentre5.hoangai.vn:8080/live/tv360/m3u8.php?link=3&id2=195
