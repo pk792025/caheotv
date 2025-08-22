@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTM3U url-tvg="https://lichphatsong.xyz/schedule/epg.xml"
 
-#EXTINF:0 group-title="[K+NH]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Ngoại Hạng Anh",17/08 20h00 Nottingham Forestvs Brentford
+#EXTINF:0 group-title="[K+NH]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Ngoại Hạng Anh",K+ACTION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-http://hado.duckdns.org:4022/udp/232.84.1.97:8556
-#EXTINF:0 group-title="[K+NH]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Ngoại Hạng Anh",17/08 20h00 Chelsea vs Crystal Palace 
-http://hado.duckdns.org:4022/udp/232.84.1.98:8562
-#EXTINF:0 group-title="[K+NH]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Ngoại Hạng Anh",17/08 22h30 Man Utd vs Arsenal
-http://hado.duckdns.org:4022/udp/232.84.1.98:8562
+http://113.172.29.170:11111/udp/232.84.1.97:8556
+#EXTINF:0 group-title="[K+NH]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Ngoại Hạng Anh",K+1 
+http://113.172.29.170:11111/udp/232.84.1.98:8562
+#EXTINF:0 group-title="[K+NH]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Ngoại Hạng Anh",K+1
+http://113.172.29.170:11111/udp/232.84.1.98:8562
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aI5IVwTLevk/hqdefault.jpg?v=68464e29&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbfOcDYjiQBDNVrx_QFx9nm08bmQ" group-title="YOUTUBE NHẠC",Ca Nhạc Trữ Tình Bolero HAY NHẤT MỌI THỜI ĐẠI - Nhạc Vàng Xưa Tuyển Chọn KHÔNG QUẢNG CÁO
 http://khaitv.giize.com:8083/get?id=aI5IVwTLevk
@@ -567,11 +567,11 @@ http://bentre5.hoangai.vn:12346/192.168.2.41:100/stream?url=https://cdnet-cdn-01
 #EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/01/03/16/1704275031605/a72d5eab8255_640_360.png", K+ACTION HD
 http://bentre5.hoangai.vn:12346/192.168.2.41:100/stream?url=https://cdnet-cdn-01.onsports.vn/onplus/K_LIFE_7777/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10&token=aismile
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png", K+SPORT1 HD
-http://123.17.192.191:4022/udp/232.84.1.98:8562
+http://113.172.29.170:11111/udp/232.84.1.98:8562
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/01/14/1677655028546/6226fc34a55f_640_360.png", K+SPORT2 HD
-http://123.17.192.191:4022/udp/232.84.1.131:10368
+http://113.172.29.170:11111/udp/232.84.1.131:10368
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2022/10/22/18/1666437081424/cbd3f3af84ba_640_360.png", K+KIDS HD
-http://123.17.192.191:4022/udp/232.84.3.43:11794
+http://113.172.29.170:11111/udp/232.84.3.43:11794
 
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/01/04/1680297664931/fb287ae7a7ad_640_360.png", K+CINE SD
@@ -579,19 +579,19 @@ http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc/play0.php?id=228
 #EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/01/03/16/1704275031605/a72d5eab8255_640_360.png", K+ACTION SD
 http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc/play0.php?id=195
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png", K+SPORT1 SD
-http://123.17.192.191:4022/udp/232.84.1.98:8562
+http://113.172.29.170:11111/udp/232.84.1.98:8562
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png", K+SPORT1 tvmp (phát khi có trận)
-http://123.17.192.191:4022/udp/232.84.1.98:8562
+http://113.172.29.170:11111/udp/232.84.1.98:8562
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png", K+SPORT1 sv2 tvmp (phát khi có trận)
-http://123.17.192.191:4022/udp/232.84.1.98:8562
+http://113.172.29.170:11111/udp/232.84.1.98:8562
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png", K+SPORT2  tvmp (phát khi có trận)
-http://123.17.192.191:4022/udp/232.84.1.98:8562
+http://113.172.29.170:11111/udp/232.84.1.98:8562
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png", K+SPORT2 sv2 tvmp (phát khi có trận)
-http://123.17.192.191:4022/udp/232.84.1.98:8562
+http://113.172.29.170:11111/udp/232.84.1.98:8562
 #EXTINF:-1 tvg-id="kkids" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png", K+KIDS TVMP 
-http://123.17.192.191:4022/udp/232.84.3.43:11794
+http://113.172.29.170:11111/udp/232.84.3.43:11794
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/01/14/1677655028546/6226fc34a55f_640_360.png", K+SPORT2 SD
-http://123.17.192.191:4022/udp/232.84.1.131:10368
+http://113.172.29.170:11111/udp/232.84.1.131:10368
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/01/04/1680297664931/fb287ae7a7ad_640_360.png", K+CINE SCTV
 http://bentre5.hoangai.vn:8082/dyrectp/mytv/m3u8cc/play0.php?id=228
 #EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/01/03/16/1704275031605/a72d5eab8255_640_360.png", K+ACTION SD
@@ -1618,198 +1618,168 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
 #EXTM3U
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F37609%2F1gxa48193hr.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F37455%2F1gvy981pda2k.png%3Fwin007%3Dsell", 🔴 22/08-17:00 | Toronto Awaba vs West Wallsend SC | BLV LÂM XUNG
-http://khaitv.giize.com:8080/luongson/play.php?id=213905828
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F37609%2F1gxa48193hr.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F37455%2F1gvy981pda2k.png%3Fwin007%3Dsell", 🔴 22/08-17:00 | Toronto Awaba vs West Wallsend SC | BLV CAO CẦU
-http://khaitv.giize.com:8080/luongson/play.php?id=fdb9a422-c989-41a9-86fc-b81bc0c906a6
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F37609%2F1gxa48193hr.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F37455%2F1gvy981pda2k.png%3Fwin007%3Dsell", 🔴 22/08-17:00 | Toronto Awaba vs West Wallsend SC | BLV TÂY MÔN KHÁNH
-http://khaitv.giize.com:8080/luongson/play.php?id=a6bf7121-a92b-4aaa-94f1-1e330c1ae45c
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F209%2F1gtzcts3612j.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F188%2F1gtzcts2pj1a.png%3Fwin007%3Dsell", 🔴 22/08-17:00 | Kashiwa Reysol vs Urawa Red Diamonds | BLV HẠNG VŨ
-http://khaitv.giize.com:8080/luongson/play.php?id=17a2498a-e93a-4a69-bd20-e1e6435d2be8
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F209%2F1gtzcts3612j.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F188%2F1gtzcts2pj1a.png%3Fwin007%3Dsell", 🔴 22/08-17:00 | Kashiwa Reysol vs Urawa Red Diamonds | BLV NGŨ CA
-http://khaitv.giize.com:8080/luongson/play.php?id=dc22acc7-3cf5-4938-92b7-95988fb7b8c5
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F209%2F1gtzcts3612j.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F188%2F1gtzcts2pj1a.png%3Fwin007%3Dsell", 🔴 22/08-17:00 | Kashiwa Reysol vs Urawa Red Diamonds | BLV HOA VINH 
-http://khaitv.giize.com:8080/luongson/play.php?id=2720c455-c87b-476e-8b8b-fc0d2fd399ed
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F209%2F1gtzcts3612j.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F188%2F1gtzcts2pj1a.png%3Fwin007%3Dsell", 🔴 22/08-17:00 | Kashiwa Reysol vs Urawa Red Diamonds | BLV LƯU BỊ
-http://khaitv.giize.com:8080/luongson/play.php?id=2dbc4c1b-7b56-430d-b4c4-77bb40199daa
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F209%2F1gtzcts3612j.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F188%2F1gtzcts2pj1a.png%3Fwin007%3Dsell", 🔴 22/08-17:00 | Kashiwa Reysol vs Urawa Red Diamonds | BLV KEVILL
-http://khaitv.giize.com:8080/luongson/play.php?id=273810728
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F209%2F1gtzcts3612j.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F188%2F1gtzcts2pj1a.png%3Fwin007%3Dsell", 🔴 22/08-17:00 | Kashiwa Reysol vs Urawa Red Diamonds | BLV TRIỆU TỬ LONG
-http://khaitv.giize.com:8080/luongson/play.php?id=b1cd1a79-3ab2-442b-81c8-d08f87ce746d
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F66237%2F1h0rv0qqdn2f.png%3Fwin007%3Dsell&m2=", 🔴 22/08-18:00 | Lanzhou Longyuan Athletics vs Guangdong Mingtu | BLV DƯƠNG KHANG
-http://khaitv.giize.com:8080/luongson/play.php?id=5be17b11-a48c-4299-88ff-cefc83a06cd2
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F66237%2F1h0rv0qqdn2f.png%3Fwin007%3Dsell&m2=", 🔴 22/08-18:00 | Lanzhou Longyuan Athletics vs Guangdong Mingtu | BLV MÃ LÂN
-http://khaitv.giize.com:8080/luongson/play.php?id=337705822
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F66237%2F1h0rv0qqdn2f.png%3Fwin007%3Dsell&m2=", 🔴 22/08-18:00 | Lanzhou Longyuan Athletics vs Guangdong Mingtu | BLV SÁCH SIÊU
-http://khaitv.giize.com:8080/luongson/play.php?id=0055a892-12b3-490f-abe0-54d8fb157fec
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F66734%2F1h4f5891jb2k.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F54262%2F1gz596251pm.png%3Fwin007%3Dsell", 🔴 22/08-18:30 | Hangzhou Linping Wuyue vs Wenzhou Professional | BLV TRƯƠNG THANH 
-http://khaitv.giize.com:8080/luongson/play.php?id=760fe972-e4d3-4856-b6c1-f3d6448b8632
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F66734%2F1h4f5891jb2k.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F54262%2F1gz596251pm.png%3Fwin007%3Dsell", 🔴 22/08-18:30 | Hangzhou Linping Wuyue vs Wenzhou Professional | BLV VƯƠNG LUÂN
-http://khaitv.giize.com:8080/luongson/play.php?id=347705823
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F66734%2F1h4f5891jb2k.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F54262%2F1gz596251pm.png%3Fwin007%3Dsell", 🔴 22/08-18:30 | Hangzhou Linping Wuyue vs Wenzhou Professional | BLV TỪ NINH
-http://khaitv.giize.com:8080/luongson/play.php?id=2d758351-9af3-4b1b-940b-f94f0fbf33b4
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F66189%2F1h1jgt8p4r9.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20210526144219.png%3Fwin007%3Dsell", 22/08-19:00 | FC Jetisay vs Ekibastuzets | BLV THỜI THIÊN
-http://khaitv.giize.com:8080/luongson/play.php?id=c845ca00-8276-4f4c-96d2-2b0e3e360738
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F66189%2F1h1jgt8p4r9.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20210526144219.png%3Fwin007%3Dsell", 22/08-19:00 | FC Jetisay vs Ekibastuzets | BLV HOA VINH 
-http://khaitv.giize.com:8080/luongson/play.php?id=080acf94-d038-4b10-9f80-39f4998e805a
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F66189%2F1h1jgt8p4r9.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20210526144219.png%3Fwin007%3Dsell", 22/08-19:00 | FC Jetisay vs Ekibastuzets | BLV YẾN THANH
-http://khaitv.giize.com:8080/luongson/play.php?id=368426725
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F19419%2F1gq6kjwdeg3.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F19637%2F1gq931k4p82.png%3Fwin007%3Dsell", 22/08-19:00 | Rayong FC vs Nakhon Ratchasima | BLV LƯ TUẤN NGHĨA
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F19419%2F1gq6kjwdeg3.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F19637%2F1gq931k4p82.png%3Fwin007%3Dsell", 🔴 22/08-19:00 | Rayong FC vs Nakhon Ratchasima | BLV LƯ TUẤN NGHĨA
 http://khaitv.giize.com:8080/luongson/play.php?id=bca259f3-3b26-4cf6-8ef9-33e418265159
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F19419%2F1gq6kjwdeg3.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F19637%2F1gq931k4p82.png%3Fwin007%3Dsell", 22/08-19:00 | Rayong FC vs Nakhon Ratchasima | BLV NHỊ KA
-http://khaitv.giize.com:8080/luongson/play.php?id=221642825
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F19419%2F1gq6kjwdeg3.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F19637%2F1gq931k4p82.png%3Fwin007%3Dsell", 22/08-19:00 | Rayong FC vs Nakhon Ratchasima | BLV KHỔNG MINH
-http://khaitv.giize.com:8080/luongson/play.php?id=c2cf48ae-7330-446c-aa8e-06975225aabf
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F19419%2F1gq6kjwdeg3.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F19637%2F1gq931k4p82.png%3Fwin007%3Dsell", 22/08-19:00 | Rayong FC vs Nakhon Ratchasima | BLV CAO CẦU
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F19419%2F1gq6kjwdeg3.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F19637%2F1gq931k4p82.png%3Fwin007%3Dsell", 🔴 22/08-19:00 | Rayong FC vs Nakhon Ratchasima | BLV CAO CẦU
 http://khaitv.giize.com:8080/luongson/play.php?id=19d02981-3cf3-4278-8e3e-13a3a35014a1
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164941023943.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164085292224.png%3Fwin007%3Dsell", 22/08-19:00 | Persik Kediri vs Dewa United FC | BLV LÝ ỨNG
-http://khaitv.giize.com:8080/luongson/play.php?id=479f7ab8-b2a2-4ac4-9b71-0c134d97674a
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F19419%2F1gq6kjwdeg3.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F19637%2F1gq931k4p82.png%3Fwin007%3Dsell", 🔴 22/08-19:00 | Rayong FC vs Nakhon Ratchasima | BLV KHỔNG MINH
+http://khaitv.giize.com:8080/luongson/play.php?id=c2cf48ae-7330-446c-aa8e-06975225aabf
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F19419%2F1gq6kjwdeg3.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F19637%2F1gq931k4p82.png%3Fwin007%3Dsell", 🔴 22/08-19:00 | Rayong FC vs Nakhon Ratchasima | BLV NHỊ KA
+http://khaitv.giize.com:8080/luongson/play.php?id=221642825
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F66189%2F1h1jgt8p4r9.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20210526144219.png%3Fwin007%3Dsell", 🔴 22/08-19:00 | FC Jetisay vs Ekibastuzets | BLV HOA VINH 
+http://khaitv.giize.com:8080/luongson/play.php?id=080acf94-d038-4b10-9f80-39f4998e805a
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F66189%2F1h1jgt8p4r9.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20210526144219.png%3Fwin007%3Dsell", 🔴 22/08-19:00 | FC Jetisay vs Ekibastuzets | BLV YẾN THANH
+http://khaitv.giize.com:8080/luongson/play.php?id=368426725
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F66189%2F1h1jgt8p4r9.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20210526144219.png%3Fwin007%3Dsell", 🔴 22/08-19:00 | FC Jetisay vs Ekibastuzets | BLV THỜI THIÊN
+http://khaitv.giize.com:8080/luongson/play.php?id=c845ca00-8276-4f4c-96d2-2b0e3e360738
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F24875%2F1grfnycz2q32.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20170107083859.png%3Fwin007%3Dsell", 🔴 22/08-19:15 | Viettel FC vs Ho Chi Minh City | BLV LỮ BỐ
+http://khaitv.giize.com:8080/luongson/play.php?id=312764820
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F24875%2F1grfnycz2q32.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20170107083859.png%3Fwin007%3Dsell", 🔴 22/08-19:15 | Viettel FC vs Ho Chi Minh City | BLV THẠCH TÚ
+http://khaitv.giize.com:8080/luongson/play.php?id=8e353ad2-6ea6-4660-ac84-a6458072b6fe
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F24875%2F1grfnycz2q32.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20170107083859.png%3Fwin007%3Dsell", 🔴 22/08-19:15 | Viettel FC vs Ho Chi Minh City | BLV TRIỆU TỬ LONG
+http://khaitv.giize.com:8080/luongson/play.php?id=2c6dac50-fe7c-4623-bcca-65c3ab186212
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F24875%2F1grfnycz2q32.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20170107083859.png%3Fwin007%3Dsell", 🔴 22/08-19:15 | Viettel FC vs Ho Chi Minh City | BLV NGŨ CA
+http://khaitv.giize.com:8080/luongson/play.php?id=a8633e04-356d-4ad3-9df9-aeb192e26c20
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F24875%2F1grfnycz2q32.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20170107083859.png%3Fwin007%3Dsell", 🔴 22/08-19:15 | Viettel FC vs Ho Chi Minh City | BLV DƯƠNG QUÁ
+http://khaitv.giize.com:8080/luongson/play.php?id=37d3e2ec-f37f-4b98-b337-73f580dd257e
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F24875%2F1grfnycz2q32.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20170107083859.png%3Fwin007%3Dsell", 🔴 22/08-19:15 | Viettel FC vs Ho Chi Minh City | BLV PHONG VÂN
+http://khaitv.giize.com:8080/luongson/play.php?id=3634f80d-89b2-4ed8-bc90-d7f9b155d208
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F24875%2F1grfnycz2q32.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20170107083859.png%3Fwin007%3Dsell", 🔴 22/08-19:15 | Viettel FC vs Ho Chi Minh City | BLV LƯU BỊ
+http://khaitv.giize.com:8080/luongson/play.php?id=fadf2cd8-95a6-4e2b-934f-b8dc8d14bddd
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F2007101171312.gif%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F3623%2F1gr5bw7g4f2n.png%3Fwin007%3Dsell", 🔴 22/08-19:15 | DPMM FC vs Terengganu | BLV TÂY MÔN KHÁNH
+http://khaitv.giize.com:8080/luongson/play.php?id=6f3a27dd-48a7-4bbc-bf11-c5e80da260f7
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F2007101171312.gif%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F3623%2F1gr5bw7g4f2n.png%3Fwin007%3Dsell", 🔴 22/08-19:15 | DPMM FC vs Terengganu | BLV LA THÀNH
+http://khaitv.giize.com:8080/luongson/play.php?id=110322828
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164941023943.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164085292224.png%3Fwin007%3Dsell", 22/08-19:00 | Persik Kediri vs Dewa United FC | BLV TRƯƠNG VÔ KỴ
 http://khaitv.giize.com:8080/luongson/play.php?id=8b517773-bb3b-4963-aa1f-2cb07b3df26d
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164941023943.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164085292224.png%3Fwin007%3Dsell", 22/08-19:00 | Persik Kediri vs Dewa United FC | BLV HẠNG VŨ
-http://khaitv.giize.com:8080/luongson/play.php?id=41ec2980-2a36-42e7-97b4-6e54970e0d08
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164941023943.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164085292224.png%3Fwin007%3Dsell", 22/08-19:00 | Persik Kediri vs Dewa United FC | BLV KAKA
-http://khaitv.giize.com:8080/luongson/play.php?id=a5b2037e-2e2f-4233-9476-05adef14d02b
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164941023943.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164085292224.png%3Fwin007%3Dsell", 22/08-19:00 | Persik Kediri vs Dewa United FC | BLV KEVILL
 http://khaitv.giize.com:8080/luongson/play.php?id=376162822
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164941023943.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164085292224.png%3Fwin007%3Dsell", 22/08-19:00 | Persik Kediri vs Dewa United FC | BLV KAKA
+http://khaitv.giize.com:8080/luongson/play.php?id=a5b2037e-2e2f-4233-9476-05adef14d02b
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164941023943.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164085292224.png%3Fwin007%3Dsell", 22/08-19:00 | Persik Kediri vs Dewa United FC | BLV RICARDO
 http://khaitv.giize.com:8080/luongson/play.php?id=c55ec149-1e7c-4ab1-b1b7-2ab3183aacde
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F2007101171312.gif%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F3623%2F1gr5bw7g4f2n.png%3Fwin007%3Dsell", 22/08-19:15 | DPMM FC vs Terengganu | BLV TÂY MÔN KHÁNH
-http://khaitv.giize.com:8080/luongson/play.php?id=6f3a27dd-48a7-4bbc-bf11-c5e80da260f7
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F2007101171312.gif%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F3623%2F1gr5bw7g4f2n.png%3Fwin007%3Dsell", 22/08-19:15 | DPMM FC vs Terengganu | BLV LA THÀNH
-http://khaitv.giize.com:8080/luongson/play.php?id=110322828
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F24875%2F1grfnycz2q32.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20170107083859.png%3Fwin007%3Dsell", 22/08-19:15 | Viettel FC vs Ho Chi Minh City | BLV LƯU BỊ
-http://khaitv.giize.com:8080/luongson/play.php?id=fadf2cd8-95a6-4e2b-934f-b8dc8d14bddd
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F24875%2F1grfnycz2q32.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20170107083859.png%3Fwin007%3Dsell", 22/08-19:15 | Viettel FC vs Ho Chi Minh City | BLV NGŨ CA
-http://khaitv.giize.com:8080/luongson/play.php?id=a8633e04-356d-4ad3-9df9-aeb192e26c20
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F24875%2F1grfnycz2q32.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20170107083859.png%3Fwin007%3Dsell", 22/08-19:15 | Viettel FC vs Ho Chi Minh City | BLV DƯƠNG QUÁ
-http://khaitv.giize.com:8080/luongson/play.php?id=37d3e2ec-f37f-4b98-b337-73f580dd257e
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F24875%2F1grfnycz2q32.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20170107083859.png%3Fwin007%3Dsell", 22/08-19:15 | Viettel FC vs Ho Chi Minh City | BLV TRIỆU TỬ LONG
-http://khaitv.giize.com:8080/luongson/play.php?id=2c6dac50-fe7c-4623-bcca-65c3ab186212
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F24875%2F1grfnycz2q32.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20170107083859.png%3Fwin007%3Dsell", 22/08-19:15 | Viettel FC vs Ho Chi Minh City | BLV THẠCH TÚ
-http://khaitv.giize.com:8080/luongson/play.php?id=8e353ad2-6ea6-4660-ac84-a6458072b6fe
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F24875%2F1grfnycz2q32.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20170107083859.png%3Fwin007%3Dsell", 22/08-19:15 | Viettel FC vs Ho Chi Minh City | BLV LỮ BỐ
-http://khaitv.giize.com:8080/luongson/play.php?id=312764820
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F24875%2F1grfnycz2q32.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20170107083859.png%3Fwin007%3Dsell", 22/08-19:15 | Viettel FC vs Ho Chi Minh City | BLV PHONG VÂN
-http://khaitv.giize.com:8080/luongson/play.php?id=3634f80d-89b2-4ed8-bc90-d7f9b155d208
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F56345%2F1gv55qwkb22r.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20130418190846.gif%3Fwin007%3Dsell", 22/08-21:00 | FK Nizhny Novgorod Youth vs FC Terek Groznyi Youth | BLV NGŨ CA
-http://khaitv.giize.com:8080/luongson/play.php?id=fc30261d-7328-4356-b167-14073527dbed
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F56345%2F1gv55qwkb22r.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20130418190846.gif%3Fwin007%3Dsell", 22/08-21:00 | FK Nizhny Novgorod Youth vs FC Terek Groznyi Youth | BLV LỮ BỐ
-http://khaitv.giize.com:8080/luongson/play.php?id=327874727
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F56345%2F1gv55qwkb22r.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20130418190846.gif%3Fwin007%3Dsell", 22/08-21:00 | FK Nizhny Novgorod Youth vs FC Terek Groznyi Youth | BLV KENCHU
-http://khaitv.giize.com:8080/luongson/play.php?id=27e04b40-ff3b-43a0-996a-13358bdeed07
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F14582%2F1gtn24pfq6n.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F50273%2F1gw49r6kfv2f.png%3Fwin007%3Dsell", 22/08-21:00 | FK Kaspyi Aktau vs SD Family | BLV ODIN
-http://khaitv.giize.com:8080/luongson/play.php?id=aea67d0d-4409-48e3-8a99-dcebe299b139
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F14582%2F1gtn24pfq6n.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F50273%2F1gw49r6kfv2f.png%3Fwin007%3Dsell", 22/08-21:00 | FK Kaspyi Aktau vs SD Family | BLV QUAN VŨ
-http://khaitv.giize.com:8080/luongson/play.php?id=b7614cb8-5628-4b2d-85c3-dc4455702d29
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F14582%2F1gtn24pfq6n.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F50273%2F1gw49r6kfv2f.png%3Fwin007%3Dsell", 22/08-21:00 | FK Kaspyi Aktau vs SD Family | BLV CHU ĐỒNG
-http://khaitv.giize.com:8080/luongson/play.php?id=338426722
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F5737%2F1gxw21d2dee.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F61638%2F1gvy981pdh17.png%3Fwin007%3Dsell", 22/08-21:00 | FK Taraz vs Khan Tengri FC | BLV TẦN CA
-http://khaitv.giize.com:8080/luongson/play.php?id=3f373e49-0948-4185-9265-b38f0a7d2977
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F5737%2F1gxw21d2dee.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F61638%2F1gvy981pdh17.png%3Fwin007%3Dsell", 22/08-21:00 | FK Taraz vs Khan Tengri FC | BLV VI TIỂU BẢO
-http://khaitv.giize.com:8080/luongson/play.php?id=f3ea14e3-7dff-49c7-a4fb-9158a4ef5f09
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F5737%2F1gxw21d2dee.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F61638%2F1gvy981pdh17.png%3Fwin007%3Dsell", 22/08-21:00 | FK Taraz vs Khan Tengri FC | BLV URA
-http://khaitv.giize.com:8080/luongson/play.php?id=358426724
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F45198%2F1grdmmfbv31b.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F23525%2F1gxmbpde3v2h.png%3Fwin007%3Dsell", 22/08-21:00 | ACS Viitorul Selimbar vs Sepsi OSK Sfantul Gheorghe | BLV DƯƠNG HÙNG
-http://khaitv.giize.com:8080/luongson/play.php?id=3ab3dd25-2c1d-4123-8165-48af34e6ba8c
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164941023943.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164085292224.png%3Fwin007%3Dsell", 22/08-19:00 | Persik Kediri vs Dewa United FC | BLV LÝ ỨNG
+http://khaitv.giize.com:8080/luongson/play.php?id=479f7ab8-b2a2-4ac4-9b71-0c134d97674a
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164941023943.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164085292224.png%3Fwin007%3Dsell", 22/08-19:00 | Persik Kediri vs Dewa United FC | BLV HẠNG VŨ
+http://khaitv.giize.com:8080/luongson/play.php?id=41ec2980-2a36-42e7-97b4-6e54970e0d08
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F45198%2F1grdmmfbv31b.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F23525%2F1gxmbpde3v2h.png%3Fwin007%3Dsell", 22/08-21:00 | ACS Viitorul Selimbar vs Sepsi OSK Sfantul Gheorghe | BLV GUMA
 http://khaitv.giize.com:8080/luongson/play.php?id=c304401e-b9f1-4f52-a41f-0ea18ccd7c20
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F45198%2F1grdmmfbv31b.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F23525%2F1gxmbpde3v2h.png%3Fwin007%3Dsell", 22/08-21:00 | ACS Viitorul Selimbar vs Sepsi OSK Sfantul Gheorghe | BLV VƯƠNG LUÂN
 http://khaitv.giize.com:8080/luongson/play.php?id=220853828
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F45198%2F1grdmmfbv31b.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F23525%2F1gxmbpde3v2h.png%3Fwin007%3Dsell", 22/08-21:00 | ACS Viitorul Selimbar vs Sepsi OSK Sfantul Gheorghe | BLV DƯƠNG HÙNG
+http://khaitv.giize.com:8080/luongson/play.php?id=3ab3dd25-2c1d-4123-8165-48af34e6ba8c
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F56345%2F1gv55qwkb22r.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20130418190846.gif%3Fwin007%3Dsell", 22/08-21:00 | FK Nizhny Novgorod Youth vs FC Terek Groznyi Youth | BLV KENCHU
+http://khaitv.giize.com:8080/luongson/play.php?id=f9b0b5fc-88a3-4932-87ee-f4ed74d012de
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F56345%2F1gv55qwkb22r.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20130418190846.gif%3Fwin007%3Dsell", 22/08-21:00 | FK Nizhny Novgorod Youth vs FC Terek Groznyi Youth | BLV LỮ BỐ
+http://khaitv.giize.com:8080/luongson/play.php?id=327874727
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F14582%2F1gtn24pfq6n.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F50273%2F1gw49r6kfv2f.png%3Fwin007%3Dsell", 22/08-21:00 | FK Kaspyi Aktau vs SD Family | BLV QUAN VŨ
+http://khaitv.giize.com:8080/luongson/play.php?id=b7614cb8-5628-4b2d-85c3-dc4455702d29
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F14582%2F1gtn24pfq6n.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F50273%2F1gw49r6kfv2f.png%3Fwin007%3Dsell", 22/08-21:00 | FK Kaspyi Aktau vs SD Family | BLV CHU ĐỒNG
+http://khaitv.giize.com:8080/luongson/play.php?id=338426722
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F14582%2F1gtn24pfq6n.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F50273%2F1gw49r6kfv2f.png%3Fwin007%3Dsell", 22/08-21:00 | FK Kaspyi Aktau vs SD Family | BLV ODIN
+http://khaitv.giize.com:8080/luongson/play.php?id=aea67d0d-4409-48e3-8a99-dcebe299b139
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F3464%2F1gqe5zh6q30.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F6466%2F1gqbqekjk4c.png%3Fwin007%3Dsell", 22/08-21:00 | Banni Yas vs Ittihad Kalba | BLV VƯƠNG ANH
+http://khaitv.giize.com:8080/luongson/play.php?id=e58bfe58-20a4-42dd-9c23-4eb1c01948db
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F3464%2F1gqe5zh6q30.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F6466%2F1gqbqekjk4c.png%3Fwin007%3Dsell", 22/08-21:00 | Banni Yas vs Ittihad Kalba | BLV KAKA
 http://khaitv.giize.com:8080/luongson/play.php?id=f7197636-bc52-4db2-b86f-590ce7b46b8a
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F3464%2F1gqe5zh6q30.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F6466%2F1gqbqekjk4c.png%3Fwin007%3Dsell", 22/08-21:00 | Banni Yas vs Ittihad Kalba | BLV NHỊ KA
 http://khaitv.giize.com:8080/luongson/play.php?id=6460b4c8-cc1a-4112-a161-f50fee44c0a6
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F3464%2F1gqe5zh6q30.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F6466%2F1gqbqekjk4c.png%3Fwin007%3Dsell", 22/08-21:00 | Banni Yas vs Ittihad Kalba | BLV VƯƠNG ANH
-http://khaitv.giize.com:8080/luongson/play.php?id=e58bfe58-20a4-42dd-9c23-4eb1c01948db
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F3464%2F1gqe5zh6q30.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F6466%2F1gqbqekjk4c.png%3Fwin007%3Dsell", 22/08-21:00 | Banni Yas vs Ittihad Kalba | BLV LÝ ỨNG
-http://khaitv.giize.com:8080/luongson/play.php?id=e4fbaac5-5751-4cbd-802b-98614cc1822d
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F3464%2F1gqe5zh6q30.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F6466%2F1gqbqekjk4c.png%3Fwin007%3Dsell", 22/08-21:00 | Banni Yas vs Ittihad Kalba | BLV YẾN THANH
 http://khaitv.giize.com:8080/luongson/play.php?id=485784822
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165018814684.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165018829121.png%3Fwin007%3Dsell", 22/08-21:00 | Kenya vs Madagascar | BLV TÔN LẬP
-http://khaitv.giize.com:8080/luongson/play.php?id=78d8dea0-b9ba-47c0-8442-f2a8fd937712
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F3464%2F1gqe5zh6q30.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F6466%2F1gqbqekjk4c.png%3Fwin007%3Dsell", 22/08-21:00 | Banni Yas vs Ittihad Kalba | BLV LÝ ỨNG
+http://khaitv.giize.com:8080/luongson/play.php?id=e4fbaac5-5751-4cbd-802b-98614cc1822d
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165018814684.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165018829121.png%3Fwin007%3Dsell", 22/08-21:00 | Kenya vs Madagascar | BLV KHỔNG MINH
 http://khaitv.giize.com:8080/luongson/play.php?id=2308082d-90f6-4e55-bd99-e1f721c43fd3
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165018814684.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165018829121.png%3Fwin007%3Dsell", 22/08-21:00 | Kenya vs Madagascar | BLV ZORO
-http://khaitv.giize.com:8080/luongson/play.php?id=52fbf0e1-65c5-4030-b69d-d2deae0602da
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165018814684.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165018829121.png%3Fwin007%3Dsell", 22/08-21:00 | Kenya vs Madagascar | BLV PHONG VÂN
 http://khaitv.giize.com:8080/luongson/play.php?id=346915825
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165018814684.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165018829121.png%3Fwin007%3Dsell", 22/08-21:00 | Kenya vs Madagascar | BLV ZORO
+http://khaitv.giize.com:8080/luongson/play.php?id=52fbf0e1-65c5-4030-b69d-d2deae0602da
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165018814684.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165018829121.png%3Fwin007%3Dsell", 22/08-21:00 | Kenya vs Madagascar | BLV TÔN LẬP
+http://khaitv.giize.com:8080/luongson/play.php?id=78d8dea0-b9ba-47c0-8442-f2a8fd937712
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F9916%2F1grba68s8hg.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F4032%2F1gpyst1m7129.png%3Fwin007%3Dsell", 22/08-21:00 | FK Andijon vs Pakhtakor | BLV TRƯƠNG VÔ KỴ
 http://khaitv.giize.com:8080/luongson/play.php?id=388063825
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F9916%2F1grba68s8hg.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F4032%2F1gpyst1m7129.png%3Fwin007%3Dsell", 22/08-21:00 | FK Andijon vs Pakhtakor | BLV MÃ LÂN
 http://khaitv.giize.com:8080/luongson/play.php?id=d9170257-cd53-4db4-8e3b-58fe88f76dab
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F9916%2F1grba68s8hg.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F4032%2F1gpyst1m7129.png%3Fwin007%3Dsell", 22/08-21:00 | FK Andijon vs Pakhtakor | BLV LƯ TUẤN NGHĨA
 http://khaitv.giize.com:8080/luongson/play.php?id=6973ffee-0b9d-49f6-b06e-03171e05e0ee
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165724449442.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F8120%2F1gq9hn6k3519.png%3Fwin007%3Dsell", 22/08-22:00 | Vaasa VPS vs KTP Kotka | BLV HOA VINH 
-http://khaitv.giize.com:8080/luongson/play.php?id=ec9d464b-2147-4f06-b186-fc742d35a2ab
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F5737%2F1gxw21d2dee.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F61638%2F1gvy981pdh17.png%3Fwin007%3Dsell", 22/08-21:00 | FK Taraz vs Khan Tengri FC | BLV VI TIỂU BẢO
+http://khaitv.giize.com:8080/luongson/play.php?id=f3ea14e3-7dff-49c7-a4fb-9158a4ef5f09
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F5737%2F1gxw21d2dee.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F61638%2F1gvy981pdh17.png%3Fwin007%3Dsell", 22/08-21:00 | FK Taraz vs Khan Tengri FC | BLV TẦN CA
+http://khaitv.giize.com:8080/luongson/play.php?id=3f373e49-0948-4185-9265-b38f0a7d2977
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F5737%2F1gxw21d2dee.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F61638%2F1gvy981pdh17.png%3Fwin007%3Dsell", 22/08-21:00 | FK Taraz vs Khan Tengri FC | BLV URA
+http://khaitv.giize.com:8080/luongson/play.php?id=358426724
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165724449442.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F8120%2F1gq9hn6k3519.png%3Fwin007%3Dsell", 22/08-22:00 | Vaasa VPS vs KTP Kotka | BLV TRIỆU TỬ LONG
+http://khaitv.giize.com:8080/luongson/play.php?id=5875b5da-b169-4be1-b629-3e9db5dd9b72
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165724449442.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F8120%2F1gq9hn6k3519.png%3Fwin007%3Dsell", 22/08-22:00 | Vaasa VPS vs KTP Kotka | BLV DẾ LỬA
+http://khaitv.giize.com:8080/luongson/play.php?id=a38df798-860c-4a3e-a7f5-82da2210fb8b
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165724449442.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F8120%2F1gq9hn6k3519.png%3Fwin007%3Dsell", 22/08-22:00 | Vaasa VPS vs KTP Kotka | BLV HẠNG VŨ
 http://khaitv.giize.com:8080/luongson/play.php?id=8e96d682-f6ea-48cc-bbe0-774db285c1af
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165724449442.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F8120%2F1gq9hn6k3519.png%3Fwin007%3Dsell", 22/08-22:00 | Vaasa VPS vs KTP Kotka | BLV LƯU BỊ
 http://khaitv.giize.com:8080/luongson/play.php?id=72eb8c8f-4bb7-498b-9ff1-8a9f863d1aa5
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165724449442.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F8120%2F1gq9hn6k3519.png%3Fwin007%3Dsell", 22/08-22:00 | Vaasa VPS vs KTP Kotka | BLV TRIỆU TỬ LONG
-http://khaitv.giize.com:8080/luongson/play.php?id=5875b5da-b169-4be1-b629-3e9db5dd9b72
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165724449442.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F8120%2F1gq9hn6k3519.png%3Fwin007%3Dsell", 22/08-22:00 | Vaasa VPS vs KTP Kotka | BLV HOA VINH 
+http://khaitv.giize.com:8080/luongson/play.php?id=ec9d464b-2147-4f06-b186-fc742d35a2ab
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165724449442.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F8120%2F1gq9hn6k3519.png%3Fwin007%3Dsell", 22/08-22:00 | Vaasa VPS vs KTP Kotka | BLV KEVILL
 http://khaitv.giize.com:8080/luongson/play.php?id=224381727
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165724449442.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F8120%2F1gq9hn6k3519.png%3Fwin007%3Dsell", 22/08-22:00 | Vaasa VPS vs KTP Kotka | BLV DẾ LỬA
-http://khaitv.giize.com:8080/luongson/play.php?id=a38df798-860c-4a3e-a7f5-82da2210fb8b
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F9922%2F1gtn28ym8h2k.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F7239%2F1gxsf7p65w26.png%3Fwin007%3Dsell", 22/08-22:00 | Qizilqum Zarafshon vs Kuruvchi Bunyodkor | BLV DƯƠNG KHANG
-http://khaitv.giize.com:8080/luongson/play.php?id=9b9f9aa6-2219-4026-aca6-c47a25e972be
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F9922%2F1gtn28ym8h2k.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F7239%2F1gxsf7p65w26.png%3Fwin007%3Dsell", 22/08-22:00 | Qizilqum Zarafshon vs Kuruvchi Bunyodkor | BLV SÁCH SIÊU
 http://khaitv.giize.com:8080/luongson/play.php?id=398063826
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F9922%2F1gtn28ym8h2k.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F7239%2F1gxsf7p65w26.png%3Fwin007%3Dsell", 22/08-22:00 | Qizilqum Zarafshon vs Kuruvchi Bunyodkor | BLV THỜI THIÊN
 http://khaitv.giize.com:8080/luongson/play.php?id=c6dfcfde-5da6-45d7-af3b-2571c60277e5
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F9922%2F1gtn28ym8h2k.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F7239%2F1gxsf7p65w26.png%3Fwin007%3Dsell", 22/08-22:00 | Qizilqum Zarafshon vs Kuruvchi Bunyodkor | BLV DƯƠNG KHANG
+http://khaitv.giize.com:8080/luongson/play.php?id=9b9f9aa6-2219-4026-aca6-c47a25e972be
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20181105093134.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165095534661.png%3Fwin007%3Dsell", 22/08-22:00 | Gazovik Orenburg vs Terek Grozny | BLV NGŨ CA
+http://khaitv.giize.com:8080/luongson/play.php?id=329352821
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F3654%2F1gv1yem5y22y.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F4819%2F1gtzct7tvs0.png%3Fwin007%3Dsell", 22/08-22:30 | Al-Garrafa vs Al-Arabi SC | BLV DƯƠNG QUÁ
+http://khaitv.giize.com:8080/luongson/play.php?id=398c676f-4624-4105-8dcb-7617bd06d465
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F3654%2F1gv1yem5y22y.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F4819%2F1gtzct7tvs0.png%3Fwin007%3Dsell", 22/08-22:30 | Al-Garrafa vs Al-Arabi SC | BLV LA THÀNH
 http://khaitv.giize.com:8080/luongson/play.php?id=d71cfc52-b2d3-42df-ae61-013a3d3b5a64
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F3654%2F1gv1yem5y22y.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F4819%2F1gtzct7tvs0.png%3Fwin007%3Dsell", 22/08-22:30 | Al-Garrafa vs Al-Arabi SC | BLV TRƯƠNG THANH 
 http://khaitv.giize.com:8080/luongson/play.php?id=230160820
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F3654%2F1gv1yem5y22y.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F4819%2F1gtzct7tvs0.png%3Fwin007%3Dsell", 22/08-22:30 | Al-Garrafa vs Al-Arabi SC | BLV DƯƠNG QUÁ
-http://khaitv.giize.com:8080/luongson/play.php?id=398c676f-4624-4105-8dcb-7617bd06d465
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F4434%2F1gzcywd96y25.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F14931%2F1grwfg41cv1q.png%3Fwin007%3Dsell", 22/08-23:00 | UTA Arad vs FC Unirea 2004 Slobozia | BLV DƯƠNG HÙNG
-http://khaitv.giize.com:8080/luongson/play.php?id=d4c69fec-8597-4e80-93cd-a902e0aab2a8
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F4434%2F1gzcywd96y25.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F14931%2F1grwfg41cv1q.png%3Fwin007%3Dsell", 22/08-23:00 | UTA Arad vs FC Unirea 2004 Slobozia | BLV MÃ LÂN
 http://khaitv.giize.com:8080/luongson/play.php?id=341179721
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F4434%2F1gzcywd96y25.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F14931%2F1grwfg41cv1q.png%3Fwin007%3Dsell", 22/08-23:00 | UTA Arad vs FC Unirea 2004 Slobozia | BLV DƯƠNG HÙNG
+http://khaitv.giize.com:8080/luongson/play.php?id=d4c69fec-8597-4e80-93cd-a902e0aab2a8
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F2345%2F1hbcqjz3e62b.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F11123%2F1hbcqjz3e420.png%3Fwin007%3Dsell", 22/08-23:00 | Radomiak Radom vs LKS Nieciecza | BLV LƯ TUẤN NGHĨA
 http://khaitv.giize.com:8080/luongson/play.php?id=c73436e0-45c7-48a2-a4fe-8f71246f4a8f
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F2345%2F1hbcqjz3e62b.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F11123%2F1hbcqjz3e420.png%3Fwin007%3Dsell", 22/08-23:00 | Radomiak Radom vs LKS Nieciecza | BLV VƯƠNG LUÂN
 http://khaitv.giize.com:8080/luongson/play.php?id=212358728
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F2013120114743.jpg%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F2013119145001.jpg%3Fwin007%3Dsell", 22/08-23:30 | Preuben Munster vs Nurnberg | BLV TÔN LẬP
 http://khaitv.giize.com:8080/luongson/play.php?id=a5675dbe-8c9d-49d2-b0ea-499ce1301b11
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F2013120114743.jpg%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F2013119145001.jpg%3Fwin007%3Dsell", 22/08-23:30 | Preuben Munster vs Nurnberg | BLV VƯƠNG ANH
-http://khaitv.giize.com:8080/luongson/play.php?id=5e492b09-3801-4cf2-a998-c705528a0427
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F2013120114743.jpg%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F2013119145001.jpg%3Fwin007%3Dsell", 22/08-23:30 | Preuben Munster vs Nurnberg | BLV KHỔNG MINH
-http://khaitv.giize.com:8080/luongson/play.php?id=dfeaf8a5-e71e-4f26-82e9-dbd3cc2622f2
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F2013120114743.jpg%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F2013119145001.jpg%3Fwin007%3Dsell", 22/08-23:30 | Preuben Munster vs Nurnberg | BLV YẾN THANH
-http://khaitv.giize.com:8080/luongson/play.php?id=473799724
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F2013120114743.jpg%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F2013119145001.jpg%3Fwin007%3Dsell", 22/08-23:30 | Preuben Munster vs Nurnberg | BLV TÂY MÔN KHÁNH
 http://khaitv.giize.com:8080/luongson/play.php?id=d8e9a691-943a-4d32-9db3-9398d4b2d74f
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F2013120122226.jpg%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F201312095551.jpg%3Fwin007%3Dsell", 22/08-23:30 | SV Elversberg vs Kaiserslautern | BLV NHỊ KA
-http://khaitv.giize.com:8080/luongson/play.php?id=bb619cf8-c732-454a-b358-189723190e48
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F2013120122226.jpg%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F201312095551.jpg%3Fwin007%3Dsell", 22/08-23:30 | SV Elversberg vs Kaiserslautern | BLV URA
-http://khaitv.giize.com:8080/luongson/play.php?id=dda11904-d4c5-49d1-b0ae-afd427059333
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F2013120114743.jpg%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F2013119145001.jpg%3Fwin007%3Dsell", 22/08-23:30 | Preuben Munster vs Nurnberg | BLV YẾN THANH
+http://khaitv.giize.com:8080/luongson/play.php?id=473799724
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F2013120114743.jpg%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F2013119145001.jpg%3Fwin007%3Dsell", 22/08-23:30 | Preuben Munster vs Nurnberg | BLV KHỔNG MINH
+http://khaitv.giize.com:8080/luongson/play.php?id=dfeaf8a5-e71e-4f26-82e9-dbd3cc2622f2
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F2013120114743.jpg%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F2013119145001.jpg%3Fwin007%3Dsell", 22/08-23:30 | Preuben Munster vs Nurnberg | BLV VƯƠNG ANH
+http://khaitv.giize.com:8080/luongson/play.php?id=5e492b09-3801-4cf2-a998-c705528a0427
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F2013120122226.jpg%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F201312095551.jpg%3Fwin007%3Dsell", 22/08-23:30 | SV Elversberg vs Kaiserslautern | BLV QUAN VŨ
 http://khaitv.giize.com:8080/luongson/play.php?id=a40c5fe3-49ef-4ca8-96ea-f94a5513e2b9
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F2013120122226.jpg%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F201312095551.jpg%3Fwin007%3Dsell", 22/08-23:30 | SV Elversberg vs Kaiserslautern | BLV URA
+http://khaitv.giize.com:8080/luongson/play.php?id=dda11904-d4c5-49d1-b0ae-afd427059333
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F2013120122226.jpg%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F201312095551.jpg%3Fwin007%3Dsell", 22/08-23:30 | SV Elversberg vs Kaiserslautern | BLV VI TIỂU BẢO
 http://khaitv.giize.com:8080/luongson/play.php?id=7dfa5575-0afa-43ea-8e44-32c6e246c44e
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F2013120122226.jpg%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F201312095551.jpg%3Fwin007%3Dsell", 22/08-23:30 | SV Elversberg vs Kaiserslautern | BLV NHỊ KA
+http://khaitv.giize.com:8080/luongson/play.php?id=bb619cf8-c732-454a-b358-189723190e48
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F2013120122226.jpg%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F201312095551.jpg%3Fwin007%3Dsell", 22/08-23:30 | SV Elversberg vs Kaiserslautern | BLV PEP
 http://khaitv.giize.com:8080/luongson/play.php?id=433799720
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F3435%2F1gqbqekjkv27.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F2060%2F1hd5axqvt71a.png%3Fwin007%3Dsell", 22/08-23:30 | Al-Sharjah vs Al-Jazira(UAE) | BLV DƯƠNG CHÍ
-http://khaitv.giize.com:8080/luongson/play.php?id=495784823
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F3435%2F1gqbqekjkv27.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F2060%2F1hd5axqvt71a.png%3Fwin007%3Dsell", 22/08-23:30 | Al-Sharjah vs Al-Jazira(UAE) | BLV GUMA
 http://khaitv.giize.com:8080/luongson/play.php?id=5e122a5c-c2b1-4f14-8e97-7e4f92585b2f
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F3435%2F1gqbqekjkv27.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F2060%2F1hd5axqvt71a.png%3Fwin007%3Dsell", 22/08-23:30 | Al-Sharjah vs Al-Jazira(UAE) | BLV DƯƠNG CHÍ
+http://khaitv.giize.com:8080/luongson/play.php?id=495784823
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165018858746.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165018837927.png%3Fwin007%3Dsell", 23/08-00:00 | Tanzania vs Morocco | BLV THỜI THIÊN
 http://khaitv.giize.com:8080/luongson/play.php?id=c424857e-4285-4cae-9e4b-46a094bb0874
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165018858746.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165018837927.png%3Fwin007%3Dsell", 23/08-00:00 | Tanzania vs Morocco | BLV LỮ BỐ
-http://khaitv.giize.com:8080/luongson/play.php?id=356915826
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165018858746.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165018837927.png%3Fwin007%3Dsell", 23/08-00:00 | Tanzania vs Morocco | BLV SÁCH SIÊU
 http://khaitv.giize.com:8080/luongson/play.php?id=bc924547-1f69-4542-9e53-9b39f9d90e8f
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F10241%2F1gxmbp25v5c.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F496%2F1gxmbm1ncxw.png%3Fwin007%3Dsell", 23/08-00:00 | KFUM Oslo vs Ham-Kam | BLV DẾ LỬA
-http://khaitv.giize.com:8080/luongson/play.php?id=23aeeeaf-92ea-4122-8de6-be35929bc52c
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165018858746.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165018837927.png%3Fwin007%3Dsell", 23/08-00:00 | Tanzania vs Morocco | BLV LỮ BỐ
+http://khaitv.giize.com:8080/luongson/play.php?id=356915826
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F10241%2F1gxmbp25v5c.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F496%2F1gxmbm1ncxw.png%3Fwin007%3Dsell", 23/08-00:00 | KFUM Oslo vs Ham-Kam | BLV CHU ĐỒNG
 http://khaitv.giize.com:8080/luongson/play.php?id=242511722
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F1147%2F1grcyc2fjr0.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F1155%2F1h5e4fpvkc23.png%3Fwin007%3Dsell", 23/08-00:30 | Lokomotiv Sofia vs Spartak Varna | BLV DƯƠNG QUÁ
-http://khaitv.giize.com:8080/luongson/play.php?id=a8979c84-da16-432a-a1e8-0634ed16f808
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F10241%2F1gxmbp25v5c.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F496%2F1gxmbm1ncxw.png%3Fwin007%3Dsell", 23/08-00:00 | KFUM Oslo vs Ham-Kam | BLV DẾ LỬA
+http://khaitv.giize.com:8080/luongson/play.php?id=23aeeeaf-92ea-4122-8de6-be35929bc52c
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F1147%2F1grcyc2fjr0.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F1155%2F1h5e4fpvkc23.png%3Fwin007%3Dsell", 23/08-00:30 | Lokomotiv Sofia vs Spartak Varna | BLV TRƯƠNG THANH 
 http://khaitv.giize.com:8080/luongson/play.php?id=373359726
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F1147%2F1grcyc2fjr0.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F1155%2F1h5e4fpvkc23.png%3Fwin007%3Dsell", 23/08-00:30 | Lokomotiv Sofia vs Spartak Varna | BLV DƯƠNG QUÁ
+http://khaitv.giize.com:8080/luongson/play.php?id=a8979c84-da16-432a-a1e8-0634ed16f808
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F3554%2F1gtzct7tvqj.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F2043%2F1gpytc4zv71g.png%3Fwin007%3Dsell", 23/08-00:30 | Al Shamal vs Al Rayyan | BLV LA THÀNH
 http://khaitv.giize.com:8080/luongson/play.php?id=240160821
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F2013121203913.jpg%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871277443.png%3Fwin007%3Dsell", 23/08-00:30 | Eibar vs Granada CF | BLV DƯƠNG KHANG
@@ -1818,102 +1788,100 @@ http://khaitv.giize.com:8080/luongson/play.php?id=383670824
 http://khaitv.giize.com:8080/luongson/play.php?id=367159727
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F20058%2F1grcyc2g2mn.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F1236%2F1hbcs91he82m.png%3Fwin007%3Dsell", 23/08-01:30 | Metaloglobus vs Rapid Bucuresti | BLV URA
 http://khaitv.giize.com:8080/luongson/play.php?id=351179722
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164870989340.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871164178.png%3Fwin007%3Dsell", 23/08-01:30 | Bayern Munchen vs RB Leipzig | BLV THẠCH TÚ
-http://khaitv.giize.com:8080/luongson/play.php?id=5d600b10-a2bf-4e93-aed3-2135e6f073d1
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164870989340.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871164178.png%3Fwin007%3Dsell", 23/08-01:30 | Bayern Munchen vs RB Leipzig | BLV NGŨ CA
-http://khaitv.giize.com:8080/luongson/play.php?id=752de23c-e4ce-41c2-99c0-c42fbb34c588
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164870989340.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871164178.png%3Fwin007%3Dsell", 23/08-01:30 | Bayern Munchen vs RB Leipzig | BLV DƯƠNG HÙNG
 http://khaitv.giize.com:8080/luongson/play.php?id=5daaa586-2194-43a9-8bf3-0173b75680f0
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164870989340.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871164178.png%3Fwin007%3Dsell", 23/08-01:30 | Bayern Munchen vs RB Leipzig | BLV NHỊ KA
-http://khaitv.giize.com:8080/luongson/play.php?id=2a48e557-8357-4c5c-9aa5-ce743ede8165
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164870989340.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871164178.png%3Fwin007%3Dsell", 23/08-01:30 | Bayern Munchen vs RB Leipzig | BLV KEVILL
 http://khaitv.giize.com:8080/luongson/play.php?id=370499728
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164870989340.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871164178.png%3Fwin007%3Dsell", 23/08-01:30 | Bayern Munchen vs RB Leipzig | BLV NHỊ KA
+http://khaitv.giize.com:8080/luongson/play.php?id=2a48e557-8357-4c5c-9aa5-ce743ede8165
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164870989340.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871164178.png%3Fwin007%3Dsell", 23/08-01:30 | Bayern Munchen vs RB Leipzig | BLV THẠCH TÚ
+http://khaitv.giize.com:8080/luongson/play.php?id=5d600b10-a2bf-4e93-aed3-2135e6f073d1
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164870989340.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871164178.png%3Fwin007%3Dsell", 23/08-01:30 | Bayern Munchen vs RB Leipzig | BLV QUAN VŨ
 http://khaitv.giize.com:8080/luongson/play.php?id=e93b1e67-b4ea-4ab4-9ae1-ba39104f8084
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164870989340.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871164178.png%3Fwin007%3Dsell", 23/08-01:30 | Bayern Munchen vs RB Leipzig | BLV NGŨ CA
+http://khaitv.giize.com:8080/luongson/play.php?id=752de23c-e4ce-41c2-99c0-c42fbb34c588
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F1592%2F1h6na5ajmb2g.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F1666%2F1h5bjb8vna9.png%3Fwin007%3Dsell", 23/08-01:30 | Karagumruk vs Goztepe | BLV GUMA
 http://khaitv.giize.com:8080/luongson/play.php?id=356821822
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871185439.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F304%2F1h71kxn41qn.png%3Fwin007%3Dsell", 23/08-01:45 | Paris Saint Germain (PSG) vs Angers | BLV VI TIỂU BẢO
-http://khaitv.giize.com:8080/luongson/play.php?id=b4627013-c74e-4c7d-a14f-f16bf97fa8df
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871185439.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F304%2F1h71kxn41qn.png%3Fwin007%3Dsell", 23/08-01:45 | Paris Saint Germain (PSG) vs Angers | BLV DẾ LỬA
+http://khaitv.giize.com:8080/luongson/play.php?id=ec2a9dfa-3580-450c-ac92-5eea3c02b743
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871185439.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F304%2F1h71kxn41qn.png%3Fwin007%3Dsell", 23/08-01:45 | Paris Saint Germain (PSG) vs Angers | BLV VƯƠNG ANH
 http://khaitv.giize.com:8080/luongson/play.php?id=4da79674-438f-494d-83af-055ba60d6c06
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871185439.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F304%2F1h71kxn41qn.png%3Fwin007%3Dsell", 23/08-01:45 | Paris Saint Germain (PSG) vs Angers | BLV YẾN THANH
-http://khaitv.giize.com:8080/luongson/play.php?id=143000827
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871185439.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F304%2F1h71kxn41qn.png%3Fwin007%3Dsell", 23/08-01:45 | Paris Saint Germain (PSG) vs Angers | BLV VI TIỂU BẢO
+http://khaitv.giize.com:8080/luongson/play.php?id=b4627013-c74e-4c7d-a14f-f16bf97fa8df
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871185439.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F304%2F1h71kxn41qn.png%3Fwin007%3Dsell", 23/08-01:45 | Paris Saint Germain (PSG) vs Angers | BLV DƯƠNG CHÍ
 http://khaitv.giize.com:8080/luongson/play.php?id=a4f9346b-a5b8-4f8d-9bee-df072f9502cd
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871185439.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F304%2F1h71kxn41qn.png%3Fwin007%3Dsell", 23/08-01:45 | Paris Saint Germain (PSG) vs Angers | BLV TÂY MÔN KHÁNH
 http://khaitv.giize.com:8080/luongson/play.php?id=c989e2c8-2358-4d78-a3ab-236a12fd2b89
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871185439.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F304%2F1h71kxn41qn.png%3Fwin007%3Dsell", 23/08-01:45 | Paris Saint Germain (PSG) vs Angers | BLV DẾ LỬA
-http://khaitv.giize.com:8080/luongson/play.php?id=ec2a9dfa-3580-450c-ac92-5eea3c02b743
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871185439.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F304%2F1h71kxn41qn.png%3Fwin007%3Dsell", 23/08-01:45 | Paris Saint Germain (PSG) vs Angers | BLV YẾN THANH
+http://khaitv.giize.com:8080/luongson/play.php?id=143000827
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F1gz3j6bb5wt.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164869137651.png%3Fwin007%3Dsell", 23/08-02:00 | Derby County vs Bristol City | BLV THỜI THIÊN
+http://khaitv.giize.com:8080/luongson/play.php?id=f1508bcd-961f-4a4a-8975-78a59abb0d5f
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F1gz3j6bb5wt.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164869137651.png%3Fwin007%3Dsell", 23/08-02:00 | Derby County vs Bristol City | BLV PHONG VÂN
 http://khaitv.giize.com:8080/luongson/play.php?id=343089723
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F1gz3j6bb5wt.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164869137651.png%3Fwin007%3Dsell", 23/08-02:00 | Derby County vs Bristol City | BLV SÁCH SIÊU
 http://khaitv.giize.com:8080/luongson/play.php?id=d3f155c1-f609-4862-93ac-c60167b8e0e4
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F1gz3j6bb5wt.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164869137651.png%3Fwin007%3Dsell", 23/08-02:00 | Derby County vs Bristol City | BLV THỜI THIÊN
-http://khaitv.giize.com:8080/luongson/play.php?id=f1508bcd-961f-4a4a-8975-78a59abb0d5f
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577453830.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577409120.png%3Fwin007%3Dsell", 23/08-02:00 | West Ham United vs Chelsea | BLV PEP
-http://khaitv.giize.com:8080/luongson/play.php?id=384198729
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577453830.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577409120.png%3Fwin007%3Dsell", 23/08-02:00 | West Ham United vs Chelsea | BLV HẠNG VŨ
-http://khaitv.giize.com:8080/luongson/play.php?id=8f38a9a1-eac2-47f0-a54e-989599184501
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577453830.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577409120.png%3Fwin007%3Dsell", 23/08-02:00 | West Ham United vs Chelsea | BLV TRIỆU TỬ LONG
 http://khaitv.giize.com:8080/luongson/play.php?id=62e3212c-01b9-4b2f-a95d-d93bef35e9d9
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577453830.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577409120.png%3Fwin007%3Dsell", 23/08-02:00 | West Ham United vs Chelsea | BLV LƯU BỊ
+http://khaitv.giize.com:8080/luongson/play.php?id=ffa73e62-24e2-45cb-9f99-e8235da898d9
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577453830.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577409120.png%3Fwin007%3Dsell", 23/08-02:00 | West Ham United vs Chelsea | BLV HẠNG VŨ
+http://khaitv.giize.com:8080/luongson/play.php?id=8f38a9a1-eac2-47f0-a54e-989599184501
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577453830.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577409120.png%3Fwin007%3Dsell", 23/08-02:00 | West Ham United vs Chelsea | BLV PEP
+http://khaitv.giize.com:8080/luongson/play.php?id=384198729
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577453830.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577409120.png%3Fwin007%3Dsell", 23/08-02:00 | West Ham United vs Chelsea | BLV RICARDO
 http://khaitv.giize.com:8080/luongson/play.php?id=a11fc3dd-fa2d-48d2-ad85-c4443a9377bd
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577453830.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577409120.png%3Fwin007%3Dsell", 23/08-02:00 | West Ham United vs Chelsea | BLV KAKA
 http://khaitv.giize.com:8080/luongson/play.php?id=87515950-fb4a-446d-a4c3-88bc1167fa8e
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577453830.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164577409120.png%3Fwin007%3Dsell", 23/08-02:00 | West Ham United vs Chelsea | BLV LƯU BỊ
-http://khaitv.giize.com:8080/luongson/play.php?id=ffa73e62-24e2-45cb-9f99-e8235da898d9
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F992%2F1h5bja70zq1p.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871281668.png%3Fwin007%3Dsell", 23/08-02:30 | Leganes vs Cadiz | BLV DƯƠNG KHANG
 http://khaitv.giize.com:8080/luongson/play.php?id=393670825
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F978%2F1gzsyrzg2m1g.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F165700351316.png%3Fwin007%3Dsell", 23/08-02:30 | Castellon vs Real Valladolid | BLV TÔN LẬP
 http://khaitv.giize.com:8080/luongson/play.php?id=233670829
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871261858.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871280016.png%3Fwin007%3Dsell", 23/08-02:30 | Real Betis vs Alaves | BLV LỮ BỐ
 http://khaitv.giize.com:8080/luongson/play.php?id=260340823
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871261858.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871280016.png%3Fwin007%3Dsell", 23/08-02:30 | Real Betis vs Alaves | BLV LƯ TUẤN NGHĨA
-http://khaitv.giize.com:8080/luongson/play.php?id=57b08057-6f84-4b4c-8976-79b72be92d33
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871261858.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871280016.png%3Fwin007%3Dsell", 23/08-02:30 | Real Betis vs Alaves | BLV DƯƠNG QUÁ
 http://khaitv.giize.com:8080/luongson/play.php?id=5f42552d-1a4a-4967-b2db-0536f906bada
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871261858.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871280016.png%3Fwin007%3Dsell", 23/08-02:30 | Real Betis vs Alaves | BLV LƯ TUẤN NGHĨA
+http://khaitv.giize.com:8080/luongson/play.php?id=57b08057-6f84-4b4c-8976-79b72be92d33
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871261858.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871280016.png%3Fwin007%3Dsell", 23/08-02:30 | Real Betis vs Alaves | BLV KHỔNG MINH
+http://khaitv.giize.com:8080/luongson/play.php?id=d03083fc-5762-4c9d-94a1-b2c9fce35fcb
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871261858.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871280016.png%3Fwin007%3Dsell", 23/08-02:30 | Real Betis vs Alaves | BLV TRƯƠNG THANH 
 http://khaitv.giize.com:8080/luongson/play.php?id=824bc368-7732-4b99-bfa9-067718027a65
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871261858.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871280016.png%3Fwin007%3Dsell", 23/08-02:30 | Real Betis vs Alaves | BLV LA THÀNH
 http://khaitv.giize.com:8080/luongson/play.php?id=f88f2482-1c8d-4589-93ec-9fd470100e05
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871261858.png%3Fwin007%3Dsell&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2FImage%2Fteam%2Fimages%2F164871280016.png%3Fwin007%3Dsell", 23/08-02:30 | Real Betis vs Alaves | BLV KHỔNG MINH
-http://khaitv.giize.com:8080/luongson/play.php?id=d03083fc-5762-4c9d-94a1-b2c9fce35fcb
 #EXTM3U
-# Cập nhật lúc: 2025-08-22 07:51:12
+# Cập nhật lúc: 2025-08-22 09:38:44
+#EXTINF:-1 group-title="OnPLus Live 🔴" tvg-logo="https://imgvlive.vtvcab.vn/720X405/c3323aef-ebfc-4ec9-915c-523beb8f5c7e.png", 23/08-02:00 | Ally Challenge - PGA Tour Champions 2025 | Ngày 1
+http://bentre5.hoangai.vn:8082/onplus/play2.php?id=onsport4
 #EXTM3U
-# Cập nhật lúc: 18:50:57 22/08/2025
+# Cập nhật lúc: 20:38:28 22/08/2025
 # Tổng số trận: 45
 
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fd272859d78eb8ca7a14753f4293fbf45.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Facc91add74b2c86a68722836835bcf3c.png",⭐Tâm điểm⭐ 🔴LIVE 17:00 22/08 | J1 League | Kashiwa Reysol Urawa Red Diamonds
-http://khaitv.giize.com:8080/cakeo/play.php?id=yrmcc5hbup
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FYqCk83yS-Oh7UY5d1.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fae37aedbd9647e80fe75821a00a31516.png",🔴LIVE 17:00 22/08 | Bhutan Premier League | Tensung FC Paro FC
-http://khaitv.giize.com:8080/cakeo/play.php?id=ow1mriygxk
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fe273f398d195a6da8c7ca2758992765d.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fa0179cf5171b69232cac7f7de641fca1.png",🔴LIVE 17:00 22/08 | Australia Northern New South Wales Premier League | Toronto Awaba West Wallsend SC
-http://khaitv.giize.com:8080/cakeo/play.php?id=1l6noui4go
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F352198e9196d8e59c72e21111c5f0401.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F41cd928a2816821bdb7995c3ea6031a6.png",🔴LIVE 17:15 22/08 | Australian Welsh League | Blacktown Spartans SD Raiders FC
-http://khaitv.giize.com:8080/cakeo/play.php?id=wicajo0ktm
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F7d7e431fc196682b785b0558b77d182a.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fa45149dd3ce5f0114a126fac0f44adbc.png",🔴LIVE 18:00 22/08 | Kazakhstan Division 1 | FC Shakhtyor Karagandy Kairat Almaty II
-http://khaitv.giize.com:8080/cakeo/play.php?id=bya72tf4iz
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fbebccb85740d6e5dcd5d8e6d89dd07f6.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F826d9af84e00849c4ec42115b2015b0e.png",🔴LIVE 18:00 22/08 | Australia Darwin Premier League | Hellenic AC Casuarina FC
-http://khaitv.giize.com:8080/cakeo/play.php?id=8uj58hqt8i
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fba8c431ae2d1c8c3e956a8fdd6d4352a.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F09eefae5ee00cc54ae3cb04fb5859fa1.png",🔴LIVE 18:00 22/08 | Chinese League Two | Rizhao Yuqi Football Club Guangdong Mingtu
-http://khaitv.giize.com:8080/cakeo/play.php?id=gxiq3yg3mz
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fd35591e8c77b8c632ec660e9e1505f46.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F4ca530681b2aa21b084e41ebe39cbca7.png",🔴LIVE 18:00 22/08 | 2025 (Second) Jiuse Gannan "Yellow River Shouqu Cup" Five Provinces and Nine Provinces Along the Yellow River Football Invitational Tournament | Gansu  Linxia Tibet Linzhi
-http://khaitv.giize.com:8080/cakeo/play.php?id=i4w88q2czw
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F90e414c7b08ecee9672c0ce923271f0f.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F6c9b59f9726bb561e9d56f0170760991.png",🔴LIVE 18:30 22/08 | Chinese League Two | Langfang City of Glory Jiangxi Dark Horse Junior
-http://khaitv.giize.com:8080/cakeo/play.php?id=tt28xvo4c5
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fa6de5de0d4a0774bd19378ac7d5ca12e.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Ff999eb8927904adcf9c683b43b4dc856.png",🔴LIVE 19:00 22/08 | Thai League 1 | Rayong FC Nakhon Ratchasima Mazda FC
+http://khaitv.giize.com:8080/cakeo/play.php?id=frybe81omw
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F76db1148a0e8a7c8e98ab05814cab691.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fba93b52107e379dbcf350e144e0f80a8.png",🔴LIVE 19:00 22/08 | Indonesian Liga 1 | Dewa United FC Persik Kediri
+http://khaitv.giize.com:8080/cakeo/play.php?id=4i1e6z6tjp
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F9d8ccd3b4be1dae12bba55705b2d2272.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fd8baf3ab5d39bcdab1d636a69e0e8086.png",🔴LIVE 19:00 22/08 | Kazakhstan Division 1 | FC Jetisay Ekibastuzets
+http://khaitv.giize.com:8080/cakeo/play.php?id=64m9nyi0yu
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F0bac7cb8c73f6af44e85423d9fa0a278.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fe257e11f367e0ef43274843da9db7a75.png",🔴LIVE 19:00 22/08 | M-150 Championship | Nongbua Pitchaya FC Kasetsart University FC
+http://khaitv.giize.com:8080/cakeo/play.php?id=hwkkhp24pm
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F1052568046c27c694918905cbf403d7c.png&m2=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FCf2X2OAr-0nzZbYGl.png",⭐Tâm điểm⭐ 🔴LIVE 19:15 22/08 | V League | Viettel TP Hồ Chí Minh
 http://khaitv.giize.com:8080/cakeo/play.php?id=9m38fejtkd
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F25dae24c4bfc4a6fdd53d090a39821dd.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F4e7cc12589531b2559e0f7c5632a38db.png",🔴LIVE 19:15 22/08 | Malaysian Super League | DPMM FC Terengganu FC
+http://khaitv.giize.com:8080/cakeo/play.php?id=w416wrcwtk
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FnaPO2XCr-dUsGVqCN.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F73bbf9f60325dd616ffed763f958f36d.png",🔴LIVE 19:45 22/08 | Armenian Premier League | Ararat Yerevan FC Pyunik
+http://khaitv.giize.com:8080/cakeo/play.php?id=l3y5hyog0d
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F8005edd27cd557fd269967ccf027851e.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F2d9ea2234c3ada82b3d0355791c45669.png",🔴LIVE 20:00 22/08 | Azerbaijan Premier Liqa | Mil-Mugan FK FC Neftci Baku
+http://khaitv.giize.com:8080/cakeo/play.php?id=ukgmwpv5nx
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fg7w1r.4shares.live%2Fteams%2FC%25E1%25BB%259D%2520qu%25E1%25BB%2591c%2520gia%2Fkenya.png&m2=https%3A%2F%2Fg7w1r.4shares.live%2Fteams%2FC%25E1%25BB%259D%2520qu%25E1%25BB%2591c%2520gia%2FMadagascar.png",⭐Tâm điểm⭐ 🔴LIVE 21:00 22/08 | African Nations Championship | Kenya Madagascar
+http://khaitv.giize.com:8080/cakeo/play.php?id=3689io773u
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fc308a954f6a00af71f3f13413140a5cd.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F1ad5dc924fc4e672d88cfe35daa085c6.png",⭐Tâm điểm⭐ 🔴LIVE 22:00 22/08 | Russian Premier League | Gazovik Orenburg Akhmat Grozny
+http://khaitv.giize.com:8080/cakeo/play.php?id=dbod9hnl0t
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Ffcac1eae493c493061e66608158b40ef.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F00bb4a98ec1224af879bd139519ce3b7.png",⭐Tâm điểm⭐ 🔴LIVE 22:30 22/08 | Qatar Stars League | Al-Gharafa Al-Arabi SC
+http://khaitv.giize.com:8080/cakeo/play.php?id=xfo1uttigr
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F7f7d00906d511bcf48f9a600580ff953.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F46e02b8dea22b2951976d1262dd0279f.png",⭐Tâm điểm⭐ 🔴LIVE 22:30 22/08 | Azerbaijan Premier Liqa | Qarabag Standard Sumgayit
+http://khaitv.giize.com:8080/cakeo/play.php?id=a7uc0j2lmr
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F47174721b260fae6e833329c13c9f2ee.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F731ea9512aeffe6fd2896bc1a7a60662.png",⭐Tâm điểm⭐ 07:30 21/08 | Copa Sudamericana | CA Independiente Universidad de Chile
 http://khaitv.giize.com:8080/cakeo/play.php?id=ykhfn2l3m1
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fg7w1r.4shares.live%2Fteams%2FC%25E1%25BB%259D%2520qu%25E1%25BB%2591c%2520gia%2Fkenya.png&m2=https%3A%2F%2Fg7w1r.4shares.live%2Fteams%2FC%25E1%25BB%259D%2520qu%25E1%25BB%2591c%2520gia%2FMadagascar.png",⭐Tâm điểm⭐ 21:00 22/08 | African Nations Championship | Kenya Madagascar
-http://khaitv.giize.com:8080/cakeo/play.php?id=3689io773u
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fc308a954f6a00af71f3f13413140a5cd.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F1ad5dc924fc4e672d88cfe35daa085c6.png",⭐Tâm điểm⭐ 22:00 22/08 | Russian Premier League | Gazovik Orenburg Akhmat Grozny
-http://khaitv.giize.com:8080/cakeo/play.php?id=dbod9hnl0t
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Ffcac1eae493c493061e66608158b40ef.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F00bb4a98ec1224af879bd139519ce3b7.png",⭐Tâm điểm⭐ 22:30 22/08 | Qatar Stars League | Al-Gharafa Al-Arabi SC
-http://khaitv.giize.com:8080/cakeo/play.php?id=xfo1uttigr
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F7f7d00906d511bcf48f9a600580ff953.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F46e02b8dea22b2951976d1262dd0279f.png",⭐Tâm điểm⭐ 22:30 22/08 | Azerbaijan Premier Liqa | Qarabag Standard Sumgayit
-http://khaitv.giize.com:8080/cakeo/play.php?id=a7uc0j2lmr
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F6c0c94ba08aaf8dc547054a22d68cbd6.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F865e53e151038994f4de010721c298ee.png",⭐Tâm điểm⭐ 23:00 22/08 | Poland Ekstraklasa | Radomiak Radom LKS Nieciecza
 http://khaitv.giize.com:8080/cakeo/play.php?id=e1fghfre8o
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Facd5e194c961b091fcf0065a5d27a8f8.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F34c01a893864ab4584209db05b29e317.png",⭐Tâm điểm⭐ 23:00 22/08 | Romanian Liga I | UTA Arad FC Unirea 2004 Slobozia
@@ -1924,6 +1892,8 @@ http://khaitv.giize.com:8080/cakeo/play.php?id=tlv0s2u21n
 http://khaitv.giize.com:8080/cakeo/play.php?id=3szsreornw
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fg7w1r.4shares.live%2Fteams%2FC%25E1%25BB%259D%2520qu%25E1%25BB%2591c%2520gia%2FTanzania.png&m2=https%3A%2F%2Fg7w1r.4shares.live%2Fteams%2FC%25E1%25BB%259D%2520qu%25E1%25BB%2591c%2520gia%2FMorocco.png",⭐Tâm điểm⭐ 00:00 23/08 | African Nations Championship | Tanzania Morocco
 http://khaitv.giize.com:8080/cakeo/play.php?id=dabsjil01l
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Faf47207f36a49c89502312138e54f6a7.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fd36d53da32742efb1d00f27e959603a0.png",⭐Tâm điểm⭐ 00:30 23/08 | Qatar Stars League | Al Shamal Al Rayyan
+http://khaitv.giize.com:8080/cakeo/play.php?id=y3b19ks6d4
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F554b7159dddc65d6a88ac750938a1066.png&m2=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2Ffb5c4f4216937f8918d76031ad60d744.png",03:00 23/08 | ATP250 Winston Salem Open | Sebastian Korda Marton Fucsovics
 http://khaitv.giize.com:8080/cakeo/play.php?id=py3a42pp13
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F13a8a8371635efb726be117d6c809299.png&m2=https%3A%2F%2Fimg.thesports.com%2Fv2%2Fteam%2F82ac7f70a1ca9091adc4a073c81e2cf2.png",04:30 23/08 | WTA250 Cleveland Open | Sorana Cirstea Anastasia Zakharova
@@ -1944,14 +1914,16 @@ http://khaitv.giize.com:8080/cakeo/play.php?id=b6gtj7ksn7
 http://khaitv.giize.com:8080/cakeo/play.php?id=4rhcjtwtmr
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fg7w1r.4shares.live%2Fteams%2FC%25E1%25BB%259D%2520qu%25E1%25BB%2591c%2520gia%2Fjapan1.png&m2=https%3A%2F%2Fg7w1r.4shares.live%2Fteams%2FC%25E1%25BB%259D%2520qu%25E1%25BB%2591c%2520gia%2Fcameroon.png",17:00 23/08 | Bóng chuyền nữ vô địch thế giới | Japan (w) Cameroon (w)
 http://khaitv.giize.com:8080/cakeo/play.php?id=ywg6eciomn
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fg7w1r.4shares.live%2Fteams%2FC%25E1%25BB%259D%2520qu%25E1%25BB%2591c%2520gia%2Fchina.png&m2=https%3A%2F%2Fg7w1r.4shares.live%2Fteams%2FC%25E1%25BB%259D%2520qu%25E1%25BB%2591c%2520gia%2FMX.png",19:30 23/08 | Bóng chuyền nữ vô địch thế giới | China (w) Mexico (w)
-http://khaitv.giize.com:8080/cakeo/play.php?id=4w33dqu6hj
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F32a7374258cbbb6e851992f820de53d6.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F2eafcb5ab54090b219c2bccb3f794bcd.png",19:00 23/08 | Belarusian Women's Premier League | FK Minsk (w) Lokomotiv Vitebsk (w)
+http://khaitv.giize.com:8080/cakeo/play.php?id=oy98hh88l6
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fg7w1r.4shares.live%2Fteams%2FC%25E1%25BB%259D%2520qu%25E1%25BB%2591c%2520gia%2Fturkey1.png&m2=https%3A%2F%2Fg7w1r.4shares.live%2Fteams%2FC%25E1%25BB%259D%2520qu%25E1%25BB%2591c%2520gia%2FSpain.png",19:30 23/08 | Bóng chuyền nữ vô địch thế giới | Turkey W Spain W
 http://khaitv.giize.com:8080/cakeo/play.php?id=4bojcyfxhm
-#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fg7w1r.4shares.live%2Fteams%2FC%25E1%25BB%259D%2520qu%25E1%25BB%2591c%2520gia%2Fpoland.png&m2=https%3A%2F%2Fg7w1r.4shares.live%2Fteams%2FC%25E1%25BB%259D%2520qu%25E1%25BB%2591c%2520gia%2Fvietnam1.png",20:30 23/08 | Bóng chuyền nữ vô địch thế giới | Poland (w) Vietnam (w)
-http://khaitv.giize.com:8080/cakeo/play.php?id=wdwlnr46qz
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fg7w1r.4shares.live%2Fteams%2FC%25E1%25BB%259D%2520qu%25E1%25BB%2591c%2520gia%2Fchina.png&m2=https%3A%2F%2Fg7w1r.4shares.live%2Fteams%2FC%25E1%25BB%259D%2520qu%25E1%25BB%2591c%2520gia%2FMX.png",19:30 23/08 | Bóng chuyền nữ vô địch thế giới | China (w) Mexico (w)
+http://khaitv.giize.com:8080/cakeo/play.php?id=4w33dqu6hj
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fg7w1r.4shares.live%2Fteams%2FC%25E1%25BB%259D%2520qu%25E1%25BB%2591c%2520gia%2Fserbia1.png&m2=https%3A%2F%2Fg7w1r.4shares.live%2Fteams%2FC%25E1%25BB%259D%2520qu%25E1%25BB%2591c%2520gia%2Fukaraine.png",20:30 23/08 | Bóng chuyền nữ vô địch thế giới | Serbia (w) Ukraine Women
 http://khaitv.giize.com:8080/cakeo/play.php?id=ouv1xjdl9s
+#EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fg7w1r.4shares.live%2Fteams%2FC%25E1%25BB%259D%2520qu%25E1%25BB%2591c%2520gia%2Fpoland.png&m2=https%3A%2F%2Fg7w1r.4shares.live%2Fteams%2FC%25E1%25BB%259D%2520qu%25E1%25BB%2591c%2520gia%2Fvietnam1.png",20:30 23/08 | Bóng chuyền nữ vô địch thế giới | Poland (w) Vietnam (w)
+http://khaitv.giize.com:8080/cakeo/play.php?id=wdwlnr46qz
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=&m2=",21:00 23/08 | WTA250 Cleveland Open | Wsf1 Wsf2
 http://khaitv.giize.com:8080/cakeo/play.php?id=namr2gm9n5
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=&m2=",23:00 23/08 | WTA500 Monterrey Open | Wsf1 Wsf2
@@ -1975,50 +1947,44 @@ http://khaitv.giize.com:8080/cakeo/play.php?id=ss3n58621d
 #EXTINF:-1 group-title="⚽ Cá Kèo TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Fvolleyball%2Fteam%2F30c146391ed01570c94d91039480d18d.png&m2=https%3A%2F%2Fimg.thesports.com%2Fvolleyball%2Fteam%2Fc070d1cfd5c5a33e1192f1bfc3569f57.png",20:30 24/08 | Bóng chuyền nữ vô địch thế giới | Belgium Women Slovakia Women
 http://khaitv.giize.com:8080/cakeo/play.php?id=cqm0a2f9j4
 #EXTM3U
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F2963.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F2965.png",[BLV:🗣︎Sùng A Súp] 🔴 22/08-17:00 | Japanese J1 League | Kashiwa Reysol vs Urawa Red Diamonds
-http://khaitv.giize.com:8080/vachvoi/play.php?id=kashiwa-reysol-vs-urawa-red-diamonds-22-08-2025-japanese-j1-league-l269824
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F2963.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F2965.png",(Nhà đài) 🔴 22/08-17:00 | Japanese J1 League | Kashiwa Reysol vs Urawa Red Diamonds
-http://khaitv.giize.com:8080/vachvoi/play.php?id=kashiwa-reysol-vs-urawa-red-diamonds-22-08-2025-japanese-j1-league-l269824&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F10998.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F11002.png",(Nhà đài) 🔴 22/08-16:00 | Australia Northern New South Wales Premier League | (Nhà đài) Toronto Awaba vs West Wallsend SC
-http://khaitv.giize.com:8080/vachvoi/play.php?id=toronto-awaba-vs-west-wallsend-sc-22-08-2025-australia-northern-new-south-wales-premier-league-l269817&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F5625.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4517.png",(Nhà đài) 🔴 22/08-17:15 | Australian Welsh League | (Nhà đài) Blacktown Spartans vs SD Raiders FC
-http://khaitv.giize.com:8080/vachvoi/play.php?id=blacktown-spartans-vs-sd-raiders-fc-22-08-2025-australian-welsh-league-l269827&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F11035.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F11040.png",(Nhà đài) 🔴 22/08-18:00 | Australia Darwin Premier League | (Nhà đài) Hellenic AC vs Casuarina FC
-http://khaitv.giize.com:8080/vachvoi/play.php?id=hellenic-ac-vs-casuarina-fc-22-08-2025-australia-darwin-premier-league-l269829&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F31502.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F28792.png",(Nhà đài) 🔴 22/08-18:00 | Chinese League Two | (Nhà đài) Lanzhou Longyuan Athletics vs Guangdong Mingtu
-http://khaitv.giize.com:8080/vachvoi/play.php?id=lanzhou-longyuan-athletics-vs-guangdong-mingtu-22-08-2025-chinese-league-two-l269830&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F31482.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F31302.png",(Nhà đài) 🔴 22/08-18:30 | Chinese League Two | (Nhà đài) Hangzhou Linping Wuyue vs Wenzhou Professional Football Club
-http://khaitv.giize.com:8080/vachvoi/play.php?id=hangzhou-linping-wuyue-vs-wenzhou-professional-football-club-22-08-2025-chinese-league-two-l269831&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4003.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F28559.png",(Nhà đài) 🔴 22/08-19:00 | Kazakhstan Division 1 | (Nhà đài) FC Shakhtyor Karagandy vs Kairat Almaty II
-http://khaitv.giize.com:8080/vachvoi/play.php?id=fc-shakhtyor-karagandy-vs-kairat-almaty-ii-22-08-2025-kazakhstan-division-1-l269833&type=nhadai
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4106.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F33198.png",[BLV:🗣︎Sùng A Thông] 🔴 22/08-19:00 | Hilux Revo Thai League | Rayong FC vs Nakhon Ratchasima Mazda FC
+http://khaitv.giize.com:8080/vachvoi/play.php?id=rayong-fc-vs-nakhon-ratchasima-mazda-fc-22-08-2025-hilux-revo-thai-league-l269835
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4106.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F33198.png",(Nhà đài) 🔴 22/08-19:00 | Hilux Revo Thai League | Rayong FC vs Nakhon Ratchasima Mazda FC
+http://khaitv.giize.com:8080/vachvoi/play.php?id=rayong-fc-vs-nakhon-ratchasima-mazda-fc-22-08-2025-hilux-revo-thai-league-l269835&type=nhadai
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F31491.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F31492.png",[BLV:🗣︎Sùng A Súp] 🔴 22/08-19:15 | Vietnam National Champion League | Viettel FC vs Ho Chi Minh City FC
+http://khaitv.giize.com:8080/vachvoi/play.php?id=viettel-fc-vs-ho-chi-minh-city-fc-22-08-2025-vietnam-national-champion-league-l269842
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F31491.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F31492.png",(Nhà đài) 🔴 22/08-19:15 | Vietnam National Champion League | Viettel FC vs Ho Chi Minh City FC
+http://khaitv.giize.com:8080/vachvoi/play.php?id=viettel-fc-vs-ho-chi-minh-city-fc-22-08-2025-vietnam-national-champion-league-l269842&type=nhadai
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F33874.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F14802.png",(Nhà đài) 🔴 22/08-19:00 | M-150 Championship | (Nhà đài) Nongbua Pitchaya FC vs Kasetsart University FC
+http://khaitv.giize.com:8080/vachvoi/play.php?id=nongbua-pitchaya-fc-vs-kasetsart-university-fc-22-08-2025-m-150-championship-l269837&type=nhadai
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F12950.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4885.png",(Nhà đài) 🔴 22/08-19:00 | Kazakhstan Division 1 | (Nhà đài) FC Jetisay vs Ekibastuzets
+http://khaitv.giize.com:8080/vachvoi/play.php?id=fc-jetisay-vs-ekibastuzets-22-08-2025-kazakhstan-division-1-l269834&type=nhadai
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4688.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F32465.png",(Nhà đài) 🔴 22/08-19:15 | Malaysian Super League | (Nhà đài) DPMM FC vs Terengganu FC
+http://khaitv.giize.com:8080/vachvoi/play.php?id=dpmm-fc-vs-terengganu-fc-22-08-2025-malaysian-super-league-l269841&type=nhadai
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4370.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4700.png",(Nhà đài) 🔴 22/08-19:30 | Armenian Premier League | (Nhà đài) Ararat Yerevan vs FC Pyunik
+http://khaitv.giize.com:8080/vachvoi/play.php?id=ararat-yerevan-vs-fc-pyunik-22-08-2025-armenian-premier-league-l269986&type=nhadai
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F28663.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4064.png",(Nhà đài) 🔴 22/08-20:00 | Azerbaijan Premier League | (Nhà đài) Mil-Mugan FK vs FC Neftci Baku
+http://khaitv.giize.com:8080/vachvoi/play.php?id=mil-mugan-fk-vs-fc-neftci-baku-22-08-2025-azerbaijan-premier-league-l269988&type=nhadai
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F31532.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3119.png",[BLV:🗣︎Sùng A Thông] 23/08-01:30 | Bundesliga | FC Bayern Munich vs RB Leipzig
 http://khaitv.giize.com:8080/vachvoi/play.php?id=fc-bayern-munich-vs-rb-leipzig-23-08-2025-bundesliga-l270122
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F31532.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3119.png",(Nhà đài) 23/08-01:30 | Bundesliga | FC Bayern Munich vs RB Leipzig
 http://khaitv.giize.com:8080/vachvoi/play.php?id=fc-bayern-munich-vs-rb-leipzig-23-08-2025-bundesliga-l270122&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4106.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F33198.png",[BLV:🗣︎Sùng A Thông] 22/08-19:00 | Hilux Revo Thai League | Rayong FC vs Nakhon Ratchasima Mazda FC
-http://khaitv.giize.com:8080/vachvoi/play.php?id=rayong-fc-vs-nakhon-ratchasima-mazda-fc-22-08-2025-hilux-revo-thai-league-l269835
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4106.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F33198.png",(Nhà đài) 22/08-19:00 | Hilux Revo Thai League | Rayong FC vs Nakhon Ratchasima Mazda FC
-http://khaitv.giize.com:8080/vachvoi/play.php?id=rayong-fc-vs-nakhon-ratchasima-mazda-fc-22-08-2025-hilux-revo-thai-league-l269835&type=nhadai
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3492.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4580.png",[BLV:🗣︎Sùng A Lúa] 22/08-19:00 | Indonesian Liga 1 | Persik Kediri vs Dewa United FC
 http://khaitv.giize.com:8080/vachvoi/play.php?id=persik-kediri-vs-dewa-united-fc-22-08-2025-indonesian-liga-1-l269836
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3492.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4580.png",(Nhà đài) 22/08-19:00 | Indonesian Liga 1 | Persik Kediri vs Dewa United FC
 http://khaitv.giize.com:8080/vachvoi/play.php?id=persik-kediri-vs-dewa-united-fc-22-08-2025-indonesian-liga-1-l269836&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F31491.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F31492.png",[BLV:🗣︎Sùng A Súp] 22/08-19:15 | Vietnam National Champion League | Viettel FC vs Ho Chi Minh City FC
-http://khaitv.giize.com:8080/vachvoi/play.php?id=viettel-fc-vs-ho-chi-minh-city-fc-22-08-2025-vietnam-national-champion-league-l269842
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F31491.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F31492.png",(Nhà đài) 22/08-19:15 | Vietnam National Champion League | Viettel FC vs Ho Chi Minh City FC
-http://khaitv.giize.com:8080/vachvoi/play.php?id=viettel-fc-vs-ho-chi-minh-city-fc-22-08-2025-vietnam-national-champion-league-l269842&type=nhadai
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F32462.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F32613.png",[BLV:🗣︎Sùng A Chày] 22/08-21:00 | United Arab Emirates Adnoc Pro-League | Baniyas Club vs Ittihad Kalba FC
 http://khaitv.giize.com:8080/vachvoi/play.php?id=baniyas-club-vs-ittihad-kalba-fc-22-08-2025-united-arab-emirates-adnoc-pro-league-l269855
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F32462.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F32613.png",(Nhà đài) 22/08-21:00 | United Arab Emirates Adnoc Pro-League | Baniyas Club vs Ittihad Kalba FC
 http://khaitv.giize.com:8080/vachvoi/play.php?id=baniyas-club-vs-ittihad-kalba-fc-22-08-2025-united-arab-emirates-adnoc-pro-league-l269855&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F5527.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3362.png",[BLV:🗣︎Sùng A Súp] 22/08-23:00 | German Regionalliga | Nurnberg (Youth) vs SpVgg Ansbach
-http://khaitv.giize.com:8080/vachvoi/play.php?id=nurnberg-(youth)-vs-spvgg-ansbach-22-08-2025-german-regionalliga-l269934
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F5527.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3362.png",(Nhà đài) 22/08-23:00 | German Regionalliga | Nurnberg (Youth) vs SpVgg Ansbach
-http://khaitv.giize.com:8080/vachvoi/play.php?id=nurnberg-(youth)-vs-spvgg-ansbach-22-08-2025-german-regionalliga-l269934&type=nhadai
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F15159.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F15552.png",[BLV:🗣︎Sùng A Bí] 22/08-23:00 | US Open | Dương Quốc Hoàng vs Michael Baoanan
 http://khaitv.giize.com:8080/vachvoi/play.php?id=duong-quoc-hoang-vs-michael-baoanan-22-08-2025-us-open-l272242
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F15159.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F15552.png",(Nhà đài) 22/08-23:00 | US Open | Dương Quốc Hoàng vs Michael Baoanan
 http://khaitv.giize.com:8080/vachvoi/play.php?id=duong-quoc-hoang-vs-michael-baoanan-22-08-2025-us-open-l272242&type=nhadai
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F5527.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3362.png",[BLV:🗣︎Sùng A Súp] 22/08-23:00 | German Regionalliga | Nurnberg (Youth) vs SpVgg Ansbach
+http://khaitv.giize.com:8080/vachvoi/play.php?id=nurnberg-(youth)-vs-spvgg-ansbach-22-08-2025-german-regionalliga-l269934
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F5527.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3362.png",(Nhà đài) 22/08-23:00 | German Regionalliga | Nurnberg (Youth) vs SpVgg Ansbach
+http://khaitv.giize.com:8080/vachvoi/play.php?id=nurnberg-(youth)-vs-spvgg-ansbach-22-08-2025-german-regionalliga-l269934&type=nhadai
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3050.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3022.png",[BLV:🗣︎Sùng A Bí] 22/08-23:00 | Lithuanian A Lyga  | FK Riteriai vs Dziugas Telsiai
 http://khaitv.giize.com:8080/vachvoi/play.php?id=fk-riteriai-vs-dziugas-telsiai-22-08-2025-lithuanian-a-lyga--l269906
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3050.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3022.png",(Nhà đài) 22/08-23:00 | Lithuanian A Lyga  | FK Riteriai vs Dziugas Telsiai
@@ -2051,8 +2017,6 @@ http://khaitv.giize.com:8080/vachvoi/play.php?id=1.-fc-heidenheim-1846-vs-vfl-wo
 http://khaitv.giize.com:8080/vachvoi/play.php?id=1.-fc-union-berlin-vs-vfb-stuttgart-23-08-2025-bundesliga-l270752&type=nhadai
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F32299.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3120.png",(Nhà đài) 23/08-23:30 | Bundesliga | (Nhà đài) FC St. Pauli vs Borussia Dortmund
 http://khaitv.giize.com:8080/vachvoi/play.php?id=fc-st.-pauli-vs-borussia-dortmund-23-08-2025-bundesliga-l271257&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:8080/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4688.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F32465.png",(Nhà đài) 22/08-19:15 | Malaysian Super League | (Nhà đài) DPMM FC vs Terengganu FC
-http://khaitv.giize.com:8080/vachvoi/play.php?id=dpmm-fc-vs-terengganu-fc-22-08-2025-malaysian-super-league-l269841&type=nhadai
 #EXTM3U
 #EXTINF:-1 group-title="Game Show" tvg-logo="http://static3.thvli.vn/assets/thumbnail/2025/07/02/gk4vnmq5_Thumb_THVLi74ddd1919c74ff938d3b40d66ce56f7a.jpg", Đấu Trường Ngôi Sao Mùa 5
 http://khaitv.giize.com:3333/get_media_link?path=https://thvli.vn/detail/dau-truong-ngoi-sao-mua-5&extension=m3u8&location=yes
@@ -2215,64 +2179,56 @@ http://khaitv.giize.com:3333/get_media_link?path=https://thvli.vn/detail/co-tich
 #EXTINF:-1 group-title="Cổ Tích" tvg-logo="http://static3.thvli.vn/assets/thumbnail/2024/03/09/5uivrqjt_Thumbnail-THVLi-(408x230)-CaiBinhThan.jpg", Cổ Tích: Cái Bình Thần
 http://khaitv.giize.com:3333/get_media_link?path=https://thvli.vn/detail/co-tich-cai-binh-than&extension=m3u8&location=yes
 #EXTM3U
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/football/competition/8y39mp1hj99mojx/image/small", | NSW-N Premier League | Toronto Awaba vs West Wallsend SC
-http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Ftoronto-awaba-vs-west-wallsend-sc-luc-1700-ngay-22-08-2025%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/football/competition/z318q66hl1qo9jd/image/small", | J1 League | Kashiwa Reysol vs Urawa Red
-http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fkashiwa-reysol-vs-urawa-red-luc-1700-ngay-22-08-2025%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/football/competition/e4wyrn4hdzvq86p/image/small", | Hạng 3 Ba Lan | Lech II Poznan vs ZKS Kluczevia
-http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Flech-ii-poznan-vs-zks-kluczevia-luc-1700-ngay-22-08-2025%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/football/competition/4zp5rzgh5nq82w1/image/small", | Hungary Women's Division 1 League | Nữ Budapest Honved FC vs Nữ Ferencvarosi
-http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnu-budapest-honved-fc-vs-nu-ferencvarosi-luc-1700-ngay-22-08-2025%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/football/competition/kjw2r09hpderz84/image/small", | COSAFA CLW | Nữ Beauties FC vs Nữ Zesco Ndola
-http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnu-beauties-fc-vs-nu-zesco-ndola-luc-1700-ngay-22-08-2025%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/football/competition/d23xmvkh0lqg8ny/image/small", | Cúp Ukraina | Victoria Mykolaivka vs FC Vorskla Poltava
-http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fvictoria-mykolaivka-vs-fc-vorskla-poltava-luc-1700-ngay-22-08-2025%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/football/competition/gpxwrxlh9xdryk0/image/small", | Bhutan Premier League | Tensung FC vs Paro FC
-http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Ftensung-fc-vs-paro-fc-luc-1700-ngay-22-08-2025%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/football/competition/gx7lm7ph0p1m2wd/image/small", | TSAmania Premier Championship | Olympia Warriors vs Taroona
-http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Folympia-warriors-vs-taroona-luc-1715-ngay-22-08-2025%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/football/competition/kn54qllhxjvqvy9/image/small", | Australian Welsh League | Blacktown Spartans vs SD Raiders FC
-http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fblacktown-spartans-vs-sd-raiders-fc-luc-1715-ngay-22-08-2025%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/football/competition/v2y8m4zh3p5ql07/image/small", | Australian cloth | University Queensland vs AC Carina
-http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Funiversity-queensland-vs-ac-carina-luc-1730-ngay-22-08-2025%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/football/competition/9dn1m1gh5gmoepl/image/small", | Hạng 2 Trung Quốc | Rizhao Yuqi FC vs Guangdong Mingtu
-http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Frizhao-yuqi-fc-vs-guangdong-mingtu-luc-1800-ngay-22-08-2025%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/football/competition/d23xmvkhynqg8ny/image/small", | Hạng Nhất Kazakhstan | Shakhter vs Kairat Almaty II
-http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fshakhter-vs-kairat-almaty-ii-luc-1800-ngay-22-08-2025%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/football/competition/kn54qllhj9pqvy9/image/small", | Ngoại Hạng Darwin | Hellenic AC vs Casuarina FC
-http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fhellenic-ac-vs-casuarina-fc-luc-1800-ngay-22-08-2025%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/football/competition/yl5ergphvvpr8k0/image/small", | Indian Shillong Premier League | Shillong Lajong Res. vs Malki SC
-http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fshillong-lajong-res-vs-malki-sc-luc-1800-ngay-22-08-2025%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/football/competition/gpxwrxlhgpryk0j/image/small", | Giao Hữu CLB | ADO Den Haag vs PEC Zwolle
-http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fado-den-haag-vs-pec-zwolle-luc-1800-ngay-22-08-2025%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/football/competition/e4wyrn4hxn5q86p/image/small", | Yellow River Shouqu Cup | Gansu  Linxia vs Tibet Linzhi
-http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fgansu-linxia-vs-tibet-linzhi-luc-1800-ngay-22-08-2025%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/football/competition/9dn1m1gh5gmoepl/image/small", | Hạng 2 Trung Quốc | Langfang City vs Jiangxi Dark HJ
-http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Flangfang-city-vs-jiangxi-dark-hj-luc-1830-ngay-22-08-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/football/competition/kn54qllh2xpqvy9/image/small", | Hilux Revo Thai League | Rayong FC vs Nakhon Ratchasima
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Frayong-fc-vs-nakhon-ratchasima-luc-1900-ngay-22-08-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/football/competition/d23xmvkhynqg8ny/image/small", | Hạng Nhất Kazakhstan | FC Jetisay vs Ekibastuzets
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Ffc-jetisay-vs-ekibastuzets-luc-1900-ngay-22-08-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/football/competition/d23xmvkh3d8qg8n/image/small", | Hạng 2 Thái Lan | Nongbua Pitchaya vs Kasetsart University FC
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnongbua-pitchaya-vs-kasetsart-university-fc-luc-1900-ngay-22-08-2025%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/basketball/competition/9k82re8tn5repzj/image/small", | FIBA U16 Women's European Championship Division B | Nữ North Macedonia U16 vs Nữ Bulgaria U16
-http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnu-north-macedonia-u16-vs-nu-bulgaria-u16-luc-1700-ngay-22-08-2025%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/basketball/competition/9k82re8tn5repzj/image/small", | FIBA U16 Women's European Championship Division B | Nữ Bosnia Herzegovina U16 vs Nữ Đan Mạch U16
-http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnu-bosnia-herzegovina-u16-vs-nu-dan-mach-u16-luc-1700-ngay-22-08-2025%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/basketball/competition/kz8yomovtdq0j6l/image/small", | China National Basketball League | Hồng Kông Bulls vs Guangxi Weizhuang
-http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fhong-kong-bulls-vs-guangxi-weizhuang-luc-1830-ngay-22-08-2025%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/basketball/competition/z318q6nt7v5mo9j/image/small", | Indonesia IBL Cup | Satria Muda BritAma vs Pacific Caesar Surabaya
-http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fsatria-muda-britama-vs-pacific-caesar-surabaya-luc-1900-ngay-22-08-2025%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/basketball/competition/56ypq3kt1y9md7o/image/small", | Vietnam VBA | Đà Nẵng Dragons vs Nha Trang Dolphins
-http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fda-nang-dragons-vs-nha-trang-dolphins-luc-1930-ngay-22-08-2025%2F
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/football/competition/jednm9whk0ryox8/image/small", | Giao Hữu Quốc Tế | Nữ Bhutan U17 vs Nữ Nepal U17
+http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fbhutan-w-u17-vs-nepal-wu17-luc-1900-ngay-22-08-2025%2F
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/football/competition/56ypq3nhz53md7o/image/small", | VĐQG Indonesia | Dewa United FC vs Persik Kediri
+http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fdewa-united-fc-vs-persik-kediri-luc-1900-ngay-22-08-2025%2F
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/football/competition/gpxwrxlhgpryk0j/image/small", | Giao Hữu CLB | Nữ Bayer Leverkusen vs Nữ Wolfsburg
+http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnu-bayer-leverkusen-vs-nu-wolfsburg-luc-1900-ngay-22-08-2025%2F
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/football/competition/p4jwq2gh4xwm0ve/image/small", | V.League 1 | Thể Công Viettel vs Hồ Chí Minh
+http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fthe-cong-viettel-vs-ho-chi-minh-luc-1915-ngay-22-08-2025%2F
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/football/competition/kn54qllh2epqvy9/image/small", | VĐQG Malaysia | DPMM FC vs Terengganu FC
+http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fdpmm-fc-vs-terengganu-fc-luc-1915-ngay-22-08-2025%2F
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/football/competition/vl7oqdehx3r510j/image/small", | Ngoại hạng Armenia | Ararat Yerevan vs FC Pyunik
+http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fararat-yerevan-vs-fc-pyunik-luc-1930-ngay-22-08-2025%2F
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/football/competition/v2y8m4zhzo9ql07/image/small", | Malaysia A1 Semi-Pro League | Kelantan WTS FC vs UM-Damansara United
+http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fkelantan-wts-fc-vs-um-damansara-united-luc-1945-ngay-22-08-2025%2F
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/football/competition/gpxwrxlhjpryk0j/image/small", | English U21 Premier League | Manchester Utd U21 vs Norwich City U21
+http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fmanchester-utd-u21-vs-norwich-city-u21-luc-2000-ngay-22-08-2025%2F
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/football/competition/p3glrw7hywqdyjv/image/small", | ENG U21 League 2 | Watford U21 vs Hull U21
+http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fwatford-u21-vs-hull-u21-luc-2000-ngay-22-08-2025%2F
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/football/competition/4zp5rzgh7loq82w/image/small", | Zimbabwe Premier Soccer League | Yadah FC vs Ngezi Platinum
+http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fyadah-fc-vs-ngezi-platinum-luc-2000-ngay-22-08-2025%2F
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/football/competition/9k82rekhjorepzj/image/small", | Ngoại hạng Azerbaijan | Mil-Mugan FK vs FC Neftci Baku
+http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fmil-mugan-fk-vs-fc-neftci-baku-luc-2000-ngay-22-08-2025%2F
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/football/competition/kjw2r09hpderz84/image/small", | COSAFA CLW | Nữ Mamelodi Sundowns vs Nữ Ntopwa FC
+http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnu-mamelodi-sundowns-vs-nu-ntopwa-fc-luc-2000-ngay-22-08-2025%2F
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/football/competition/gpxwrxlh53ryk0j/image/small", | Ngoại hạng Nữ Belarus | Nữ FK Minsk vs Nữ Lokomotiv Vitebsk
+http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnu-fk-minsk-vs-nu-lokomotiv-vitebsk-luc-2000-ngay-22-08-2025%2F
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/football/competition/e4wyrn4hdzvq86p/image/small", | Hạng 3 Ba Lan | Gawin Sleza Wroclaw vs Polonia Nysa
+http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fgawin-sleza-wroclaw-vs-polonia-nysa-luc-2030-ngay-22-08-2025%2F
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/football/competition/8y39mp1h4xmojxg/image/small", | Czech Cambrinus Women's Liga | Nữ Sparta Praha vs Nữ Slovacko
+http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnu-sparta-praha-vs-nu-slovacko-luc-2030-ngay-22-08-2025%2F
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/football/competition/kn54qllhey9qvy9/image/small", | Egyptian Division 2 | Maleyeit Kafr El Zayiat vs Proxy SC
+http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fmaleyeit-kafr-el-zayiat-vs-proxy-sc-luc-2030-ngay-22-08-2025%2F
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/football/competition/p3glrw7hwz7qdyj/image/small", | CAF African Nations Championship | Kenya vs Madagascar
+http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fkenya-vs-madagascar-luc-2100-ngay-22-08-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/basketball/competition/9k82re8tn5repzj/image/small", | FIBA U16 Women's European Championship Division B | Nữ Thụy Điển U16 vs Nữ Slovakia U16
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnu-thuy-dien-u16-vs-nu-slovakia-u16-luc-1930-ngay-22-08-2025%2F
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/basketball/competition/56ypq3kt1y9md7o/image/small", | Vietnam VBA | Đà Nẵng Dragons vs Nha Trang Dolphins
+http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fda-nang-dragons-vs-nha-trang-dolphins-luc-1930-ngay-22-08-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/basketball/competition/9k82re8tn5repzj/image/small", | FIBA U16 Women's European Championship Division B | Nữ Thụy Sĩ  U16 vs Nữ Iceland U16
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnu-thuy-si-u16-vs-nu-iceland-u16-luc-1930-ngay-22-08-2025%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/basketball/competition/9k82re8tn5repzj/image/small", | FIBA U16 Women's European Championship Division B | Nữ Na Uy U16 vs Nữ Bồ Đào Nha U16
-http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnu-na-uy-u16-vs-nu-bo-dao-nha-u16-luc-2200-ngay-22-08-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/basketball/competition/9k82re8tn5repzj/image/small", | FIBA U16 Women's European Championship Division B | Nữ Thổ Nhĩ Kỳ U16 vs Nữ Áo U16
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnu-tho-nhi-ky-u16-vs-nu-ao-u16-luc-2200-ngay-22-08-2025%2F
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/basketball/competition/9k82re8tn5repzj/image/small", | FIBA U16 Women's European Championship Division B | Nữ Na Uy U16 vs Nữ Bồ Đào Nha U16
+http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnu-na-uy-u16-vs-nu-bo-dao-nha-u16-luc-2200-ngay-22-08-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/basketball/competition/9k82re8tn5repzj/image/small", | FIBA U16 Women's European Championship Division B | Nữ Hy Lạp U16 vs Nữ Lithuania U16
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnu-hy-lap-u16-vs-nu-lithuania-u16-luc-0030-ngay-23-08-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/basketball/competition/gx7lm73tn5r2wdk/image/small", | FIBA AmeriCup | Panama vs Puerto Rico
@@ -2295,10 +2251,14 @@ http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fdomi
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fbima-perkasa-jogja-vs-dewa-united-luc-1130-ngay-23-08-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/basketball/competition/z318q6nt7v5mo9j/image/small", | Indonesia IBL Cup | Pelita Jaya Jakarta vs RANS PIK
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fpelita-jaya-jakarta-vs-rans-pik-luc-1400-ngay-23-08-2025%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/tennis/competition/56ypq3pfjydrd7o/image/small", | ATP Challenger Augsburg, Germany Men Singles | Zdenek Kolar vs Cedrik Marcel Stebe
-http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fzdenek-kolar-vs-cedrik-marcel-stebe-luc-1710-ngay-22-08-2025%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/tennis/competition/dj2ry1fk3wlr1zp/image/small", | ATP Challenger Sofia 2, Bulgaria Men Doubles | Mats Hermans vs Mircea-Alexandru Jecan
-http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fmats-hermans-tiago-pereira-vs-mircea-alexandru-jecan-bogdan-pavel-luc-1720-ngay-22-08-2025%2F
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/basketball/competition/xkn54ql7t8rvy9d/image/small", | National Basketball League | SEM Phoenix vs Melbourne United
+http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fsem-phoenix-vs-melbourne-united-luc-1530-ngay-23-08-2025%2F
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/basketball/competition/z318q6nt7v5mo9j/image/small", | Indonesia IBL Cup | Amartha Hangtuah vs Satya Wacana Saints Salatiga
+http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Famartha-hangtuah-vs-satya-wacana-saints-salatiga-luc-1630-ngay-23-08-2025%2F
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/basketball/competition/j1l4rjztzlem7vx/image/small", | Philippines MPBL | Valenzuela Classic vs Cebu Classic
+http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fvalenzuela-classic-vs-cebu-classic-luc-1700-ngay-23-08-2025%2F
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/basketball/competition/kdj2ry7t2zwr1zp/image/small", | Australia National Basketball League1 West | Geraldton Buccaneers vs Warwick Senators
+http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fgeraldton-buccaneers-vs-warwick-senators-luc-1800-ngay-23-08-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/tennis/competition/1l4rjwf601em7vx/image/small", | ATP Challenger Hersonissos 4, Greece Men Doubles | Victor Vlad Cornea vs Stefanos Sakellaridis
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fvictor-vlad-cornea-patrik-niklas-salminen-vs-stefanos-sakellaridis-petros-tsitsipas-luc-1800-ngay-22-08-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/tennis/competition/dj2ry1fk3wlr1zp/image/small", | ATP Challenger Sofia 2, Bulgaria Men Doubles | Franco Agamenone vs David Pichler
@@ -2329,14 +2289,12 @@ http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Falex
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fmarie-bouzkova-vs-ekaterina-alexandrova-luc-0830-ngay-23-08-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/tennis/competition/gx7lm7nf0zgq2wd/image/small", | WTA Monterrey, Mexico Women Doubles | Linda Noskova vs Guo Hanyu
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Flinda-noskova-rebecca-sramkova-vs-guo-hanyu-alexandra-panova-luc-0940-ngay-23-08-2025%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/volleyball/competition/l965mkdh4ylr1ge/image/small", | World Championship Women | Nữ Hà Lan vs Nữ Thụy Điển
-http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnu-ha-lan-vs-nu-thuy-dien-luc-1700-ngay-22-08-2025%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/volleyball/competition/9vjxm8lhgl0q6od/image/small", | World Championship U21 | Italy U21 vs Ukraine U21
-http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fitaly-u21-vs-ukraine-u21-luc-1900-ngay-22-08-2025%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/volleyball/competition/9vjxm8lhgl0q6od/image/small", | World Championship U21 | Tunisia U21 vs Indonesia U21
-http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Ftunisia-u21-vs-indonesia-u21-luc-1900-ngay-22-08-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/volleyball/competition/9vjxm8lhgl0q6od/image/small", | World Championship U21 | Argentina U21 vs Pháp U21
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fargentina-u21-vs-phap-u21-luc-1900-ngay-22-08-2025%2F
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/volleyball/competition/9vjxm8lhgl0q6od/image/small", | World Championship U21 | Tunisia U21 vs Indonesia U21
+http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Ftunisia-u21-vs-indonesia-u21-luc-1900-ngay-22-08-2025%2F
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/volleyball/competition/9vjxm8lhgl0q6od/image/small", | World Championship U21 | Italy U21 vs Ukraine U21
+http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fitaly-u21-vs-ukraine-u21-luc-1900-ngay-22-08-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/volleyball/competition/l965mkdh4ylr1ge/image/small", | World Championship Women | Nữ USA vs Nữ Slovenia
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnu-usa-vs-nu-slovenia-luc-1930-ngay-22-08-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/volleyball/competition/l965mkdh4ylr1ge/image/small", | World Championship Women | Nữ Brazil vs Nữ Hy Lạp
@@ -2357,50 +2315,42 @@ http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fbraz
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fba-lan-u21-vs-canada-u21-luc-1300-ngay-23-08-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/volleyball/competition/9vjxm8lhgl0q6od/image/small", | World Championship U21 | Morocco U21 vs Thổ Nhĩ Kỳ U21
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fmorocco-u21-vs-tho-nhi-ky-u21-luc-1300-ngay-23-08-2025%2F
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/volleyball/competition/l965mkdh4ylr1ge/image/small", | World Championship Women | Nữ CH Dominican vs Nữ Colombia
+http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnu-ch-dominican-vs-nu-colombia-luc-1600-ngay-23-08-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/volleyball/competition/9vjxm8lhgl0q6od/image/small", | World Championship U21 | Trung Quốc U21 vs Thái Lan U21
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Ftrung-quoc-u21-vs-thai-lan-u21-luc-1600-ngay-23-08-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/volleyball/competition/9vjxm8lhgl0q6od/image/small", | World Championship U21 | Nhật Bản U21 vs Cuba U21
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnhat-ban-u21-vs-cuba-u21-luc-1600-ngay-23-08-2025%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/volleyball/competition/l965mkdh4ylr1ge/image/small", | World Championship Women | Nữ CH Dominican vs Nữ Colombia
-http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnu-ch-dominican-vs-nu-colombia-luc-1600-ngay-23-08-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/volleyball/competition/l965mkdh4ylr1ge/image/small", | World Championship Women | Nữ Nhật Bản vs Nữ Cameroon
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnu-nhat-ban-vs-nu-cameroon-luc-1700-ngay-23-08-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/volleyball/competition/l965mkdh4ylr1ge/image/small", | World Championship Women | Nữ Đức vs Nữ Kenya
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnu-duc-vs-nu-kenya-luc-1700-ngay-23-08-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/volleyball/competition/9vjxm8lhgl0q6od/image/small", | World Championship U21 | Italy U21 vs Pháp U21
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fitaly-u21-vs-phap-u21-luc-1900-ngay-23-08-2025%2F
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/volleyball/competition/9vjxm8lhgl0q6od/image/small", | World Championship U21 | Ukraine U21 vs Indonesia U21
+http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fukraine-u21-vs-indonesia-u21-luc-1900-ngay-23-08-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/lol/competition/y39mp8xu3gdqojx/image/small", | LCK 2025 | Dplus KIA vs DRX
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fdplus-kia-vs-drx-luc-1700-ngay-22-08-2025%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/lol/competition/pxwrx81ugk1qyk0/image/small", | LPL Split 3 2025 | EDward Gaming vs LGD Gaming
-http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fedward-gaming-vs-lgd-gaming-luc-1800-ngay-22-08-2025%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/lol/competition/y0or59wbl21mwzv/image/small", | LCP Season Finals 2025 | CTBC Flying Oyster vs GAM Esports
-http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fctbc-flying-oyster-vs-gam-esports-luc-1900-ngay-22-08-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/lol/competition/y39mp8xu32dqojx/image/small", | TCL Summer 2025 | Misa Esports vs The Forbidden Five
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fmisa-esports-vs-the-forbidden-five-luc-2130-ngay-22-08-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/lol/competition/dn1m1eku4wdqoep/image/small", | LFL Summer 2025 | Ici Japon Corp Esport vs Team BDS Academy
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fici-japon-corp-esport-vs-team-bds-academy-luc-2300-ngay-22-08-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/lol/competition/y39mp8xu32dqojx/image/small", | TCL Summer 2025 | ULF Esports vs ⁠Beşiktaş Esports
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fulf-esports-vs-besiktas-esports-luc-0030-ngay-23-08-2025%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/lol/competition/l5erg5efo9xm8k0/image/small", | LPLOL Summer 2025 | NORTHS FURY vs Hurricane of Feathers
-http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnorths-fury-vs-hurricane-of-feathers-luc-0400-ngay-23-08-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/lol/competition/8yomow3t7der0j6/image/small", | North American Challengers League Split 2 2025 | Blue Otter vs Conviction
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fblue-otter-vs-conviction-luc-0400-ngay-23-08-2025%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/dota2/competition/8yomowki2kxr0j6/image/small", | FISSURE Universe: Episode 6 | Team Tidebound vs Parivision
-http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fteam-tidebound-vs-parivision-luc-1700-ngay-22-08-2025%2F
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/lol/competition/l5erg5efo9xm8k0/image/small", | LPLOL Summer 2025 | NORTHS FURY vs Hurricane of Feathers
+http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnorths-fury-vs-hurricane-of-feathers-luc-0400-ngay-23-08-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/dota2/competition/4wyrnxkidedm86p/image/small", | CCT S2 Series 4 | Yellow Submarine vs Mousesports
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fyellow-submarine-vs-mousesports-luc-1800-ngay-22-08-2025%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/dota2/competition/4wyrnxkidedm86p/image/small", | CCT S2 Series 4 | 4pirates vs OG
-http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2F4pirates-vs-og-luc-1801-ngay-22-08-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/dota2/competition/8yomowki2kxr0j6/image/small", | FISSURE Universe: Episode 6 | Avulus vs BetBoom Team
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Favulus-vs-betboom-team-luc-1900-ngay-22-08-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/dota2/competition/4wyrnxkidedm86p/image/small", | CCT S2 Series 4 | L1ga Team vs Team Next Level
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fl1ga-team-vs-team-next-level-luc-0000-ngay-23-08-2025%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/csgo/competition/8yomowyfypxr0j6/image/small", | European Pro League Season 27 | FORZE Reload vs EYEBALLERS
-http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fforze-reload-vs-eyeballers-luc-1800-ngay-22-08-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/csgo/competition/n54qle2h40wmvy9/image/small", | CCT Season 3 Europe Series 5 | CYBERSHOKE vs Metizport
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fcybershoke-vs-metizport-luc-1800-ngay-22-08-2025%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/csgo/competition/vjxm89wuk1eq6od/image/small", | Exort The Proving Grounds Season 3 | BC.Game vs OG
-http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fbc-game-vs-og-luc-1800-ngay-22-08-2025%2F
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/csgo/competition/8yomowyfypxr0j6/image/small", | European Pro League Season 27 | FORZE Reload vs EYEBALLERS
+http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fforze-reload-vs-eyeballers-luc-1800-ngay-22-08-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/csgo/competition/vjxm89wuk1eq6od/image/small", | Exort The Proving Grounds Season 3 | BetBoom vs TNL
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fbetboom-vs-tnl-luc-2100-ngay-22-08-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/csgo/competition/n54qle2h40wmvy9/image/small", | CCT Season 3 Europe Series 5 | Alliance vs ARCRED
@@ -2410,22 +2360,6 @@ http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fpart
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.api-football.xyz/csgo/competition/3glrww5fn8ordyj/image/small", | Esports World Cup 2025 | Falcons vs MOUZ
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Ffalcons-vs-mouz-luc-0045-ngay-23-08-2025%2F
 #EXTM3U
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/f9eaa241dfc24ef3be2bdd8734612f29.png", 22/08-16:40 | Ngoại hạng Úc New South Wales | Sydney FC VS Blacktown City Demons 🔴
-http://khaitv.giize.com:8080/laykinhtv/play.php?id=a3s1zjsse9
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/d272859d78eb8ca7a14753f4293fbf45.png", 22/08-17:00 | J1 League | Kashiwa Reysol VS Urawa Red Diamonds 🔴
-http://khaitv.giize.com:8080/laykinhtv/play.php?id=stv7kj8wl4
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/e273f398d195a6da8c7ca2758992765d.png", 22/08-17:00 | Ngoại hạng Bắc NSW .Úc | Toronto Awaba VS West Wallsend SC 🔴
-http://khaitv.giize.com:8080/laykinhtv/play.php?id=6zg2n6y320
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/366dcd7822be3f82776fe4e3fb918b0f.png", 22/08-17:00 | Cúp Ukrainia | FC Victoria Mykolaivka VS FC Vorskla Poltava 🔴
-http://khaitv.giize.com:8080/laykinhtv/play.php?id=2rllel7eu5
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/d64b689920d9d52b41290a305dc12a33.jfif", 22/08-17:00 | Ngoại hạng Bhutan | Tensung FC VS Paro FC 🔴
-http://khaitv.giize.com:8080/laykinhtv/play.php?id=3p5o1e5hd9
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://static.flashscore.com/res/image/data/xp1YeTM4-W8JYA2FT.png", 22/08-17:00 | Cúp Ukrainia | Mayak Sarny VS Metalist Kharkiv 🔴
-http://khaitv.giize.com:8080/laykinhtv/play.php?id=6in5b1p5hm
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/ba8c431ae2d1c8c3e956a8fdd6d4352a.png", 22/08-18:00 | Hạng hai Trung Quốc | Rizhao Yuqi Football Club VS Guangdong Mingtu 🔴
-http://khaitv.giize.com:8080/laykinhtv/play.php?id=p0h7mr8axt
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/bebccb85740d6e5dcd5d8e6d89dd07f6.png", 22/08-18:00 | Ngoại Hạng Darwin . Úc | Hellenic AC VS Casuarina FC 🔴
-http://khaitv.giize.com:8080/laykinhtv/play.php?id=r7ramjwvte
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/7d7e431fc196682b785b0558b77d182a.png", 22/08-18:00 | Hạng nhất Kazakhstan | FC Shakhtyor Karagandy VS Kairat Almaty II 🔴
 http://khaitv.giize.com:8080/laykinhtv/play.php?id=zvnhds4e4g
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/3a3e3c6461bf454d4a621b56bf1dbc46.png", 22/08-18:30 | Hạng hai Trung Quốc | Langfang City of Glory VS Jiangxi Dark Horse Junior 🔴
@@ -2442,68 +2376,88 @@ http://khaitv.giize.com:8080/laykinhtv/play.php?id=6i0jpnt27d
 http://khaitv.giize.com:8080/laykinhtv/play.php?id=yzlbnsa6om
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/25dae24c4bfc4a6fdd53d090a39821dd.png", 22/08-19:15 | VĐQG Malaysia | DPMM FC VS Terengganu 🔴
 http://khaitv.giize.com:8080/laykinhtv/play.php?id=1gvuuiqiel
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/1052568046c27c694918905cbf403d7c.png", 22/08-19:15 | V-League | Viettel FC VS Ho Chi Minh City FC
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/1052568046c27c694918905cbf403d7c.png", 22/08-19:15 | V-League | Viettel FC VS Ho Chi Minh City FC 🔴
 http://khaitv.giize.com:8080/laykinhtv/play.php?id=nulij9y0r1
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/9594e7abdcb42f6e8a178db6d4f37a94.png", 22/08-19:30 | Ngoại hạng Armenia | Ararat Yerevan VS FC Pyunik
-http://khaitv.giize.com:8080/laykinhtv/play.php?id=gqqkyhf8ym
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://static.flashscore.com/res/image/data/Ma5OhJf5-C61JIMsR.png", 22/08-19:30 | Cúp Ukrainia | Karbon Cherkasy VS FC Inhulets Petrove
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://static.flashscore.com/res/image/data/Ma5OhJf5-C61JIMsR.png", 22/08-19:30 | Cúp Ukrainia | Karbon Cherkasy VS FC Inhulets Petrove 🔴
 http://khaitv.giize.com:8080/laykinhtv/play.php?id=8okaru58o2
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/a32e54c60993a75c4ce3d12ee206be9e.png", 22/08-20:00 | COSAFA CLW | Mamelodi Sundowns (w) VS Ntopwa FC (W)
-http://khaitv.giize.com:8080/laykinhtv/play.php?id=e2pcanpms9
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/8005edd27cd557fd269967ccf027851e.png", 22/08-20:00 | Ngoại Hạng Azerbaijan | Mil-Mugan FK VS FC Neftci Baku
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/9594e7abdcb42f6e8a178db6d4f37a94.png", 22/08-19:45 | Ngoại hạng Armenia | Ararat Yerevan VS FC Pyunik 🔴
+http://khaitv.giize.com:8080/laykinhtv/play.php?id=gqqkyhf8ym
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/8005edd27cd557fd269967ccf027851e.png", 22/08-20:00 | Ngoại Hạng Azerbaijan | Mil-Mugan FK VS FC Neftci Baku 🔴
 http://khaitv.giize.com:8080/laykinhtv/play.php?id=pnxq9b75dr
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/e0d19c151af2ed75cc8205c10a67c4c3.png", 22/08-21:00 | VĐQG Uzbekistan | FK Andijon VS Pakhtakor
-http://khaitv.giize.com:8080/laykinhtv/play.php?id=srv53fvedn
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/25a7ebe2fc19902b896b3a184ef420c9.png", 22/08-21:00 | UAE Pro League | Baniyas Club VS Ittihad Kalba FC
-http://khaitv.giize.com:8080/laykinhtv/play.php?id=a2yakr721x
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/093b019417397a95732e569df7f2a8f0.png", 22/08-21:00 | Hạng nhất Kazakhstan | FK Kaspyi Aktau VS SD Family
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/a32e54c60993a75c4ce3d12ee206be9e.png", 22/08-20:00 | COSAFA CLW | Mamelodi Sundowns (w) VS Ntopwa FC (W) 🔴
+http://khaitv.giize.com:8080/laykinhtv/play.php?id=e2pcanpms9
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/093b019417397a95732e569df7f2a8f0.png", 22/08-21:00 | Hạng nhất Kazakhstan | FK Kaspyi Aktau VS SD Family 🔴
 http://khaitv.giize.com:8080/laykinhtv/play.php?id=mh2dkujrya
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/54abe7b7c8ee579989d36621d28d96f0.png", 22/08-21:00 | Hạng nhất Kazakhstan | FK Taraz VS Khan Tengri FC
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/54abe7b7c8ee579989d36621d28d96f0.png", 22/08-21:00 | Hạng nhất Kazakhstan | FK Taraz VS Khan Tengri FC 🔴
 http://khaitv.giize.com:8080/laykinhtv/play.php?id=01ynwisj2u
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/2c821a2c4ccdf633fc75d547061cde90.png", 22/08-21:00 | Hạng Nhất Belarus | ABFF(U19) VS Dnepr Mogilev 🔴
+http://khaitv.giize.com:8080/laykinhtv/play.php?id=v24wyte0p6
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/0ab6a4feab9cad711d28fa345e8a43da.png", 22/08-21:00 | Hạng 2 Romania | ACS Viitorul Selimbar VS Sepsi OSK Sfantul Gheorghe 🔴
+http://khaitv.giize.com:8080/laykinhtv/play.php?id=qtv361bxvc
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/e0d19c151af2ed75cc8205c10a67c4c3.png", 22/08-21:00 | VĐQG Uzbekistan | FK Andijon VS Pakhtakor 🔴
+http://khaitv.giize.com:8080/laykinhtv/play.php?id=srv53fvedn
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/25a7ebe2fc19902b896b3a184ef420c9.png", 22/08-21:00 | UAE Pro League | Baniyas Club VS Ittihad Kalba FC 🔴
+http://khaitv.giize.com:8080/laykinhtv/play.php?id=a2yakr721x
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/3b5750171f62fd9c3cd91a41ddb1ac45.png!w100", 22/08-21:00 | CAF African Nations Championship | Kenya VS Madagascar
 http://khaitv.giize.com:8080/laykinhtv/play.php?id=wkuw7s2rx3
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/2c821a2c4ccdf633fc75d547061cde90.png", 22/08-21:00 | Hạng Nhất Belarus | ABFF(U19) VS Dnepr Mogilev
-http://khaitv.giize.com:8080/laykinhtv/play.php?id=v24wyte0p6
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/0ab6a4feab9cad711d28fa345e8a43da.png", 22/08-21:00 | Hạng 2 Romania | ACS Viitorul Selimbar VS Sepsi OSK Sfantul Gheorghe
-http://khaitv.giize.com:8080/laykinhtv/play.php?id=qtv361bxvc
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/1b6a8b7bb58fb0bd81604245c09e07f3.png", 22/08-21:30 | Cúp Ukrainia | Lokomotiv Kyiv VS Kolos Kovalyovka
 http://khaitv.giize.com:8080/laykinhtv/play.php?id=u6brdxyz2f
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/c308a954f6a00af71f3f13413140a5cd.png", 22/08-22:00 | Ngoại hạng Nga | Gazovik Orenburg VS Terek Grozny
-http://khaitv.giize.com:8080/laykinhtv/play.php?id=7ynmswfzxb
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/f360bb7ef0b6a176136382068b6e4bc7.png", 22/08-22:00 | VĐQG Uzbekistan | Qizilqum Zarafshon VS Kuruvchi Bunyodkor
 http://khaitv.giize.com:8080/laykinhtv/play.php?id=pq8wmus4i6
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/5df3cf66c96a43a08e06da83aeb2f7a8.png", 22/08-22:00 | VĐQG Phần Lan | Vaasa VPS VS KTP Kotka
 http://khaitv.giize.com:8080/laykinhtv/play.php?id=jao604k3mr
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/e09e5c54099e7e64c4b51c533f5706c6.png", 22/08-22:00 | Hạng 2 Bulgaria | Vihren Sandanski VS FC Dunav Ruse
 http://khaitv.giize.com:8080/laykinhtv/play.php?id=xjvjwln020
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/c308a954f6a00af71f3f13413140a5cd.png", 22/08-22:00 | Ngoại hạng Nga | Gazovik Orenburg VS Terek Grozny
+http://khaitv.giize.com:8080/laykinhtv/play.php?id=7ynmswfzxb
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/7f7d00906d511bcf48f9a600580ff953.png", 22/08-22:30 | Ngoại Hạng Azerbaijan | Qarabag VS Standard Sumgayit
+http://khaitv.giize.com:8080/laykinhtv/play.php?id=yhwdegw2tl
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/ea4eb49329550caaa1d2044105223721.gif", 22/08-22:30 | Hạng 2 Phần Lan | Ekenas IF Fotboll VS Lahti
 http://khaitv.giize.com:8080/laykinhtv/play.php?id=ci3bzennvn
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/fcac1eae493c493061e66608158b40ef.png", 22/08-22:30 | VĐQG Qatar | Al-Garrafa VS Al-Arabi SC
 http://khaitv.giize.com:8080/laykinhtv/play.php?id=w91ga8tiav
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/f3aa37eff0023279c42b6e99eecc31d0.png", 22/08-22:30 | Hạng 2 Phần Lan | TPS Turku VS SJK Seinäjoki II
-http://khaitv.giize.com:8080/laykinhtv/play.php?id=2plxuedyy6
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/7c9d28445e942782d96e08afb3046d2a.png", 22/08-22:30 | Hạng 2 Phần Lan | PK-35 Vantaa VS JaPS
 http://khaitv.giize.com:8080/laykinhtv/play.php?id=zins0ah4zz
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/7f7d00906d511bcf48f9a600580ff953.png", 22/08-22:30 | Ngoại Hạng Azerbaijan | Qarabag VS Standard Sumgayit
-http://khaitv.giize.com:8080/laykinhtv/play.php?id=yhwdegw2tl
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/6c0c94ba08aaf8dc547054a22d68cbd6.png", 22/08-23:00 | VĐQG Ba Lan | Radomiak Radom VS LKS Nieciecza
-http://khaitv.giize.com:8080/laykinhtv/play.php?id=p9ctsvd6lo
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/f3aa37eff0023279c42b6e99eecc31d0.png", 22/08-22:30 | Hạng 2 Phần Lan | TPS Turku VS SJK Seinäjoki II
+http://khaitv.giize.com:8080/laykinhtv/play.php?id=2plxuedyy6
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/acd5e194c961b091fcf0065a5d27a8f8.png", 22/08-23:00 | VĐQG Romania | UTA Arad VS FC Unirea 2004 Slobozia
+http://khaitv.giize.com:8080/laykinhtv/play.php?id=k70z1uz7p2
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/1f7f382b783668720ee7aba6de9cc6a3.png", 22/08-23:00 | Ngoại hạng Belarus | FC Gomel VS BATE Borisov
 http://khaitv.giize.com:8080/laykinhtv/play.php?id=7jysnjx6sr
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/09241d6b63768402a7784315be67338f.png", 22/08-23:00 | VĐQG Lithuanian | FK Riteriai VS Dziugas Telsiai
 http://khaitv.giize.com:8080/laykinhtv/play.php?id=j2blsldyp8
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/acd5e194c961b091fcf0065a5d27a8f8.png", 22/08-23:00 | VĐQG Romania | UTA Arad VS FC Unirea 2004 Slobozia
-http://khaitv.giize.com:8080/laykinhtv/play.php?id=k70z1uz7p2
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/814cbcaf4f70499660e021e30be5036c.png", 22/08-23:00 | Ngoại hạng Armenia | Urartu VS Alashkert
 http://khaitv.giize.com:8080/laykinhtv/play.php?id=97dv9irfw3
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/6c0c94ba08aaf8dc547054a22d68cbd6.png", 22/08-23:00 | VĐQG Ba Lan | Radomiak Radom VS LKS Nieciecza
+http://khaitv.giize.com:8080/laykinhtv/play.php?id=p9ctsvd6lo
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/62243718d57ddc7ef2c7957600ecddb5.png", 22/08-23:30 | VĐQG Jordan | Sama Al Sarhan VS AL Salt
 http://khaitv.giize.com:8080/laykinhtv/play.php?id=v1083787g4
-#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/20f905fb0975e88482cf157ad9da4874.png", 22/08-23:30 | Bundesliga 2 | SV Elversberg VS 1. FC Kaiserslautern
-http://khaitv.giize.com:8080/laykinhtv/play.php?id=rxg3d8bqf7
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/ae31b6267a9286cee274ca2cd1fa8cb1.png", 22/08-23:30 | Bundesliga 2 | Preuben Munster VS 1. FC Nürnberg
 http://khaitv.giize.com:8080/laykinhtv/play.php?id=58f6nb0mvs
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/20f905fb0975e88482cf157ad9da4874.png", 22/08-23:30 | Bundesliga 2 | SV Elversberg VS 1. FC Kaiserslautern
+http://khaitv.giize.com:8080/laykinhtv/play.php?id=rxg3d8bqf7
 #EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/195746af2b48224eb227196ca5717908.png", 22/08-23:30 | UAE Pro League | Al-Sharjah VS Al-Jazira(UAE)
 http://khaitv.giize.com:8080/laykinhtv/play.php?id=ong2x4qeiw
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/1068c9f5e4fda4454e55834ee9073f2a.png", 23/08-00:00 | Hạng Nhất Đan Mạch | Aalborg VS Hvidovre IF
+http://khaitv.giize.com:8080/laykinhtv/play.php?id=230t3fd9fy
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/78581e2ef61df4a79eb3b24254665b88.png", 23/08-00:00 | VĐQG Na Uy | KFUM Oslo VS Ham-Kam
+http://khaitv.giize.com:8080/laykinhtv/play.php?id=hxvwsncc0d
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/8c6b1bebd4c1223ea8eb9a3e8554ff3e.png", 23/08-00:00 | VĐQG Serbia | Habitpharm Javor VS FK Napredak Krusevac
+http://khaitv.giize.com:8080/laykinhtv/play.php?id=h2gfotazde
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/0ebcdb06cf4d039f0d08b356c26bc466.png!w100", 23/08-00:00 | CAF African Nations Championship | Tanzania VS Morocco
+http://khaitv.giize.com:8080/laykinhtv/play.php?id=uac6rt0bps
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/230be7f4f23de1cb08877a72cd08f619.png", 23/08-00:30 | Hạng Nhì Tây Ban Nha | Eibar VS Granada CF
+http://khaitv.giize.com:8080/laykinhtv/play.php?id=h9a0c4kakl
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/af47207f36a49c89502312138e54f6a7.png", 23/08-00:30 | VĐQG Qatar | Al Shamal VS Al Rayyan
+http://khaitv.giize.com:8080/laykinhtv/play.php?id=ze7u4q9dfj
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/eddf8d0f309490d5e64ad445895eedb1.png", 23/08-00:30 | VĐQG Bulgaria | Lokomotiv Sofia VS Spartak Varna
+http://khaitv.giize.com:8080/laykinhtv/play.php?id=g7ycco5cix
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/8888bb52a971c98b7518618bf61e7ad2.png", 23/08-00:55 | Ngoại hạng Belarus | BC Maxline VS Naftan Novopolock
+http://khaitv.giize.com:8080/laykinhtv/play.php?id=xnbaq4817g
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/caac0fdd4222abe386ea70915412c65f.png", 23/08-01:00 | Hạng 2 Hà Lan | Helmond Sport VS Emmen
+http://khaitv.giize.com:8080/laykinhtv/play.php?id=7s15vt2wn1
+#EXTINF:-1 group-title="Lấy Kinh Live" tvg-logo="https://img.thesports.com/football/team/20e1421981660356d8bbce228ef9c927.png", 23/08-01:00 | VĐQG Hungary | Puskas Akademia FC VS Debreceni VSC
+http://khaitv.giize.com:8080/laykinhtv/play.php?id=qt20ssoz8k
 #EXTM3U
 #EXTINF:0 group-title="TV Miễn Phí" tvg-logo="https://cdn-vn.iof.vn/TV/HTV1.png", HTV1
 https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist_b2500000.m3u8
@@ -2804,24 +2758,44 @@ https://global-media.sooplive.com/live/soopofficial1/master.m3u8
 https://global-media.sooplive.com/live/soopofficial3/master.m3u8
 #EXTM3U
 # -------- 🔴 Trận Đang Live --------
-#EXTINF:-1 group-title="⚽ Buncha Live" tvg-logo="https://img.thesports.com/football/competition/13b70039c2194e9d1c73858f1d48cafb.png", 🔴 22/08-17:00 | Giải: Japanese J1 League | Kashiwa Reysol vs Urawa Red Diamonds | BLV BaBy Ji Chu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893254555.global.cdnfastest.com/live/68a832ed2f363_23150/index.m3u8?expire=1756458349&sign=5685b31e7f900043d286b23236cc3692
-#EXTINF:-1 group-title="⚽ Buncha Live" tvg-logo="https://img.thesports.com/football/competition/13b70039c2194e9d1c73858f1d48cafb.png", 🔴 22/08-17:00 | Giải: Japanese J1 League | Kashiwa Reysol vs Urawa Red Diamonds | BLV BLV Chả Lụa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893254555.global.cdnfastest.com/live/68a8374a2f363_5160/index.m3u8?expire=1756459466&sign=03494bfaeec76b2cf87ab83bbf8e13be
-
-# -------- 🔥 Trận Sắp Diễn Ra --------
-#EXTINF:-1 group-title="⚽ Buncha Live" tvg-logo="https://img.thesports.com/football/competition/04e9f1a0b5fdc35553c2604d7be4e9a5.png", 🔥 22/08-19:00 | Giải: Hilux Revo Thai League | Rayong FC vs Nakhon Ratchasima Mazda FC | BLV BLV Cơm Gà
+#EXTINF:-1 group-title="⚽ Buncha Live" tvg-logo="https://img.thesports.com/football/competition/04e9f1a0b5fdc35553c2604d7be4e9a5.png", 🔴 22/08-19:00 | Giải: Hilux Revo Thai League | Rayong FC vs Nakhon Ratchasima Mazda FC | BLV BLV Cơm Gà
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893254555.global.cdnfastest.com/live/68a84eb02f363_39936/index.m3u8?expire=1756465456&sign=a31b54dd2594a0e7e180dd6e9c7c87f1
-#EXTINF:-1 group-title="⚽ Buncha Live" tvg-logo="https://cdn.rapid-api.icu/football/competition/70dd3b1e69708842440893f5a8b46632.png", 🔥 22/08-19:15 | Giải: Malaysian Super League | DPMM FC vs Terengganu FC | BLV BLV Cá Khô
+#EXTINF:-1 group-title="⚽ Buncha Live" tvg-logo="https://img.thesports.com/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png", 🔴 22/08-19:15 | Giải: Vietnam National Champion League | Viettel FC vs Ho Chi Minh City FC | BLV Gà Siêu Bướng
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/68a857942f363_29975/index.m3u8?expire=1756467732&sign=9d6b2a8c06965bade0688c58ca8f23d1
+#EXTINF:-1 group-title="⚽ Buncha Live" tvg-logo="https://img.thesports.com/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png", 🔴 22/08-19:15 | Giải: Vietnam National Champion League | Viettel FC vs Ho Chi Minh City FC | BLV BLV Cá Chép
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/68a855892f363_79/index.m3u8?expire=1756467209&sign=f76a05948633ac058770f0a02962b540
+#EXTINF:-1 group-title="⚽ Buncha Live" tvg-logo="https://img.thesports.com/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png", 🔴 22/08-19:15 | Giải: Vietnam National Champion League | Viettel FC vs Ho Chi Minh City FC | BLV BaBy Ji Chu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/68a859822f363_23150/index.m3u8?expire=1756468226&sign=fc827b3de48df0a124d632e576685f8f
+#EXTINF:-1 group-title="⚽ Buncha Live" tvg-logo="https://img.thesports.com/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png", 🔴 22/08-19:15 | Giải: Vietnam National Champion League | Viettel FC vs Ho Chi Minh City FC | BLV BLV Bún Đậu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/68a859592f363_28/index.m3u8?expire=1756468185&sign=6680028c130af72d0f7a47db14f8cee1
+#EXTINF:-1 group-title="⚽ Buncha Live" tvg-logo="https://cdn.rapid-api.icu/football/competition/70dd3b1e69708842440893f5a8b46632.png", 🔴 22/08-19:15 | Giải: Malaysian Super League | DPMM FC vs Terengganu FC | BLV BLV Cá Khô
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893254555.global.cdnfastest.com/live/68a854682f363_3207/index.m3u8?expire=1756466920&sign=9b0aa10cd59b3d79656c6b031d4a18bf
+
+# -------- 🔥 Trận Sắp Diễn Ra --------
+#EXTINF:-1 group-title="⚽ Buncha Live" tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png", 🔥 22/08-19:00 | Giải: Indonesian Liga 1 | Persik Kediri vs Dewa United FC | BLV BLV Chả Lụa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/68a85bc15bab7_5160/index.m3u8?expire=1756468801&sign=4d566bf9f5ffb8f76ac9d0a538fb1ff2
+#EXTINF:-1 group-title="⚽ Buncha Live" tvg-logo="https://img.thesports.com/football/competition/e1e3b1cf7d699effd7e411de04d89189.png", 🔥 22/08-21:00 | Giải: United Arab Emirates Adnoc Pro-League | Baniyas Club vs Ittihad Kalba FC | BLV BLV Bún Riêu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/68a8715f2f363_4439/index.m3u8?expire=1756474335&sign=498df80872650ca028756e2283354333
+#EXTINF:-1 group-title="⚽ Buncha Live" tvg-logo="https://img.thesports.com/football/competition/f7d1dfb17d306eba1289fc8b07f9ec68.png", 🔥 22/08-21:00 | Giải: Uzbekistan Super League | FK Andijon vs Pakhtakor | BLV BLV Bánh Canh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/68a86e535bab7_5153/index.m3u8?expire=1756473555&sign=11ca305ec3595f94a4d50981bfa99a78
 #EXTM3U
 #EXTINF:0 group-title="[K+]]" tvg-logo="", Ngoại hạng - Ngày:  Giờ:  Trận: 
 http://123.17.192.191:4022/udp/232.84.1.98:8562
