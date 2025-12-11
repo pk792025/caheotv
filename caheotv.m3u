@@ -973,11 +973,7 @@ http://khaitv.giize.com:8090/225.1.4.171:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",Vũng Tàu HD
 http://khaitv.giize.com:8090/225.1.4.172:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",Bắc Kạn HD
-http://khaitv.giize.com:8090/225.1.4.174:30120#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Giao Hữu Quốc Tế",11/12 20h36 El Salvador U19 VS Cuba U19 (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m503nd/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Jordan Sh Cup",11/12 21h00 Al-Jazeera VS Shabab Al Ordon (CH) SD 1
+http://khaitv.giize.com:8090/225.1.4.174:30120#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Jordan Sh Cup",11/12 21h00 Al-Jazeera VS Shabab Al Ordon (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://p51i1025.edgemaxcdn.org/live/nguumavuongsd1/playlist.m3u8
@@ -1001,6 +997,14 @@ https://p51i1025.edgemaxcdn.org/live/nguumavuongsd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://p51i1025.edgemaxcdn.org/live/nguumavuonghd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Giao Hữu Quốc Tế",11/12 21h30 El Salvador U19 VS Cuba U19 (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m503nd/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Giao Hữu Quốc Tế",11/12 21h30 Guatemala U19 VS Honduras U19 (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m401nd/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: WAFF Arab Nations Cup",11/12 21h30 Morocco VS Syria (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -1025,10 +1029,6 @@ https://p51i1025.edgemaxcdn.org/live/buisd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://p51i1025.edgemaxcdn.org/live/buihd1.flv
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Giao Hữu Quốc Tế",11/12 21h30 Guatemala U19 VS Honduras U19 (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m401nd/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Cúp Liên Đoàn Ai Cập",11/12 22h00 Ittihad Alexandria SC VS Al Masry (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -2035,30 +2035,38 @@ http://khaitv.giize.com:1979/vachvoi/play.php?id=al-jazeera-vs-shabab-al-ordon-1
 http://khaitv.giize.com:1979/vachvoi/play.php?id=morocco-vs-syria-11-12-2025-waff-arab-nations-cup-l324220&type=nhadai
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F32732.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F915.png",(Nhà đài) 🔴 11/12-22:00 | Egypt League Cup | (Nhà đài) Ittihad Alexandria SC vs Al Masry
 http://khaitv.giize.com:1979/vachvoi/play.php?id=ittihad-alexandria-sc-vs-al-masry-11-12-2025-egypt-league-cup-l324191&type=nhadai
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F19079.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F12360.png",(Nhà đài) 🔴 11/12-22:30 | Burkina Faso Division 1 | (Nhà đài) Sporting Football des Cascades vs RC Bobo Dioulasso
+http://khaitv.giize.com:1979/vachvoi/play.php?id=sporting-football-des-cascades-vs-rc-bobo-dioulasso-11-12-2025-burkina-faso-division-1-l324192&type=nhadai
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F818.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F976.png",(Nhà đài) 🔴 11/12-22:30 | Bulgarian Cup | (Nhà đài) Levski Sofia vs Vitosha Bistritsa
+http://khaitv.giize.com:1979/vachvoi/play.php?id=levski-sofia-vs-vitosha-bistritsa-11-12-2025-bulgarian-cup-l324194&type=nhadai
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F36012.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F8978.png",(Nhà đài) 🔴 11/12-22:30 | Burkina Faso Division 1 | (Nhà đài) CFFEB vs Etoile Filante de Ouagadougou
+http://khaitv.giize.com:1979/vachvoi/play.php?id=cffeb-vs-etoile-filante-de-ouagadougou-11-12-2025-burkina-faso-division-1-l324195&type=nhadai
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F12361.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F8977.png",(Nhà đài) 🔴 11/12-22:30 | Burkina Faso Division 1 | (Nhà đài) Majestic FC vs AS Douanes Ouagadougou
+http://khaitv.giize.com:1979/vachvoi/play.php?id=majestic-fc-vs-as-douanes-ouagadougou-11-12-2025-burkina-faso-division-1-l324196&type=nhadai
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F15209.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F19227.png",[BLV:🗣︎Thông KTV] 12/12-00:30 | WAFF Arab Nations Cup | Palestine vs Saudi Arabia
 http://khaitv.giize.com:1979/vachvoi/play.php?id=palestine-vs-saudi-arabia-12-12-2025-waff-arab-nations-cup-l324238
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F15209.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F19227.png",(Nhà đài) 12/12-00:30 | WAFF Arab Nations Cup | Palestine vs Saudi Arabia
 http://khaitv.giize.com:1979/vachvoi/play.php?id=palestine-vs-saudi-arabia-12-12-2025-waff-arab-nations-cup-l324238&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3060.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F534.png",[BLV:🗣︎Memphis van Chao] 12/12-00:45 | UEFA Europa League | Dinamo Zagreb vs Real Betis
-http://khaitv.giize.com:1979/vachvoi/play.php?id=dinamo-zagreb-vs-real-betis-12-12-2025-uefa-europa-league-l324241
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3060.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F534.png",(Nhà đài) 12/12-00:45 | UEFA Europa League | Dinamo Zagreb vs Real Betis
-http://khaitv.giize.com:1979/vachvoi/play.php?id=dinamo-zagreb-vs-real-betis-12-12-2025-uefa-europa-league-l324241&type=nhadai
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F155.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F845.png",[BLV:🗣︎Lúa Vó Tu] 12/12-00:45 | UEFA Europa League | FC Utrecht vs Nottingham Forest
 http://khaitv.giize.com:1979/vachvoi/play.php?id=fc-utrecht-vs-nottingham-forest-12-12-2025-uefa-europa-league-l324246
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F155.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F845.png",(Nhà đài) 12/12-00:45 | UEFA Europa League | FC Utrecht vs Nottingham Forest
 http://khaitv.giize.com:1979/vachvoi/play.php?id=fc-utrecht-vs-nottingham-forest-12-12-2025-uefa-europa-league-l324246&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F32102.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F294.png",[BLV:🗣︎Bí Te Tua] 12/12-00:45 | UEFA Europa League | OGC Nice vs Sporting Braga
-http://khaitv.giize.com:1979/vachvoi/play.php?id=ogc-nice-vs-sporting-braga-12-12-2025-uefa-europa-league-l324248
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F32102.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F294.png",(Nhà đài) 12/12-00:45 | UEFA Europa League | OGC Nice vs Sporting Braga
-http://khaitv.giize.com:1979/vachvoi/play.php?id=ogc-nice-vs-sporting-braga-12-12-2025-uefa-europa-league-l324248&type=nhadai
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3128.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F44.png",[BLV:🗣︎Súp Chu Che] 12/12-00:45 | UEFA Europa Conference League | Fiorentina vs Dynamo Kyiv
-http://khaitv.giize.com:1979/vachvoi/play.php?id=fiorentina-vs-dynamo-kyiv-12-12-2025-uefa-europa-conference-league-l324249
-#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3128.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F44.png",(Nhà đài) 12/12-00:45 | UEFA Europa Conference League | Fiorentina vs Dynamo Kyiv
-http://khaitv.giize.com:1979/vachvoi/play.php?id=fiorentina-vs-dynamo-kyiv-12-12-2025-uefa-europa-conference-league-l324249&type=nhadai
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3054.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F877.png",[BLV:🗣︎Gia Cat Chày] 12/12-00:45 | UEFA Europa League | VfB Stuttgart vs Maccabi Tel Aviv
 http://khaitv.giize.com:1979/vachvoi/play.php?id=vfb-stuttgart-vs-maccabi-tel-aviv-12-12-2025-uefa-europa-league-l324254
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3054.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F877.png",(Nhà đài) 12/12-00:45 | UEFA Europa League | VfB Stuttgart vs Maccabi Tel Aviv
 http://khaitv.giize.com:1979/vachvoi/play.php?id=vfb-stuttgart-vs-maccabi-tel-aviv-12-12-2025-uefa-europa-league-l324254&type=nhadai
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3128.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F44.png",[BLV:🗣︎Súp Chu Che] 12/12-00:45 | UEFA Europa Conference League | Fiorentina vs Dynamo Kyiv
+http://khaitv.giize.com:1979/vachvoi/play.php?id=fiorentina-vs-dynamo-kyiv-12-12-2025-uefa-europa-conference-league-l324249
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3128.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F44.png",(Nhà đài) 12/12-00:45 | UEFA Europa Conference League | Fiorentina vs Dynamo Kyiv
+http://khaitv.giize.com:1979/vachvoi/play.php?id=fiorentina-vs-dynamo-kyiv-12-12-2025-uefa-europa-conference-league-l324249&type=nhadai
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F32102.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F294.png",[BLV:🗣︎Bí Te Tua] 12/12-00:45 | UEFA Europa League | OGC Nice vs Sporting Braga
+http://khaitv.giize.com:1979/vachvoi/play.php?id=ogc-nice-vs-sporting-braga-12-12-2025-uefa-europa-league-l324248
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F32102.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F294.png",(Nhà đài) 12/12-00:45 | UEFA Europa League | OGC Nice vs Sporting Braga
+http://khaitv.giize.com:1979/vachvoi/play.php?id=ogc-nice-vs-sporting-braga-12-12-2025-uefa-europa-league-l324248&type=nhadai
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3060.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F534.png",[BLV:🗣︎Memphis van Chao] 12/12-00:45 | UEFA Europa League | Dinamo Zagreb vs Real Betis
+http://khaitv.giize.com:1979/vachvoi/play.php?id=dinamo-zagreb-vs-real-betis-12-12-2025-uefa-europa-league-l324241
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3060.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F534.png",(Nhà đài) 12/12-00:45 | UEFA Europa League | Dinamo Zagreb vs Real Betis
+http://khaitv.giize.com:1979/vachvoi/play.php?id=dinamo-zagreb-vs-real-betis-12-12-2025-uefa-europa-league-l324241&type=nhadai
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F537.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3966.png",[BLV:🗣︎Memphis van Chao] 12/12-03:00 | UEFA Europa League | FC Porto vs Malmo FF
 http://khaitv.giize.com:1979/vachvoi/play.php?id=fc-porto-vs-malmo-ff-12-12-2025-uefa-europa-league-l324273
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F537.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3966.png",(Nhà đài) 12/12-03:00 | UEFA Europa League | FC Porto vs Malmo FF
@@ -2083,6 +2091,8 @@ http://khaitv.giize.com:1979/vachvoi/play.php?id=sc-freiburg-vs-red-bull-salzbur
 http://khaitv.giize.com:1979/vachvoi/play.php?id=shelbourne-vs-crystal-palace-12-12-2025-uefa-europa-conference-league-l324284
 #EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F3675.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F4349.png",(Nhà đài) 12/12-03:00 | UEFA Europa Conference League | Shelbourne vs Crystal Palace
 http://khaitv.giize.com:1979/vachvoi/play.php?id=shelbourne-vs-crystal-palace-12-12-2025-uefa-europa-conference-league-l324284&type=nhadai
+#EXTINF:-1 group-title="⚽ Vạch Vôi TV" tvg-logo="http://khaitv.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F10365.png&m2=https%3A%2F%2Fvnrunning.net%2Fstatic%2Fimages%2Fteams%2F18900.png",(Nhà đài) 11/12-22:30 | Burkina Faso Division 1 | (Nhà đài) RC Kadiogo vs Vitesse Delft
+http://khaitv.giize.com:1979/vachvoi/play.php?id=rc-kadiogo-vs-vitesse-delft-11-12-2025-burkina-faso-division-1-l324193&type=nhadai
 #EXTM3U
 #EXTINF:-1 group-title="Game Show" tvg-logo="http://static3.thvli.vn/assets/thumbnail/2025/10/29/qw10wqey_thumb_thvli341bd254b651afa662222ac41413f94e.jpg", Người Kể Chuyện Tình 2025
 http://khaitv.giize.com:3333/get_media_link?path=https://thvli.vn/detail/nguoi-ke-chuyen-tinh-2025&extension=m3u8&location=yes
@@ -2418,14 +2428,12 @@ http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Ffred
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fsierra-berry-vs-mia-slama-luc-0230-ngay-12-12-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/tennis/competition/l965mk4fjj2r1ge/image/small", | UTR Pro Match Series Men Singles | Alexander Kotzen vs Francisco Perez
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Falexander-kotzen-vs-francisco-perez-luc-0230-ngay-12-12-2025%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/z318q67h079ro9j/image/small", | Superleague Women | Nữ Uralochka-NTMK vs Nữ Yenisey
-http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnu-uralochka-ntmk-vs-nu-yenisey-luc-2100-ngay-11-12-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/dn1m1nh4ex5qoep/image/small", | Sultanlar Ligi Women | Nữ Zeren Spor vs Nữ Galatasaray
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnu-zeren-spor-vs-nu-galatasaray-luc-2200-ngay-11-12-2025%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/dn1m1nh4ex5qoep/image/small", | Sultanlar Ligi Women | Nữ Fenerbahce vs Nữ Vakifbank
-http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnu-fenerbahce-vs-nu-vakifbank-luc-2300-ngay-11-12-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/j1l4rjdh1ldr7vx/image/small", | Challenge Cup | Arcada Galati vs Benfica
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Farcada-galati-vs-benfica-luc-2300-ngay-11-12-2025%2F
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/dn1m1nh4ex5qoep/image/small", | Sultanlar Ligi Women | Nữ Fenerbahce vs Nữ Vakifbank
+http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnu-fenerbahce-vs-nu-vakifbank-luc-2300-ngay-11-12-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/4zp5rzdh7gkq82w/image/small", | Champions League | Berlin Recycling Volleys vs Guaguas
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fberlin-recycling-volleys-vs-guaguas-luc-0130-ngay-12-12-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/l5ergdhol30r8k0/image/small", | Superliga Women | Nữ Jedinstvo vs Nữ Budva
@@ -2438,16 +2446,16 @@ http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnu-s
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnu-barueri-vs-nu-brasilia-volei-luc-0430-ngay-12-12-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/v2y8m4whj6pql07/image/small", | Club World Championship Women | Nữ Osasco vs Nữ Zhetysu
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnu-osasco-vs-nu-zhetysu-luc-0630-ngay-12-12-2025%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/9vjxm8lhgwwq6od/image/small", | SEA Games 2025 | Nữ Việt Nam vs Nữ Indonesia
-http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnu-viet-nam-vs-nu-indonesia-luc-1230-ngay-12-12-2025%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/9vjxm8lhgwwq6od/image/small", | SEA Games 2025 | Nữ Myanmar vs Nữ Malaysia
-http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnu-myanmar-vs-nu-malaysia-luc-1500-ngay-12-12-2025%2F
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/9vjxm8lhgwwq6od/image/small", | SEA Games 2025 | Nữ Malaysia vs Nữ Myanmar
+http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnu-malaysia-vs-nu-myanmar-luc-1230-ngay-12-12-2025%2F
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/9vjxm8lhgwwq6od/image/small", | SEA Games 2025 | Nữ Singapore vs Nữ Philippines
+http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnu-singapore-vs-nu-philippines-luc-1500-ngay-12-12-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/d23xmvzhowyqg8n/image/small", | Volleyball League Women | Nữ AI Peppers vs Nữ Daejeon KGC
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnu-ai-peppers-vs-nu-daejeon-kgc-luc-1700-ngay-12-12-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/kn54qldhe9nrvy9/image/small", | Volleyball League | Rush & Cash vs KAL Jumbos
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Frush-cash-vs-kal-jumbos-luc-1700-ngay-12-12-2025%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/9vjxm8lhgwwq6od/image/small", | SEA Games 2025 | Nữ Singapore vs Nữ Philippines
-http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnu-singapore-vs-nu-philippines-luc-1730-ngay-12-12-2025%2F
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/9vjxm8lhgwwq6od/image/small", | SEA Games 2025 | Nữ Việt Nam vs Nữ Indonesia
+http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnu-viet-nam-vs-nu-indonesia-luc-1730-ngay-12-12-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/9k82redh9yjqepz/image/small", | CVL Women | Nữ Beijing MOTOR vs Nữ Tianjin
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnu-beijing-motor-vs-nu-tianjin-luc-1830-ngay-12-12-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/gx7lm75ho83q2wd/image/small", | Superleague | Zhytychi Zhytomyr vs Epitsentr Podoliani
@@ -2458,6 +2466,8 @@ http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnu-w
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fok-vojvodina-vs-partizan-luc-0000-ngay-13-12-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/pxwrxdhg907myk0/image/small", | TAURON Liga Women | Nữ Chemik Police vs Nữ Radom
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnu-chemik-police-vs-nu-radom-luc-0200-ngay-13-12-2025%2F
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/kdj2rydhyy8r1zp/image/small", | Austria Cup Women | Nữ Bisamberg vs Nữ St. Polten
+http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnu-bisamberg-vs-nu-st-polten-luc-0230-ngay-13-12-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/lol/competition/23xmvxjt3e6rg8n/image/small", | KeSPA Cup 2025 | Dplus KIA vs Hanwha Life Esports
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fdplus-kia-vs-hanwha-life-esports-luc-1500-ngay-12-12-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/dota2/competition/l7oqd9xh441m510/image/small", | Dreamleague S27 | Team Yandex vs OG
@@ -2897,6 +2907,10 @@ http://is.am/62p4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893254555.global.cdnfastest.com/live/693aca375bac5_4089/index.m3u8?expire=1766065335&sign=ab9cc222496fa467e56f4a2170b7371b
+#EXTINF:-1 group-title="⚽ Buncha Live" tvg-logo="https://cdn.rapid-api.icu/football/competition/bfb3eece4eddabc6b15c6206117d952f.png", 🔴 11/12-21:30 | Giải: WAFF Arab Nations Cup | Morocco vs Syria | BLV Gà Nướng Lu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/693ace322f371_44731/index.m3u8?expire=1766066354&sign=1cc28f28900d0c5c74c42f1f3baf9600
 
 # -------- 🔥 Trận Sắp Diễn Ra --------
 #EXTM3U
