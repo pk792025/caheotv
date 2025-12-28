@@ -973,11 +973,7 @@ http://khaitv.giize.com:8090/225.1.4.171:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",Vũng Tàu HD
 http://khaitv.giize.com:8090/225.1.4.172:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",Bắc Kạn HD
-http://khaitv.giize.com:8090/225.1.4.174:30120#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Thai League Cup",28/12 15h00 Lopburi City FC VS Nakhon Ratchasima (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m301nd/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Thai League Cup",28/12 15h00 Uttaradit VS BG Pathum United (CH) SD 1
+http://khaitv.giize.com:8090/225.1.4.174:30120#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Thai League Cup",28/12 15h00 Uttaradit VS BG Pathum United (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://p51i1025.edgemaxcdn.org/live/ngaosd1/playlist.m3u8
@@ -1001,6 +997,10 @@ https://p51i1025.edgemaxcdn.org/live/ngaosd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://p51i1025.edgemaxcdn.org/live/ngaohd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Thai League Cup",28/12 15h00 Lopburi City FC VS Nakhon Ratchasima (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m301nd/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: A-League",28/12 15h00 Melbourne City VS Perth Glory (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -1073,14 +1073,6 @@ https://p51i1025.edgemaxcdn.org/live/duongtiensd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://p51i1025.edgemaxcdn.org/live/duongtienhd1.flv
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Myanmar League 1",28/12 16h00 Silver Stars VS Chinland FC (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m303nd/playlist.m3u8 
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Myanmar League 1",28/12 16h00 Yangon City VS YB United FC (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m302nd/playlist.m3u8 
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Thai League Cup",28/12 16h00 Satun United VS Lamphun Warriors (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -1105,11 +1097,15 @@ https://p51i1025.edgemaxcdn.org/live/hplussd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://p51i1025.edgemaxcdn.org/live/hplussd1.flv
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Thai League Cup",28/12 17h00 Samut Sakhon VS Prachuap Khiri Khan (CH)
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png" Giải Cỏ: Myanmar League 1",28/12 16h00 Yangon City VS YB United FC (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m302nd/playlist.m3u8 
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Thai League Cup",28/12 17h00 Customs ladkrabang United VS Sukhothai (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Thai League Cup",28/12 17h00 Customs ladkrabang United VS Sukhothai (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Hạng Hai Thổ Nhĩ Kỳ",28/12 17h00 Erbaaspor S VS Halide Edip Adivarspor (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -1121,11 +1117,7 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Hạng Hai Thổ Nhĩ Kỳ",28/12 17h00 Erbaaspor S VS Halide Edip Adivarspor (CH)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Hạng nhất Thổ Nhĩ Kỳ",28/12 17h30 Serik Belediyespor VS Boluspor (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Thai League Cup",28/12 17h00 Samut Sakhon VS Prachuap Khiri Khan (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -1133,11 +1125,11 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Hạng 2 Bồ Đào Nha",28/12 18h00 Viseu VS SL Benfica B (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Hạng nhất Thổ Nhĩ Kỳ",28/12 17h30 Serik Belediyespor VS Boluspor (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: VĐQG Campuchia",28/12 18h00 Angkor tiger FC VS Kirivong Sok Sen Chey (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Thai League Cup",28/12 18h00 Mahasarakham United FC VS Rayong FC (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -1153,7 +1145,11 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Thai League Cup",28/12 18h00 Mahasarakham United FC VS Rayong FC (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: VĐQG Campuchia",28/12 18h00 Angkor tiger FC VS Kirivong Sok Sen Chey (CH)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Hạng 2 Bồ Đào Nha",28/12 18h00 Viseu VS SL Benfica B (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -1165,7 +1161,11 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Hạng Hai Thổ Nhĩ Kỳ",28/12 19h00 Inegolspor VS Altinordu (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Hạng Hai Thổ Nhĩ Kỳ",28/12 19h00 Tuzlaspor VS Karaman FK (CH)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Hạng 2 Indonesian",28/12 19h00 Persiba Balikpapan VS Tornado FC Pekanbaru (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -1177,23 +1177,11 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Hạng 2 Indonesian",28/12 19h00 PSS Sleman VS Persipal Palu (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Hạng Hai Thổ Nhĩ Kỳ",28/12 19h00 Erzincanspor VS Elazigspor (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Chinese Hong Kong-Guangdong Cup",28/12 19h00 Hong Kong VS Guangdong (CH)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Hạng Hai Thổ Nhĩ Kỳ",28/12 19h00 Tuzlaspor VS Karaman FK (CH)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Hạng 2 Indonesian",28/12 19h00 Persiba Balikpapan VS Tornado FC Pekanbaru (CH)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Ngoại Hạng Lebanon",28/12 19h00 Racing Beirut VS Riyadi Abbasiya (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Hạng Hai Thổ Nhĩ Kỳ",28/12 19h00 Inegolspor VS Altinordu (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -1205,7 +1193,15 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Hạng Hai Thổ Nhĩ Kỳ",28/12 19h00 Erzincanspor VS Elazigspor (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Hạng 2 Indonesian",28/12 19h00 PSS Sleman VS Persipal Palu (CH)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Chinese Hong Kong-Guangdong Cup",28/12 19h00 Hong Kong VS Guangdong (CH)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Ngoại Hạng Lebanon",28/12 19h00 Racing Beirut VS Riyadi Abbasiya (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -1237,11 +1233,11 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: VĐQG Iran",28/12 20h00 Esteghlal Tehran VS Gol Gohar FC (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Jordan Sh Cup",28/12 20h00 Al-Baq's VS Al-Jazeera (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Jordan Sh Cup",28/12 20h00 Al-Baq's VS Al-Jazeera (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: VĐQG Iran",28/12 20h00 Esteghlal Tehran VS Gol Gohar FC (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -1257,11 +1253,11 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Italian Serie A",28/12 21h00 Cremonese VS Napoli (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Hạng 2 Bồ Đào Nha",28/12 21h00 Pacos de Ferreira VS SC Farense (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Hạng 2 Bồ Đào Nha",28/12 21h00 Pacos de Ferreira VS SC Farense (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Italian Serie A",28/12 21h00 Cremonese VS Napoli (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -1301,19 +1297,15 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Ngoại hạng Bahrain",28/12 23h00 Al-Ahli(BHR) VS Sitra (CH)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Ngoại hạng Bahrain",28/12 23h00 Al Khaldiya VS Al-Budaiya (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Jordan Sh Cup",28/12 23h00 Al Faisaly VS Al Wehdat (CH)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Ngoại hạng Bahrain",28/12 23h00 Al-Muharraq VS Najma Manama (CH)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Ngoại hạng Bahrain",28/12 23h00 Al-Ahli(BHR) VS Sitra (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -1322,6 +1314,10 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Hạng nhất Thổ Nhĩ Kỳ",28/12 23h00 Amedspor VS 76 Igdir Belediye spor (CH)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Jordan Sh Cup",28/12 23h00 Al Faisaly VS Al Wehdat (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -1341,11 +1337,11 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: VĐQG Bồ Đào Nha",29/12 01h00 Sporting Braga VS Benfica (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Albanian Super Cup",29/12 01h00 Egnatia VS KS Dinamo Tirana (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Albanian Super Cup",29/12 01h00 Egnatia VS KS Dinamo Tirana (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: VĐQG Bồ Đào Nha",29/12 01h00 Sporting Braga VS Benfica (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -1381,11 +1377,11 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Hạng 2 Indonesian",29/12 15h30 Garudayaksa VS Persiraja Aceh (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Hạng 2 Indonesian",29/12 15h30 Sumsel United VS FC Bekasi City (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Hạng 2 Indonesian",29/12 15h30 Sumsel United VS FC Bekasi City (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: Hạng 2 Indonesian",29/12 15h30 Garudayaksa VS Persiraja Aceh (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -1413,15 +1409,11 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"CAF Africa Cup of Nations",30/12 02h00 Zambia VS Morocco (CH)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"CAF Africa Cup of Nations",30/12 02h00 Comoros VS Mali (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: England  Championship",30/12 02h45 Oxford United VS Swansea City (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"CAF Africa Cup of Nations",30/12 02h00 Zambia VS Morocco (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -1429,15 +1421,7 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: England  Championship",30/12 02h45 Portsmouth VS Charlton Athletic (CH)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: England  Championship",30/12 02h45 Millwall VS Bristol City (CH)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: England  Championship",30/12 02h45 Norwich City VS Watford (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -1445,11 +1429,19 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: England  Championship",30/12 02h45 Wrexham VS Preston North End (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: England  Championship",30/12 02h45 Portsmouth VS Charlton Athletic (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: England  Championship",30/12 02h45 Sheffield Wednesday VS Blackburn Rovers (CH)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: England  Championship",30/12 02h45 Norwich City VS Watford (CH)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: England  Championship",30/12 02h45 Oxford United VS Swansea City (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -1458,6 +1450,10 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: England  Championship",30/12 02h45 West Bromwich(WBA) VS Queens Park Rangers (QPR) (CH)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: England  Championship",30/12 02h45 Wrexham VS Preston North End (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -1470,6 +1466,10 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: VĐQG Jamaica",30/12 07h30 Arnett Gardens VS Racing United (CH)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png"Giải Cỏ: A-League Women",30/12 15h00 WS Wanderers (w) VS Wellington Phoenix (w) (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -2332,8 +2332,6 @@ https://tbbe0525.edgemaxcdn.org/live/tqtv_blv_palmer/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://sv2.tamquoc.live/
 https://tbbe0525.edgemaxcdn.org/live/tqtv_blv_truongphi/playlist.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/e4wyrn4hdp8q86p/image/small", | Chinese Hong Kong-Guangdong Women's Cup | Nữ Hồng Kông vs Nữ Guangdong
-http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnu-hong-kong-vs-nu-guangdong-luc-1400-ngay-28-12-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlenr510/image/small", | Chinese Hong Kong Division 3 | St. Joseph\'s FC vs Sai Kung Friends
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fst-josephs-fc-vs-sai-kung-friends-luc-1430-ngay-28-12-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9dn1m1ghnv3moep/image/small", | Hạng 2 Hồng Kông | Gospel Friends FC vs Wan Chai
@@ -2358,6 +2356,8 @@ http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fpers
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fpersiku-kudus-vs-deltras-sidoarjo-luc-1530-ngay-28-12-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhzo9ql07/image/small", | Malaysia A1 Semi-Pro League | Seoul Phoenix vs Kedah FA
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fseoul-phoenix-vs-kedah-fa-luc-1545-ngay-28-12-2025%2F
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/j1l4rjnh4o9m7vx/image/small", | MNLW | Nữ MBSJ FC vs Nữ Red Eagles SC
+http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnu-mbsj-fc-vs-nu-red-eagles-sc-luc-1545-ngay-28-12-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/p4jwq2gh4vwm0ve/image/small", | Thai League Cup | PT Satun FC vs Lamphun Warriors
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fpt-satun-fc-vs-lamphun-warriors-luc-1600-ngay-28-12-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kdj2ryohleq1zpg/image/small", | Turkish Women First Football League | Nữ ALG Spor vs Nữ Beylerbeyi
@@ -2374,8 +2374,6 @@ http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Ftoko
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fsamut-sakhon-city-vs-pt-prachuap-fc-luc-1700-ngay-28-12-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/9d23xmv1t4mg8ny/image/small", | Korean Basketball League | Busan KCC Egis vs Ulsan Phoebus
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fbusan-kcc-egis-vs-ulsan-phoebus-luc-1430-ngay-28-12-2025%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/d23xmv1t34mg8ny/image/small", | Women National Basketball League | Nữ Perth Lynx vs Nữ Melbourne Boomers
-http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnu-perth-lynx-vs-nu-melbourne-boomers-luc-1430-ngay-28-12-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/jednm9ktd0zryox/image/small", | China Taipei Professional Basketball League | New Taipei Kings vs Kaohsiung Aquas
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnew-taipei-kings-vs-kaohsiung-aquas-luc-1600-ngay-28-12-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/vl7oqd4t1p5q510/image/small", | China Taipei P League | Yankey Ark vs Tainan TSG GhostHawks
@@ -2412,6 +2410,8 @@ http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fpetk
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Flokomotiv-kuban-vs-avtodor-saratov-luc-2000-ngay-28-12-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/v2y8m4ptx1ml074/image/small", | VTB United League | Uralmash vs Unics Kazan
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Furalmash-vs-unics-kazan-luc-2030-ngay-28-12-2025%2F
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/gy0or5gteeqwzv3/image/small", | Liga Portuguesa de Basquetebol | SC Braga vs Lisboa e Benfica
+http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fsc-braga-vs-lisboa-e-benfica-luc-2200-ngay-28-12-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/tennis/competition/vjxm85f4d6zm6od/image/small", | World Tennis Continental Cup Men Singles | Flavio Cobolli vs Andrey Rublev
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fflavio-cobolli-vs-andrey-rublev-luc-1600-ngay-28-12-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/tennis/competition/x7lm7nfkyxdq2wd/image/small", | Battle of the Sexes | Aryna Sabalenka vs Nick Kyrgios
@@ -2438,8 +2438,6 @@ http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fwang
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fjiang-zhenbang-wei-yaxin-vs-cheng-xing-li-qian-luc-1930-ngay-28-12-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/badminton/competition/n54qllys2gnlqvy/image/small", | China Badminton Super League, Mixed Doubles | Xie Haonan vs Zhu Yi Jun
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fxie-haonan-liu-shengshu-vs-zhu-yi-jun-huang-ke-xin-luc-1930-ngay-28-12-2025%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/d23xmvzhowyqg8n/image/small", | Volleyball League Women | Nữ IBK vs Nữ Daejeon KGC
-http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnu-ibk-vs-nu-daejeon-kgc-luc-1400-ngay-28-12-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/8y39mpwh5joqojx/image/small", | CVL | Beijing BAIC vs Guangdong Glorious
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fbeijing-baic-vs-guangdong-glorious-luc-1530-ngay-28-12-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/4wyrn3h854zm86p/image/small", | SV.League | Voreas Hokkaido vs Toray Arrows
@@ -2450,10 +2448,10 @@ http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnu-r
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fyaroslavl-vs-novosibirsk-luc-2100-ngay-28-12-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/pxwrxdhg907myk0/image/small", | TAURON Liga Women | Nữ LKS Lodz vs Nữ Opole
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnu-lks-lodz-vs-nu-opole-luc-2300-ngay-28-12-2025%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/pxwrxdhg907myk0/image/small", | TAURON Liga Women | Nữ Mielec vs Nữ Budowlani Lodz
-http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnu-mielec-vs-nu-budowlani-lodz-luc-2330-ngay-28-12-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/yl5ergdh35or8k0/image/small", | PlusLiga | Kedzierzyn-Kozle vs Belchatow
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fkedzierzyn-kozle-vs-belchatow-luc-2330-ngay-28-12-2025%2F
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/pxwrxdhg907myk0/image/small", | TAURON Liga Women | Nữ Mielec vs Nữ Budowlani Lodz
+http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnu-mielec-vs-nu-budowlani-lodz-luc-2330-ngay-28-12-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/yl5ergdh35or8k0/image/small", | PlusLiga | Cuprum vs Rzeszow
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fcuprum-vs-rzeszow-luc-2330-ngay-28-12-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/e4wyrn3he7zm86p/image/small", | LNSV Women | Nữ Circolo vs Nữ Wanka
@@ -2478,6 +2476,8 @@ http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fsavo
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fguaguas-vs-cdv-rio-duero-luc-0200-ngay-30-12-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/9vjxm8lhgxpq6od/image/small", | Coppa Italia A1 | Trentino vs Mint Vero Volley Monza
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Ftrentino-vs-mint-vero-volley-monza-luc-0230-ngay-30-12-2025%2F
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/4wyrn3h8d1vm86p/image/small", | Campeonato Nacional | Clube K vs Benfica
+http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fclube-k-vs-benfica-luc-0400-ngay-30-12-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/lol/competition/965mk6zt7jxq1ge/image/small", | Demacia Cup 2025 | Oh My God vs LNG Esports
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Foh-my-god-vs-lng-esports-luc-1600-ngay-28-12-2025%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://imgts.sportpulseapiz.com/lol/competition/965mk6zt7jxq1ge/image/small", | Demacia Cup 2025 | Anyones Legend vs LGD Gaming
